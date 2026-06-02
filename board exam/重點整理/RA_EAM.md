@@ -234,3 +234,87 @@ Atlanto-axial instability    ── 10 秒
 ## 結尾一句話
 
 > 「RA 的關節外表現是系統性發炎的延伸，控制好關節炎本身——尤其是達到 treat-to-target——是預防大多數關節外表現、改善長期存活最有效的策略。」
+
+---
+
+## 補充：Atlantoaxial（AA）Subluxation 完整定義
+
+### 解剖基礎
+
+- **C1（Atlas）** 與 **C2（Axis）** 之間無椎間盤，靠韌帶維持穩定
+- 主要穩定結構：**Transverse ligament**（最重要）+ alar ligament + apical ligament
+- RA 滑膜炎侵蝕 C1-C2 synovial joint → 韌帶破壞 → 不穩定
+
+---
+
+### 三種類型（Kelly Ch.72）
+
+| 類型 | 方向 | 發生率 |
+|---|---|---|
+| **Anterior subluxation**（最常見）| C1 向前滑移於 C2 | ~27% |
+| **Vertical subluxation**（Cranial settling）| C1 垂直下沉，dens 向上穿入枕骨大孔 | ~11% |
+| Posterior / Lateral / Rotary subluxation | 較少見 | 0.1–0.7% |
+
+---
+
+### 影像學定義
+
+#### 1. Anterior AA Subluxation
+**Atlantodental Interval（ADI）**
+= 正側位 X-ray 上，**C1 前弓後緣** 到 **dens 前緣** 的距離
+
+| 數值 | 意義 |
+|---|---|
+| ≤ **3 mm**（成人）| 正常 |
+| **3–6 mm** | 輕度，transverse ligament 受損 |
+| **6–10 mm** | 中度，alar ligament 亦受損 |
+| **> 10 mm** | 嚴重，幾乎所有穩定韌帶均斷裂，脊髓壓迫高風險 |
+
+> ⚠️ RA 患者因長期慢性侵蝕，即使 ADI 不大也可能有脊髓症狀
+
+#### 2. Space Available for the Cord（SAC）
+= **dens 後緣** 到 **C1 後弓前緣** 的距離（更直接反映脊髓空間）
+
+| 數值 | 意義 |
+|---|---|
+| ≥ **14 mm** | 通常無脊髓症狀 |
+| **< 14 mm** | 脊髓壓迫風險增加 |
+| **< 10 mm** | 幾乎必然有脊髓病變 |
+
+> SAC 比 ADI 更能反映**實際脊髓受壓程度**，是手術決策的重要依據
+
+#### 3. Vertical Subluxation（Cranial Settling）
+**McGregor's Line**：硬顎到枕骨下緣（opisthion）的連線
+
+- Dens 超過 McGregor's line **> 4.5 mm** → 異常
+- 嚴重時 dens 穿入枕骨大孔 → 壓迫腦幹
+
+---
+
+### 臨床表現（對應嚴重程度）
+
+| 嚴重度 | 表現 |
+|---|---|
+| 早期 | **枕部疼痛**（最早症狀，C2 nerve root 受刺激）|
+| 中度 | Slowly progressive **spastic quadriparesis** + 手部痛覺喪失 |
+| 重度 | 短暫性腦幹 / 延髓功能障礙（vertical subluxation → 椎動脈壓迫）→ 頸部活動時上肢感覺異常 |
+| 脊髓受壓確認 | 括約肌失禁、意識改變 → **1 年死亡率約 50%** |
+
+> ⚠️ Kelly 特別強調：**神經症狀與 C1-C2 subluxation 程度往往不成比例**，影像輕微但可能有嚴重神經症狀
+
+---
+
+### 臨床重要提醒
+
+| 情境 | 重點 |
+|---|---|
+| **術前評估** | RA 患者全麻插管前**必須**評估頸椎（側位 X-ray 或 MRI）|
+| **外傷 / 摔倒** | 風險急遽升高，需緊急評估 |
+| **診斷影像** | 側位 X-ray 屈曲位（先排除 fracture 或 high-grade subluxation 再做）；MRI 最準確 |
+| **治療** | 無症狀者觀察；有症狀或 SAC < 14mm 者考慮 **C1-C2 fusion**；手術後神經惡化風險約 6% |
+
+---
+
+### 一句話總結
+
+> AA subluxation 最常以 **ADI > 3mm**（X-ray 側位）定義前向滑移，但更重要的是 **SAC < 14mm** 反映真正的脊髓壓迫風險；RA 患者所有手術前必須評估，因韌帶慢性破壞使風險特別高。
