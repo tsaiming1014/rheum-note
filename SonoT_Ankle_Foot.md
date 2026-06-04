@@ -3,11 +3,17 @@
 ## 範本 — 基本結構（Bilateral Ankles）
 
 \>MSUS of the bilateral ankles was performed.
+
 \>Bilateral tibiotalar joint: fluid accumulation(-), synovial hypertrophy(-), increased Doppler signal(-)
+
 \>Bilateral talonavicular joint: fluid accumulation(-), synovial hypertrophy(-), increased Doppler signal(-)
+
 \>Intact bilateral AITFL and ATFL
+
 \>Bilateral 1st MTP: fluid accumulation(+), synovial hypertrophy(+/-), increased Doppler signal(-)
+
 \>No cobblestone appearance or significantly increased Doppler signals over the subcutaneous tissue of the calf
+
 \>Recommend clinical correlation.
 
 ---
