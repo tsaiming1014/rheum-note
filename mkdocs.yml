@@ -1,20 +1,6 @@
-﻿site_name: 風濕免疫筆記
+site_name: 風濕免疫筆記
 site_url: https://tsaiming1014.github.io/rheum-note/
 docs_dir: .
-
-exclude_docs: |
-  CLAUDE.md
-  *.py
-  *.txt
-  *.bat
-  *.ps1
-  *.pdf
-  *.docx
-  auto-push.ps1
-  watchpath.txt
-  extract_docx.py
-  raw_all.txt
-  Non-autopush/**
 
 theme:
   name: material
@@ -39,58 +25,54 @@ theme:
     - navigation.top
     - search.suggest
     - search.highlight
-    - content.code.copy
 
 plugins:
-  - search:
-      lang:
-        - zh
-        - en
+  - search
 
 nav:
   - 首頁: index.md
   - 風專考試:
     - 重點整理:
-      - AAV - ANCA 致病機轉: board exam/重點整理/AAV_ANCA致病機轉.md
-      - AAV - ANCA 陰性診斷: board exam/重點整理/AAV_ANCA陰性的診斷.md
-      - AAV - EGPA 機轉: board exam/重點整理/AAV_EGPA機轉深探.md
-      - AAV - 三大疾病比較: board exam/重點整理/AAV_三大疾病完整比較.md
-      - AS - 致病機轉: board exam/重點整理/AS_致病機轉.md
-      - Gout - 致病機轉: board exam/重點整理/Gout_致病機轉.md
-      - IIM - Myositis 致病機轉: board exam/重點整理/IIM_Myositis致病機轉完整解析.md
-      - NETosis 與 LDG: board exam/重點整理/NETosis與LDG.md
-      - RA - ACPA 致病機轉: board exam/重點整理/RA_ACPA_致病機轉.md
-      - RA - Disease Activity & T2T: board exam/重點整理/RA_disease_activity_measures_T2T.md
-      - RA - EAM: board exam/重點整理/RA_EAM.md
-      - RA - 口試回答: board exam/重點整理/RA_口試回答.md
-      - RA - 致病機轉: board exam/重點整理/RA_致病機轉.md
-      - RA - 致病演進路徑: board exam/重點整理/RA_致病演進路徑_基因環境微生物.md
-      - RA 口試練習框架: board exam/重點整理/RA口試練習框架_風專口試3.md
-      - SjD - 診斷: board exam/重點整理/SjD_Dx.md
-      - SjD - 致病機轉: board exam/重點整理/SjD_致病機轉.md
-      - SLE - Libman-Sacks: board exam/重點整理/SLE_Libman-Sacks_Endocarditis.md
-      - SLE - 光敏感性: board exam/重點整理/SLE_光敏感性_UV機轉.md
-      - SLE - 病生理機轉: board exam/重點整理/SLE_病生理機轉_DAMP_PAMP.md
-      - SLE - 致病機轉: board exam/重點整理/SLE_致病機轉.md
-      - SSc - 致病機轉: board exam/重點整理/SSc_致病機轉.md
-      - 補體在風濕疾病的意義: board exam/重點整理/補體在風濕免疫疾病的意義_Kelly Ch26.md
-      - NSAIDs 口試完整答案: board exam/重點整理/謝松洲_NSAIDs口試完整答案.md
-      - 風專歷屆考題整理: board exam/重點整理/風專歷屆考題整理（2019–2024）.md
-      - 風專筆試統計分析: board exam/重點整理/風專筆試2019-2024完整統計分析.md
-      - 風專筆試複習30題: board exam/重點整理/風專筆試複習30題_20260513.md
+      - AAV - ANCA 致病機轉: "board exam/重點整理/AAV_ANCA致病機轉.md"
+      - AAV - ANCA 陰性診斷: "board exam/重點整理/AAV_ANCA陰性的診斷.md"
+      - AAV - EGPA 機轉: "board exam/重點整理/AAV_EGPA機轉深探.md"
+      - AAV - 三大疾病比較: "board exam/重點整理/AAV_三大疾病完整比較.md"
+      - AS - 致病機轉: "board exam/重點整理/AS_致病機轉.md"
+      - Gout - 致病機轉: "board exam/重點整理/Gout_致病機轉.md"
+      - IIM - Myositis 致病機轉: "board exam/重點整理/IIM_Myositis致病機轉完整解析.md"
+      - NETosis 與 LDG: "board exam/重點整理/NETosis與LDG.md"
+      - RA - ACPA 致病機轉: "board exam/重點整理/RA_ACPA_致病機轉.md"
+      - RA - Disease Activity & T2T: "board exam/重點整理/RA_disease_activity_measures_T2T.md"
+      - RA - EAM: "board exam/重點整理/RA_EAM.md"
+      - RA - 口試回答: "board exam/重點整理/RA_口試回答.md"
+      - RA - 致病機轉: "board exam/重點整理/RA_致病機轉.md"
+      - RA - 致病演進路徑: "board exam/重點整理/RA_致病演進路徑_基因環境微生物.md"
+      - RA 口試練習框架: "board exam/重點整理/RA口試練習框架_風專口試3.md"
+      - SjD - 診斷: "board exam/重點整理/SjD_Dx.md"
+      - SjD - 致病機轉: "board exam/重點整理/SjD_致病機轉.md"
+      - SLE - Libman-Sacks: "board exam/重點整理/SLE_Libman-Sacks_Endocarditis.md"
+      - SLE - 光敏感性: "board exam/重點整理/SLE_光敏感性_UV機轉.md"
+      - SLE - 病生理機轉: "board exam/重點整理/SLE_病生理機轉_DAMP_PAMP.md"
+      - SLE - 致病機轉: "board exam/重點整理/SLE_致病機轉.md"
+      - SSc - 致病機轉: "board exam/重點整理/SSc_致病機轉.md"
+      - 補體在風濕疾病的意義: "board exam/重點整理/補體在風濕免疫疾病的意義_Kelly Ch26.md"
+      - NSAIDs 口試完整答案: "board exam/重點整理/謝松洲_NSAIDs口試完整答案.md"
+      - 風專歷屆考題整理: "board exam/重點整理/風專歷屆考題整理（2019–2024）.md"
+      - 風專筆試統計分析: "board exam/重點整理/風專筆試2019-2024完整統計分析.md"
+      - 風專筆試複習30題: "board exam/重點整理/風專筆試複習30題_20260513.md"
     - 歷屆考題:
-      - 2019 筆試+口試: board exam/風專歷屆考題/2019風濕筆試+口試.md
-      - 2020 筆試+口試: board exam/風專歷屆考題/2020風專筆試+口試.md
-      - 2021 筆試+口試: board exam/風專歷屆考題/2021風專筆試+口試.md
-      - 2022 筆試+口試: board exam/風專歷屆考題/2022風濕筆試+口試.md
-      - 2023 筆試+口試: board exam/風專歷屆考題/2023風專筆試+口試.md
-      - 2024 筆試口試: board exam/風專歷屆考題/2024風專筆試口試.md
+      - 2019 筆試+口試: "board exam/風專歷屆考題/2019風濕筆試+口試.md"
+      - 2020 筆試+口試: "board exam/風專歷屆考題/2020風專筆試+口試.md"
+      - 2021 筆試+口試: "board exam/風專歷屆考題/2021風專筆試+口試.md"
+      - 2022 筆試+口試: "board exam/風專歷屆考題/2022風濕筆試+口試.md"
+      - 2023 筆試+口試: "board exam/風專歷屆考題/2023風專筆試+口試.md"
+      - 2024 筆試口試: "board exam/風專歷屆考題/2024風專筆試口試.md"
     - 考試資料:
-      - ANA 型態判讀指引: board exam/專科考試資料/ANA型態判讀指引.md
+      - ANA 型態判讀指引: "board exam/專科考試資料/ANA型態判讀指引.md"
   - MSK Ultrasound:
-    - Ankle & Foot: MSK ultrasound/SonoT_Ankle_Foot.md
-    - Elbow: MSK ultrasound/SonoT_Elbow.md
-    - Hand & Wrist: MSK ultrasound/SonoT_Hand_Wrist.md
-    - Knee: MSK ultrasound/SonoT_Knee.md
-    - Salivary Gland: MSK ultrasound/SonoT_Salivary_Gland.md
-    - Shoulder: MSK ultrasound/SonoT_Shoulder.md
+    - Ankle & Foot: "MSK ultrasound/SonoT_Ankle_Foot.md"
+    - Elbow: "MSK ultrasound/SonoT_Elbow.md"
+    - Hand & Wrist: "MSK ultrasound/SonoT_Hand_Wrist.md"
+    - Knee: "MSK ultrasound/SonoT_Knee.md"
+    - Salivary Gland: "MSK ultrasound/SonoT_Salivary_Gland.md"
+    - Shoulder: "MSK ultrasound/SonoT_Shoulder.md"
