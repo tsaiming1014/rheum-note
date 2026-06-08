@@ -1,0 +1,8 @@
+/* 加寬內容區 */
+.md-grid {
+  max-width: 1600px;
+}
+
+.md-content {
+  max-width: none;
+}
