@@ -21,7 +21,14 @@ jobs:
           python-version: '3.x'
 
       - name: Install dependencies
-        run: pip install mkdocs-material
+        run: pip install mkdocs-material==9.5.50
+
+      - name: Prepare docs folder
+        run: |
+          mkdir -p docs
+          cp index.md docs/index.md
+          cp -r "board exam" docs/
+          cp -r "MSK ultrasound" docs/
 
       - name: Deploy
         run: mkdocs gh-deploy --force
