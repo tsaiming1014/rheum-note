@@ -26,6 +26,12 @@ theme:
     - search.suggest
     - search.highlight
 
+extra_css:
+  - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/extra.js
+
 plugins:
   - search
 
