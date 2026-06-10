@@ -1,4 +1,4 @@
-# SLE 致病機轉整理（Kelly Ch80-81）
+﻿# SLE 致病機轉整理（Kelly Ch80-81）
 
 ---
 
@@ -296,6 +296,7 @@
 | **VI** | Advanced Sclerotic | >90% 全球性硬化 | — | 腎功能衰竭 | 最差（ESKD）|
 
 > Class IV-S vs IV-G：
+>
 > - IV-S = 各腎絲球中 <50% 小葉受累（segmental）
 > - IV-G = 各腎絲球中 ≥50% 小葉受累（global）
 
