@@ -1,4 +1,4 @@
-# Gout 致病機轉完整筆記（Kelly Ch96）
+﻿# Gout 致病機轉完整筆記（Kelly Ch96）
 
 ---
 
@@ -52,12 +52,14 @@ Uric acid   ← 人類終產物（缺少 uricase）
 ### 腎臟尿酸處理機轉
 
 **近端小管 – 再吸收（促進高尿酸）：**
+
 - **URAT1**（SLC22A12）：最重要；以 Cl⁻/有機酸（lactate, pyrazinoate）為 counterion 將尿酸從管腔移入細胞
 - OAT4（SLC22A11）
 - OAT10（SLC22A13）：以 lactate, nicotinate 為 counterion
 - GLUT9（SLC2A9）：將尿酸從細胞移至間質（basolateral）
 
 **近端小管 – 分泌（促進排泄）：**
+
 - ABCG2（apical，ATP-dependent）：腸道亦有 → loss-of-function → 腸道 + 腎臟雙重排泄障礙
 - NPT1、NPT4（Na⁺ cotransporter）
 - MRP4（ABCC4，ATP-dependent）
@@ -121,6 +123,7 @@ Neutrophil 從血液遷移 → 進入關節腔
 | **下游** | 提供 inflammasome 作用的底物 | Caspase-1 切割 pro-IL-1β → **active IL-1β** |
 
 **NLRP3 活化機轉（Signal 2 細節）：**
+
 - 吞噬後 phagolysosome 破裂 → MSU 晶體進入 cytosol
 - **K⁺ efflux**（低 K⁺ 直接活化 NLRP3）
 - **NADPH oxidase 活化 → ROS 生成**
@@ -128,10 +131,12 @@ Neutrophil 從血液遷移 → 進入關節腔
 - 三條路徑可能協同作用
 
 **NLRP3 Inflammasome 組成：**
+
 - NLRP3（sensor）+ ASC（adaptor）+ Caspase-1（protease）
 - Caspase-1 同時活化 **gasdermin D** → 穿孔 → IL-1β 分泌 + **pyroptosis**
 
 **IL-1β 的中心角色：**
+
 - → 自分泌/旁分泌 → 二級分泌 TNF、IL-6
 - → 血管內皮活化 → 白血球浸潤
 - IL-1β 拮抗劑（anakinra、canakinumab）可有效控制痛風 flare

@@ -1,4 +1,4 @@
-# 謝松洲醫師 NSAIDs 口試三題完整答案
+﻿# 謝松洲醫師 NSAIDs 口試三題完整答案
 
 ---
 
@@ -7,19 +7,23 @@
 ### 風濕科主要適應症
 
 **1. SpA 系列（最重要）**
+
 - Axial SpA / AS：**首選藥物**，有症狀即應使用，且持續規律使用（continuous vs. on-demand）在 AS 有證據可延緩影像學進展
 - PsA：周邊關節炎的輔助治療
 - Reactive arthritis、Enteropathic arthritis：症狀控制
 
 **2. 晶體性關節炎**
+
 - Acute gouty arthritis：急性發作第一線（與 colchicine 並列）
 - CPPD 急性發作
 
 **3. 骨關節炎（OA）**
+
 - 中度以上疼痛、局部治療不足時使用
 - 短期、最低有效劑量原則
 
 **4. 其他**
+
 - RA：作為 bridge therapy 或輔助症狀控制，不能改變病程
 - 軟組織風濕病（肌腱炎、滑囊炎）
 

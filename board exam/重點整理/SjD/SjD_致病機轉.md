@@ -1,4 +1,4 @@
-# Sjögren's Syndrome：致病機轉完整解析
+﻿# Sjögren's Syndrome：致病機轉完整解析
 
 ## 一、核心概念
 
@@ -11,14 +11,17 @@ Sjögren's syndrome 是一個 **autoimmune epithelitis**（自體免疫上皮炎
 ### （一）易感因素
 
 **遺傳背景**
+
 - 最強遺傳風險：**HLA class II alleles**（DRB1\*03:01、DQA1\*05:01、DQB1\*02:01）
 - 與 anti-Ro/SS-A、anti-La/SS-B 抗體陽性高度相關
 - 非 HLA 風險基因（GWAS）：IRF5、STAT4（type I IFN 路徑）、BLK、EBF1（B cell 發育）
 
 **表觀遺傳**
+
 - Naive CD4+ T cells 及 B cells 的 IFN 相關基因 → **hypomethylation** → 促發炎基因過度表現
 
 **環境觸發**
+
 - **EBV** 最受關注：腺體內可偵測到 EBV 基因組；anti-Ro/SS-A 陽性者對 EBV early antigen 抗體陽性率更高
 - Sjögren's 顯著的 **type I IFN signature** 間接支持病毒觸發假說
 
@@ -50,16 +53,19 @@ Sjögren's syndrome 是一個 **autoimmune epithelitis**（自體免疫上皮炎
 ### （四）適應性免疫
 
 **T cells**
+
 - 浸潤以 **CD4+ memory T cells（CD45RO+）** 為主，TCR repertoire 受限
 - 主導細胞激素：**Th1（IFN-γ、IL-2）** 和 **Th17（IL-17）**
 - FoxP3+ Treg cells 存在，但抑制功能不確定
 
 **B cells 與 BAFF**
+
 - **BAFF** 由 pDC、macrophage、T cells、B cells、上皮細胞共同產生
 - Type I IFN → 誘導 BAFF → **連結先天與適應性免疫的樞紐**
 - 高濃度 BAFF 使 B cells 逃脫自我耐受、持續活化、產生自體抗體
 
 **Ectopic Germinal Center（GC）——疾病升級的標誌**
+
 - LT-α/β + CXCL13 → 腺體內形成有組織的 ectopic GC
 - 具備完整 GC 功能：Ki-67+ 增殖細胞、CD21/CD35+ follicular DC network、CD31+ HEV
 - Anti-Ro/SS-A 在此局部產生；亦是 **MALT lymphoma** 的發源地
@@ -69,10 +75,12 @@ Sjögren's syndrome 是一個 **autoimmune epithelitis**（自體免疫上皮炎
 ### （五）腺體功能喪失：兩種機轉
 
 **Model A：免疫破壞（Immune-destructive）**
+
 - 免疫攻擊 → Fas/FasL、Bax 上調 → acinar cell apoptosis → 纖維化
 - 弱點：臨床觀察中 apoptosis 並不常見，無法解釋「形態尚存但功能喪失」
 
 **Model B：免疫抑制（Immune-inhibited）**
+
 - **Anti-M3R 抗體** → 阻斷乙醯膽鹼受體 → 分泌訊號中斷
 - **AQP5（aquaporin 5）** 表現下調 → 水分無法通過頂端細胞膜
 - Ca²⁺ signaling 缺損、粒線體功能失調

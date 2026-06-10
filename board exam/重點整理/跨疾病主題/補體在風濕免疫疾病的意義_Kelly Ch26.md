@@ -1,4 +1,4 @@
-# 補體（Complement）在風濕免疫疾病的臨床意義
+﻿# 補體（Complement）在風濕免疫疾病的臨床意義
 > 來源：Kelly's Textbook of Rheumatology, Ch. 26 — Complement System
 
 ---
@@ -32,6 +32,7 @@
 ### 低補體（Hypocomplementemia）= C3↓、C4↓、CH50↓
 
 **機制：消耗 > 合成**（secondary/acquired deficiency）
+
 - 免疫複合物大量活化補體 → 補體被消耗
 
 **臨床意義：低補體 = 疾病活躍的訊號**

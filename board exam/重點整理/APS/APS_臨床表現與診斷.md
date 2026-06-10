@@ -19,10 +19,12 @@ CAPS（多器官血栓，數天內發生）
 ### 1. 大血管血栓（Macrovascular）
 
 **靜脈**
+
 - **DVT + PE** 最常見
 - 不尋常位置：Budd-Chiari syndrome、矢狀竇血栓（sagittal sinus）、上肢靜脈
 
 **動脈**
+
 - **Stroke** 最常見（尤其年輕患者）
 - 特徵：反覆發作、不尋常位置、發生在年輕人
 - 腎動脈血栓 → 嚴重高血壓
@@ -55,6 +57,7 @@ CAPS（多器官血栓，數天內發生）
 | 意義 | 生理性血管收縮，**非病理** | 真正的微血管栓塞，**病理性** |
 
 **記憶方式**：
+
 - Reticularis → 完整網格 → 冷縮熱張，加溫消失 → 生理
 - Racemosa → 破碎弧形 → 血管已受損，不可逆 → APS、SLE、Sneddon syndrome
 
@@ -95,6 +98,7 @@ CAPS（多器官血栓，數天內發生）
 - 急性腎上腺功能不全 = CAPS 的高度提示表現
 
 **CAPS 鑑別診斷**：
+
 - Sepsis + DIC
 - TTP / HUS
 - Heparin-induced thrombocytopenia（HIT）
@@ -185,6 +189,7 @@ CAPS（多器官血栓，數天內發生）
 
 **Definite CAPS**：符合全部 4 項  
 **Probable CAPS**：
+
 - 符合 2–4 項且僅 2 器官受累
 - 符合 1–3 項但患者早死無法等待 6 週確認
 - 符合 1、2、4 項

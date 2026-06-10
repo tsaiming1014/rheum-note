@@ -1,4 +1,4 @@
-# Axial SpA（AS）致病機轉 — 完整整理與口試攻略
+﻿# Axial SpA（AS）致病機轉 — 完整整理與口試攻略
 *參考：Kelly's Textbook of Rheumatology, 12th edition, Chapter 76*
 
 ---
@@ -134,6 +134,7 @@ Kelly 原文的表述非常謹慎：
 > "It had been **postulated** that TNF inhibition releases Wnt pathway-driven bone formation as it reduces expression of the Wnt inhibitor DKK1. **However**, this would be expected to lead to **accelerated ankylosis** in TNF inhibitor-treated patients, when in fact **the converse appears to be the case**. This may reflect the suppressive effect of TNF inhibition on disease activity in **early stages** of inflammation **prior to** activation of bone-forming pathways."
 
 **重點解讀：**
+
 - 曾有人假設：anti-TNF → DKK-1 降低 → Wnt 反彈 → 骨化加速
 - 但臨床上觀察到的是 **anti-TNF 反而減緩骨化**
 - Kelly 的解釋：anti-TNF 在骨化路徑被活化**之前**就已壓制早期發炎，所以整體效果是延緩骨化

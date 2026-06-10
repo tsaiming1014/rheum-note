@@ -11,16 +11,19 @@
 ### 每個疾病只記三個招牌表現
 
 **GPA：鼻 × 眼 × 肺結節**
+
 - Saddle-nose deformity（鼻塌了）
 - Orbital pseudotumor（眼球突出，50% 失明）
 - 空洞性肺結節（Cavitary nodule）
 
 **MPA：腎 × 纖維化肺 × 延遲診斷**
+
 - RPGN（急速腎衰竭）
 - Pulmonary fibrosis（ILD）← GPA 反而少見
 - 診斷時腎已很爛（缺乏早期 ENT 症狀提醒）
 
 **EGPA：氣喘 × 心肌炎 × 多發性單神經炎**
+
 - Asthma（near 100%）
 - Eosinophilic myocarditis（ANCA 陰性者多）
 - Mononeuritis multiplex（區別 HES 的關鍵）

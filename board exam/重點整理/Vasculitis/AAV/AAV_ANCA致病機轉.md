@@ -116,6 +116,7 @@ PR3 亦具有促炎功能：切割 membrane-bound TNF-α 和 IL-1β 的前驅蛋
 ### 六、NETs 的雙重角色
 
 **直接損傷面：**
+
 - NETs 含 MPO、PR3、elastase，直接腐蝕血管壁
 - NETs 促進 tissue factor 表現 → 活化凝血因子和血小板 → **促血栓形成**（AAV 靜脈血栓風險增加的機制之一）
 
@@ -135,6 +136,7 @@ B cell 活化 → 產生更多 ANCA
 ### 七、補體 C5a 的放大迴路
 
 **Mouse model 關鍵證據（Kelly Ch.90）**：
+
 - 將 anti-MPO 抗體轉移至正常小鼠 → 產生 pauci-immune GN
 - 若無 **C5a receptor（C5aR）** → GN 不發生
 - 結論：C5a/C5aR 軸是 ANCA 致病的**必要條件**，而非單純附屬角色
@@ -200,6 +202,7 @@ EGPA 特殊性：**Th2 和 Th17 反應**均參與，驅動嗜酸球活化（IL-5
               ┌────────────┴────────────┐
               ↓                         ↓
         直接血管損傷               ANCA 惡性循環放大
+
         + 促血栓                  （DC → B cell → 更多ANCA）
               └────────────┬────────────┘
                            ↓

@@ -71,6 +71,7 @@
 ## 四、ACR20/50/70（補充對照）
 
 **性質：Response criterion，不是 disease activity measure**
+
 - 測量「相對於 baseline 的改變」，而非「當下所在位置」
 - 無法定義 remission/LDA threshold → **不適合 T2T**
 - 主要用途：臨床試驗（FDA 核准藥物用）

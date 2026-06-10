@@ -67,6 +67,7 @@ Kelly：
 → 鼻腔切片診斷率很低，最好做**肺部切除性活檢（excisional biopsy）**。
 
 **支持臨床線索**（ANCA 陰性時更重要）：
+
 - 破壞性上呼吸道病變（saddle-nose, septal perforation）
 - 空洞性肺結節
 - Pauci-immune GN（腎臟切片）
