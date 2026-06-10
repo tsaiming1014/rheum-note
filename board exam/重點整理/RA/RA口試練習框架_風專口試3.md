@@ -1,4 +1,4 @@
-# RA 口試練習框架 — 風專口試3（陳得源）
+﻿# RA 口試練習框架 — 風專口試3（陳得源）
 
 > 使用方式：不看筆記，照每題的**說話結構**說出來。說完再對照補充重點。
 
@@ -24,6 +24,7 @@
 > - **感染**：免疫抑制 + 疾病本身都增加風險
 
 **考官可能追問：**
+
 - 哪個共病死亡率影響最大？→ **CAD**（佔 RA 過早死亡約 50%）
 - Felty syndrome 三個特徵？→ RA + Splenomegaly + Neutropenia
 
@@ -101,6 +102,7 @@
 | 高度 | > 20% | > 3% | 極可能需要治療 |
 
 **考官可能追問：**
+
 - 治療選項？→ Ca + Vit D、Bisphosphonate（第一線）、Denosumab（RANKL 抑制劑，RA 雙重效果）、Teriparatide（重症）
 - GIOP 怎麼定義？→ Prednisone ≥7.5 mg/day × ≥3 個月 → 建議 Bisphosphonate
 
@@ -133,6 +135,7 @@
 > - 症狀監測（喘、咳嗽）
 
 **考官可能追問：**
+
 - 治療？→ Nintedanib（抗纖維化，已核准 RA-ILD）、Mycophenolate/Azathioprine（NSIP pattern）、避免 MTX
 
 ---
