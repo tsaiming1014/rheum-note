@@ -1,4 +1,4 @@
-# APS 臨床表現與診斷 Criteria
+﻿# APS 臨床表現與診斷 Criteria
 
 ## 一、臨床表現
 
@@ -211,6 +211,7 @@ CAPS（多器官血栓，數天內發生）
 ### Seronegative APS
 
 少數患者臨床表現典型但 criteria aPL 全陰 → 可考慮 non-criteria aPL：
+
 - Anti-Domain I aβ₂GPI
 - aPS/PT（anti-phosphatidylserine/prothrombin）
 - IgA isotypes

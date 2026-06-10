@@ -1,4 +1,4 @@
-# Libman-Sacks Endocarditis（LSE）── SLE 的心臟瓣膜病變
+﻿# Libman-Sacks Endocarditis（LSE）── SLE 的心臟瓣膜病變
 
 > 參考：Kelly's Textbook of Rheumatology
 
@@ -37,6 +37,7 @@
 | 時機 | 懷疑 LSE 或栓塞事件 | 初始篩查 |
 
 LSE 的 echo 特徵：
+
 - 瓣膜**中至尖端**的不規則回音增強（irregular echodensity）
 - 贅生物多在瓣膜的**心房面或心室面**，而非接合線
 - 瓣膜功能不全（regurgitation > stenosis）

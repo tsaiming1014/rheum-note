@@ -1,4 +1,4 @@
-# RA 疾病活躍度評估工具與 Treat-to-Target 重點整理
+﻿# RA 疾病活躍度評估工具與 Treat-to-Target 重點整理
 
 > 來源：Kelly's Textbook of Rheumatology, Ch033 & Ch073
 
@@ -118,6 +118,7 @@
 ### Boolean Remission 定義（ACR/EULAR 2.0）
 
 任一時間點，以下**全部**滿足：
+
 - Tender joint count ≤ 1
 - Swollen joint count ≤ 1
 - CRP ≤ 1 mg/dL

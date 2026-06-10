@@ -1,4 +1,4 @@
-# ANCA 陰性時還可以診斷 GPA、MPA、EGPA 嗎？
+﻿# ANCA 陰性時還可以診斷 GPA、MPA、EGPA 嗎？
 
 ## 一、先給答案：**可以，三個疾病都可以**
 
@@ -81,6 +81,7 @@ MPA 是三者中 ANCA 陰性**最難診斷**的：
 - 幾乎全靠 ANCA 或切片確診
 
 切片需看到：
+
 - **Pauci-immune necrotizing vasculitis**
 - 免疫螢光：幾乎沒有 IgG／補體沉積（排除 immune complex vasculitis）
 
