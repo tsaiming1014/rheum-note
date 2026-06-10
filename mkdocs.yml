@@ -1,6 +1,6 @@
 site_name: 風濕免疫筆記
 site_url: https://tsaiming1014.github.io/rheum-note/
-docs_dir: docs
+docs_dir: board exam/重點整理
 
 theme:
   name: material
