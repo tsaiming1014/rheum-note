@@ -297,6 +297,7 @@
 
 > Class IV-S vs IV-G：
 >
+>
 > - IV-S = 各腎絲球中 <50% 小葉受累（segmental）
 > - IV-G = 各腎絲球中 ≥50% 小葉受累（global）
 

@@ -14,6 +14,7 @@
 
 > RA 的共病可以按系統分：
 >
+>
 > - **心血管**：CAD（風險增加 1.5–2 倍）、心臟衰竭、腦中風
 > - **肺部**：ILD（最重要）、pleural effusion、airway disease
 > - **骨骼**：Osteoporosis、periarticular bone loss
@@ -40,6 +41,7 @@
 > **傳統 CV risk factor**：HTN、DM、dyslipidemia、smoking、obesity、家族史
 
 > **RA 特有的 risk factor**：
+>
 > - 慢性發炎（CRP、IL-6 升高）
 > - 高疾病活性（DAS28 高）
 > - 病程長
@@ -47,6 +49,7 @@
 > - 長期 Glucocorticoid 使用
 
 > **追蹤方式**：
+>
 > - 定期 lipid profile 監測（baseline → 治療後 → 每 5 年）
 > - 用 SCORE 計算 CV risk，**再乘以 1.5**（EULAR 建議）
 > - 積極控制傳統 CV risk factor
@@ -75,6 +78,7 @@
 > RA-OP 的 risk factor 分兩類：
 
 > **1. Disease-related risk factors：**
+>
 > - 高疾病活性（RANKL 升高 → osteoclast 活化）
 > - 長期 Glucocorticoid 使用（最重要的可調整因素）
 > - RF/ACPA 陽性
@@ -82,6 +86,7 @@
 > - 病程長
 
 > **2. Traditional risk factors：**
+>
 > - 年齡 >65 歲、女性（停經後）
 > - BMI < 19
 > - 家族髖骨骨折史
@@ -115,6 +120,7 @@
 
 > RA-ILD 的 risk factor：
 >
+>
 > - **年齡較大、男性、抽菸**
 > - **高 ACPA（anti-CCP）**、高 RF titer
 > - 高疾病活性
@@ -130,10 +136,13 @@
 | HRCT 特徵 | Honeycombing、traction bronchiectasis、subpleural basal | Ground glass opacity、subpleural sparing |
 
 > **追蹤方式：**
+>
 > - **PFT**：FVC（最重要）+ DLCO，每 3–6 個月追蹤
 >   - FVC 下降 >10% in 12 months = significant progression
 >
+>
 >   - DLCO 下降 >15% = significant
+>
 >
 > - **HRCT**：基準線、症狀變化時
 > - 症狀監測（喘、咳嗽）
@@ -154,6 +163,7 @@
 
 > 我想做：
 >
+>
 > - 完整 ANA panel：anti-SSA、anti-SSB、anti-dsDNA、ANA
 > - **ACPA（anti-CCP）、RF**（鑑別 RA vs primary SS）
 > - CBC、CRP、ESR
@@ -167,6 +177,7 @@
 **Step 2：結果 ACPA+、RF+，Schirmer borderline，salivary flow borderline**
 
 > Borderline 的 sicca 結果讓我需要更客觀的診斷依據，我想做：
+>
 >
 > - **Lip biopsy（下唇小唾液腺切片）**：focus score ≥1 = SS 診斷依據（gold standard）
 > - **Ocular staining score**：fluorescein or lissamine green
@@ -216,6 +227,7 @@
 > 選 **Certolizumab pegol**。
 
 > **原因（關鍵機制）：**
+>
 > - Certolizumab 是 **PEGylated Fab fragment**，**沒有 Fc region**
 > - 胎盤主動運輸抗體（IgG）需要 **neonatal Fc receptor（FcRn）**
 > - 沒有 Fc region → **無法被主動運輸穿過胎盤**
@@ -229,10 +241,12 @@
 **Step 7：哪些 cDMARD 懷孕可用？**
 
 > **可用：**
+>
 > - **Hydroxychloroquine（HCQ）**：整個孕期都可以用，甚至建議繼續
 > - **Sulfasalazine（SSZ）**：可用，需補充葉酸
 
 > **不可用：**
+>
 > - **Methotrexate**：致畸胎，停藥至少 3 個月後才能懷孕
 > - **Leflunomide**：致畸胎，需用 Cholestyramine washout
 
