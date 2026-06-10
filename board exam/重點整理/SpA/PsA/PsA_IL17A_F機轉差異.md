@@ -1,5 +1,11 @@
 # IL-17A 與 IL-17F 機轉差異與 Bimekizumab
 
+## 三句話版本
+
+1. **濃度與部位**：IL-17F 在皮膚濃度遠高於 IL-17A（~30倍），關節則相反；反映兩者的疾病域分工。
+2. **功能角色**：IL-17A 驅動急性炎症（效力強），IL-17F 維持慢性炎症持續（chronification）；非冗餘，缺一不可。
+3. **補償性上調**：單獨抑制 IL-17A 後，IL-2/STAT5 訊號會**補償性上調 IL-17F**，加上 innate cells（MAIT、γδT、ILC3）持續以 IL-23-independent 方式產生 IL-17F——這是只打 IL-17A 會出現 therapeutic escape 的核心原因。
+
 ---
 
 ## 一、IL-17F 與 IL-17A 的差異
