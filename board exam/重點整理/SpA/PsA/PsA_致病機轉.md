@@ -5,336 +5,158 @@
 ## 口試版摘要
 
 ### 開場
-PsA 的致病機轉可以從三個層面理解：**遺傳易感性、環境觸發、免疫病理**，三者透過 **IL-23/IL-17 axis** 整合在一起。
+PsA 的致病機轉可從三個層面理解：**遺傳易感、環境觸發、免疫病理**，三者透過 **IL-23/IL-17 axis** 整合。核心病灶是 **enthesis（附著點）**。
 
-### 遺傳
-遺傳上有個重要概念：皮膚病的 MHC 關聯靠近 **HLA-C**，關節炎靠近 **HLA-B**——兩者分離，暗示皮膚和關節有不同的致病機轉。非 MHC 的基因中，**TRAF3IP2**（Act1，IL-17 下游訊號）和 **IL23R** 直接指向核心路徑。
+### 易感與觸發
+遺傳上一個關鍵概念：**皮膚病的 MHC 關聯靠近 HLA-C，關節病靠近 HLA-B**——兩者分離，暗示皮膚與關節有不同致病機轉。非 MHC 基因中最重要的是 **IL23R** 和 **TRAF3IP2（Act1，IL-17 下游）**，直接指向核心路徑。環境觸發中最重要的是**腸道 dysbiosis**（破壞屏障 → IL-23↑ → IL-23R⁺ innate cells 遷移至 enthesis）與 **enthesis 機械壓力**。動物模型很直接：HLA-B27 transgenic rats 無菌環境下不發病。
 
-### 環境
-環境觸發中最重要的是**腸道 dysbiosis**——菌叢失衡破壞腸道上皮屏障，刺激 IL-23 分泌，活化的 IL-23R⁺ innate cells 循環至 enthesis 和滑膜引發炎症。動物模型的支持很直接：HLA-B27 transgenic rats 在無菌環境下不發病。另外 enthesis 的**機械壓力**也是重要觸發因子。
+### 核心軸：IL-23 → IL-17（+ TNF）
+IL-23 是上游 master regulator，誘導 **RORγt** → 驅動 IL-17、IL-22。作用對象不只 Th17——**γδ T、ILC3、MAIT** 等 innate-like cells 都表現 IL-23R，在 enthesis 尤其重要。IL-17 作用在 keratinocyte、synoviocyte、osteoblast 等**結構細胞**，與 **TNF 顯著 synergy**，最終透過招募 **neutrophil** 放大發炎。
 
-### IL-23 → IL-17 核心軸
-IL-23 是 upstream master regulator，透過 **JAK2/TYK2 → STAT3** 路徑誘導 **RORγt** 上調，驅動 IL-17 和 IL-22 產生。
-
-它的作用對象不只是 Th17——**γδ T cells、ILC3、MAIT cells** 等 innate-like cells 都大量表現 IL-23R，在 enthesis 尤其重要。
-
-IL-17 下游走 **Act1 → TRAF6 → NFκB + MAPK**，作用在 keratinocyte、fibroblast、synoviocyte 等**結構細胞**上，和 TNF 有顯著 **synergy**。
-
-### 關鍵概念：IL-23-Independent Pathway
-IL-23 是 **initiator**，但一旦 entheseal cells 被 primed，IL-17 的持續產生就由 **IL-1β 和 IL-18** 維持，不再需要 IL-23。
-
-這直接解釋了為什麼 **IL-23p19 抑制劑**對皮膚效果卓越，但對關節不如 **IL-17 抑制劑**——皮膚端依賴 IL-23，關節端已進入 IL-23-independent 迴路。這個臨床 discordance 本身就是這個概念最好的證據。
-
-### 組織病理
-滑膜的特徵是**顯著的血管新生**，轉錄組分析顯示滑膜以 **TNF 和血管新生路徑**為主，而皮膚以 **Th17/IL-17** 為主——這個差異解釋了不同治療的療效分歧。
-
-骨頭的特色是**侵蝕和新骨生成並存**：侵蝕靠 **RANKL/OPG 失衡 → osteoclast 活化**，TNF 是主要驅動力；新骨靠 **Wnt + BMP pathway** 在 enthesis 驅動 osteoblast 分化，造成 periostitis 和 ankylosis。
-
-### 收束
-PsA 可以理解為：遺傳體質 + 環境觸發 → IL-23 啟動 entheseal innate cells → IL-17/TNF synergy 造成多部位損傷。皮膚和關節雖共享上游機制，但下游 cytokine landscape 分歧，加上 IL-23-independent pathway 的存在，使關節端炎症具有相對自主性。
+### 三組織病理（一句話框架）
+**皮膚 = Th17/IL-17 為主；滑膜 = TNF + 血管新生為主；骨 = 侵蝕（RANKL）與新骨生成（Wnt/BMP）並存。**
 
 ### 記憶骨架
 ```
-遺傳：HLA-C（皮膚）vs. HLA-B（關節）分離 + TRAF3IP2、IL23R
-環境：腸道 dysbiosis → IL-23↑ → innate cells 遷移到 enthesis
-核心軸：IL-23（JAK2/TYK2→STAT3→RORγt）→ IL-17（Act1→TRAF6→NFκB）
-重要概念：IL-23 initiator，IL-1β/IL-18 maintainer → IL-23i vs IL-17i 療效差異
-組織：皮膚=Th17，滑膜=TNF+血管新生，骨頭=RANKL（侵蝕）+Wnt/BMP（新骨）
+遺傳：HLA-C（皮膚）vs. HLA-B（關節）分離 + IL23R、TRAF3IP2
+環境：腸道 dysbiosis + 機械壓力 → IL-23↑ → innate cells 到 enthesis
+核心軸：IL-23 →（RORγt）→ IL-17 ＋ TNF synergy → 招募 neutrophil
+三組織：皮膚=Th17 ／ 滑膜=TNF+血管新生 ／ 骨=RANKL（侵蝕）+Wnt/BMP（新骨）
 ```
 
 ---
 
 ## 完整機轉
 
-### 一、遺傳因素
+### 一、遺傳與環境
 
-#### HLA 關聯
-- **HLA-C\*06**：psoriasis 主要基因（~60% psoriasis 帶有，但只 ~29% PsA）
-  - 早發、嚴重皮膚病；皮膚先發病，距離關節症狀 >10 年；關節表現較輕、penetrance 低
-- **HLA-B 區域**（B\*27、B\*08、B\*38、B\*39）：關節炎的主要遺傳驅動
-  - **B\*27**：symmetric sacroiliitis、enthesitis、dactylitis；皮膚與關節幾乎同時發病；約 1/3 患者關節先於皮膚
-  - **B\*08**：asymmetric sacroiliitis、joint fusion、deformities
-  - **MICA-A9** polymorphism（與 HLA-B\*57:01、B\*38:01 連鎖不平衡）→ 增加多關節病變風險
-- 結論：**皮膚病的 MHC 關聯靠近 HLA-C；關節病的 MHC 關聯靠近 HLA-B**
+#### HLA：皮膚與關節分離（核心概念）
+- **HLA-C\*06**：psoriasis 主要基因；早發、嚴重皮膚病、皮膚常先於關節 >10 年
+- **HLA-B 區域（B\*27、B\*08、B\*38/39）**：關節炎的主要遺傳驅動
+  - **B\*27** → sacroiliitis、enthesitis、dactylitis；皮膚與關節幾乎同時
+- 結論：**皮膚病 MHC 靠近 HLA-C；關節病 MHC 靠近 HLA-B**
 
-#### 非 MHC 基因
+#### 關鍵非 MHC 基因（記三個就好）
 | 基因 | 功能 | 意義 |
 |------|------|------|
-| **TRAF3IP2**（Act1） | IL-17 下游訊號中介，與 NFκB family 互動 | PsA + psoriasis 風險 |
-| **IL23R** | IL-23 receptor | PsA、AS、IBD 共同風險 |
-| **IL12B**（p40） | IL-12/IL-23 共用 subunit | Psoriasis + PsA |
-| **JAK2、TYK2** | IL-23 訊號下游激酶 | AS/SpA 風險 |
-| **TNFAIP3**（A20） | NFκB 負調控因子 | PsA 風險；A20 缺失小鼠 → axial arthritis、enthesitis、DIP erosions |
-| **PTPN22** | T cell receptor 訊號調控 | PsA 風險 |
-| **REL locus**（c-Rel） | NFκB 轉錄因子 | PsA 全基因組顯著關聯 |
-| **TNF-308 A allele** | 高 TNF 產量 | 早期 PsA 中與骨侵蝕進展相關 |
+| **IL23R** | IL-23 receptor | PsA/AS/IBD 共同風險，直指核心軸 |
+| **TRAF3IP2（Act1）** | IL-17 下游訊號中介 | PsA + psoriasis |
+| **TNFAIP3（A20）** | NFκB 負調控 | 缺失小鼠 → axial arthritis、enthesitis、DIP erosion |
+
+#### 環境誘因
+- **腸道 dysbiosis**（最重要）→ 屏障破壞 → IL-23↑ → IL-23R⁺ innate cells 遷移至 enthesis/滑膜
+- **機械壓力 / deep Koebner**：enthesis 受力觸發發炎
+- 其他：鏈球菌感染（兒童 guttate）、肥胖
+- 動物模型：HLA-B27 transgenic rats **無菌環境不發病**
 
 ---
 
-### 二、環境誘因
-
-#### 微生物與腸道軸
-- **腸道/皮膚菌叢失衡（dysbiosis）** → 破壞上皮屏障 → 活化 IL-23 產生的 resident immune cells
-- **IL-23R⁺ mucosal innate cells** 活化後離開腸道，遷移至 **enthesis 和滑膜** → 引發炎症
-- 動物模型：HLA-B27 transgenic rats 在無菌環境下不發病；暴露特定微生物後出現 IL-23/IL-17 驅動的 SpA-like 疾病
-- 多項人類研究確認腸道菌叢組成在 psoriatic disease 中有改變
-
-#### 其他環境因素
-| 因素 | 說明 |
-|------|------|
-| **Koebner 現象** | 皮膚外傷 → 牛皮癬；「deep Koebner」→ 機械壓力觸發關節炎症 |
-| **鏈球菌感染** | 兒童 guttate psoriasis 的已知觸發因子（superantigen 機轉） |
-| **肥胖** | 增加 psoriasis → PsA 進展風險 |
-| **吸菸** | 一般族群增加風險；但在已有 psoriasis 的患者中部分研究顯示反向關聯，機轉未明 |
-
----
-
-### 三、免疫病理
+### 二、核心免疫軸：IL-23 → IL-17
 
 ![PsA 致病機轉整合模型](../../images/IL-17%20PsA.webp)
-*圖：PsA 機轉同心圓模型。最外圈為 Inducers（MHC-I/DC、腸道 dysbiosis、機械發炎、代謝/肥胖）；中圈為 Enhancers（Th17、γδ T、ILC3、MAIT 等產 IL-17 的細胞）；內圈為 Effectors（Macrophage/TNF、Neutrophil），TNFAIP3/CARD14 基因影響標示於此。（From Schett et al., Nat Rev Rheumatol 2022）*
+*圖：PsA 同心圓模型。外圈 Inducers（DC、dysbiosis、機械、代謝）；中圈 Enhancers（Th17、γδ T、ILC3、MAIT 等產 IL-17 細胞）；內圈 Effectors（Macrophage/TNF、Neutrophil）。（Schett et al., Nat Rev Rheumatol 2022）*
 
-
-#### 皮膚
-- **DC（樹突細胞）**：主要產生 TNF、IL-12、IL-23
-- IL-23 → naive CD4⁺ T 分化為 **Th17**
-- Th17 → **IL-17A + TNF** 協同 → keratinocyte 增生 + anti-microbial peptides（β-defensin、S100A7）分泌 → 牛皮癬斑塊
-- **CD8⁺ T cells** 為表皮主要 T cell
-- 轉錄組分析：皮膚以 **Th17 訊號為主**
-
-#### 滑膜
-- 特徵性改變：**血管新生顯著**（tortuous、dilated vessels）→ 比 RA 更突出
-- 相較於 RA：lining layer hyperplasia 較少、macrophage 較少、E-selectin 低
-- SpA vs. RA 的區別特徵：vascularity↑、neutrophil↑、**CD163⁺ macrophage↑**
-- 血管生成因子：**TNF、VEGF、TGF-β、angiopoietins（ANG-1/2）、PDGF**
-- 轉錄組分析：滑膜以 **TNF + 血管新生路徑為主**
-- T resident memory（Trm）細胞：CXCR6⁺，多功能促發炎介質產生者，留存於組織
-
-#### Enthesis
-- Psoriasis 患者在無臨床關節炎前即可有結構性 entheseal 病變，且為 PsA 進展的預測因子
-- 炎症媒介：**PGE2、IL-17A、IL-22**
-- 活化間充質細胞 → 分化為 **osteoblast** via **Wnt + BMP（BMP-2、BMP-7）** → **periostitis、ankylosis**
-- CD8⁺ T cells 在 enthesis 數量較 RA 多（與 PsA-HLA class I 關聯一致）
-- **IL-23R⁺ resident cells**（γδ T、ILC3 等）被 IL-23 primed 後可直接誘發炎症，**不需 Th17 cells 參與**
-
----
-
-### 四、IL-23 訊號
-
-#### 結構與來源
-- 異二聚體：**p19**（IL-23 特有）+ **p40**（與 IL-12 共用）
-- 主要來源：**Macrophage、DC**、腸道 resident immune cells
-
-#### Receptor 與下游訊號
-```
-IL-23 → IL-23R（特異）+ IL-12RB1（共用）
-               ↓
-         JAK2（IL-23R side）
-         TYK2（IL-12RB1 side）
-               ↓
-         STAT3 磷酸化 → 二聚體 → 入核
-               ↓
-    轉錄：IL-17A、IL-17F、IL-22、RORγt 上調
-```
-- 負回饋：**SOCS3**（抑制 STAT3 的 JAK 活化）
-- IL-23R 表現於：CD4⁺ T（少量）、**γδ T cells、ILC3、macrophage、DC、LTi cells、mast cells、neutrophils**
-
----
-
-### 五、IL-17 訊號
-
-#### 家族成員
-| 成員 | Receptor | 主要來源 |
-|------|----------|----------|
-| **IL-17A** | IL-17RA / IL-17RC | Th17、CD8⁺ Tc17、γδ T、ILC3、MAIT |
-| **IL-17F** | IL-17RA / IL-17RC | 同上，效力較弱 |
-| IL-17A/F（異二聚體） | IL-17RA / IL-17RC | — |
-| IL-25（IL-17E） | IL-17RB | Th2 cells，誘導 Th2 反應 |
-
-#### Receptor 與下游訊號
-```
-IL-17A → IL-17RA / IL-17RC
-（表現於 keratinocyte、fibroblast、synoviocyte、osteoblast 等結構細胞）
-               ↓
-         Act1（TRAF3IP2 基因產物）招募
-               ↓
-         TRAF6 活化
-               ↓
-    ┌──────────┴──────────┐
-NFκB pathway          MAPK pathway（p38、ERK、JNK）
-    ↓                          ↓
-促炎基因轉錄              mRNA 穩定化
-IL-6、IL-8、GM-CSF、      （延長 cytokine mRNA 半衰期）
-CXCL1、MMP
-```
+- **IL-23**（p19 + p40，來自 macrophage/DC）→ JAK2/TYK2 → **STAT3** → 誘導 **RORγt** → 驅動 **IL-17A/F、IL-22**
+- IL-23 的反應細胞不只 Th17：**γδ T、ILC3、MAIT、LTi、mast cell、neutrophil** 都表現 IL-23R（enthesis 尤以 innate-like cells 為主）
+- **IL-17** → 經 **Act1（TRAF3IP2）→ TRAF6 → NFκB/MAPK** 作用於結構細胞
 - **IL-17 × TNF synergy**：兩者同時活化 NFκB，效果遠超單獨刺激
 
-#### IL-17A 效應靶細胞
-| 靶細胞 | 效應 |
-|--------|------|
-| Keratinocyte | 增生↑、anti-microbial peptides 分泌 |
-| Fibroblast / Synoviocyte | IL-6↑、IL-8↑、MMP↑ → 中性球招募 |
-| Osteoblast | RANKL↑ → osteoclastogenesis → 骨侵蝕 |
-| Entheseal mesenchymal cells | Wnt/BMP → osteoblast 分化 → 新骨生成 |
+| IL-17A 靶細胞 | 效應 |
+|--------------|------|
+| Keratinocyte | 增生↑、抗菌肽（β-defensin、S100A7）↑ → 牛皮癬斑塊 |
+| Fibroblast / Synoviocyte | IL-6↑、IL-8↑、MMP↑ → 招募 neutrophil |
+| Osteoblast | RANKL↑ → osteoclast → 骨侵蝕 |
+| Entheseal 間充質細胞 | Wnt/BMP → osteoblast 分化 → 新骨 |
 
 ---
 
-### 六、IL-17–Neutrophil 軸 — Innate 與 Adaptive 的橋樑 ⭐
+### 三、IL-17–Neutrophil 軸 — Innate 與 Adaptive 的橋樑 ⭐
 
-#### 1. 核心概念：為什麼 IL-17 與 neutrophil 密不可分
+#### 1. 為什麼 IL-17 與 neutrophil 密不可分
+IL-17 軸是**先天與後天免疫的交會點**，neutrophil 是它最下游的終端效應細胞：
 
-IL-17 軸是**先天免疫（innate）與後天免疫（adaptive）的交會點**，而 neutrophil 是這條軸最下游的終端效應細胞（effector）：
+- 上游 producers 橫跨兩系統：adaptive 的 **Th17、Tc17** ＋ innate-like 的 **γδ T、ILC3、MAIT**
+- IL-17 的本職是抗胞外菌，手段就是**招募並活化 neutrophil**
 
-- **上游（producers）**橫跨兩個系統：
-  - Adaptive：**Th17、CD8⁺ Tc17**
-  - Innate / innate-like：**γδ T cells、ILC3、MAIT cells、NKT**
-- **IL-17 的主要生理功能**本就是「抗胞外菌與黴菌」——其手段就是**招募並活化 neutrophil**。換言之，neutrophil 是 IL-17 在演化上的「執行單位」。
-
-#### 2. IL-17 → Neutrophil 的招募機轉（放大迴路）
-
-IL-17A 作用於結構細胞（keratinocyte、fibroblast、synoviocyte）後，誘導一組**嗜中性球趨化與存活因子**：
-
+#### 2. 招募與放大迴路
 ```
-IL-17A（+ TNF synergy）
-        ↓ 作用於 keratinocyte / synoviocyte / fibroblast
-誘導分泌：
-  • CXCL1 / CXCL2 / CXCL8(IL-8)  → neutrophil 趨化
-  • G-CSF / GM-CSF               → neutrophil 生成與活化
-  • S100A7/A8/A9（calprotectin） → 趨化 + 放大發炎
+IL-17A（+ TNF）→ 結構細胞分泌
+  CXCL1/2/8(IL-8)、G-CSF/GM-CSF、S100A8/9
         ↓
-Neutrophil 大量募集至表皮 / 滑膜 / enthesis
+  neutrophil 募集至表皮/滑膜/enthesis → ROS、proteases、NETs
         ↓
-釋放 ROS、proteases、NETs
-        ↓
-【正回饋】NETs + neutrophil 來源 IL-17 → 刺激 pDC/macrophage 產生 IL-23
-        ↓
-回頭再驅動 Th17/innate cells → 更多 IL-17
+  【正回饋】NETs → 刺激 IL-23 → 再驅動上游 IL-17
 ```
 
-> 💡 **橋樑概念一句話：** adaptive 與 innate-like 細胞產生 IL-17 → 透過結構細胞放出趨化因子 → 招來 innate 的 neutrophil → neutrophil 經 NETs/IL-23 回饋再活化上游，形成 **IL-23/IL-17/neutrophil 自我放大迴路**。這正是 PsA「慢性、自我延續」發炎的細胞基礎。
+> 💡 adaptive/innate-like 細胞產生 IL-17 → 招來 innate 的 neutrophil → neutrophil 回饋 IL-23，形成 **IL-23/IL-17/neutrophil 自我放大迴路**，是 PsA 慢性發炎的細胞基礎。
 
-#### 3. 皮膚的特徵性病理（dermatopathology hallmark）
-
-Kelly 原文：乾癬皮膚以**表皮增生、真皮乳突層單核球、以及「角質層內的 neutrophils」**為特徵。這個「角質層內 neutrophil」就是兩個經典的組織學名詞：
+#### 3. 皮膚特徵性病理（hallmark）
+Kelly 原文：乾癬皮膚以**表皮增生、真皮乳突層單核球、角質層內 neutrophils** 為特徵。兩個經典名詞：
 
 | 病理特徵 | 位置 | 說明 |
 |---------|------|------|
-| **Munro microabscess（Munro 微膿瘍）** | **stratum corneum（角質層）** | neutrophil 聚集於角質層內，是 plaque psoriasis 的**病理 hallmark** |
-| **Spongiform pustule of Kogoj（Kogoj 海綿狀膿疱）** | **stratum spinosum 上層（Malpighian layer）** | 棘層內的海綿狀無菌性膿疱，常見於 **pustular psoriasis** |
+| **Munro microabscess** | 角質層（stratum corneum） | plaque psoriasis 的病理 hallmark |
+| **Kogoj 海綿狀膿疱** | 棘層上層（Malpighian layer） | 常見於 pustular psoriasis |
 
 ![乾癬皮膚病理一](../../images/PsO%20pathology.png)
 
 ![乾癬皮膚病理二](../../images/PsO%20pathology%202.png)
 
-其他相關皮膚特徵：
+- **Auspitz sign**：刮除鱗屑後點狀出血（真皮乳突血管擴張變薄）
+- **無菌性膿疱**：膿疱型乾癬肉眼可見膿疱，內含大量 neutrophil 但**培養無菌** → 免疫驅動而非感染
 
-- **Auspitz sign**：刮除鱗屑後點狀出血——源自真皮乳突層血管擴張變薄（與表皮過度增生、釘突延長並存）
-- **無菌性膿疱（sterile pustule）**：膿疱型乾癬肉眼可見的膿疱，內含大量 neutrophil，**培養為無菌**——強調這是免疫驅動而非感染
+#### 4. 膿疱型乾癬與 IL-36 軸（考點）
+- **GPP（泛發性膿疱型乾癬）**：neutrophil 主導最劇烈表型，以 **IL-36/IL-1 軸**為核心（非典型 IL-23/IL-17）
+- **IL-36RN 突變** → IL-36 過度活化 → 強力招募 neutrophil
+- 對應新藥 **Spesolimab（anti–IL-36R）**——「neutrophil 表型 → IL-36 靶點」
 
-#### 4. 膿疱型乾癬與 IL-36 軸（neutrophil 主導的極端表型）
-
-- **Generalized pustular psoriasis (GPP)** 是 neutrophil 主導最劇烈的表型，可危及生命
-- 機轉以 **IL-36/IL-1 軸**為核心（非典型 plaque 的 IL-23/IL-17 主軸）：**IL-36RN（IL-36 受體拮抗劑）基因突變** → IL-36 過度活化 → 強力招募 neutrophil
-- 治療對應：**Spesolimab（anti–IL-36R 抗體）**為 GPP 新藥；與 plaque psoriasis 用 IL-23/IL-17 抑制劑不同——**這是把「neutrophil 表型」對應到「IL-36 靶點」的考點**
-
-#### 5. 關節端的 neutrophil（呼應前文）
-
-- **PsA/SpA 滑膜 neutrophil 數目高於 RA**，與血管增生↑、CD163⁺ macrophage↑ 並列為**區分 SpA 與 RA 的可靠特徵**
-- 在 Schett 同心圓模型中，neutrophil 與 monocyte–macrophage 同列**最內圈 effector**，effector cytokine 為 TNF
-
-#### 6. 治療意涵
-
-- **IL-17 抑制劑（secukinumab、ixekizumab）**：直接切斷「IL-17 → 趨化因子 → neutrophil」這一步，因此對皮膚（尤其膿疱清除）起效快
-- 對照 **IL-36 靶點（spesolimab）**專攻 GPP 的 neutrophil 路徑
+#### 5. 治療意涵
+- **IL-17 抑制劑（secukinumab、ixekizumab）**：直接切斷「IL-17 → 趨化因子 → neutrophil」，對皮膚起效快
 - 共同邏輯：**降低 neutrophil 募集＝臨床改善的最終共同途徑**
 
-> 💎 **口試金句：** "IL-17 之所以與 neutrophil 密不可分，是因為 IL-17 在演化上的本職就是抗胞外菌——而手段就是透過結構細胞釋放 CXCL8/G-CSF/S100 蛋白把 neutrophil 招進來。在 PsA，這條軸串起 adaptive 的 Th17/Tc17 和 innate 的 γδT/ILC3 作為產生端，再以 innate 的 neutrophil 作為終端效應器，並透過 NETs 回饋 IL-23 形成放大迴路。皮膚的病理印記就是角質層的 **Munro microabscess** 與棘層的 **Kogoj 海綿狀膿疱**；極端表型則是 IL-36 主導的膿疱型乾癬，對應 spesolimab 這個靶點。"
+> 💎 **口試金句：** "IL-17 與 neutrophil 密不可分，因為 IL-17 本職就是抗胞外菌、手段就是招募 neutrophil。在 PsA，這條軸串起 adaptive 的 Th17/Tc17 與 innate 的 γδT/ILC3 作為產生端，以 neutrophil 為終端效應器，再經 NETs 回饋 IL-23 放大。皮膚印記是角質層的 **Munro microabscess** 與棘層的 **Kogoj pustule**；極端表型是 IL-36 主導的 GPP，對應 spesolimab。"
 
 ---
 
-### 七、細胞激素總結
+### 四、三組織病理
 
-#### 皮膚 vs. 滑膜 cytokine 差異
-| 部位 | 主要訊號 |
-|------|---------|
-| 皮膚 | Th17（IL-17、IL-22）為主 |
-| 滑膜 | TNF + 血管新生路徑為主 |
-
-#### 滑膜 cytokine 細節
-- **Th1 profile**：IL-2、IFN-γ 高量
-- **IL-1β、TNF**：高濃度；**IL-4、IL-5 缺乏**
-- **IL-10**：高度表現於滑膜（但不見於皮膚）
-- **IL-18、IL-15**：innate cytokines，methotrexate 可下調
-- **IL-17⁺ CD4⁻ T cells（主要是 CD8⁺ Tc17）**：在 PsA 滑液中增加（RA 則無），與疾病活性、骨侵蝕狀態相關
-
-#### JAK-STAT 對照表
-| 細胞激素 | JAK | STAT | 功能 |
-|----------|-----|------|------|
-| IL-23 | JAK2 + TYK2 | STAT3（+STAT4） | Th17 維持、IL-17 誘導 |
-| IL-12 | TYK2 + JAK2 | STAT4 | Th1 分化 |
-| IL-6 | JAK1 + JAK2 | STAT3 | 急性期反應、Th17 起始分化 |
-| IL-22 | JAK1 + TYK2 | STAT3 | 上皮修復、新骨生成 |
-| IFN-γ | JAK1 + JAK2 | STAT1 | Th1 effector |
-
-**RORγt**：Th17 的 master transcription factor，由 IL-6 + TGF-β → STAT3 誘導，驅動 IL-17A/F、IL-22 基因表現，是新興藥物標靶。
+| 組織 | 主要訊號 | 重點 |
+|------|---------|------|
+| **皮膚** | Th17 / IL-17、IL-22 | DC 產 IL-23 → Th17 → keratinocyte 增生；CD8⁺ T 為表皮主要 T cell |
+| **滑膜** | TNF + 血管新生 | **血管新生比 RA 更顯著**；vs RA：lining 增生少、E-selectin 低；**neutrophil↑、CD163⁺ macrophage↑、vascularity↑ → 區分 SpA 與 RA** |
+| **Enthesis** | PGE2、IL-17A、IL-22 | 核心病灶；無臨床關節炎前即可見、為 PsA 進展預測因子；IL-23R⁺ resident cells 被 primed 後**不需 Th17 即可發炎** |
+| **骨** | RANKL（侵蝕）＋ Wnt/BMP（新骨） | 侵蝕（pencil-in-cup）與新骨生成（periostitis、enthesophyte、ankylosis）**並存**；TNF 驅動 osteoclast，TNFi 可降 osteoclast precursors |
 
 ---
 
-### 八、骨重塑失衡
+### 五、治療靶點與療效
 
-#### 骨侵蝕
-- 滑膜 **RANKL↑ / OPG↓** → osteoclast 活化 → 骨侵蝕（pencil-in-cup deformity）
-- 循環中 **osteoclast precursors（DC-STAMP⁺ CD14⁺ monocytes）** 在 PsA 中顯著升高
-- TNFi 治療 → osteoclast precursors 顯著下降 → TNF 是 osteoclastogenesis 的核心驅動因子
-- **MMP-1、2、3、9** 在滑膜升高 → 軟骨破壞
+| 靶點 | 藥物 | 皮膚 | 關節 / Enthesitis |
+|------|------|------|------------------|
+| TNF | adalimumab、etanercept、infliximab | 有效 | 有效（亦降 osteoclast precursors） |
+| IL-17 | secukinumab、ixekizumab、bimekizumab | 有效 | 有效 |
+| IL-12/23 p40 | ustekinumab | 有效 | 中等 |
+| IL-23 p19 | risankizumab、guselkumab | 卓越 | 相對有限 |
+| JAK | tofacitinib、upadacitinib | 有效 | 有效 |
 
-#### 新骨生成
-- **BMP-2、BMP-7** → Smad1/5 磷酸化 → 骨形成
-- **TGF-β、VEGF** 協同誘導骨生成
-- **Wnt pathway**：Wnt↑ vs. Wnt 拮抗劑 DKK-1 之平衡決定 osteoblast 活性
-- 臨床特徵：periostitis、enthesophyte、spur formation、bony ankylosis
+> 重點：**皮膚對 IL-23/IL-17 抑制劑反應最佳；關節端以 IL-17、TNF 抑制劑表現較全面。**
 
 ---
 
-### 九、IL-23-Independent 的 IL-17 持續路徑
-
-#### 機轉
-1. **IL-23 → priming**：活化 enthesis 的 IL-23R⁺ resident cells（γδ T、ILC3、MAIT、CD3⁺CD4⁻CD8⁻ T、Tc17）
-2. **Primed 之後**：**IL-1β + IL-18** 足以持續驅動 IL-17/IL-22，**不再需要 IL-23**
-3. IL-23 = **Initiator**；IL-1β/IL-18 = **Maintainer**
-
-#### 臨床意涵
-| 治療 | 皮膚 | 關節/Enthesitis |
-|------|------|----------------|
-| IL-23p19 抑制劑（risankizumab） | 卓越（接近完全清除） | 相對有限 |
-| IL-17 抑制劑（secukinumab、ixekizumab） | 有效 | 優於 IL-23 抑制劑 |
-| IL-12/23 p40 抑制劑（ustekinumab） | 有效 | 中等有效 |
-
----
-
-### 十、PsO → PsA 疾病進程模型
+### 六、PsO → PsA 疾病進程與高風險因子
 
 ```
-遺傳易感性（HLA-B27、IL23R、TRAF3IP2 等）
-+ 環境誘因（dysbiosis、外傷、肥胖、感染）
-              ↓
-【Pre-clinical phase】
-IL-23/IL-17/TNF 異常活化（皮膚、腸道、enthesis）
-              ↓
-【Subclinical phase】
-Biomarker 改變 + 影像可見骨骼變化（US/MRI enthesitis）
-              ↓
-【Prodromal phase】
-Arthralgia、fatigue
-              ↓
-【臨床 PsA】
-Synovitis、enthesitis、dactylitis、asymmetric axial disease
+遺傳易感 + 環境誘因
+   → Pre-clinical：IL-23/IL-17/TNF 異常活化（皮膚、腸道、enthesis）
+   → Subclinical：影像可見 enthesitis（US/MRI）
+   → Prodromal：arthralgia、fatigue
+   → 臨床 PsA：synovitis、enthesitis、dactylitis、axial disease
 ```
 
-**PsO → PsA 的高風險因子**：
+**PsO → PsA 高風險因子**：
 
 - 一等親有 PsA（RR >30）
 - HLA-B\*27
-- 嚴重乾癬（PASI >20；RR 5.4）
+- 嚴重乾癬（PASI >20）
 - Nail、scalp、inverse psoriasis
-- 肥胖、uveitis、甲狀腺疾病、憂鬱症
+- 肥胖、uveitis
