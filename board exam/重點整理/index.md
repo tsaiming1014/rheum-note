@@ -16,7 +16,7 @@
 | | [APS — 抗磷脂症候群](APS/APS_致病機轉.md) |
 | **脊椎關節炎** | [AS — 僵直性脊椎炎](SpA/AS/AS_致病機轉.md) |
 | | [PsA — 乾癬性關節炎](SpA/PsA/PsA_致病機轉.md) |
-| | 其他 SpA（ReA、IBD-A） |
+| | [其他 SpA（ReA、IBD-A）](SpA/其他SpA/其他SpA_致病機轉_ReA_IBD.md) |
 | **晶體沉積疾病** | [Gout / CPPD / 鈣晶體](Crystal/Gout_致病機轉.md) |
 | **退化性疾病** | OA — 骨關節炎 |
 | **血管炎** | [AAV（GPA / MPA / EGPA）](Vasculitis/AAV/AAV_三大疾病完整比較.md) |
