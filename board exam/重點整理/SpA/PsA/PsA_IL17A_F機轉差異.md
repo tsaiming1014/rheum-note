@@ -42,10 +42,12 @@
 > Cole et al., JACI 2023
 
 **STAT5 / IL-2 訊號對 IL-17A 和 IL-17F 具有相反的調控方向：**
+
 - IL-2 → STAT5 活化 → **IL-17A 下調、IL-17F 上調**
 - Methylprednisolone 等抗炎藥物也可改變兩者的平衡
 
 **臨床意涵：**
+
 - 免疫調節劑可能在降低 IL-17A 的同時**意外放大 IL-17F**
 - 單獨抑制 IL-17A 後，IL-17F 可能透過此機轉補償性上升 → **therapeutic escape 的分子基礎**
 

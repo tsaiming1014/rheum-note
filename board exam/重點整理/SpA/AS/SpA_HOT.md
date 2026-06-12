@@ -4,6 +4,7 @@
 > 主持：Victoria Navarro Compán、Philip van den Bosch
 
 演講三大目標：
+
 - 臨床實務中如何**評估（assessment）** axial SpA
 - 目前的**處置（management）**
 - 臨床上的**棘手情境（challenging scenarios）**
@@ -122,6 +123,7 @@ Axial SpA 是**多器官侵犯**疾病，分為肌肉骨骼（musculoskeletal）
 
 ### 2. 治療反應不佳
 即使已有多種強效藥物，仍有一部分病人未達滿意結果。可能原因：
+
 - 慢性疼痛 / nociceptive pain 機轉
 - 其他疾病症狀（OA 在晚期 axial SpA 很常見）
 - 其實診斷並非 axial SpA

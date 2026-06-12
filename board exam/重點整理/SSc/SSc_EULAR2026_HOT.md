@@ -60,6 +60,7 @@
 | 血清發炎標記(CRP) | **不**作為排除 nintedanib 的依據 |
 
 **關鍵反駁「發炎型不該用抗纖維化藥」的迷思:**
+
 - **SENSCIS** 次分析:nintedanib 在早期/發炎型病人**效應量更大**(發炎標記高者 52 vs 41 mL;更嚴重者 95 mL vs 整體 41 mL)。
 - **INBUILD**:UIP vs non-UIP 的 95% CI 大幅重疊 → UIP pattern 不影響 SSc-ILD 反應(RA-ILD 則不同)。
 - 結論:**SSc-ILD 不應依 UIP 或發炎標記決定是否用抗纖維化藥**。

@@ -259,6 +259,7 @@ Synovitis、enthesitis、dactylitis、asymmetric axial disease
 ```
 
 **PsO → PsA 的高風險因子**：
+
 - 一等親有 PsA（RR >30）
 - HLA-B\*27
 - 嚴重乾癬（PASI >20；RR 5.4）

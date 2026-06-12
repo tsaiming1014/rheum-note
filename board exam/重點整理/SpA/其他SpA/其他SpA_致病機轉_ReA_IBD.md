@@ -23,12 +23,14 @@
 ReA 傳統被稱為 **"sterile" arthritis**,因為常規培養關節液長不出細菌。但分子研究(PCR / RT-PCR)推翻了這個觀念,而 **腸道型與披衣菌型機轉不同**:
 
 **1. Chlamydia 型 — 活菌持續存在 (persistence)**
+
 - 披衣菌會感染 **單核球 (monocytes)**,藉此從生殖道 **播散 (dissemination)** 到滑膜。
 - 在滑膜內進入一種異常的 **「persistence(持續態)」** — 菌仍 **活著且有代謝活性**,但調控細胞分裂的基因發生 **轉錄停滯 (transcriptional arrest)**,急性感染時高表現的基因被強烈下調。
 - 有趣的觀察:滑膜內的披衣菌偏偏是 **眼部 (ocular/trachoma) serovar** 而非生殖道 serovar,可能解釋 attack rate 低與常合併眼部症狀。
 - **臨床意義**:抗 TNF 會 up-regulate 披衣菌複製 → Chlamydia 型 ReA 使用抗 TNF 要小心;且 chronic 型可用 doxycycline+rifampin 等 **組合抗生素**。
 
 **2. 腸道型 — 只剩細菌碎片,非活菌**
+
 - 滑膜可測到 **細菌 DNA / 降解產物(如 LPS)**,但 **測不到活菌**(Yersinia 是唯一可能例外)。
 - 究竟是這些殘留抗原驅動發炎,還是引發 autoimmune response,**仍未定論**。
 

@@ -77,6 +77,7 @@
 - 主要用途：臨床試驗（FDA 核准藥物用）
 
 **計算：** 同時滿足：
+
 1. TJC 及 SJC 都達到 X% 改善（必要）
 2. 以下 5 項中至少 3 項達到 X% 改善：Patient global、Physician global、Pain、HAQ、CRP 或 ESR
 
