@@ -179,7 +179,80 @@ CXCL1、MMP
 
 ---
 
-### 六、細胞激素總結
+### 六、IL-17–Neutrophil 軸 — Innate 與 Adaptive 的橋樑 ⭐
+
+#### 1. 核心概念：為什麼 IL-17 與 neutrophil 密不可分
+
+IL-17 軸是**先天免疫（innate）與後天免疫（adaptive）的交會點**，而 neutrophil 是這條軸最下游的終端效應細胞（effector）：
+
+- **上游（producers）**橫跨兩個系統：
+  - Adaptive：**Th17、CD8⁺ Tc17**
+  - Innate / innate-like：**γδ T cells、ILC3、MAIT cells、NKT**
+- **IL-17 的主要生理功能**本就是「抗胞外菌與黴菌」——其手段就是**招募並活化 neutrophil**。換言之，neutrophil 是 IL-17 在演化上的「執行單位」。
+
+#### 2. IL-17 → Neutrophil 的招募機轉（放大迴路）
+
+IL-17A 作用於結構細胞（keratinocyte、fibroblast、synoviocyte）後，誘導一組**嗜中性球趨化與存活因子**：
+
+```
+IL-17A（+ TNF synergy）
+        ↓ 作用於 keratinocyte / synoviocyte / fibroblast
+誘導分泌：
+  • CXCL1 / CXCL2 / CXCL8(IL-8)  → neutrophil 趨化
+  • G-CSF / GM-CSF               → neutrophil 生成與活化
+  • S100A7/A8/A9（calprotectin） → 趨化 + 放大發炎
+        ↓
+Neutrophil 大量募集至表皮 / 滑膜 / enthesis
+        ↓
+釋放 ROS、proteases、NETs
+        ↓
+【正回饋】NETs + neutrophil 來源 IL-17 → 刺激 pDC/macrophage 產生 IL-23
+        ↓
+回頭再驅動 Th17/innate cells → 更多 IL-17
+```
+
+> 💡 **橋樑概念一句話：** adaptive 與 innate-like 細胞產生 IL-17 → 透過結構細胞放出趨化因子 → 招來 innate 的 neutrophil → neutrophil 經 NETs/IL-23 回饋再活化上游，形成 **IL-23/IL-17/neutrophil 自我放大迴路**。這正是 PsA「慢性、自我延續」發炎的細胞基礎。
+
+#### 3. 皮膚的特徵性病理（dermatopathology hallmark）
+
+Kelly 原文：乾癬皮膚以**表皮增生、真皮乳突層單核球、以及「角質層內的 neutrophils」**為特徵。這個「角質層內 neutrophil」就是兩個經典的組織學名詞：
+
+| 病理特徵 | 位置 | 說明 |
+|---------|------|------|
+| **Munro microabscess（Munro 微膿瘍）** | **stratum corneum（角質層）** | neutrophil 聚集於角質層內，是 plaque psoriasis 的**病理 hallmark** |
+| **Spongiform pustule of Kogoj（Kogoj 海綿狀膿疱）** | **stratum spinosum 上層（Malpighian layer）** | 棘層內的海綿狀無菌性膿疱，常見於 **pustular psoriasis** |
+
+![乾癬皮膚病理一](../../images/PsO%20pathology.png)
+
+![乾癬皮膚病理二](../../images/PsO%20pathology%202.png)
+
+其他相關皮膚特徵：
+
+- **Auspitz sign**：刮除鱗屑後點狀出血——源自真皮乳突層血管擴張變薄（與表皮過度增生、釘突延長並存）
+- **無菌性膿疱（sterile pustule）**：膿疱型乾癬肉眼可見的膿疱，內含大量 neutrophil，**培養為無菌**——強調這是免疫驅動而非感染
+
+#### 4. 膿疱型乾癬與 IL-36 軸（neutrophil 主導的極端表型）
+
+- **Generalized pustular psoriasis (GPP)** 是 neutrophil 主導最劇烈的表型，可危及生命
+- 機轉以 **IL-36/IL-1 軸**為核心（非典型 plaque 的 IL-23/IL-17 主軸）：**IL-36RN（IL-36 受體拮抗劑）基因突變** → IL-36 過度活化 → 強力招募 neutrophil
+- 治療對應：**Spesolimab（anti–IL-36R 抗體）**為 GPP 新藥；與 plaque psoriasis 用 IL-23/IL-17 抑制劑不同——**這是把「neutrophil 表型」對應到「IL-36 靶點」的考點**
+
+#### 5. 關節端的 neutrophil（呼應前文）
+
+- **PsA/SpA 滑膜 neutrophil 數目高於 RA**，與血管增生↑、CD163⁺ macrophage↑ 並列為**區分 SpA 與 RA 的可靠特徵**
+- 在 Schett 同心圓模型中，neutrophil 與 monocyte–macrophage 同列**最內圈 effector**，effector cytokine 為 TNF
+
+#### 6. 治療意涵
+
+- **IL-17 抑制劑（secukinumab、ixekizumab）**：直接切斷「IL-17 → 趨化因子 → neutrophil」這一步，因此對皮膚（尤其膿疱清除）起效快
+- 對照 **IL-36 靶點（spesolimab）**專攻 GPP 的 neutrophil 路徑
+- 共同邏輯：**降低 neutrophil 募集＝臨床改善的最終共同途徑**
+
+> 💎 **口試金句：** "IL-17 之所以與 neutrophil 密不可分，是因為 IL-17 在演化上的本職就是抗胞外菌——而手段就是透過結構細胞釋放 CXCL8/G-CSF/S100 蛋白把 neutrophil 招進來。在 PsA，這條軸串起 adaptive 的 Th17/Tc17 和 innate 的 γδT/ILC3 作為產生端，再以 innate 的 neutrophil 作為終端效應器，並透過 NETs 回饋 IL-23 形成放大迴路。皮膚的病理印記就是角質層的 **Munro microabscess** 與棘層的 **Kogoj 海綿狀膿疱**；極端表型則是 IL-36 主導的膿疱型乾癬，對應 spesolimab 這個靶點。"
+
+---
+
+### 七、細胞激素總結
 
 #### 皮膚 vs. 滑膜 cytokine 差異
 | 部位 | 主要訊號 |
@@ -207,7 +280,7 @@ CXCL1、MMP
 
 ---
 
-### 七、骨重塑失衡
+### 八、骨重塑失衡
 
 #### 骨侵蝕
 - 滑膜 **RANKL↑ / OPG↓** → osteoclast 活化 → 骨侵蝕（pencil-in-cup deformity）
@@ -223,7 +296,7 @@ CXCL1、MMP
 
 ---
 
-### 八、IL-23-Independent 的 IL-17 持續路徑
+### 九、IL-23-Independent 的 IL-17 持續路徑
 
 #### 機轉
 1. **IL-23 → priming**：活化 enthesis 的 IL-23R⁺ resident cells（γδ T、ILC3、MAIT、CD3⁺CD4⁻CD8⁻ T、Tc17）
@@ -239,7 +312,7 @@ CXCL1、MMP
 
 ---
 
-### 九、PsO → PsA 疾病進程模型
+### 十、PsO → PsA 疾病進程模型
 
 ```
 遺傳易感性（HLA-B27、IL23R、TRAF3IP2 等）
