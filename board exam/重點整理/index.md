@@ -33,6 +33,6 @@
 | 主題 | 連結 |
 |------|------|
 | CV Risk | [CV risk](跨疾病主題/CV risk.md) |
-| 補體系統 | [補體在風濕免疫疾病的意義](跨疾病主題/補體在風濕免疫疾病的意義_Kelly Ch26.md) |
+| 補體系統 | [補體系統 — 臨床檢驗與各疾病變化](跨疾病主題/Complement_疾病與檢驗.md) |
 | NETosis / LDG | [NETosis 與 LDG](跨疾病主題/NETosis與LDG.md) |
 | NSAIDs | [NSAIDs 口試完整答案](跨疾病主題/謝松洲_NSAIDs口試完整答案.md) |
