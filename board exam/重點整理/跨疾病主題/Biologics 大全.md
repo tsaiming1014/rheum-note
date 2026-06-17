@@ -41,7 +41,7 @@
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Monoclonal Ab against IL-23 (IgG1 target p19) | Risankizumab | 喜開悅 注射劑 150毫克/毫升 | **Skyrizi inj 150 mg/1ml/PEN** | | Abbvie | Induction: 150mg at 0, 4 wk, maintain 150mg Q12W | SC | 97026.6 | 首次：買一贈一，後續買二贈一（需每三個月購買一次）；之後：買三贈一 | | 1.2 | – |
 | Monoclonal Ab against IL-12/23 | Ustekinumab | 喜達諾 靜脈注射液 130毫克/26毫升 | **Stelara conc for soln for inj 130 mg/26 ml** | | | | | 45942.6 | | | | |
-| Monoclonal Ab against IL-12/23 | Guselkumab | 特諾雅 注射液 100毫克/毫升 | **Tremfya soln for inj 100 mg/1 ml/PEN** | | | | | 67502.6 | | | | |
+| Monoclonal Ab against IL-23 (target p19) | Guselkumab | 特諾雅 注射液 100毫克/毫升 | **Tremfya soln for inj 100 mg/1 ml/PEN** | | | | | 67502.6 | | | | |
 
 ---
 
