@@ -32,6 +32,7 @@
 | Monoclonal Ab against IL-17 | Secukinumab | 可善挺　注射液劑　150毫克／毫升 | Cosentyx soln for inj 150mg/1ml | Cosentyx 仿單 | Novartis | PsO: induction 300mg at 0,1,2,3,4 wk, maintain 300mg Q4W<br>AS, PsA: induction 150mg at 0,1,2,3,4 wk, maintain 150mg Q4W, 可增至 300mg | SC | 15501.2 | 首次：買四贈四 或 (買二贈二)×2；之後：都買三贈一 | | 1.2 | 醫師須**親自簽名**，不可蓋章 |
 | Monoclonal Ab against IL-17 | Ixekizumab | 達癬治 注射劑 80毫克/毫升 | **Taltz inj 80 mg/1 ml** | Taltz | Eli Lilly | PsA: induction 160mg at 0 wk, maintain 80mg Q4W<br>AS: 80mg Q4W | SC | 28749.6 | 首次：買二贈一 → 買三贈二；之後：買四贈一 | | 1.2 | – |
 | Monoclonal Ab against IL-17R | Brodalumab | 立美西膚 皮下注射劑 210毫克 | **Lumicef SC inj 210 mg/1.5 ml** | Lumicef 立美西膚皮下注射劑 | 台灣協和麒麟股份有限公司? | PsA, AS: induction 210mg at 0,1,2 wk, maintain 210mg Q2W | SC | 14308.8 | 買四支贈一支 | | 2. 收據影本 | 跟業務或淑君說，跟淑君領藥 |
+| Monoclonal Ab against IL-17A/F | Bimekizumab | 本能適 注射液 160毫克/毫升 | **Bimzelx 160 mg/1 mL/syringe** | | UCB Pharma | AS / nr-axSpA: 160mg Q4W<br>PsA: 160mg Q4W（合併中重度斑塊性乾癬則用乾癬劑量）<br>斑塊性乾癬: 320mg at 0,4,8,12,16 wk, maintain 320mg Q8W（≧120kg 第16週起未達療效可改 320mg Q4W）<br>HS: 320mg at 0,2,4,6,8,10,12,14,16 wk, maintain Q4W | SC | | | | | ATC L04AC21；許可證 衛署藥製字 001289 |
 
 ---
 
