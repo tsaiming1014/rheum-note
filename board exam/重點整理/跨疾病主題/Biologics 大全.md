@@ -22,6 +22,7 @@
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Monoclonal Ab against IL-6R | Tocilizumab | 安挺樂　靜脈點滴注射劑　80毫克／4毫升 | **Actemra sol for infu. 80 mg/4 ml**<br>**Actemra for SC inj 162 mg** | Tocilizumab 仿單 | 中外 | 4mg/kg QM, 可調至 8 mg/kg | IV/SC | 3835.7 / 8418.3 | | | | |
 | Monoclonal Ab against IL-6 | Satralizumab | 櫻普立 皮下注射劑 120毫克 | Enspryng "Y" for SC inj 120 mg/1 ml/PFS | | | | | 192787.1 | | | | |
+| Chimeric monoclonal Ab against IL-6 | Siltuximab | | **Sylvant 100 mg/vial** | | | 11 mg/kg Q3W（持續至治療失敗；輸注 1 小時，需 0.2 µm PES 過濾器）<br>肝、腎不全不需調整劑量；WBC <1000、PLT <50000 或 Hb ≥17 g/dL 應考慮暫停 | IV | 15998 | | | | 適應症：HIV/HHV-8 陰性 iMCD（NCCN first line、CDCN category 1）；2024/2 納入健保 |
 
 ---
 
