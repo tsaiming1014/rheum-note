@@ -117,16 +117,35 @@
 - 許多臨床 remission 的病人，超音波或 MRI 仍有 active synovitis（TEAR trial：所有臨床 remission 病人的腕關節 MRI 均仍有炎症）
 - Boolean remission 比 index-based remission 更嚴格，tapering 後復發風險更低
 
-### Boolean Remission 定義（ACR/EULAR 2.0）
+### Boolean Remission 定義（ACR/EULAR）
 
-任一時間點，以下**全部**滿足：
+任一時間點，以下**4 項全部**滿足即為 Boolean remission：
 
-- Tender joint count ≤ 1
-- Swollen joint count ≤ 1
+- Tender joint count（TJC）≤ 1
+- Swollen joint count（SJC）≤ 1
 - CRP ≤ 1 mg/dL
-- Patient global assessment ≤ 2 cm（0–10 cm VAS）
+- Patient global assessment（PGA）達標
 
-或 index-based：SDAI ≤ 3.3，或 CDAI < 2.8
+**Boolean 1.0（2011 原始版）vs 2.0（2022 修訂版）唯一差別在 PGA 閾值：**
+
+| | TJC | SJC | CRP | PGA（0–10 cm VAS） |
+|---|---|---|---|---|
+| **Boolean 1.0（2011）** | ≤ 1 | ≤ 1 | ≤ 1 mg/dL | **≤ 1 cm** |
+| **Boolean 2.0（2022 修訂）** | ≤ 1 | ≤ 1 | ≤ 1 mg/dL | **≤ 2 cm** |
+
+- **為何修訂？** 1.0 的 PGA ≤1 cm 過於嚴格，許多客觀上已無關節炎（TJC/SJC/CRP 都達標）的病人，只因主觀 PGA 稍高（常受疼痛、疲勞、共病影響）就無法被歸為 remission。2.0 把 PGA 放寬到 ≤2 cm，提升與 SDAI/CDAI remission 的一致性，且**不影響長期 X 光與功能預後**。
+
+### 所有 Remission 定義彙整
+
+| 定義 | TJC | SJC | CRP | PGA | 單一閾值 | 嚴格度/備註 |
+|---|---|---|---|---|---|---|
+| **Boolean 1.0（2011）** | ≤1 | ≤1 | ≤1 mg/dL | ≤1 cm | — | 最嚴格；PGA 太嚴常落榜 |
+| **Boolean 2.0（2022）** | ≤1 | ≤1 | ≤1 mg/dL | ≤2 cm | — | 放寬 PGA，目前建議版本 |
+| **SDAI remission** | — | — | — | — | **SDAI ≤ 3.3** | index-based，與 Boolean 相近 |
+| **CDAI remission** | — | — | — | — | **CDAI ≤ 2.8** | index-based，不需 lab |
+| **DAS28 remission** | — | — | — | — | **DAS28 < 2.6** | 最寬鬆；殘餘關節炎多，**不建議**當 T2T target |
+
+**嚴格度：** Boolean 1.0 > Boolean 2.0 ≈ SDAI ≈ CDAI > DAS28
 
 ### 減藥（Tapering）條件
 
