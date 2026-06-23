@@ -13,13 +13,13 @@
 | | [SjD — 修格連氏症候群](SjD/SjD_致病機轉.md) | [2016 ACR/EULAR](SjD/SjD_Dx.md) | ESSDAI、ESSPRI | - |
 | | [SSc — 全身性硬化症](SSc/SSc_致病機轉.md) | 2013 ACR/EULAR | mRSS、EUSTAR activity index | - |
 | | [IIM — 發炎性肌肉病變](IIM/IIM_Myositis致病機轉完整解析.md) | 2017 EULAR/ACR | IMACS core set、MMT-8 | - |
-| | [APS — 抗磷脂症候群](APS/APS_致病機轉.md) | 2023 ACR/EULAR（舊 2006 Sydney） | aGAPSS | - |
-| **脊椎關節炎** | [AS — 僵直性脊椎炎](SpA/AS/AS_致病機轉.md) | 1984 mNY、2009 ASAS axSpA | BASDAI、ASDAS | ASDAS inactive disease <1.3、ASAS partial remission |
+| | [APS — 抗磷脂症候群](APS/APS_致病機轉.md) | [2023 ACR/EULAR（舊 2006 Sydney）](APS/APS_臨床表現與診斷.md) | aGAPSS | - |
+| **脊椎關節炎** | [AS — 僵直性脊椎炎](SpA/AS/AS_致病機轉.md) | [1984 mNY、2009 ASAS axSpA](SpA/AS/SpA_分類標準與流行病學.md) | BASDAI、ASDAS | ASDAS inactive disease <1.3、ASAS partial remission |
 | | [PsA — 乾癬性關節炎](SpA/PsA/PsA_致病機轉.md) | CASPAR (2006) | DAPSA、MDA | DAPSA remission ≤4、VLDA、MDA |
 | | [其他 SpA（ReA、IBD-A）](SpA/其他SpA/其他SpA_致病機轉_ReA_IBD.md) | 2011 ASAS peripheral SpA | 臨床、CRP | - |
 | **晶體沉積疾病** | [Gout / CPPD / 鈣晶體](Crystal/Gout_致病機轉.md) | 2015 ACR/EULAR (Gout) | 血清尿酸、發作頻率 | 2016 remission 定義（尿酸 <6、無發作等） |
 | **退化性疾病** | OA — 骨關節炎 | 1986/1991 ACR、KL grade | WOMAC、KL 分級 | - |
-| **血管炎** | [AAV（GPA / MPA / EGPA）](Vasculitis/AAV/AAV_三大疾病完整比較.md) | 2022 ACR/EULAR | BVAS、VDI | BVAS = 0（區分 on/off therapy） |
+| **血管炎** | [AAV（GPA / MPA / EGPA）](Vasculitis/AAV/AAV_三大疾病完整比較.md) | [2022 ACR/EULAR](Vasculitis/AAV/AAV_分類診斷的來龍去脈與2022標準.md) | BVAS、VDI | BVAS = 0（區分 on/off therapy） |
 | | 大血管炎（GCA / PMR / Takayasu） | 2022 ACR/EULAR | ITAS2010、臨床+CRP | - |
 | | Behçet 病 | ISG 1990、ICBD 2014 | BDCAF | - |
 | | 其他血管炎（PAN、IgA vasculitis） | 2022 ACR/EULAR (PAN)、EULAR/PRINTO/PRES (IgAV) | 臨床、BVAS | - |
