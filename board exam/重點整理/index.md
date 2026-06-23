@@ -10,7 +10,7 @@
 |------|------|----------|----------|----------------|
 | **結締組織疾病** | [SLE — 全身性紅斑狼瘡](SLE/SLE_致病機轉.md) | [2019 EULAR/ACR](SLE/SLE_分類標準.md) | [SLEDAI-2K、BILAG-2004](SLE/SLE_活性評估與remission.md) | [DORIS remission (2021)、LLDAS](SLE/SLE_活性評估與remission.md) |
 | | [RA — 類風濕性關節炎](RA/RA_致病機轉.md) | [2010 ACR/EULAR](RA/RA_分類標準.md) | [DAS28、CDAI、SDAI](RA/RA_disease_activity_measures_T2T.md) | [ACR/EULAR Boolean、SDAI ≤3.3 / CDAI ≤2.8 / DAS28 <2.6](RA/RA_disease_activity_measures_T2T.md) |
-| | [SjD — 修格連氏症候群](SjD/SjD_致病機轉.md) | [2016 ACR/EULAR](SjD/SjD_Dx.md) | ESSDAI、ESSPRI | - |
+| | [SjD — 修格連氏症候群](SjD/SjD_致病機轉.md) | [2016 ACR/EULAR](SjD/SjD_Dx.md) | [ESSDAI、ESSPRI](SjD/SjD_活性評估.md) | - |
 | | [SSc — 全身性硬化症](SSc/SSc_致病機轉.md) | [2013 ACR/EULAR](SSc/SSc_分類標準.md) | [mRSS、EUSTAR activity index](SSc/SSc_活性評估.md) | - |
 | | [IIM — 發炎性肌肉病變](IIM/IIM_Myositis致病機轉完整解析.md) | 2017 EULAR/ACR | IMACS core set、MMT-8 | - |
 | | [APS — 抗磷脂症候群](APS/APS_致病機轉.md) | [2023 ACR/EULAR（舊 2006 Sydney）](APS/APS_臨床表現與診斷.md) | aGAPSS | - |
