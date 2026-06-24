@@ -16,7 +16,7 @@
 | | [APS — 抗磷脂症候群](APS/APS_致病機轉.md) | [2023 ACR/EULAR（舊 2006 Sydney）](APS/APS_臨床表現與診斷.md) | aGAPSS | - |
 | **脊椎關節炎** | [AS — 僵直性脊椎炎](SpA/AS/AS_致病機轉.md) | [2009 ASAS axSpA](SpA/AS/SpA_分類標準與流行病學.md) | [BASDAI、ASDAS](SpA/AS/AS_疾病活性與評估工具.md) | [ASDAS inactive disease <1.3、ASAS partial remission](SpA/AS/AS_疾病活性與評估工具.md) |
 | | [PsA — 乾癬性關節炎](SpA/PsA/PsA_致病機轉.md) | [CASPAR (2006)](SpA/PsA/PsA_分類標準.md) | [DAPSA、MDA](SpA/PsA/PsA_活性評估與remission.md) | [DAPSA remission ≤4、VLDA、MDA](SpA/PsA/PsA_活性評估與remission.md) |
-| | [其他 SpA（ReA、IBD-A）](SpA/其他SpA/其他SpA_致病機轉_ReA_IBD.md) | 2011 ASAS peripheral SpA | 臨床、CRP | - |
+| | [其他 SpA（ReA、IBD-A）](SpA/其他SpA/其他SpA_致病機轉_ReA_IBD.md) | [2011 ASAS peripheral SpA](SpA/AS/SpA_分類標準與流行病學.md) | 臨床、CRP | - |
 | **晶體沉積疾病** | [Gout / CPPD / 鈣晶體](Crystal/Gout_致病機轉.md) | 2015 ACR/EULAR (Gout) | 血清尿酸、發作頻率 | 2016 remission 定義（尿酸 <6、無發作等） |
 | **退化性疾病** | OA — 骨關節炎 | 1986/1991 ACR、KL grade | WOMAC、KL 分級 | - |
 | **非發炎性疼痛** | Fibromyalgia — 纖維肌痛症 | 2016 ACR（修訂 2010/2011；WPI+SSS） | FIQR、WPI+SSS | - |
