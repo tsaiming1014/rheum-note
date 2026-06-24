@@ -67,7 +67,7 @@
 > - 與一般族群相反（一般族群低 LDL 是好的）
 > - 因為低 LDL 反映高發炎狀態，而非真的保護
 
-![Lipid Paradox](images/lipid%20paradox.webp)
+![Lipid Paradox](../images/lipid%20paradox.webp)
 
 ---
 
