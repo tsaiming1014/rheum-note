@@ -179,6 +179,10 @@ Neutrophil 從血液遷移 → 進入關節腔
 | **Corona zone** | Macrophage、多核巨細胞、plasma cells、mast cells | 生物活性區；超音波顯示低回音環 |
 | **Fibrovascular zone** | 結締組織、T cells、B cells、遷移中 macrophage | 包裹 + 持續招募免疫細胞 |
 
+![Fig 96.18 Tophus 三層結構](../images/Fig%2096.18.png)
+
+*Fig. 96.18（Kelly Ch96）— Tophus 的三層同心結構：**中央 MSU crystal zone**（晶體核心）、**中層 inflammatory corona**（生物活性區，聚集 macrophage、多核巨細胞 giant cell、plasma cell、mast cell；超音波呈低回音環）、**外層 fibrovascular zone**（結締組織包裹，含 T cell、B cell 與遷移中的 macrophage、neutrophil）。*
+
 ### Tophus 造成骨骼破壞機轉
 
 - Macrophage 分泌 **IL-1β、TNF、IL-6、IL-17、MMP-2/9、M-CSF**
