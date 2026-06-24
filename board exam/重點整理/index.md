@@ -12,7 +12,7 @@
 | | [RA — 類風濕性關節炎](RA/RA_致病機轉.md) | [2010 ACR/EULAR](RA/RA_分類標準.md) | [DAS28、CDAI、SDAI](RA/RA_disease_activity_measures_T2T.md) | [ACR/EULAR Boolean、SDAI ≤3.3 / CDAI ≤2.8 / DAS28 <2.6](RA/RA_disease_activity_measures_T2T.md) |
 | | [SjD — 修格連氏症候群](SjD/SjD_致病機轉.md) | [2016 ACR/EULAR](SjD/SjD_Dx.md) | [ESSDAI、ESSPRI](SjD/SjD_活性評估.md) | - |
 | | [SSc — 全身性硬化症](SSc/SSc_致病機轉.md) | [2013 ACR/EULAR](SSc/SSc_分類標準.md) | [mRSS、EUSTAR activity index](SSc/SSc_活性評估.md) | - |
-| | [IIM — 發炎性肌肉病變](IIM/IIM_Myositis致病機轉完整解析.md) | 2017 EULAR/ACR | IMACS core set、MMT-8 | - |
+| | [IIM — 發炎性肌肉病變](IIM/IIM_Myositis致病機轉完整解析.md) | [2017 EULAR/ACR DM、239th ENMC DM、2025 EULAR/ACR ASyS](IIM/IIM_分類標準.md) | IMACS core set、MMT-8 | - |
 | | [APS — 抗磷脂症候群](APS/APS_致病機轉.md) | [2023 ACR/EULAR（舊 2006 Sydney）](APS/APS_臨床表現與診斷.md) | aGAPSS | - |
 | **脊椎關節炎** | [AS — 僵直性脊椎炎](SpA/AS/AS_致病機轉.md) | [1984 mNY、2009 ASAS axSpA](SpA/AS/SpA_分類標準與流行病學.md) | BASDAI、ASDAS | ASDAS inactive disease <1.3、ASAS partial remission |
 | | [PsA — 乾癬性關節炎](SpA/PsA/PsA_致病機轉.md) | CASPAR (2006) | DAPSA、MDA | DAPSA remission ≤4、VLDA、MDA |
