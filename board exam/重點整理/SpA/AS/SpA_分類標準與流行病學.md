@@ -138,6 +138,45 @@ IBP、關節炎、附著點炎(腳跟)、葡萄膜炎、指炎、乾癬、Crohn'
 
 ---
 
+## 三之二、ReA 與 IBD-A 的分類標準現況
+
+> 重點：**ReA、IBD-A 都沒有「已驗證」的專屬分類標準**，實務上**都套用 ASAS（axial / peripheral）標準**（IBD 本身即 ASAS 的一個 SpA feature）。這也是兩者在目錄中共用 ASAS pSpA 連結的原因。
+
+### ReA（反應性關節炎）
+
+歷次嘗試**均未通過驗證（none validated）**：
+
+- **1979 ARA**（當時稱 Reiter's syndrome）：周邊關節炎 + 尿道炎/子宮頸炎、發作 >1 個月。後因 Hans Reiter 為納粹而棄用此 eponym。
+- **最新版 = 第四屆國際 ReA 工作坊（Berlin, 1999）** 提出的診斷標準，**仍未驗證**：
+
+**Major（兩項都要）**
+
+1. 關節炎，符合下列 3 項中 **≥2**：**不對稱**、**單/寡關節**、**下肢**為主
+2. **前驅症狀性感染**：腸炎（腹瀉，關節炎前 3 天–6 週）或尿道炎
+
+**Minor（至少一項）**
+
+- 觸發感染證據（Chlamydia 尿液/拭子、腸道病原糞便培養）
+- 滑膜持續感染證據（Chlamydia PCR / 免疫組化）
+
+判定：**Definite** = 兩 major + 一 minor；**Probable** = 兩 major 無 minor，或一 major + ≥1 minor。
+
+### IBD 相關關節炎（enteropathic）
+
+- **完全沒有正式分類標準**（formal classification criteria don't yet exist）。
+- 唯一舊分類：**Oxford 分型（Orchard 1998）**，僅針對**周邊關節炎**，**未經前瞻驗證、已退流行**：
+
+| 分型 | 特徵 |
+|---|---|
+| **Type 1**（寡關節型）| **<5 關節**、大關節、下肢、**與腸道活動相關**、自限 |
+| **Type 2**（多關節型）| **≥5 關節**、對稱、**與腸道活動無關**、病程較久 |
+
+- 缺乏專屬標準下，**直接用 ASAS axial / peripheral SpA 標準**。
+
+> 一句話：**ReA 最新是「1999 Berlin 診斷標準（未驗證）」；IBD-A 只有「Oxford Type 1/2（周邊、未驗證、退流行）」；兩者實務上都靠 ASAS SpA 標準收編。**
+
+---
+
 ## 四、HLA-B27 關鍵數字
 
 | 項目 | 數字 |
