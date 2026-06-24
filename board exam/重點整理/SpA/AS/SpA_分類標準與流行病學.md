@@ -51,17 +51,94 @@ IBP、關節炎、附著點炎(腳跟)、葡萄膜炎、指炎、乾癬、Crohn'
 
 ---
 
-## 四、axSpA 概念與標準演進補充
+## 三之一、ASAS 分類標準詳解
 
-- **axSpA** = **radiographic axSpA（=AS）** + **nr-axSpA**（連續光譜，非兩種病）
-- nr-axSpA 關鍵：**X 光正常但 MRI 有發炎**
-- 影像進展很慢：DESIR cohort 5 年僅 5% 由 nr 進展為 radiographic
-- **uSpA（未分化型）**：ASAS 普及後幾乎被淘汰，多可歸入 axSpA 或 pSpA
-- IBP 三套標準：**Calin、Berlin、ASAS(2009)** — 研究顯示三者都無法在慢性背痛者中區分出 axSpA
+> ASAS = Assessment of SpondyloArthritis international Society。2009 年發表 axSpA、2011 年發表 pSpA 兩套標準，依**主要症狀是中軸還是周邊**決定套用哪一套。
+
+![ASAS axSpA 分類標準](../../images/ASAS%20criteria%20for%20axial%20SpA.png)
+
+### 背景：為什麼要有 ASAS（取代 mNY 的動機）
+
+- mNY（1984）**一定要 X 光上有確定的薦腸關節炎**才能分類為 AS，但放射學變化往往在發病後**數年才出現** → 早期病人會被漏掉。
+- ASAS 引入 **axSpA（中軸脊椎關節炎）** 這個**更廣的概念**，刻意涵蓋兩端：
+  - **nr-axSpA（非放射性）**：X 光還正常，但臨床/MRI 已有病。
+  - **radiographic axSpA（= AS）**：已符合 mNY 的放射學變化。
+- 兩者是**同一連續光譜**，非兩種病（DESIR：5 年僅約 5% 由 nr 進展為 radiographic）。
+- **uSpA（未分化型）**：ASAS 普及後幾乎被淘汰，多可重新歸入 axSpA 或 pSpA。
+
+### 進入條件（Entry criteria，兩條都要）
+
+1. **慢性背痛 ≥ 3 個月**
+2. **發病年齡 < 45 歲**
+
+> ⚠️ 陷阱：進入條件是「**慢性背痛**」，**不是** inflammatory back pain（IBP）。
+> 原因：研究（759 名慢性下背痛者）顯示 Calin / Berlin / ASAS 三套 IBP 標準**都無法**在慢性背痛中區分出 axSpA，故改用較寬的「慢性背痛」當入口；**IBP 退居為 11 項 SpA features 之一**。
+
+### 兩條路徑（符合任一即可分類）
+
+**① 影像臂（Imaging arm）**
+
+> **影像上薦腸關節炎 ＋ ≥ 1 項 SpA feature**
+
+**② 臨床臂（Clinical arm）**
+
+> **HLA-B27 陽性 ＋ ≥ 2 項 SpA feature**
+
+> 🎯 最常考陷阱：**影像臂只需「1 個」特徵，臨床臂需「2 個」特徵**。
+> 記法：有客觀影像證據（較硬）→ 門檻較低（1 個）；只有 B27（較軟）→ 要更多臨床特徵（2 個）。
+
+### 「影像上薦腸關節炎」的定義（二擇一）
+
+| 類型 | 定義 |
+|---|---|
+| **MRI（active）** | MRI 上**活動性（急性）發炎**，且**高度提示**與 SpA 相關的薦腸關節炎（即骨髓水腫 BME）|
+| **X 光（structural）** | 符合 **mNY 標準的確定放射學薦腸關節炎**（雙側 grade 2–4 或單側 grade 3–4）|
+
+> 即：MRI 看「**發炎**」、X 光看「**結構破壞**」，任一達標即算 imaging-positive。
+
+### 11 項 SpA features（務必背熟）
+
+1. 發炎性背痛（IBP）
+2. 關節炎（arthritis）
+3. 附著點炎（enthesitis，**腳跟** heel）
+4. 葡萄膜炎（uveitis，前葡萄膜炎）
+5. 指炎（dactylitis）
+6. 乾癬（psoriasis）
+7. 克隆氏症 / 潰瘍性結腸炎（Crohn's / UC）
+8. NSAID 反應佳（good response to NSAIDs）
+9. SpA 家族史（family history for SpA）
+10. **HLA-B27**
+11. **CRP 升高**
+
+> 注意：HLA-B27 本身**同時是**「臨床臂的入場條件」**也是**「11 項特徵之一」——但在臨床臂裡 B27 已被當入場條件用掉，需另外再湊 2 項其他特徵。
+
+### 效能
+
+- ASAS axSpA：**敏感度 82.9% / 特異度 84.4%**
+- ASAS pSpA：敏感度 77.8% / 特異度 82.2%；**合併使用**（axSpA + pSpA）敏感度 79.5% / 特異度 83.3%
+
+### ASAS 周邊型（pSpA，2011）
+
+**進入條件**：僅有**周邊**表現 —— 周邊關節炎（典型**下肢為主／不對稱**）and/or 附著點炎 and/or 指炎；**無年齡上限**（與中軸不同）。
+
+之後須符合：
+
+- **Set A 任 1 項**：葡萄膜炎、乾癬、IBD、前驅感染（preceding infection）、HLA-B27、影像薦腸關節炎
+- **或 Set B 任 2 項**：關節炎、附著點炎、指炎、過去 IBP 病史、SpA 家族史
+
+> 演進：早期 axSpA 與 pSpA 嚴格互斥（有背痛就走 axSpA）；現在改為「**以主要症狀（predominant symptom）決定**」套哪一套。
+
+### 補充：三套 IBP 標準（axSpA 入口用「慢性背痛」，但 IBP 是 feature 之一）
+
+| 標準 | 條目重點 | 達標 | 效能 |
+|---|---|---|---|
+| **Calin** | 發病 <40 歲、隱匿發作、>3 個月、晨僵、運動改善 | 5 項中 ≥4 項 | Sn 95% / Sp 85% |
+| **Berlin** | 晨僵 >30 分、運動（非休息）改善、後半夜痛醒、交替臀痛 | ≥2 項 | Sn 70% / Sp 81% |
+| **ASAS IBP（2009）** | 發病 <40 歲、隱匿發作、運動改善、休息不改善、夜間痛（起身改善）| 5 項中 ≥4 項 | Sn 77% / Sp 92% |
 
 ---
 
-## 五、HLA-B27 關鍵數字
+## 四、HLA-B27 關鍵數字
 
 | 項目 | 數字 |
 |---|---|
@@ -78,7 +155,7 @@ IBP、關節炎、附著點炎(腳跟)、葡萄膜炎、指炎、乾癬、Crohn'
 
 ---
 
-## 六、各亞型流行病學重點
+## 五、各亞型流行病學重點
 
 **SpA 全球盛行率 ~0.55%**（最低：東南亞 0.20%；最高：北極圈社群 1.61%）
 
