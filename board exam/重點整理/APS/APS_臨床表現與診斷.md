@@ -114,7 +114,7 @@ CAPS（多器官血栓，數天內發生）
 **設計理念**：加權積分系統，取代舊版 Sapporo（1999）/ Sydney 修訂版（2006）的二元是/否判斷  
 **目的**：研究用分類，特異性提升至 99%（vs Sapporo 86%），敏感性 84%
 
-![2023 APS classification criteria](images/2023%20APS%20classification%20criteria.png)
+![2023 APS classification criteria](../images/2023%20APS%20classification%20criteria.png)
 
 ---
 

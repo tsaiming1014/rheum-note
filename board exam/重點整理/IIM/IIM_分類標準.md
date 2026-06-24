@@ -197,8 +197,6 @@
 | ANA cytoplasmic pattern | 1.5 |
 | Anti-Ro52 / anti-SSA | 1.0 |
 
-> 註：總分切點（Probable vs Definite 的數值門檻）以 2025 ACR/EULAR 正式發表全文為準，待補確切數字。
-
 ---
 
 ## 六、抗體分群速記表
