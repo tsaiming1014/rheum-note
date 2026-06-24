@@ -14,7 +14,7 @@
 | | [SSc — 全身性硬化症](SSc/SSc_致病機轉.md) | [2013 ACR/EULAR](SSc/SSc_分類標準.md) | [mRSS、EUSTAR activity index](SSc/SSc_活性評估.md) | - |
 | | [IIM — 發炎性肌肉病變](IIM/IIM_Myositis致病機轉完整解析.md) | [2017 EULAR/ACR DM、239th ENMC DM、2025 EULAR/ACR ASyS](IIM/IIM_分類標準.md) | [IMACS core set、MMT-8](IIM/IIM_疾病活性與療效評估.md) | - |
 | | [APS — 抗磷脂症候群](APS/APS_致病機轉.md) | [2023 ACR/EULAR（舊 2006 Sydney）](APS/APS_臨床表現與診斷.md) | aGAPSS | - |
-| **脊椎關節炎** | [AS — 僵直性脊椎炎](SpA/AS/AS_致病機轉.md) | [1984 mNY、2009 ASAS axSpA](SpA/AS/SpA_分類標準與流行病學.md) | BASDAI、ASDAS | ASDAS inactive disease <1.3、ASAS partial remission |
+| **脊椎關節炎** | [AS — 僵直性脊椎炎](SpA/AS/AS_致病機轉.md) | [1984 mNY、2009 ASAS axSpA](SpA/AS/SpA_分類標準與流行病學.md) | [BASDAI、ASDAS](SpA/AS/AS_疾病活性與評估工具.md) | [ASDAS inactive disease <1.3、ASAS partial remission](SpA/AS/AS_疾病活性與評估工具.md) |
 | | [PsA — 乾癬性關節炎](SpA/PsA/PsA_致病機轉.md) | CASPAR (2006) | DAPSA、MDA | DAPSA remission ≤4、VLDA、MDA |
 | | [其他 SpA（ReA、IBD-A）](SpA/其他SpA/其他SpA_致病機轉_ReA_IBD.md) | 2011 ASAS peripheral SpA | 臨床、CRP | - |
 | **晶體沉積疾病** | [Gout / CPPD / 鈣晶體](Crystal/Gout_致病機轉.md) | 2015 ACR/EULAR (Gout) | 血清尿酸、發作頻率 | 2016 remission 定義（尿酸 <6、無發作等） |
