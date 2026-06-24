@@ -71,6 +71,8 @@
 
 > 個別病人可能同時符合 AxPsA 與 AxSpA，難以截然二分。軸向侵犯危險因子：**嚴重周邊關節炎 + HLA-B27**。
 
+> 📌 註：上表 syndesmophyte「隨機/bulky」為傳統放射學說法；低劑量 CT 新證據顯示 PsA **其實無一致型態**、許多 bulky 病灶實為退化性 osteophyte。詳見 [AxPsA vs AxSpA 鑑別](AxPsA_vs_AxSpA鑑別.md)。
+
 ---
 
 ## 五、鑑別診斷重點（Kelly Table 78.1）
