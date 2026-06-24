@@ -150,11 +150,20 @@
 
 ## 五、Anti-synthetase Syndrome — 2025 ACR/EULAR（CLASS）分類標準
 
-> 即 CLASS 計畫（EULAR/ACR 資助，分析 948 ASSD vs 1077 對照），2025/01 正式發表。分 **Probable / Definite** 兩級。
+> 即 CLASS 計畫（EULAR/ACR 資助，分析 948 ASSD vs 1077 對照），2025/01 正式發表。分 **Definite / Probable / Possible** 三級。
 
-**入組（entry）**：至少一項核心臨床特徵 —— **關節炎、肌炎、或肺部疾病（ILD）**。
+![2025 EULAR/ACR ASyS 分類標準（含 cutoff）](../images/ASyS%20criteria%20EULAR%20ACR.png)
 
-**Definite ASSD**：另須 **抗 ARS 抗體確認陽性**。
+**計分原則**：同一域（clinical / serological）只取最高權重；未出現/未評估/未檢 = 0。
+
+**分級切點（cutoff）**
+
+| 分級 | 總分 | 臨床要求 | 抗 ARS 抗體 |
+|---|---|---|---|
+| **Definite** | ≥ 5.5 | 至少一項 clinical domain | **必須陽性（mandatory）** |
+| **Probable** | ≥ 5.0 | 至少一項 clinical domain | 非必須（可陰性/未測） |
+| **Possible** | ≥ 4.0 | 至少一項 clinical domain 或 other clinical features | 非必須（可陰性/未測） |
+
 （Definite 表現：驗證組 sens/spec 86.8% / 99.2%；金標準組 94.3% / 99.7%）
 
 ### 加權計分（同一域只取最高權重；未評估/未檢 = 0）
