@@ -4,7 +4,7 @@
 
 > 重要觀念：分類標準（classification criteria）≠ 診斷標準（diagnostic criteria）。分類標準是為了在臨床研究中建立同質性病人族群，強調高特異度、犧牲敏感度，不可拿來診斷個別病人。
 
-![血管炎分類](images/Vasculitis%20classification.png)
+![血管炎分類](../images/Vasculitis%20classification.png)
 
 ---
 

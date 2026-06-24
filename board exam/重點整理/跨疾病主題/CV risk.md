@@ -76,7 +76,7 @@
 
 ### 血脂（Lipid Paradox）：
 
-![Lipid Paradox](images/lipid%20paradox.webp)
+![Lipid Paradox](../images/lipid%20paradox.webp)
 
 - RA 患者因慢性發炎，**TC、LDL-C 偏低**（被抑制）
 - 但 **低 LDL 仍對應高 CVD 風險**（paradoxical）
