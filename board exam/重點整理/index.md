@@ -19,6 +19,7 @@
 | | [其他 SpA（ReA、IBD-A）](SpA/其他SpA/其他SpA_致病機轉_ReA_IBD.md) | 2011 ASAS peripheral SpA | 臨床、CRP | - |
 | **晶體沉積疾病** | [Gout / CPPD / 鈣晶體](Crystal/Gout_致病機轉.md) | 2015 ACR/EULAR (Gout) | 血清尿酸、發作頻率 | 2016 remission 定義（尿酸 <6、無發作等） |
 | **退化性疾病** | OA — 骨關節炎 | 1986/1991 ACR、KL grade | WOMAC、KL 分級 | - |
+| **非發炎性疼痛** | Fibromyalgia — 纖維肌痛症 | 2016 ACR（修訂 2010/2011；WPI+SSS） | FIQR、WPI+SSS | - |
 | **血管炎** | [AAV（GPA / MPA / EGPA）](Vasculitis/AAV/AAV_三大疾病完整比較.md) | [2022 ACR/EULAR](Vasculitis/AAV/AAV_分類診斷的來龍去脈與2022標準.md) | BVAS、VDI | BVAS = 0（區分 on/off therapy） |
 | | 大血管炎（GCA / PMR / Takayasu） | 2022 ACR/EULAR | ITAS2010、臨床+CRP | - |
 | | Behçet 病 | ISG 1990、ICBD 2014 | BDCAF | - |
