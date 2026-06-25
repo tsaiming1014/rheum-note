@@ -128,7 +128,21 @@ Sensor → ASC → caspase-1 → 切 pro-IL-1β / pro-IL-18 / gasdermin-D
 
   - IL-1 阻斷：anakinra、canakinumab、rilonacept（CAPS、FMF、TRAPS、HIDS）
   - IL-18 阻斷：用於 **NLRC4** 型
-- **colchicine**：FMF 第一線；機轉連結到發炎體（微管依賴）
+- **colchicine**：FMF 第一線、痛風急性發作（機轉見下）
+
+### colchicine 作用機轉（Kelly Ch.97）
+
+核心：**結合 tubulin → 阻止微管（microtubule）聚合**；下游抗發炎效果都是「微管壞掉」的連鎖反應：
+
+- **破壞發炎體組裝**：NLRP3／ASC／粒線體需沿微管聚合，微管被卡 → **NLRP3 及 Pyrin 發炎體無法活化 → caspase-1 ↓ → IL-1β ↓**（Pyrin 活化為微管依賴，故 colchicine 為 FMF 第一線）。
+- **抑制嗜中性球**趨化、黏附、移行 → 跑不進關節（痛風緩解）。
+- 減少白三烯、細胞激素生成與吞噬作用。
+
+藥理（高產出）：
+
+- **治療指數窄**，過量死亡率高。
+- 經 **CYP3A4** 代謝、**P-glycoprotein（P-gp）** 排出 → 與 **clarithromycin、protease inhibitors、cyclosporine、tacrolimus、statin** 等併用會累積中毒。
+- 肝／腎功能不良需減量；併用強 CYP3A4／P-gp 抑制劑為禁忌。
 
 ---
 
