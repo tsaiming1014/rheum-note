@@ -57,13 +57,17 @@
 
 **FDA 核准 3 種：pregabalin、duloxetine、milnacipran。**
 
-| 類別 | 藥物 | 機轉 / 重點 |
-|---|---|---|
-| **SNRI** | duloxetine、milnacipran | 混合 serotonin/NE 再回收抑制；**加上 NE 才有止痛效果**；起效 2–4 週 |
-| **Gabapentinoid** | pregabalin、gabapentin | 結合鈣離子通道 **α2δ subunit**，抑制興奮性傳遞物；助眠；副作用：頭暈、嗜睡、體重增加、水腫 |
-| **TCA / 肌鬆** | 低劑量 amitriptyline、cyclobenzaprine | 改善多症狀與睡眠；副作用：口乾、便秘、鎮靜、體重增加 |
-| SSRI | fluoxetine、paroxetine… | 止痛效果差，但助憂鬱/焦慮 |
-| 弱鴉片 | tramadol ± acetaminophen | 可考慮，但效益存疑 |
+| 藥物（類別） | 起始 | 目標 / 有效劑量 | 給法 | 副作用 / 備註 |
+|---|---|---|---|---|
+| **Duloxetine**（SNRI, FM核准） | 20–30 mg 早上 | **60 mg/day**（可至 120） | QD | 噁心、性功能障礙、體重增加、睡眠障礙；**血清素症候群**風險；肝功能不全禁用；起效 2–4 週 |
+| **Milnacipran**（SNRI, FM核准） | 12.5 mg | **100 mg/day**（50 mg BID），可至 200 | BID | 噁心、心悸、血壓上升；血清素症候群風險；對睡眠障礙較有利 |
+| **Pregabalin**（gabapentinoid, FM核准） | 75 mg | 一般 150–300；**FM 仿單可至 450 mg/day** | BID | 頭暈、嗜睡、口乾、**周邊水腫**、視力模糊、體重增加、思考遲鈍；自殺意念風險；欣快/濫用（**Schedule V**）；停藥需緩慢遞減 |
+| **Gabapentin**（off-label） | ~300 mg | 疼痛 **1800 mg/day（上限）**；FM 試驗 1200–2400 | TID | 同 pregabalin（頭暈、嗜睡、水腫、體重增加、思考遲鈍、自殺意念）；非線性、滴定 10–14 天；癲癇才可至 3600 |
+| **Amitriptyline**（TCA, off-label） | 5–10 mg 睡前 | **25–50 mg 睡前**（少數至 200） | QHS | **抗膽鹼**：口乾、便秘、鎮靜、體重增加；助眠、改善多症狀 |
+| **Cyclobenzaprine**（肌鬆, off-label） | 5 mg 睡前 | **5–10 mg 睡前** | QHS | 鎮靜、口乾（結構近 TCA）；助眠 |
+| **Tramadol ± acetaminophen**（弱鴉片） | — | **上限 400 mg/day** | — | 噁心、頭暈、**癲癇發作**、**血清素症候群**、依賴/濫用風險；效益存疑 |
+| **Venlafaxine**（SNRI, off-label） | 37.5 mg | 37.5–225 mg/day | QD | 噁心、血壓上升（劑量相關）、血清素症候群；證據較弱 |
+| SSRI（off-label） | — | 依藥而定 | QD | 止痛效果差；助憂鬱/焦慮；噁心、性功能障礙、體重增加 |
 
 **不建議 / 無效：**
 
