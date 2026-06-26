@@ -12,7 +12,7 @@
 
 **三者主動脈及分支受累分布：**
 
-![GCA/TAK/Isolated aortitis 主動脈受累分布](../images/LVV%20aorta%20involve.png)
+![GCA/TAK/Isolated aortitis 主動脈受累分布](../../images/LVV%20aorta%20involve.png)
 
 - **GCA**：胸主動脈、頸內/外動脈及分支、椎動脈、鎖骨下動脈、腋動脈為主；腸骨–股動脈也可受累；**對稱性**
 - **TAK**：全主動脈均可受累；鎖骨下動脈、頸總動脈、椎動脈等主動脈弓分支典型受累；**早期常不對稱**
@@ -274,9 +274,9 @@
 
 三者均為**肉芽腫性全層血管炎**：淋巴球聚集於外膜，巨噬細胞聚集於中膜 → 融合形成巨細胞肉芽腫，外/內彈力板破壞。
 
-![LVV 病理生理機轉](../images/LVV%20pathogenesis.png)
+![LVV 病理生理機轉](../../images/LVV%20pathogenesis.png)
 
-![GCA/TAK/Isolated aortitis 組織病理切片](../images/LVV%20pathology.png)
+![GCA/TAK/Isolated aortitis 組織病理切片](../../images/LVV%20pathology.png)
 
 **GCA vs TAK 的組織學差異：**
 
