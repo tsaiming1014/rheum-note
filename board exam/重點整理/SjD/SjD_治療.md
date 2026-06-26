@@ -34,10 +34,21 @@
 |---|---|
 | 人工唾液 | OTC（hypromellose/methylcellulose），效果短暫 |
 | 無糖糖果/口香糖 | 刺激殘存唾液分泌 |
-| **Pilocarpine** 5 mg TID–QID | M3R 促分泌劑；副作用：出汗、潮紅；禁忌：窄角青光眼、中重度氣喘、虹膜炎 |
-| **Cevimeline** | 同 M3R 促分泌；RCT 顯示改善乾眼與乾口 |
+| **Pilocarpine** | **5 mg TID–QID**；M3R agonist，活化副交感神經效應 → 促腺體分泌 |
+| **Cevimeline** | **30 mg TID**；同為 M3R agonist，對 M3R 親和力更高、半衰期較長 |
 | 牙齒保護 | 每日氟化物、定期牙科追蹤 |
 | **口腔念珠菌** | Nystatin / Clotrimazole troches / Fluconazole（10–14 天）；角唇炎 → clotrimazole cream |
+
+**Pilocarpine / Cevimeline 共同副作用與禁忌：**
+
+副作用均為**副交感過度活化**所致：
+
+- 出汗、潮紅（外分泌腺活化）
+- 視力模糊（睫狀肌收縮 → 近視偏移）
+- 頻尿（膀胱逼尿肌收縮）
+- 噁心、腹痛、腹瀉（腸道平滑肌活化）
+
+禁忌：**窄角青光眼、虹膜炎、中重度氣喘**（副交感活化 → 支氣管收縮）
 
 ---
 
