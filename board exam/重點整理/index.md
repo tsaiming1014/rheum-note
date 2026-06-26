@@ -26,7 +26,7 @@
 | | Behçet 病 | ISG 1990、ICBD 2014 | BDCAF | - | 2025 EULAR |
 | | 其他血管炎（PAN、IgA vasculitis） | 2022 ACR/EULAR (PAN)、EULAR/PRINTO/PRES (IgAV) | 臨床、BVAS | - | - |
 | **自體發炎疾病** | FMF / CAPS / 其他 | Tel Hashomer、Eurofever/PRINTO | AIDAI | - | 2024 EULAR/PReS |
-| | AOSD — 成人型 Still's 病 | Yamaguchi (1992)、Fautrel (2002) | (modified) Pouchot / systemic score、ferritin | - | - |
+| | AOSD — 成人型 Still's 病 | Yamaguchi (1992)、Fautrel (2002) | (modified) Pouchot / systemic score、ferritin | - | 2024 EULAR/PReS |
 | **感染相關** | Septic arthritis / Lyme / Viral | 關節液培養（無分類標準） | 臨床、培養追蹤 | 治癒 / 微生物根除 | - |
 | **兒童風濕病** | JIA — 幼年型自體免疫關節炎 | ILAR (1997/2004)、2019 PRINTO | JADAS-27/71、cJADAS | Wallace criteria（clinical inactive / remission on/off med） | 2019/2021 ACR |
 | **過敏相關疾病** | Asthma — 氣喘 | GINA 診斷準則 | ACT、ACQ、FeNO、肺功能 | - | 2025 GINA |
