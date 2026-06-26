@@ -23,7 +23,7 @@
 | **非發炎性疼痛** | [Fibromyalgia — 纖維肌痛症](Fibromyalgia/Fibromyalgia_致病機轉與治療.md) | [2016 ACR（修訂 2010/2011；WPI+SSS）](Fibromyalgia/Fibromyalgia_分類與診斷標準.md) | FIQR、WPI+SSS | - | 2016 EULAR |
 | **血管炎** | [AAV（GPA / MPA / EGPA）](Vasculitis/AAV/AAV_三大疾病完整比較.md) | [2022 ACR/EULAR](Vasculitis/AAV/AAV_分類診斷的來龍去脈與2022標準.md) | [BVAS、VDI](Vasculitis/AAV/AAV_BVAS活性評估.md) | BVAS = 0（區分 on/off therapy） | [2021 ACR / 2022 EULAR](Vasculitis/AAV/AAV_治療.md) / 2025 BSR |
 | | [大血管炎（GCA / PMR / Takayasu）](Vasculitis/Large%20vessel/LVV_分類標準與臨床特徵.md) | [2022 ACR/EULAR](Vasculitis/Large%20vessel/LVV_分類標準與臨床特徵.md) | ITAS2010、臨床+CRP | - | [2021 ACR/VF](Vasculitis/Large%20vessel/LVV_GCA_TAK_治療.md) |
-| | Behçet 病 | ISG 1990、ICBD 2014 | BDCAF | - | 2025 EULAR / 2025 BSR |
+| | Behçet 病 | ISG 1990、ICBD 2014 | BDCAF | - | [2025 EULAR](Vasculitis/Behcet/Behcet_治療總整理_2025.md) |
 | | 其他血管炎（PAN、IgA vasculitis） | 2022 ACR/EULAR (PAN)、EULAR/PRINTO/PRES (IgAV) | 臨床、BVAS | - | - |
 | **自體發炎疾病** | FMF / CAPS / 其他 | Tel Hashomer、Eurofever/PRINTO | AIDAI | - | 2024 EULAR/PReS（FMF）/ 2021 ACR/EULAR（CAPS、TRAPS、MKD、DIRA）|
 | | AOSD — 成人型 Still's 病 | Yamaguchi (1992)、Fautrel (2002) | (modified) Pouchot / systemic score、ferritin | - | 2024 EULAR/PReS |
