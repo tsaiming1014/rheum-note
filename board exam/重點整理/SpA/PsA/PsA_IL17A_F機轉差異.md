@@ -205,6 +205,7 @@ IL-1β/IL-2  → ILC3 ───────────────────�
 - Brown MA, et al. Low uveitis rates in axSpA treated with bimekizumab（BE MOBILE pooled）. [Ann Rheum Dis 2024;83:1722–1730](https://doi.org/10.1136/ard-2024-225933)
 - Cole et al. Differential Regulation of IL-17A and IL-17F via STAT5. [JACI 2023](https://doi.org/10.1016/j.jaci.2023.03.035)
 - [PMC10299014 — Pathogenic Role of IL-17F in PsA/SpA](https://pmc.ncbi.nlm.nih.gov/articles/PMC10299014/)
+- IL-17 家族總覽表來源：[The IL-17 family in diseases（Nature STTT 2023）](https://www.nature.com/articles/s41392-023-01620-3)、[IL-17 family: cytokines, receptors and signaling（PMC3867811）](https://pmc.ncbi.nlm.nih.gov/articles/PMC3867811/)、[Roles of IL-25（PMC8194343）](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8194343/)
 - [PMC12869329 — Dual Inhibition of IL-17A/F in PsA and axSpA](https://pmc.ncbi.nlm.nih.gov/articles/PMC12869329/)
 - BE COMPLETE — Merola et al. [Lancet 2023](https://doi.org/10.1016/S0140-6736(22)02303-0)
 - BE OPTIMAL — McInnes et al. [Lancet 2023](https://doi.org/10.1016/S0140-6736(22)02302-9)
