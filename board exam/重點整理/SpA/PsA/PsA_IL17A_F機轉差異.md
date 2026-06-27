@@ -84,8 +84,6 @@ IL-24 → 抑制 NF-κB → 壓制 IL-17F、GM-CSF
 
 **臨床意涵：** 這直接解釋 secukinumab / ixekizumab（單抑 IL-17A）長期療效的侷限——你擋掉 IL-17A，卻**解放了 IL-17F 與 GM-CSF**。Bimekizumab 同時擋 IL-17A + IL-17F，把這條逃脫路徑一併堵住。
 
-> 與第二節對照：STAT5/IL-2 與 IL-24 loop 是**兩條獨立但方向一致**的 escape 機轉，皆導致單抑 IL-17A 後 IL-17F 反升。
-
 ---
 
 ## 四、IL-23-Independent 的 IL-17F 產生
