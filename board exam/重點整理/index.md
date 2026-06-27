@@ -11,7 +11,7 @@
 | **結締組織疾病** | [SLE — 全身性紅斑狼瘡](SLE/SLE_致病機轉.md) | [2019 EULAR/ACR](SLE/SLE_分類標準.md) | [SLEDAI-2K、BILAG-2004](SLE/SLE_活性評估與remission.md) | [DORIS remission (2021)、LLDAS](SLE/SLE_活性評估與remission.md) | 2025 EULAR / 2025 ACR / 2026 BSR |
 | | [RA — 類風濕性關節炎](RA/RA_致病機轉.md) | [2010 ACR/EULAR](RA/RA_分類標準.md) | [DAS28、CDAI、SDAI](RA/RA_disease_activity_measures_T2T.md) | [ACR/EULAR Boolean、SDAI ≤3.3 / CDAI ≤2.8 / DAS28 <2.6](RA/RA_disease_activity_measures_T2T.md) | [2025 EULAR / 2021 ACR](RA/RA_治療.md) |
 | | [SjD — 修格連氏症候群](SjD/SjD_致病機轉.md) | [2016 ACR/EULAR](SjD/SjD_Dx.md) | [ESSDAI、ESSPRI](SjD/SjD_活性評估.md) | - | [2024 ACR / 2019 EULAR](SjD/SjD_治療.md) / [2026 PNS Guideline](SjD/SjD_PNS神經病變_guideline.md) / 2023 BSR |
-| | [SSc — 全身性硬化症](SSc/SSc_致病機轉.md) | [2013 ACR/EULAR](SSc/SSc_分類標準.md) | [mRSS、EUSTAR activity index](SSc/SSc_活性評估.md) | - | 2023 EULAR / 2024 BSR |
+| | [SSc — 全身性硬化症](SSc/SSc_致病機轉.md) | [2013 ACR/EULAR](SSc/SSc_分類標準.md) | [mRSS、EUSTAR activity index](SSc/SSc_活性評估.md) | - | [2023 EULAR](SSc/SSc_治療總整理_2023.md) / 2024 BSR |
 | | [IIM — 發炎性肌肉病變](IIM/IIM_Myositis致病機轉完整解析.md) | [2017 EULAR/ACR DM、239th ENMC DM、2025 EULAR/ACR ASyS](IIM/IIM_分類標準.md) | [IMACS core set、MMT-8](IIM/IIM_疾病活性與療效評估.md) | - | 2022 BSR |
 | | [APS — 抗磷脂症候群](APS/APS_致病機轉.md) | [2023 ACR/EULAR（舊 2006 Sydney）](APS/APS_臨床表現與診斷.md) | aGAPSS | - | 2019 EULAR |
 | **脊椎關節炎** | [AS — 僵直性脊椎炎](SpA/AS/AS_致病機轉.md) | [2009 ASAS axSpA](SpA/AS/SpA_分類標準與流行病學.md) | [BASDAI、ASDAS](SpA/AS/AS_疾病活性與評估工具.md) | [ASDAS inactive disease <1.3、ASAS partial remission](SpA/AS/AS_疾病活性與評估工具.md) | [2026 ACR / 2022 ASAS-EULAR](SpA/AS/AS_治療總整理_2026.md) / 2025 BSR |
