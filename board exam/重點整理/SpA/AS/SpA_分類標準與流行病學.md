@@ -75,14 +75,9 @@ IBP、關節炎、附著點炎(腳跟)、葡萄膜炎、指炎、乾癬、Crohn'
 
 ![ASAS axSpA 分類標準](../../images/ASAS%20criteria%20for%20axial%20SpA.png)
 
-### 背景：為什麼要有 ASAS（取代 mNY 的動機）
+### 背景：為什麼用 ASAS 取代 mNY
 
-- mNY（1984）**一定要 X 光上有確定的薦腸關節炎**才能分類為 AS，但放射學變化往往在發病後**數年才出現** → 早期病人會被漏掉。
-- ASAS 引入 **axSpA（中軸脊椎關節炎）** 這個**更廣的概念**，刻意涵蓋兩端：
-  - **nr-axSpA（非放射性）**：X 光還正常，但臨床/MRI 已有病。
-  - **radiographic axSpA（= AS）**：已符合 mNY 的放射學變化。
-- 兩者是**同一連續光譜**，非兩種病（DESIR：5 年僅約 5% 由 nr 進展為 radiographic）。
-- **uSpA（未分化型）**：ASAS 普及後幾乎被淘汰，多可重新歸入 axSpA 或 pSpA。
+mNY 須等 X 光出現薦腸關節炎（常延遲數年）才能分類，會漏掉早期病人；ASAS 改用更廣的 **axSpA**，涵蓋 **nr-axSpA**（X 光正常、臨床/MRI 已有病）與 **radiographic axSpA（=AS）**，兩者為同一光譜（DESIR：5 年僅約 5% 進展）。
 
 ### 進入條件（Entry criteria，兩條都要）
 
