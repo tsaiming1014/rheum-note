@@ -5,6 +5,24 @@
 
 ---
 
+## 〇、2025 ASAS/SPARTAN Revised Classification Criteria for axSpA
+
+![2025 ASAS/SPARTAN revised criteria for AS](../../images/2025%20ASAS-SPARTAN%20revised%20criteria%20for%20AS.png)
+
+**前提（三者皆須）**：已診斷 axSpA（排除 mimics）＋慢性背痛 ≥ 3 個月＋發病年齡 < 45 歲。
+
+**計分制，總分 ≥ 11 分**才符合分類標準。三條達標路徑：
+
+- **MRI** 顯示 SIJ 典型 axSpA 表現 ＋ 額外 ≥ 3 分
+- **X 光**（modified New York）雙側 sacroiliitis ＋ 額外 ≥ 4 分
+- **HLA-B27**（本身 4 分）＋ 再 ≥ 7 分
+
+**HLA-B27 路徑最難**：必須先有 IBP（4＋3＝7 分），還要在 peripheral arthritis、AAU、heel enthesitis、CRP↑、IBD、psoriasis 中再湊 4 項。➡️ 沒有 MRI 的 nr-axSpA 病人幾乎無法達標。
+
+**效能（CLASSIC study）**：相較 2009 版（sens 82.4% / spec 77.1%），2025 版 **sens 79.5% / spec 90.4%** —— specificity 大幅提升，但因高度依賴 MRI，sensitivity 略降。
+
+---
+
 ## 一、核心觀念：分類標準 vs 診斷標準
 
 - **SpA 沒有任何已驗證的診斷標準**，現用的全是「分類標準」。
