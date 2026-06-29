@@ -1,6 +1,8 @@
 # RA 治療總整理
 ## Kelly Ch073 + 2025 EULAR Update
 
+![RA guideline](../images/RA%20guideline.png)
+
 ---
 
 ## 一、治療核心概念
