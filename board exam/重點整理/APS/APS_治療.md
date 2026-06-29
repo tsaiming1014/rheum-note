@@ -5,6 +5,57 @@
 
 ---
 
+## ★ 抗凝決策速記表
+
+> 劑量：**LDA** 75–100 mg/day；**Prophylactic heparin** = enoxaparin 30–40 mg SC QD；**Therapeutic heparin** = enoxaparin 1 mg/kg SC BID 或 1.5 mg/kg SC QD。
+
+### A. 依「臨床情境 × aPL profile」決定抗凝
+
+| 臨床情境 | aPL profile | 處置 |
+|---|---|---|
+| 無症狀 carrier | High-risk | **LDA 75–100 mg/day** |
+| 無症狀 carrier | Low-risk | 不需（控 CV risk） |
+| SLE，無事件 | High-risk | **LDA**（建議） |
+| SLE，無事件 | Low-risk | LDA（可考慮） |
+| 僅 obstetric APS 病史（非孕期） | 任一 | **LDA**（評估風險效益） |
+| **首次 venous** | 任一 | **VKA INR 2–3**，長期（unprovoked） |
+| **首次 arterial** | 任一 | **VKA INR 2–3 或 3–4**（±LDA）；VKA 優於單用 LDA |
+| **Triple-positive** | — | **禁用 rivaroxaban/DOAC**（venous 與 arterial 皆是） |
+
+### B. 復發時的升階（已達標仍復發）
+
+| 復發類型 | 升階選項 |
+|---|---|
+| Venous（INR 2–3 下） | 先查順從性 → 加 LDA／INR 升 **3–4**／改 therapeutic LMWH |
+| Arterial（VKA 下） | 排除他因 → INR 升 **3–4**／加 LDA／改 therapeutic LMWH |
+
+### C. Obstetric APS
+
+| 病史 | 孕期處置 |
+|---|---|
+| High-risk profile，無事件 | LDA（可考慮） |
+| ≥3 次 <10 週流產 或 ≥1 次 ≥10 週胎兒死亡 | **LDA + prophylactic heparin**（enoxaparin 30–40 mg SC QD） |
+| <34 週因子癇/重度子癇前症/胎盤功能不全 | LDA ± prophylactic heparin |
+| **Thrombotic APS 病史** | **LDA + therapeutic heparin**（enoxaparin 1 mg/kg SC BID 或 1.5 mg/kg SC QD） |
+| 上述治療仍反覆併發症 | heparin 升 therapeutic／加 HCQ／第一孕期加 low-dose prednisolone／（選擇病例）IVIG |
+| 產後 | prophylactic heparin 6 週（thrombotic 病史 8–12 週） |
+
+### D. CAPS
+
+| 階段 | 處置 |
+|---|---|
+| 預防 | 及早治感染、勿中斷抗凝 |
+| **第一線** | **glucocorticoid + heparin + plasma exchange 或 IVIG**（三聯）+ 處理誘因 |
+| 難治 | **rituximab** 或 **eculizumab**（合併 systemic TMA 尤其考慮） |
+
+**口訣**：
+
+- **Venous → INR 2–3；Arterial → 2–3 或 3–4**
+- **Triple-positive → 不碰 DOAC**
+- **CAPS → 類固醇 + heparin + 換血/IVIG**
+
+---
+
 ## 〇、aPL profile 風險分層 (2019 EULAR)
 
 - **Medium-high titre**：aCL > 40 GPL/MPL（或 > 99th percentile）；anti-β2GPI > 99th percentile
