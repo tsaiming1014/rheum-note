@@ -129,20 +129,6 @@ Kelly 原文：乾癬皮膚以**表皮增生、真皮乳突層單核球、角質
 
 ---
 
-### 五、治療靶點與療效
-
-| 靶點 | 藥物 | 皮膚 | 關節 / Enthesitis |
-|------|------|------|------------------|
-| TNF | adalimumab、etanercept、infliximab | 有效 | 有效（亦降 osteoclast precursors） |
-| IL-17 | secukinumab、ixekizumab、bimekizumab | 有效 | 有效 |
-| IL-12/23 p40 | ustekinumab | 有效 | 中等 |
-| IL-23 p19 | risankizumab、guselkumab | 卓越 | 相對有限 |
-| JAK | tofacitinib、upadacitinib | 有效 | 有效 |
-
-> 重點：**皮膚對 IL-23/IL-17 抑制劑反應最佳；關節端以 IL-17、TNF 抑制劑表現較全面。**
-
----
-
 ### 六、PsO → PsA 疾病進程與高風險因子
 
 ```
