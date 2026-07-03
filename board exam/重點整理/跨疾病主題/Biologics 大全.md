@@ -87,20 +87,31 @@
 
 ## 5. JAK inhibitors
 
-> **機轉**：多數 cytokine receptor（type I/II）本身無激酶活性，需仰賴結合之 JAK（JAK1、JAK2、JAK3、TYK2）傳遞訊號；JAK 磷酸化後招募並磷酸化 STAT，STAT 二聚化後入核調控基因轉錄。不同 cytokine 使用不同 JAK 配對（如 common γ chain cytokines IL-2/4/7/9/15/21 走 JAK1/JAK3；IFN-γ、IL-6 走 JAK1/JAK2；EPO、GH、IL-3/5/GM-CSF 走 JAK2/JAK2；IL-12/23、type I IFN 走 TYK2/JAK1 或 TYK2/JAK2）。**絕大多數已核准 JAK inhibitor 是 ATP-binding site 的競爭性抑制劑**（作用在催化端），**Deucravacitinib 例外**——它是變構（allosteric）抑制劑，結合 TYK2 的 regulatory domain（非催化端），機轉與其他藥物完全不同。
+> **機轉**：多數cytokine receptor無激酶活性，需仰賴JAK（JAK1/2/3、TYK2）傳遞訊號；JAK磷酸化後招募STAT，STAT二聚化入核調控轉錄。不同cytokine配對不同JAK（common γ chain如IL-2/4/7/9/15/21走JAK1/3；IFN-γ、IL-6走JAK1/2；EPO/GH/IL-3/5/GM-CSF走JAK2/2；IL-12/23、type I IFN走TYK2/JAK1或TYK2/JAK2）。**絕大多數JAKi是ATP-binding site競爭性抑制劑**；**Deucravacitinib例外**——變構抑制TYK2的regulatory domain，機轉完全不同。
 >
-> **Class-wide 黑框警語**（適用於 tofacitinib、baricitinib、upadacitinib、filgotinib、peficitinib 等 JAK1/2/3 抑制劑，源自 FDA 要求之 tofacitinib 上市後監測試驗 **ORAL Surveillance**，結果外推至全類別）：**VTE/PE、MACE、惡性腫瘤（含lymphoma）、死亡率增加**（尤其≥50歲合併≥1個心血管危險因子者），以及 **herpes zoster 風險增加**（高於bDMARDs）；FDA因此限制這類藥物僅能用於 anti-TNF 治療失敗或無法耐受之病人。**Deucravacitinib 因機轉不同（TYK2 allosteric inhibitor），未被納入此黑框警語**，僅在仿單中載述其他JAK inhibitor有此風險之聲明。
+> **Class-wide黑框警語**（tofacitinib、baricitinib、upadacitinib、filgotinib、peficitinib等JAK1/2/3抑制劑；源自FDA要求之tofacitinib上市後監測試驗 **ORAL Surveillance**，結果外推全類別）：**VTE/PE、MACE、惡性腫瘤、死亡率增加**（尤其≥50歲合併≥1心血管危險因子者）、**herpes zoster風險增加**；FDA因此限制僅能用於anti-TNF失敗/不耐受之病人。**Deucravacitinib因機轉不同，未納入此黑框警語**。
 
 | Group | 學名 | 中文名 | 商品名 | 仿單 | 藥商 | 用量 | 途徑 | 副作用 | 特色 | 藥價(售價) | 贈藥 | 平均藥費(月) | 需提供資料 | 備註 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| JAK 1/3（功能性選擇性；亦弱抑制JAK2/TYK2，主管機關現歸類為pan-JAK） | Tofacitinib | 捷抑炎　持續性藥效錠　11毫克 | **XELJANZ XR ER TAB 11 MG** | Xeljanz 5mg (RA+PsA+UC+AS+pcJIA) | Pfizer | 5mg BID **or** 11mg QD | PO | Class-wide黑框警語（VTE/MACE/惡性腫瘤/死亡率、herpes zoster）；**ORAL Surveillance試驗的受試藥物**（FDA要求之上市後監測研究，結果據此外推至全類JAK1/2/3抑制劑） | 2012年**首個上市的JAK inhibitor**（RA適應症）；核准適應症最廣（RA+PsA+UC+AS+pcJIA） | 880 (11mg) / 436.7 (5mg) | | | | 贈 Shingrix 疫苗 |
-| JAK 1 selective | Upadacitinib | 銳虎 持續性藥效錠 15毫克 | **Rinvoq ER tab 15 mg** | Upadacitinib 仿單 | Abbvie | 15mg QD；Severe AD: 30mg QD | PO | Class-wide黑框警語；頭對頭試驗中herpes zoster、CPK上升發生率高於adalimumab | 唯一同時有一般劑量（15mg）與高劑量（30mg，limited to severe AD）；適應症廣（RA、PsA、AS、UC、Crohn's、AD） | 817.3 | 三個月內買三盒贈一盒 | | 1.2 | – |
-| Pan-JAK（JAK1/JAK2為主） | Baricitinib | 愛滅炎　膜衣錠　4毫克 | **Olumiant FC tab 4 mg** | Baricitinib | Eli Lilly | 4mg QD；age >75 y/o: 2mg QD | PO | Class-wide黑框警語；獨立登錄研究（國際觀察性登錄、瑞典登錄）皆顯示VTE風險增加，FDA另要求baricitinib專屬之上市後VTE監測試驗（進行中） | 適應症涵蓋圓禿（alopecia areata），為此類中少數之一；高齡（>75y）需減量 | 1060.4 | RA：買三贈一；AD、JIA、圓禿：買一贈一 | | 1.2 | – |
-| JAK 1 selective | Filgotinib | 吉炎可 膜衣錠 200毫克 | **Jyseleca FC tab 200 mg** | Jyseleca 吉炎可膜衣錠 | 衛采製藥 | RA/PsA/AS: 200mg QD | PO | Class-wide黑框警語；部分試驗中herpes zoster發生率相對較低 | 美國FDA因對filgotinib之benefit-risk比有疑慮而拒絕核准（RA申請亦未過），藥廠因此放棄美國市場；但**台灣、歐盟等地仍核准PsA（連同RA、AS、UC）適應症**，與美國市場狀況不同，判讀文獻/仿單時需留意地區差異 | 706.2 | | | | |
-| Pan-JAK（体外實驗JAK1/2/3/TYK2皆有抑制活性） | Peficitinib | 施覓福 膜衣錠 50毫克 | **Smyraf FC tab 50 mg** | SMYR | Astellas Pharma | 150mg QD or 100mg QD | PO | Class-wide黑框警語 | 吸收快速（Tmax 1–1.8小時）；主要於日本、台灣等亞洲市場使用，西方國家未上市 | 287.1 | | | | |
-| JAK 1 selective | Abrocitinib | 喜繽果 膜衣錠 200毫克 | **Cibinqo FC tab 200 mg** | | Pfizer | AD: 100mg QD 或 200mg QD | PO | Class-wide黑框警語（雖核准適應症為AD而非RA/PsA，仿單仍載述此警語） | 此類中**核准適應症為異位性皮膚炎（AD）**，非風濕病用藥；與upadacitinib同為AD常用JAK1 selective選項 | 878.9 | 買二贈一 | | 拍照藥袋即可 | – |
-| **TYK2 inhibitor（allosteric，結合regulatory domain而非ATP-binding site，機轉與其他JAKi不同）** | Deucravacitinib | | **Sotyktu 6mg tab** | | Bristol Myers Squibb | PsO/PsA: 6mg QD | PO | 常見鼻咽炎、上呼吸道感染、cold sore（HSV）、輕度LFT上升、痤瘡；**未被納入JAK1/2/3 class-wide黑框警語**（僅載述其他JAK inhibitor有MACE/惡性腫瘤/VTE風險之聲明） | 首個上市的**TYK2 inhibitor**；2022年FDA核准中重度斑塊性乾癬（PsO），2026年進一步核准PsA；因機轉與JAK1/2/3抑制劑不同、不受黑框警語限制，可能成為取代部分JAK1/2/3用途的重要選項；SLE phase II試驗（SRI4於week 32達標）亦具正向結果 | | | | | |
-| **JAK1/TYK2 dual inhibitor（investigational，尚未核准上市）** | Brepocitinib | — | — | | Priovant/Roivant | Dermatomyositis: 30mg QD（VALOR試驗劑量） | PO | 資料仍有限（試驗中安全性與其他JAKi/TYK2i類似） | **2026年3月 NEJM 發表 Phase 3 VALOR試驗**（refractory dermatomyositis，241例）：brepocitinib 30mg組於week 52 Total Improvement Score較placebo多改善15.3分（P<0.001），並達成類固醇減量效果，9個關鍵次要指標皆達標；機轉為同時阻斷JAK1與TYK2、抑制type I IFN訊號（DM致病機轉相關）；FDA已授予優先審查，PDUFA目標2026 Q3；**目前尚未獲批上市** | | | | | |
+| JAK 1/3（現歸類pan-JAK） | Tofacitinib | 捷抑炎　持續性藥效錠　11毫克 | **XELJANZ XR ER TAB 11 MG** | Xeljanz 5mg (RA+PsA+UC+AS+pcJIA) | Pfizer | 5mg BID **or** 11mg QD | PO | Class-wide黑框警語；**ORAL Surveillance受試藥** | 2012年首個JAK inhibitor；適應症最廣 | 880 (11mg) / 436.7 (5mg) | | | | 贈 Shingrix 疫苗 |
+| JAK 1 selective | Upadacitinib | 銳虎 持續性藥效錠 15毫克 | **Rinvoq ER tab 15 mg** | Upadacitinib 仿單 | Abbvie | 15mg QD；Severe AD: 30mg QD | PO | Class-wide黑框警語；herpes zoster/CPK上升較adalimumab高 | 唯一有30mg高劑量（severe AD）；適應症廣 | 817.3 | 三個月內買三盒贈一盒 | | 1.2 | – |
+| Pan-JAK（JAK1/2為主） | Baricitinib | 愛滅炎　膜衣錠　4毫克 | **Olumiant FC tab 4 mg** | Baricitinib | Eli Lilly | 4mg QD；age >75 y/o: 2mg QD | PO | Class-wide黑框警語；VTE風險（獨立登錄研究） | 適應症含圓禿；高齡需減量 | 1060.4 | RA：買三贈一；AD、JIA、圓禿：買一贈一 | | 1.2 | – |
+| JAK 1 selective | Filgotinib | 吉炎可 膜衣錠 200毫克 | **Jyseleca FC tab 200 mg** | Jyseleca 吉炎可膜衣錠 | 衛采製藥 | RA/PsA/AS: 200mg QD | PO | Class-wide黑框警語；herpes zoster相對較低 | 美國未過核准；**台灣/歐盟仍核准PsA** | 706.2 | | | | |
+| Pan-JAK（体外JAK1/2/3/TYK2皆抑制） | Peficitinib | 施覓福 膜衣錠 50毫克 | **Smyraf FC tab 50 mg** | SMYR | Astellas Pharma | 150mg QD or 100mg QD | PO | Class-wide黑框警語 | 吸收快（Tmax 1–1.8h）；主要亞洲市場 | 287.1 | | | | |
+| JAK 1 selective | Abrocitinib | 喜繽果 膜衣錠 200毫克 | **Cibinqo FC tab 200 mg** | | Pfizer | AD: 100mg QD 或 200mg QD | PO | Class-wide黑框警語 | 適應症為AD，非風濕病用藥 | 878.9 | 買二贈一 | | 拍照藥袋即可 | – |
+| **TYK2 inhibitor（allosteric）** | Deucravacitinib | | **Sotyktu 6mg tab** | | Bristol Myers Squibb | PsO/PsA: 6mg QD | PO | 鼻咽炎、cold sore（HSV）、輕度LFT上升；**未納入黑框警語** | 首個TYK2 inhibitor；核准PsO+PsA；SLE phase II正向 | | | | | |
+| **JAK1/TYK2 dual（investigational）** | Brepocitinib | — | — | | Priovant/Roivant | Dermatomyositis: 30mg QD（VALOR劑量） | PO | 資料有限 | **2026 NEJM VALOR試驗**（DM）正向；**尚未核准上市** | | | | | |
+
+**藥物補充說明**：
+
+- **Tofacitinib**：ORAL Surveillance 是FDA要求之tofacitinib上市後監測研究（VTE/MACE/惡性腫瘤/死亡率、herpes zoster），結果據此外推至全類JAK1/2/3抑制劑。
+- **Upadacitinib**：頭對頭試驗中herpes zoster、CPK上升發生率高於adalimumab；適應症涵蓋RA、PsA、AS、UC、Crohn's、AD。
+- **Baricitinib**：國際觀察性登錄、瑞典登錄皆顯示VTE風險增加，FDA另要求baricitinib專屬之上市後VTE監測試驗（進行中）。
+- **Filgotinib**：美國FDA因對filgotinib之benefit-risk比有疑慮而拒絕核准（RA申請亦未過），藥廠因此放棄美國市場；但台灣、歐盟等地仍核准PsA（連同RA、AS、UC）適應症，判讀文獻/仿單時需留意地區差異。
+- **Peficitinib**：主要於日本、台灣等亞洲市場使用，西方國家未上市。
+- **Abrocitinib**：雖核准適應症為AD而非RA/PsA，仿單仍載述黑框警語；與upadacitinib同為AD常用JAK1 selective選項。
+- **Deucravacitinib**：常見副作用另含痤瘡；未納入黑框警語，僅載述其他JAK inhibitor有MACE/惡性腫瘤/VTE風險之聲明。2022年FDA核准PsO，2026年進一步核准PsA；因機轉不同、不受黑框警語限制，可能成為取代部分JAK1/2/3用途的重要選項；SLE phase II試驗SRI4於week 32達標。
+- **Brepocitinib**：2026年3月NEJM發表Phase 3 VALOR試驗（refractory dermatomyositis，241例）：30mg組於week 52 Total Improvement Score較placebo多改善15.3分（P<0.001），並達成類固醇減量效果，9個關鍵次要指標皆達標；機轉為同時阻斷JAK1與TYK2、抑制type I IFN訊號（DM致病機轉相關）；FDA已授予優先審查，PDUFA目標2026 Q3。
 
 ---
 
