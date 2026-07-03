@@ -29,14 +29,21 @@
 
 ## 2. IL-6 inhibitors
 
-> **機轉**：IL-6 需先結合 IL-6R（soluble 或 membrane-bound），複合體再與 gp130 結合、二聚化並活化 JAK/STAT 訊息傳遞路徑。IL-6 促進 Th17 分化、B cell 活化分化、蝕骨細胞（RANKL依賴）活化，並與 TNF、IL-1β 協同促進 VEGF 分泌、血管翳形成；IL-6 濃度與 CRP、疾病嚴重度成正比。多數藥物阻斷的是 **IL-6R**（同時擋 soluble+membrane 訊息傳遞，較 IL-6 ligand 本身更專一地阻斷發炎路徑），僅 Siltuximab 是直接中和 **IL-6 ligand**。
+> **機轉**：IL-6 結合 IL-6R（soluble或membrane-bound）後，複合體與 gp130 二聚化、活化 JAK/STAT。IL-6 促進 Th17 分化、B cell活化、蝕骨細胞（RANKL依賴）活化，並協同TNF/IL-1β促進VEGF/血管翳形成；濃度與CRP、疾病嚴重度成正比。多數藥物阻斷 **IL-6R**（較專一），僅 Siltuximab 中和 **IL-6 ligand** 本身。
 
 | Group | 學名 | 中文名 | 商品名 | 仿單 | 藥商 | 用量 | 途徑 | 副作用 | 特色 | 藥價(售價) | 贈藥 | 平均藥費(月) | 需提供資料 | 備註 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Humanized monoclonal Ab against IL-6R（sIL-6R + mIL-6R） | Tocilizumab | 安挺樂　靜脈點滴注射劑　80毫克／4毫升 | **Actemra sol for infu. 80 mg/4 ml**<br>**Actemra for SC inj 162 mg** | Tocilizumab 仿單 | 中外 | 4mg/kg IV QM，可調至 8mg/kg（SC另有劑型） | IV/SC | Infusion reaction（IV，8%：輸注中高血壓、輸注後24hr內頭痛/皮膚反應）；transient LFT上升（ALT≥3xULN，併用DMARD時5–6.5%）；血脂上升（LDL/HDL/TG皆升，6週內出現）；neutropenia（可達29%，多為grade 1–2、可逆）；thrombocytopenia（8–9%，罕見出血）；腸胃穿孔（罕見，多為diverticulitis併發症，需警覺腹痛）；demyelinating disorder（罕見） | 唯一同時有 IV／SC 劑型；核准適應症最廣（anti-TNF failure後之RA、**GCA**、PJIA/sJIA、CAR-T相關 cytokine release syndrome）；抑制IL-6會恢復被抑制之CYP450活性，併用warfarin、statin、cyclosporine等CYP受質時需監測 | 3835.7 / 8418.3 | | | | |
-| Human monoclonal Ab against IL-6R（sIL-6R + mIL-6R） | Sarilumab | （台灣未上市） | Kevzara inj 200 mg | | Sanofi | 200mg SC Q2W（實驗室數值異常時可降為150mg） | SC | 副作用類型與tocilizumab類似但程度較輕：LFT上升（併用DMARD時1–4%）；lipid上升（第4週後不再增加）；neutropenia/thrombocytopenia發生率較低（PLT下降約1%） | 唯一取得 **PMR**（類固醇反應不佳或無法減量）適應症的IL-6 inhibitor，與tocilizumab的GCA適應症形成對比；SC only，無IV劑型；台灣目前無中文商品名／未上市 | | | | | |
-| Monoclonal Ab against IL-6R（recycling antibody 技術） | Satralizumab | 櫻普立 皮下注射劑 120毫克 | Enspryng "Y" for SC inj 120 mg/1 ml/PFS | | | Loading: 120mg SC at 0, 2, 4 wk<br>Maintain: 120mg SC Q4W | SC | 與其他IL-6R inhibitor類似（感染、LFT上升、neutropenia）；注射部位反應；用藥前需篩檢HBV、TB、肝功能 | 唯一核准用於 **NMOSD**（AQP4抗體陽性）而非風濕病的IL-6R inhibitor，主要由神經科處方；採用recycling antibody技術延長半衰期、降低注射頻率 | 192787.1 | | | | |
-| Chimeric monoclonal Ab against IL-6（中和 IL-6 ligand本身，非receptor） | Siltuximab | | **Sylvant 100 mg/vial** | | | 11 mg/kg Q3W（持續至治療失敗；輸注 1 小時，需 0.2 µm PES 過濾器）<br>肝、腎不全不需調整劑量；WBC <1000、PLT <50000 或 Hb ≥17 g/dL 應考慮暫停 | IV | 與class effect類似（感染、LFT上升），因iMCD病人基礎狀態不同，需監測WBC/PLT/Hb並依上述數值考慮暫停 | 此類中**唯一標靶IL-6 ligand本身**（非receptor）；**唯一不用於RA**、適應症為iMCD；輸注時間較長（1小時）且需0.2µm PES濾器 | 15998 | | | | 適應症：HIV/HHV-8 陰性 iMCD（NCCN first line、CDCN category 1）；2024/2 納入健保。<br>交互作用：抑制 IL-6 會恢復原本被抑制的 CYP450 活性，併用 warfarin、cyclosporine 等 CYP 受質時需調整劑量並監測療效 |
+| Humanized mAb against IL-6R | Tocilizumab | 安挺樂　靜脈點滴注射劑　80毫克／4毫升 | **Actemra sol for infu. 80 mg/4 ml**<br>**Actemra for SC inj 162 mg** | Tocilizumab 仿單 | 中外 | 4mg/kg IV QM，可調至 8mg/kg（SC另有劑型） | IV/SC | Infusion reaction；LFT上升；血脂上升；neutropenia；thrombocytopenia；GI穿孔（罕見） | 唯一IV+SC；適應症最廣（RA、**GCA**、PJIA/sJIA、CRS） | 3835.7 / 8418.3 | | | | |
+| Human mAb against IL-6R | Sarilumab | （台灣未上市） | Kevzara inj 200 mg | | Sanofi | 200mg SC Q2W（異常可降150mg） | SC | 副作用較tocilizumab輕：LFT上升、neutropenia/thrombocytopenia較少 | 唯一**PMR**適應症；SC only；台灣未上市 | | | | | |
+| mAb against IL-6R（recycling antibody技術） | Satralizumab | 櫻普立 皮下注射劑 120毫克 | Enspryng "Y" for SC inj 120 mg/1 ml/PFS | | | Loading: 120mg SC at 0, 2, 4 wk<br>Maintain: 120mg SC Q4W | SC | 感染、LFT上升、neutropenia；注射部位反應 | 唯一**NMOSD**適應症（神經科用藥）；recycling antibody延長半衰期 | 192787.1 | | | | |
+| Chimeric mAb against IL-6（ligand本身） | Siltuximab | | **Sylvant 100 mg/vial** | | | 11 mg/kg Q3W；輸注1小時，需0.2µm PES濾器 | IV | 感染、LFT上升；需監測WBC/PLT/Hb | 唯一標靶IL-6 **ligand**本身；唯一不用於RA（iMCD） | 15998 | | | | |
+
+**藥物補充說明**：
+
+- **Tocilizumab**：Infusion reaction（IV，8%：輸注中高血壓、輸注後24hr內頭痛/皮膚反應）；LFT上升（ALT≥3xULN，併用DMARD時5–6.5%）；血脂上升（LDL/HDL/TG皆升，6週內出現）；neutropenia（可達29%，多為grade 1–2、可逆）；thrombocytopenia（8–9%，罕見出血）；GI穿孔（罕見，多為diverticulitis併發症）。核准適應症最廣（anti-TNF failure後之RA、GCA、PJIA/sJIA、CAR-T相關cytokine release syndrome）。抑制IL-6會恢復被抑制之CYP450活性，併用warfarin、statin、cyclosporine需監測。
+- **Sarilumab**：LFT上升（併用DMARD時1–4%）；lipid上升（第4週後不再增加）；PLT下降約1%。唯一取得PMR（類固醇反應不佳或無法減量）適應症的IL-6 inhibitor，與tocilizumab的GCA適應症形成對比。
+- **Satralizumab**：用藥前需篩檢HBV、TB、肝功能。唯一核准用於NMOSD（AQP4抗體陽性）而非風濕病，主要由神經科處方。
+- **Siltuximab**：因iMCD病人基礎狀態不同，需監測WBC/PLT/Hb（WBC<1000、PLT<50000、Hb≥17g/dL應考慮暫停）。適應症：HIV/HHV-8陰性iMCD（NCCN first line、CDCN category 1），2024/2納入健保。交互作用：抑制IL-6會恢復被抑制的CYP450活性，併用warfarin、cyclosporine需調整劑量並監測。
 
 ---
 
