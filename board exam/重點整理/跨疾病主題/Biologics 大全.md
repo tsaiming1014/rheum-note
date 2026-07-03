@@ -150,12 +150,12 @@
 
 ## 9. csDMARDs / 免疫抑制劑
 
-| Group | 學名 | 中文名 | 商品名 | 仿單 | 藥商 | 用量 | 途徑 | 藥價(售價) | 贈藥 | 平均藥費(月) | 需提供資料 | 備註 |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Calcineurin inhibitor | Tacrolimus | 普樂可復　膠囊　1毫克 | **Prograf cap 1 mg** | | ? | | PO | 125.4 (1mg) / 69.3 (0.5mg) | | | | |
-| Calcineurin inhibitor | Cyclosporin | 新體睦　軟膠囊　100毫克（蘭絲菌素） | **SANDIMMUN NEORAL CAP 100 MG** | | | | PO | 124 (100mg) / 39.16 (25mg) | | | | |
-| IMPDH inhibitor | Mycophenolic acid | 睦體康　腸衣錠　180毫克 | **Myfortic tab 180 mg** | | | | PO | 46.75 | | | | |
-| IMPDH inhibitor | Mycophenolate | 山喜多　膠囊　250毫克 | **Cellcept cap 250 mg** | | | | PO | 41.58 | | | | |
+| Group | 學名 | 中文名 | 商品名 | 藥商 | 用量 | 途徑 | 藥價(售價) |
+|---|---|---|---|---|---|---|---|
+| Calcineurin inhibitor | Tacrolimus | 普樂可復　膠囊　1毫克 | **Prograf cap 1 mg** | ? | | PO | 125.4 (1mg) / 69.3 (0.5mg) |
+| Calcineurin inhibitor | Cyclosporin | 新體睦　軟膠囊　100毫克（蘭絲菌素） | **SANDIMMUN NEORAL CAP 100 MG** | | | PO | 124 (100mg) / 39.16 (25mg) |
+| IMPDH inhibitor | Mycophenolic acid | 睦體康　腸衣錠　180毫克 | **Myfortic tab 180 mg** | | | PO | 46.75 |
+| IMPDH inhibitor | Mycophenolate | 山喜多　膠囊　250毫克 | **Cellcept cap 250 mg** | | | PO | 41.58 |
 
 ---
 
