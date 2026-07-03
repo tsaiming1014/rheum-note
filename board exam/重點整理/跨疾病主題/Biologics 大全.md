@@ -48,11 +48,13 @@
 
 ## 4. IL-23 / IL-12-23 inhibitors
 
-| Group | 學名 | 中文名 | 商品名 | 仿單 | 藥商 | 用量 | 途徑 | 藥價(售價) | 贈藥 | 平均藥費(月) | 需提供資料 | 備註 |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Monoclonal Ab against IL-23 (IgG1 target p19) | Risankizumab | 喜開悅 注射劑 150毫克/毫升 | **Skyrizi inj 150 mg/1ml/PEN** | | Abbvie | Induction: 150mg at 0, 4 wk, maintain 150mg Q12W | SC | 97026.6 | 首次：買一贈一，後續買二贈一（需每三個月購買一次）；之後：買三贈一 | | 1.2 | – |
-| Monoclonal Ab against IL-12/23 | Ustekinumab | 喜達諾 靜脈注射液 130毫克/26毫升 | **Stelara conc for soln for inj 130 mg/26 ml** | | | | | 45942.6 | | | | |
-| Monoclonal Ab against IL-23 (target p19) | Guselkumab | 特諾雅 注射液 100毫克/毫升 | **Tremfya soln for inj 100 mg/1 ml/PEN** | | | | | 67502.6 | | | | |
+> **機轉**：IL-12、IL-23 由 dendritic cell、macrophage 感應先天危險訊號後釋放。IL-12 誘導 naïve T cell 分化為 IFN-γ 分泌的 Th1 細胞；IL-23（與 IL-6、lymphotoxin、IL-1 協同）誘導 naïve T cell 分化為 Th17 細胞，分泌 IL-17、IL-22、TNF。IL-23/IL-17 軸是 psoriasis 及 PsA（enthesitis、dactylitis、arthritis）的核心致病路徑。**重要考點**：IL-23（或 IL-12/23）阻斷**對 axSpA 中軸發炎無效**——與 IL-17 inhibitor、TNF inhibitor 明顯不同，因為關節/中軸端的 IL-17F 主要由 innate cell（MAIT、γδT、ILC3）以 IL-23-independent 方式持續產生，IL-23 只負責疾病「啟動」而非「維持」（機轉詳見 [PsA_IL17A_F機轉差異](../SpA/PsA/PsA_IL17A_F機轉差異.md)）。
+
+| Group | 學名 | 中文名 | 商品名 | 仿單 | 藥商 | 用量 | 途徑 | 副作用 | 特色 | 藥價(售價) | 贈藥 | 平均藥費(月) | 需提供資料 | 備註 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Human monoclonal Ab against IL-12/23（IgG1κ，結合兩者共用之p40次單元） | Ustekinumab | 喜達諾 靜脈注射液 130毫克/26毫升 | **Stelara conc for soln for inj 130 mg/26 ml** | | | PsO/PsA: loading 45mg（>100kg用90mg）SC at 0, 4 wk, maintain Q12W<br>Crohn's/UC: IV體重計算之loading dose，之後SC Q8W | SC（IBD需先IV loading） | 整體耐受性佳；注射部位反應（<1–2%）；感染風險與其他生物製劑相當 | 此類中**適應症最廣**（兒童+成人PsO/PsA、Crohn's、UC；SLE phase II數據positive）；不同適應症給藥途徑不同（關節/皮膚走SC，IBD需先IV loading）；抑制IL-12/23會恢復被抑制之CYP450活性，併用warfarin、cyclosporine需監測 | 45942.6 | | | | |
+| Human monoclonal Ab against IL-23（IgG1κ，target p19次單元） | Guselkumab | 特諾雅 注射液 100毫克/毫升 | **Tremfya soln for inj 100 mg/1 ml/PEN** | | | Loading: 100mg SC at 0, 4 wk<br>Maintain: 100mg SC Q8W | SC | 罕見/transient LFT上升、neutropenia；整體耐受性佳，嚴重不良事件少見 | 對PsO起效快、皮膚清除率高；對PsA關節端起效較慢但療效可持續達52週；有初步證據可能改善中軸影像變化（SI joint imaging追蹤中，屬探索性，非正式適應症）；亦用於IBD | 67502.6 | | | | |
+| Human monoclonal Ab against IL-23（IgG1κ，target p19次單元） | Risankizumab | 喜開悅 注射劑 150毫克/毫升 | **Skyrizi inj 150 mg/1ml/PEN** | | Abbvie | Loading: 150mg SC at 0, 4 wk<br>Maintain: 150mg SC Q12W<br>Crohn's: IV loading at 0, 4, 8 wk, 之後SC Q8W起 | SC（IBD需先IV loading） | 與guselkumab類似（罕見LFT上升、neutropenia），整體耐受性佳 | 療效與guselkumab同等級（皆為p19標靶）；亦用於IBD；與guselkumab、tildrakizumab同屬第二代anti-IL-23（較ustekinumab更專一） | 97026.6 | 首次：買一贈一，後續買二贈一（需每三個月購買一次）；之後：買三贈一 | | 1.2 | – |
 
 ---
 
