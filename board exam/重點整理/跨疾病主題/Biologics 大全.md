@@ -35,7 +35,7 @@
 
 ## 3. IL-17 inhibitors
 
-> **機轉**：IL-17A/F 促使 fibroblast-like synoviocyte（關節）與 keratinocyte（皮膚）增生、誘發 neutrophil migration，並經由 RANKL 相關機轉造成病理性骨吸收。IL-17 在 RA 血液/組織中濃度雖升高，但**阻斷 IL-17 對 RA 無效**（重要對比：對 PsA、AS 卻有明確療效）。多數藥物是中和 **IL-17A ligand** 本身；Brodalumab 例外，只結合 **IL-17RA**（不結合 IL-17RC）。IL-17 受體都是異二聚體，且都需要 IL-17RA 這個共同次單元才能傳遞訊號（IL-17A/F → RA+RC；IL-17C → RA+RE；IL-25/IL-17E → RA+RB），因此鎖住 IL-17RA 這一個瓶頸即可連帶阻斷 IL-17A、C、F、A/F heterodimer 及 IL-25 這些不同 ligand 的訊號，範圍比其他藥物更廣。**Uveitis 特別值得注意**：Secukinumab、Ixekizumab、Brodalumab 皆只（或主要）阻斷 IL-17A，可能增加 uveitis 發作風險；唯獨 **Bimekizumab 同時阻斷 IL-17A+F**，對 uveitis 反而具保護效果（詳見 [[PsA_IL17A_F機轉差異]]）。
+> **機轉**：IL-17A/F 促使 fibroblast-like synoviocyte（關節）與 keratinocyte（皮膚）增生、誘發 neutrophil migration，並經由 RANKL 相關機轉造成病理性骨吸收。IL-17 在 RA 血液/組織中濃度雖升高，但**阻斷 IL-17 對 RA 無效**（重要對比：對 PsA、AS 卻有明確療效）。多數藥物是中和 **IL-17A ligand** 本身；Brodalumab 例外，只結合 **IL-17RA**（不結合 IL-17RC）。IL-17 受體都是異二聚體，且都需要 IL-17RA 這個共同次單元才能傳遞訊號（IL-17A/F → RA+RC；IL-17C → RA+RE；IL-25/IL-17E → RA+RB），因此鎖住 IL-17RA 這一個瓶頸即可連帶阻斷 IL-17A、C、F、A/F heterodimer 及 IL-25 這些不同 ligand 的訊號，範圍比其他藥物更廣。**Uveitis 特別值得注意**：Secukinumab、Ixekizumab、Brodalumab 皆只（或主要）阻斷 IL-17A，可能增加 uveitis 發作風險；唯獨 **Bimekizumab 同時阻斷 IL-17A+F**，對 uveitis 反而具保護效果（詳見 [PsA_IL17A_F機轉差異](../SpA/PsA/PsA_IL17A_F機轉差異.md)）。
 
 | Group | 學名 | 中文名 | 商品名 | 仿單 | 藥商 | 用量 | 途徑 | 副作用 | 特色 | 藥價(售價) | 贈藥 | 平均藥費(月) | 需提供資料 | 備註 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
