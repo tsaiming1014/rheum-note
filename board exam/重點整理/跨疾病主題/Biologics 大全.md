@@ -140,11 +140,11 @@
 
 ## 8. Others
 
-| Group | 學名 | 中文名 | 商品名 | 仿單 | 藥商 | 用量 | 途徑 | 藥價(售價) | 贈藥 | 平均藥費(月) | 需提供資料 | 備註 |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| T cell co-stimulation inhibitor | Abatacept | 恩瑞舒　凍晶注射劑　250毫克 | **Orencia powder for iv infu 250 mg** | Orencia | BMS | Induction 0, 2, 4 wk, maintain Q4W；dose: <60kg 500mg, 60–100kg 750mg, >100kg 1000mg | IV | 6821.1 | | | | |
-| Anti-IFNAR (type I IFN) | Anifrolumab | 莎芙諾 注射劑 150 毫克/毫升 | Saphnelo for infu. 150mg/ml 2 ml | Anifrolumab | AstraZeneca | 300mg Q4W | IV | 28719.9 | | | | |
-| Pooled IgG | IVIG | 國血製劑益康　人類免疫球蛋白　靜脈注射劑　60毫克　50毫升 | **HM Immunoglobulin inj 60mg/ml 50ml** | | | | IV | 5940 | | | | |
+| Group | 學名 | 中文名 | 商品名 | 藥商 | 用量 | 途徑 | 藥價(售價) |
+|---|---|---|---|---|---|---|---|
+| T cell co-stimulation inhibitor | Abatacept | 恩瑞舒　凍晶注射劑　250毫克 | **Orencia powder for iv infu 250 mg** | BMS | Induction 0, 2, 4 wk, maintain Q4W；dose: <60kg 500mg, 60–100kg 750mg, >100kg 1000mg | IV | 6821.1 |
+| Anti-IFNAR (type I IFN) | Anifrolumab | 莎芙諾 注射劑 150 毫克/毫升 | Saphnelo for infu. 150mg/ml 2 ml | AstraZeneca | 300mg Q4W | IV | 28719.9 |
+| Pooled IgG | IVIG | 國血製劑益康　人類免疫球蛋白　靜脈注射劑　60毫克　50毫升 | **HM Immunoglobulin inj 60mg/ml 50ml** | | | IV | 5940 |
 
 ---
 
