@@ -51,12 +51,12 @@
 
 > **機轉**：IL-17A/F 促使synoviocyte、keratinocyte增生、neutrophil migration，並經RANKL造成病理性骨吸收。**阻斷IL-17對RA無效**（但對PsA、AS有效，重要對比）。多數藥物中和 **IL-17A ligand**；Brodalumab例外，只結合 **IL-17RA**（不結合IL-17RC）——因IL-17受體皆為異二聚體且共用RA次單元（A/F→RA+RC；C→RA+RE；IL-25→RA+RB），鎖住RA可連帶阻斷這些ligand，範圍更廣。**Uveitis考點**：Secukinumab/Ixekizumab/Brodalumab（皆主要阻斷IL-17A）可能增加uveitis風險；唯獨 **Bimekizumab（雙阻斷A+F）對uveitis反而有保護效果**（詳見 [PsA_IL17A_F機轉差異](../SpA/PsA/PsA_IL17A_F機轉差異.md)）。
 
-| Group | 學名 | 中文名 | 商品名 | 仿單 | 藥商 | 用量 | 途徑 | 副作用 | 特色 | 藥價(售價) | 贈藥 | 平均藥費(月) | 需提供資料 | 備註 |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Human mAb against IL-17A | Secukinumab | 可善挺　注射液劑　150毫克／毫升 | Cosentyx soln for inj 150mg/1ml | Cosentyx 仿單 | Novartis | PsO: induction 300mg at 0,1,2,3,4 wk, maintain 300mg Q4W<br>AS, PsA: induction 150mg at 0,1,2,3,4 wk, maintain 150mg Q4W, 可增至 300mg | SC | Candidiasis；IBD惡化風險；注射部位反應；**可能增加uveitis風險** | 半衰期長（22–31天）；適應症廣（PsO/PsA/AS/HS）；反覆uveitis者避免使用 | 15501.2 | 首次：買四贈四 或 (買二贈二)×2；之後：都買三贈一 | | 1.2 | 醫師須**親自簽名**，不可蓋章 |
-| Humanized mAb against IL-17A | Ixekizumab | 達癬治 注射劑 80毫克/毫升 | **Taltz inj 80 mg/1 ml** | Taltz | Eli Lilly | PsO: 160mg (2×80mg) at 0 wk, 80mg at 2,4,6,8,10,12 wk, maintain 80mg Q4W<br>PsA: induction 160mg at 0 wk, maintain 80mg Q4W<br>AS: 80mg Q4W | SC | 同secukinumab；**理論上同樣增加uveitis風險** | 半衰期短（13天）；大腿注射生體可用率較高 | 28749.6 | 首次：買二贈一 → 買三贈二；之後：買四贈一 | | 1.2 | – |
-| mAb against IL-17RA（受體，非ligand） | Brodalumab | 立美西膚 皮下注射劑 210毫克 | **Lumicef SC inj 210 mg/1.5 ml** | Lumicef 立美西膚皮下注射劑 | 台灣協和麒麟股份有限公司? | PsA, AS: induction 210mg at 0,1,2 wk, maintain 210mg Q2W | SC | Candidiasis、IBD風險；**美國黑框警語（自殺意念）**；**可能增加uveitis風險** | 唯一阻斷IL-17RA（非ligand）；**臨床經驗**：起效快但維持較短 | 14308.8 | 買四支贈一支 | | 2. 收據影本 | 跟業務或淑君說，跟淑君領藥 |
-| mAb against IL-17A/F（雙重ligand阻斷） | Bimekizumab | 本能適 注射液 160毫克/毫升 | **Bimzelx 160 mg/1 mL/syringe** | | UCB Pharma | PsO: 320mg (2×160mg) at 0,4,8,12,16 wk, maintain 320mg Q8W（≧120kg 第16週起未達療效可改 320mg Q4W）<br>PsA: 160mg Q4W（合併中重度斑塊性乾癬則用乾癬劑量）<br>AS / nr-axSpA: 160mg Q4W<br>HS: 320mg at 0,2,4,6,8,10,12,14,16 wk, maintain Q4W | SC | Candidiasis發生率較anti-IL-17A單標靶藥高 | 唯一雙標靶IL-17A+F；**唯一對uveitis具保護效果** | | | | | ATC L04AC21；許可證 衛署藥製字 001289 |
+| Group | 學名 | 中文名 | 商品名 | 藥商 | 用量 | 途徑 | 副作用 | 特色 | 藥價(售價) |
+|---|---|---|---|---|---|---|---|---|---|
+| Human mAb against IL-17A | Secukinumab | 可善挺　注射液劑　150毫克／毫升 | Cosentyx soln for inj 150mg/1ml | Novartis | PsO: induction 300mg at 0,1,2,3,4 wk, maintain 300mg Q4W<br>AS, PsA: induction 150mg at 0,1,2,3,4 wk, maintain 150mg Q4W, 可增至 300mg | SC | Candidiasis；IBD惡化風險；注射部位反應；**可能增加uveitis風險** | 半衰期長（22–31天）；適應症廣（PsO/PsA/AS/HS）；反覆uveitis者避免使用 | 15501.2 |
+| Humanized mAb against IL-17A | Ixekizumab | 達癬治 注射劑 80毫克/毫升 | **Taltz inj 80 mg/1 ml** | Eli Lilly | PsO: 160mg (2×80mg) at 0 wk, 80mg at 2,4,6,8,10,12 wk, maintain 80mg Q4W<br>PsA: induction 160mg at 0 wk, maintain 80mg Q4W<br>AS: 80mg Q4W | SC | 同secukinumab；**理論上同樣增加uveitis風險** | 半衰期短（13天）；大腿注射生體可用率較高 | 28749.6 |
+| mAb against IL-17RA（受體，非ligand） | Brodalumab | 立美西膚 皮下注射劑 210毫克 | **Lumicef SC inj 210 mg/1.5 ml** | 台灣協和麒麟股份有限公司? | PsA, AS: induction 210mg at 0,1,2 wk, maintain 210mg Q2W | SC | Candidiasis、IBD風險；**美國黑框警語（自殺意念）**；**可能增加uveitis風險** | 唯一阻斷IL-17RA（非ligand）；**臨床經驗**：起效快但維持較短 | 14308.8 |
+| mAb against IL-17A/F（雙重ligand阻斷） | Bimekizumab | 本能適 注射液 160毫克/毫升 | **Bimzelx 160 mg/1 mL/syringe** | UCB Pharma | PsO: 320mg (2×160mg) at 0,4,8,12,16 wk, maintain 320mg Q8W（≧120kg 第16週起未達療效可改 320mg Q4W）<br>PsA: 160mg Q4W（合併中重度斑塊性乾癬則用乾癬劑量）<br>AS / nr-axSpA: 160mg Q4W<br>HS: 320mg at 0,2,4,6,8,10,12,14,16 wk, maintain Q4W | SC | Candidiasis發生率較anti-IL-17A單標靶藥高 | 唯一雙標靶IL-17A+F；**唯一對uveitis具保護效果** | |
 
 **藥物補充說明**：
 
@@ -71,11 +71,11 @@
 
 > **機轉**：IL-12誘導naïve T cell分化為Th1（IFN-γ）；IL-23（協同IL-6/lymphotoxin/IL-1）誘導Th17（IL-17、IL-22、TNF）。IL-23/IL-17軸是psoriasis及PsA（enthesitis、dactylitis、arthritis）核心致病路徑。**重要考點**：IL-23阻斷**對axSpA中軸發炎無效**（與IL-17i、TNFi不同）——中軸端IL-17F主要由innate cell以IL-23-independent方式產生，IL-23只負責「啟動」非「維持」（詳見 [PsA_IL17A_F機轉差異](../SpA/PsA/PsA_IL17A_F機轉差異.md)）。
 
-| Group | 學名 | 中文名 | 商品名 | 仿單 | 藥商 | 用量 | 途徑 | 副作用 | 特色 | 藥價(售價) | 贈藥 | 平均藥費(月) | 需提供資料 | 備註 |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Human mAb against IL-12/23（p40共用次單元） | Ustekinumab | 喜達諾 靜脈注射液 130毫克/26毫升 | **Stelara conc for soln for inj 130 mg/26 ml** | | | PsO/PsA: loading 45mg（>100kg用90mg）SC at 0, 4 wk, maintain 45mg（或90mg）SC **Q12W**<br>Crohn's/UC: IV體重計算之loading dose，之後 SC **Q8W** | SC（IBD需先IV loading） | 整體耐受性佳；注射部位反應少 | 適應症最廣；**臨床經驗**：已較少作第一線（新藥頭對頭較優） | 45942.6 | | | | |
-| Human mAb against IL-23（p19次單元） | Guselkumab | 特諾雅 注射液 100毫克/毫升 | **Tremfya soln for inj 100 mg/1 ml/PEN** | | | Loading: 100mg SC at 0, 4 wk<br>Maintain: 100mg SC **Q8W** | SC | 罕見LFT上升、neutropenia | 皮膚起效快；PsA效果持續達52週；亦用IBD | 67502.6 | | | | |
-| Human mAb against IL-23（p19次單元） | Risankizumab | 喜開悅 注射劑 150毫克/毫升 | **Skyrizi inj 150 mg/1ml/PEN** | | Abbvie | **PsO/PsA**: loading 150mg SC at 0, 4 wk, maintain 150mg SC **Q12W**<br>Crohn's: IV loading at 0, 4, 8 wk, 之後 SC **Q8W**起 | SC（IBD需先IV loading） | 同guselkumab | 核准含PsA；亦用IBD；Crohn's頭對頭優於ustekinumab | 97026.6 | 首次：買一贈一，後續買二贈一（需每三個月購買一次）；之後：買三贈一 | | 1.2 | – |
+| Group | 學名 | 中文名 | 商品名 | 藥商 | 用量 | 途徑 | 副作用 | 特色 | 藥價(售價) |
+|---|---|---|---|---|---|---|---|---|---|
+| Human mAb against IL-12/23（p40共用次單元） | Ustekinumab | 喜達諾 靜脈注射液 130毫克/26毫升 | **Stelara conc for soln for inj 130 mg/26 ml** | | PsO/PsA: loading 45mg（>100kg用90mg）SC at 0, 4 wk, maintain 45mg（或90mg）SC **Q12W**<br>Crohn's/UC: IV體重計算之loading dose，之後 SC **Q8W** | SC（IBD需先IV loading） | 整體耐受性佳；注射部位反應少 | 適應症最廣；**臨床經驗**：已較少作第一線（新藥頭對頭較優） | 45942.6 |
+| Human mAb against IL-23（p19次單元） | Guselkumab | 特諾雅 注射液 100毫克/毫升 | **Tremfya soln for inj 100 mg/1 ml/PEN** | | Loading: 100mg SC at 0, 4 wk<br>Maintain: 100mg SC **Q8W** | SC | 罕見LFT上升、neutropenia | 皮膚起效快；PsA效果持續達52週；亦用IBD | 67502.6 |
+| Human mAb against IL-23（p19次單元） | Risankizumab | 喜開悅 注射劑 150毫克/毫升 | **Skyrizi inj 150 mg/1ml/PEN** | Abbvie | **PsO/PsA**: loading 150mg SC at 0, 4 wk, maintain 150mg SC **Q12W**<br>Crohn's: IV loading at 0, 4, 8 wk, 之後 SC **Q8W**起 | SC（IBD需先IV loading） | 同guselkumab | 核准含PsA；亦用IBD；Crohn's頭對頭優於ustekinumab | 97026.6 |
 
 **藥物補充說明**：
 
