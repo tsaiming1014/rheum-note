@@ -76,10 +76,27 @@
 | Group | 學名 | 中文名 | 商品名 | 仿單 | 藥商 | 用量 | 途徑 | 藥價(售價) | 贈藥 | 平均藥費(月) | 需提供資料 | 備註 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Anti-IL-4Rα (IL-4/IL-13) | Dupilumab | 杜避炎　注射劑 300毫克 | **DUPIXENT SOLN FOR INJ 300 MG/2 ML/PFS** | Dupi | Sanofi | AD: induction 600mg, maintain 300mg Q2W | IV | 17255.7 | | | | |
+| Monoclonal Ab against IL-13 | Lebrikizumab | 異可適　注射液　250毫克/2毫升 | **Ebglyss inj 250 mg/2 ml** | | Eli Lilly (禮來) | AD: induction 500mg (2×250mg) at 0 wk, 250mg at 2 wk, maintain 250mg Q2W to 16 wk；反應良好者之後可改 250mg Q4W（或依反應延至 Q8W） | SC | | | | | 適應症：12歲以上且體重≥40kg 之中重度異位性皮膚炎；台灣健保尚未正式給付（2025 藥品專家諮詢會議已建議納入） |
 
 ---
 
-## 8. Others
+## 8. Anti-IgE inhibitors
+
+| Group | 學名 | 中文名 | 商品名 | 仿單 | 藥商 | 用量 | 途徑 | 藥價(售價) | 贈藥 | 平均藥費(月) | 需提供資料 | 備註 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Anti-IgE monoclonal Ab | Omalizumab | 喜瑞樂　凍晶注射劑　150毫克 | **Xolair powder for soln for inj 150 mg** | Xolair 仿單 | Novartis (諾華) | 依體重與治療前血清總 IgE（30–1500 IU/mL）查表決定劑量，每2或4週 SC 注射 150–375mg；CSU 固定劑量 300mg Q4W | SC | | | | | 適應症：中重度過敏性氣喘（6歲以上，經 ICS 治療仍未控制）、慢性自發性蕁麻疹 CSU（12歲以上，經 H1 antihistamine 仍未控制）；健保氣喘給付限總 IgE 30–1300 IU/mL 等條件 |
+
+---
+
+## 9. Anti-IL-5 inhibitors
+
+| Group | 學名 | 中文名 | 商品名 | 仿單 | 藥商 | 用量 | 途徑 | 藥價(售價) | 贈藥 | 平均藥費(月) | 需提供資料 | 備註 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Anti-IL-5 monoclonal Ab | Mepolizumab | 舒肺樂　凍晶注射劑／預充填筆　100毫克 | **Nucala 100 mg/mL (powder for soln for inj / pre-filled pen)** | Nucala 仿單 | GSK | 100mg SC Q4W（重度嗜酸性球型氣喘、EGPA 皆同劑量方案） | SC | | | | | 適應症：成人嚴重嗜酸性球型氣喘、EGPA、HES。健保 EGPA 給付需符合復發型或難治型條件、事前審查核准，且與 benralizumab（Fasenra，anti-IL-5Rα）僅得擇一使用，惟耐受不良時可轉換（113/4/1、115/4/1） |
+
+---
+
+## 10. Others
 
 | Group | 學名 | 中文名 | 商品名 | 仿單 | 藥商 | 用量 | 途徑 | 藥價(售價) | 贈藥 | 平均藥費(月) | 需提供資料 | 備註 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
