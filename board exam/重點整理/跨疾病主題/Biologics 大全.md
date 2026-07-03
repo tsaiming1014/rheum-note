@@ -136,6 +136,13 @@
 | Anti-IL-5 monoclonal Ab | Mepolizumab | 舒肺樂　凍晶注射劑／預充填筆　100毫克 | **Nucala 100 mg/mL (powder for soln for inj / pre-filled pen)** | | 100mg SC Q4W（重度嗜酸性球型氣喘、EGPA 皆同劑量方案） | SC | |
 | Anti-IL-5Rα monoclonal Ab（ADCC 機轉，直接消耗嗜酸性球） | Benralizumab | 肺昇朗　注射液劑 | **FASENRA inj 30 mg/1 ml** | | 30mg SC，前3劑 Q4W，之後改 Q8W | SC | |
 
+**藥物補充說明**：
+
+- **Lebrikizumab**：適應症為12歲以上且體重≥40kg之中重度異位性皮膚炎；台灣健保尚未正式給付（2025藥品專家諮詢會議已建議納入）。
+- **Omalizumab**：適應症為中重度過敏性氣喘（6歲以上，經ICS治療仍未控制）、慢性自發性蕁麻疹CSU（12歲以上，經H1 antihistamine仍未控制）；健保氣喘給付限總IgE 30–1300 IU/mL等條件。
+- **Mepolizumab**：適應症為成人嚴重嗜酸性球型氣喘、EGPA、HES。健保EGPA給付需符合復發型或難治型條件、事前審查核准，且與benralizumab僅得擇一使用，惟耐受不良時可轉換（113/4/1、115/4/1）。
+- **Benralizumab**：適應症為嗜酸性白血球表現型之嚴重氣喘成人病人附加維持治療（不適用於緩解急性支氣管痙攣或氣喘重積狀態）。健保EGPA給付與mepolizumab僅得擇一使用，惟耐受不良時可轉換（113/4/1、115/4/1）。
+
 ---
 
 ## 8. Others
