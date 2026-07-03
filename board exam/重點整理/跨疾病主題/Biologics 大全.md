@@ -117,12 +117,12 @@
 
 ## 6. B cell–targeted therapies
 
-| Group | 學名 | 中文名 | 商品名 | 仿單 | 藥商 | 用量 | 途徑 | 藥價(售價) | 贈藥 | 平均藥費(月) | 需提供資料 | 備註 |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Anti-CD20 | Rituximab | 莫須瘤　注射劑　500毫克／50毫升<br>妥利希瑪 注射劑 500毫克/50毫升 | **MABTHERA for inj 500 mg/50 ml**<br>**TRUXIMA for inj 500 mg/50 ml** | Rituximab | Roche / Teva | 500–1000 mg at 0, 2 wk；24 wk 後開始下一輪（間隔勿短於 16 wk）<br>※前置用藥詳見文末註 | IV | 36237.3 (Mabthera) / 35582.8 (Truxima) | | | | |
-| Anti-CD20 | Obinutuzumab | 癌即瓦　注射劑　1000毫克／40毫升 | Gazyva soln for inj 1000mg/40ml | | | | IV | 98346.6 | | | | |
-| Anti-BAFF (BLyS) | Belimumab | 奔麗生　凍晶注射劑　120毫克 | **Benlysta powder for infu 120 mg** | Belynsta | GSK | 10mg/kg at 0, 2, 4 wk, maintain Q4W（1mg/kg 效果也很好） | IV | 4038.1 | | | | |
-| Anti-CD19 | Inebilizumab | | | | | | | | | | | |
+| Group | 學名 | 中文名 | 商品名 | 藥商 | 用量 | 途徑 | 藥價(售價) |
+|---|---|---|---|---|---|---|---|
+| Anti-CD20 | Rituximab | 莫須瘤　注射劑　500毫克／50毫升<br>妥利希瑪 注射劑 500毫克/50毫升 | **MABTHERA for inj 500 mg/50 ml**<br>**TRUXIMA for inj 500 mg/50 ml** | Roche / Teva | 500–1000 mg at 0, 2 wk；24 wk 後開始下一輪（間隔勿短於 16 wk）<br>※前置用藥詳見文末註 | IV | 36237.3 (Mabthera) / 35582.8 (Truxima) |
+| Anti-CD20 | Obinutuzumab | 癌即瓦　注射劑　1000毫克／40毫升 | Gazyva soln for inj 1000mg/40ml | | | IV | 98346.6 |
+| Anti-BAFF (BLyS) | Belimumab | 奔麗生　凍晶注射劑　120毫克 | **Benlysta powder for infu 120 mg** | GSK | 10mg/kg at 0, 2, 4 wk, maintain Q4W（1mg/kg 效果也很好） | IV | 4038.1 |
+| Anti-CD19 | Inebilizumab | | | | | | |
 
 ---
 
