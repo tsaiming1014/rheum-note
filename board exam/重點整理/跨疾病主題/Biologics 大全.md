@@ -31,12 +31,12 @@
 
 > **機轉**：IL-6 結合 IL-6R（soluble或membrane-bound）後，複合體與 gp130 二聚化、活化 JAK/STAT。IL-6 促進 Th17 分化、B cell活化、蝕骨細胞（RANKL依賴）活化，並協同TNF/IL-1β促進VEGF/血管翳形成；濃度與CRP、疾病嚴重度成正比。多數藥物阻斷 **IL-6R**（較專一），僅 Siltuximab 中和 **IL-6 ligand** 本身。
 
-| Group | 學名 | 中文名 | 商品名 | 仿單 | 藥商 | 用量 | 途徑 | 副作用 | 特色 | 藥價(售價) | 贈藥 | 平均藥費(月) | 需提供資料 | 備註 |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Humanized mAb against IL-6R | Tocilizumab | 安挺樂　靜脈點滴注射劑　80毫克／4毫升 | **Actemra sol for infu. 80 mg/4 ml**<br>**Actemra for SC inj 162 mg** | Tocilizumab 仿單 | 中外 | 4mg/kg IV QM，可調至 8mg/kg（SC另有劑型） | IV/SC | Infusion reaction；LFT上升；血脂上升；neutropenia；thrombocytopenia；GI穿孔（罕見） | 唯一IV+SC；適應症最廣（RA、**GCA**、PJIA/sJIA、CRS） | 3835.7 / 8418.3 | | | | |
-| Human mAb against IL-6R | Sarilumab | （台灣未上市） | Kevzara inj 200 mg | | Sanofi | 200mg SC Q2W（異常可降150mg） | SC | 副作用較tocilizumab輕：LFT上升、neutropenia/thrombocytopenia較少 | 唯一**PMR**適應症；SC only；台灣未上市 | | | | | |
-| mAb against IL-6R（recycling antibody技術） | Satralizumab | 櫻普立 皮下注射劑 120毫克 | Enspryng "Y" for SC inj 120 mg/1 ml/PFS | | | Loading: 120mg SC at 0, 2, 4 wk<br>Maintain: 120mg SC Q4W | SC | 感染、LFT上升、neutropenia；注射部位反應 | 唯一**NMOSD**適應症（神經科用藥）；recycling antibody延長半衰期 | 192787.1 | | | | |
-| Chimeric mAb against IL-6（ligand本身） | Siltuximab | | **Sylvant 100 mg/vial** | | | 11 mg/kg Q3W；輸注1小時，需0.2µm PES濾器 | IV | 感染、LFT上升；需監測WBC/PLT/Hb | 唯一標靶IL-6 **ligand**本身；唯一不用於RA（iMCD） | 15998 | | | | |
+| Group | 學名 | 中文名 | 商品名 | 藥商 | 用量 | 途徑 | 副作用 | 特色 | 藥價(售價) |
+|---|---|---|---|---|---|---|---|---|---|
+| Humanized mAb against IL-6R | Tocilizumab | 安挺樂　靜脈點滴注射劑　80毫克／4毫升 | **Actemra sol for infu. 80 mg/4 ml**<br>**Actemra for SC inj 162 mg** | 中外 | 4mg/kg IV QM，可調至 8mg/kg（SC另有劑型） | IV/SC | Infusion reaction；LFT上升；血脂上升；neutropenia；thrombocytopenia；GI穿孔（罕見） | 唯一IV+SC；適應症最廣（RA、**GCA**、PJIA/sJIA、CRS） | 3835.7 / 8418.3 |
+| Human mAb against IL-6R | Sarilumab | （台灣未上市） | Kevzara inj 200 mg | Sanofi | 200mg SC Q2W（異常可降150mg） | SC | 副作用較tocilizumab輕：LFT上升、neutropenia/thrombocytopenia較少 | 唯一**PMR**適應症；SC only；台灣未上市 | |
+| mAb against IL-6R（recycling antibody技術） | Satralizumab | 櫻普立 皮下注射劑 120毫克 | Enspryng "Y" for SC inj 120 mg/1 ml/PFS | | Loading: 120mg SC at 0, 2, 4 wk<br>Maintain: 120mg SC Q4W | SC | 感染、LFT上升、neutropenia；注射部位反應 | 唯一**NMOSD**適應症（神經科用藥）；recycling antibody延長半衰期 | 192787.1 |
+| Chimeric mAb against IL-6（ligand本身） | Siltuximab | | **Sylvant 100 mg/vial** | | 11 mg/kg Q3W；輸注1小時，需0.2µm PES濾器 | IV | 感染、LFT上升；需監測WBC/PLT/Hb | 唯一標靶IL-6 **ligand**本身；唯一不用於RA（iMCD） | 15998 |
 
 **藥物補充說明**：
 
