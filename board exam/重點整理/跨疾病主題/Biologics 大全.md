@@ -8,13 +8,13 @@
 
 > **機轉**：TNF 經 TNF-RI（CD120a）/TNF-RII（CD120b）誘發 IL-1、IL-6、GM-CSF 等下游發炎介質，是 RA、PsA、AxSpA 的關鍵致病細胞激素。TNFi 中和 soluble/membrane TNF，部分藥物並可誘導活化巨噬細胞/淋巴球凋亡（是否誘導凋亡，決定該藥對 IBD/uveitis 是否有效，詳見下方補充）。
 
-| Group | 學名 | 中文名 | 商品名 | 仿單 | 藥商 | 用量 | 途徑 | 副作用 | 特色 | 藥價(售價) | 贈藥 | 平均藥費(月) | 需提供資料 | 備註 |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Chimeric mAb against TNF（~70%人源化IgG1κ） | Infliximab | 類克　凍晶注射劑　100毫克 | Remicade powder for infu. 100 mg | 37808B.indd；Ramicade 仿單 2 | Janssen (楊森) JJ子公司 | Induction: 3 mg/kg IV at 0, 2, 6 wk<br>Maintain: 3 mg/kg IV Q8W | IV | Infusion reaction、免疫原性高 | 首個anti-TNF mAb；誘導凋亡→IBD有效 | 8919.9 | | | | |
-| Soluble TNF receptor（p75/TNFR2-Fc fusion） | Etanercept | 恩博　針筒裝注射劑　25毫克 | Enbrel sol for inj 25 mg/PFS | Enbrel PFS 25mg | Pfizer | 25mg SC BIW, or 50mg SC QW | SC | 注射部位反應；TB風險較低 | 唯一阻斷TNF+LTα；不誘導凋亡→uveitis/IBD/GPA無效 | 3437.5 | | | | |
-| Fully human mAb against TNF (IgG1) | Adalimumab | 復邁 | **Humira 40mg** | Humira 仿單 | Abbvie | 40mg SC Q2W | SC | 注射部位反應 | 適應症含uveitis | 10354.3 | 買四支贈二支 | | 1. 病患同意書 2. 收據影本 | – |
-| Human mAb against TNF (IgG1) | Golimumab | 欣普尼 | Simponi sol for inj 50 mg/0.5 ml | Simponi 仿單 | Johnson & Johnson | 50mg SC QM（另有IV劑型 Simponi Aria） | SC(/IV) | 注射部位反應 | 唯一SC+IV皆有；適應症含IBD | 20234.5 | | | | |
-| PEGylated Fab'（無Fc端） | Certolizumab pegol | 欣膝亞　注射液　200毫克／1毫升 | Cimzia soln for inj 200 mg/1 ml | SOP Template | UCB Pharma | Induction: 400mg SC at 0, 2, 4 wk<br>Maintain: 200mg Q2W or 400mg QM | SC | 注射部位反應 | 唯一無Fc端，孕期相對安全；首個核准nr-axSpA | 10642.5 | | | | |
+| Group | 學名 | 中文名 | 商品名 | 藥商 | 用量 | 途徑 | 副作用 | 特色 | 藥價(售價) |
+|---|---|---|---|---|---|---|---|---|---|
+| Chimeric mAb against TNF（~70%人源化IgG1κ） | Infliximab | 類克　凍晶注射劑　100毫克 | Remicade powder for infu. 100 mg | Janssen (楊森) JJ子公司 | Induction: 3 mg/kg IV at 0, 2, 6 wk<br>Maintain: 3 mg/kg IV Q8W | IV | Infusion reaction、免疫原性高 | 首個anti-TNF mAb；誘導凋亡→IBD有效 | 8919.9 |
+| Soluble TNF receptor（p75/TNFR2-Fc fusion） | Etanercept | 恩博　針筒裝注射劑　25毫克 | Enbrel sol for inj 25 mg/PFS | Pfizer | 25mg SC BIW, or 50mg SC QW | SC | 注射部位反應；TB風險較低 | 唯一阻斷TNF+LTα；不誘導凋亡→uveitis/IBD/GPA無效 | 3437.5 |
+| Fully human mAb against TNF (IgG1) | Adalimumab | 復邁 | **Humira 40mg** | Abbvie | 40mg SC Q2W | SC | 注射部位反應 | 適應症含uveitis | 10354.3 |
+| Human mAb against TNF (IgG1) | Golimumab | 欣普尼 | Simponi sol for inj 50 mg/0.5 ml | Johnson & Johnson | 50mg SC QM（另有IV劑型 Simponi Aria） | SC(/IV) | 注射部位反應 | 唯一SC+IV皆有；適應症含IBD | 20234.5 |
+| PEGylated Fab'（無Fc端） | Certolizumab pegol | 欣膝亞　注射液　200毫克／1毫升 | Cimzia soln for inj 200 mg/1 ml | UCB Pharma | Induction: 400mg SC at 0, 2, 4 wk<br>Maintain: 200mg Q2W or 400mg QM | SC | 注射部位反應 | 唯一無Fc端，孕期相對安全；首個核准nr-axSpA | 10642.5 |
 
 **藥物補充說明**：
 
