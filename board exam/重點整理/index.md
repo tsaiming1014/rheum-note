@@ -47,6 +47,7 @@
 | 補體系統 | [補體系統 — 臨床檢驗與各疾病變化](跨疾病主題/Complement_疾病與檢驗.md) |
 | NETosis / LDG | [NETosis 與 LDG](跨疾病主題/NETosis與LDG.md) |
 | NSAIDs | [NSAIDs 口試完整答案](跨疾病主題/謝松洲_NSAIDs口試完整答案.md) |
+| Paradoxical Psoriasis | [矛盾性乾癬反應（含矛盾性濕疹）](跨疾病主題/Paradoxical_Psoriasis.md) |
 | 先天免疫 / 發炎體 | [TLR → Inflammasome 與 Interferon 整合](跨疾病主題/先天免疫_TLR_發炎體_干擾素整合.md) |
 | CTD-ILD | CTD 相關間質性肺病 |
 | Pregnancy in rheumatic disease | 風濕病與妊娠（2022 BSR Part 1 & 2） |
