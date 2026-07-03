@@ -6,13 +6,17 @@
 
 ## 1. TNF inhibitors
 
-| Group | 學名 | 中文名 | 商品名 | 仿單 | 藥商 | 用量 | 途徑 | 藥價(售價) | 贈藥 | 平均藥費(月) | 需提供資料 | 備註 |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Monoclonal Ab against TNF | Adalimumab | 復邁 | **Humira 40mg** | Humira 仿單 | Abbvie | 40mg Q2W | SC | 10354.3 | 買四支贈二支 | | 1. 病患同意書 2. 收據影本 | – |
-| Monoclonal Ab against TNF | Golimumab | 欣普尼 | Simponi sol for inj 50 mg/0.5 ml | Simponi 仿單 | Johnson & Johnson | 50mg QM | SC | 20234.5 | | | | |
-| Monoclonal Ab against TNF | Infliximab | 類克　凍晶注射劑　100毫克 | Remicade powder for infu. 100 mg | 37808B.indd；Ramicade 仿單 2 | Janssen (楊森) JJ子公司 | Induction: 3 mg/kg IV at 0, 2, 6 wk<br>Maintain: 3 mg/kg IV Q8W | IV | 8919.9 | | | | |
-| PEGilated Fab-fragment of Ab against TNF | Certolizumab pegol | 欣膝亞　注射液　200毫克／1毫升 | Cimzia soln for inj 200 mg/1 ml | SOP Template | UCB Pharma | Induction: 400mg SC at 0, 2, 4 wk<br>Maintain: 200mg Q2W or 400mg QM | SC | 10642.5 | | | | |
-| Soluble TNF receptor | Etanercept | 恩博　針筒裝注射劑　25毫克 | Enbrel sol for inj 25 mg/PFS | Enbrel PFS 25mg | Pfizer | 25mg BIW, or 50mg QW | SC | 3437.5 | | | | |
+> **機轉**：TNF 是類風濕關節炎、PsA、AxSpA 等發炎性關節炎的關鍵致病細胞激素，經由 TNF-RI（CD120a）及 TNF-RII（CD120b）誘發 IL-1、IL-6、GM-CSF 等下游發炎介質釋放。TNF inhibitors 中和 soluble/membrane TNF，抑制發炎路徑並可誘導部分細胞凋亡（機轉詳見各藥物「特色」欄）。
+
+| Group | 學名 | 中文名 | 商品名 | 仿單 | 藥商 | 用量 | 途徑 | 副作用 | 特色 | 藥價(售價) | 贈藥 | 平均藥費(月) | 需提供資料 | 備註 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Chimeric (murine/human) monoclonal Ab against TNF（~70% human, IgG1κ） | Infliximab | 類克　凍晶注射劑　100毫克 | Remicade powder for infu. 100 mg | 37808B.indd；Ramicade 仿單 2 | Janssen (楊森) JJ子公司 | Induction: 3 mg/kg IV at 0, 2, 6 wk<br>Maintain: 3 mg/kg IV Q8W | IV | Infusion reaction 最常見（headache ~20%、nausea ~15%）；免疫原性最高（單用時ADA產生率高，需與MTX併用降低清除率、提升療效） | 首個上市的 anti-TNF mAb；可誘導活化巨噬細胞/淋巴球凋亡，故對 IBD（Crohn's/UC）有效；不結合 lymphotoxin-α | 8919.9 | | | | |
+| Soluble TNF receptor (p75/TNFR2–IgG1 Fc fusion protein) | Etanercept | 恩博　針筒裝注射劑　25毫克 | Enbrel sol for inj 25 mg/PFS | Enbrel PFS 25mg | Pfizer | 25mg SC BIW, or 50mg SC QW | SC | Injection site reaction 常見；TB reactivation 風險相對單株抗體較低 | **唯一同時阻斷 TNF 與 lymphotoxin-α**；**不誘導細胞凋亡** → 對 **uveitis、IBD（Crohn's）、GPA/肉芽腫性血管炎無效**（GPA試驗失敗且惡性腫瘤訊號較高），因此不核准這些適應症 | 3437.5 | | | | |
+| Fully human monoclonal Ab against TNF (IgG1) | Adalimumab | 復邁 | **Humira 40mg** | Humira 仿單 | Abbvie | 40mg SC Q2W | SC | Injection site reaction 常見；MTX併用可降低清除率、減少ADA生成 | 適應症**包含 uveitis**（此類中除 infliximab 外少數核准 uveitis 的 TNFi）；不結合 lymphotoxin-α | 10354.3 | 買四支贈二支 | | 1. 病患同意書 2. 收據影本 | – |
+| Human monoclonal Ab against TNF (IgG1) | Golimumab | 欣普尼 | Simponi sol for inj 50 mg/0.5 ml | Simponi 仿單 | Johnson & Johnson | 50mg SC QM（另有IV劑型 Simponi Aria） | SC(/IV) | Injection site reaction 常見 | 唯一同時有 SC 與 IV 劑型可選；適應症含 IBD（潰瘍性結腸炎） | 20234.5 | | | | |
+| PEGylated Fab' fragment of humanized Ab against TNF（無 Fc 端） | Certolizumab pegol | 欣膝亞　注射液　200毫克／1毫升 | Cimzia soln for inj 200 mg/1 ml | SOP Template | UCB Pharma | Induction: 400mg SC at 0, 2, 4 wk<br>Maintain: 200mg Q2W or 400mg QM | SC | Injection site reaction；理論上無 ADCC/CDC反應 | **唯一無 Fc 端的 TNFi** → 幾乎不經 FcRn 通過胎盤，懷孕相對安全首選；對 Crohn's 有效但**不誘導凋亡**（機轉與其他mAb不同）；首個核准用於 non-radiographic axSpA 的 TNFi | 10642.5 | | | | |
+
+> **TNF inhibitor class-wide 副作用**（適用於全部5個藥，程度因藥而異）：一般/伺機性感染（含 latent TB reactivation，用藥前需篩檢並視情況預防性治療）、惡性腫瘤（lymphoma、skin cancer，證據尚不明確）、demyelinating disease/MS惡化（罕見，有病史者避免使用）、CHF惡化（**NYHA III/IV 為禁忌**）、藥物引發 lupus-like syndrome（ANA/dsDNA陽性10–15%，但臨床lupus僅0.2–0.4%且多不嚴重，停藥可恢復）、paradoxical psoriasis（2–5%，掌蹠型為主）、免疫原性（anti-drug antibody，影響藥效與清除率）。
 
 ---
 
