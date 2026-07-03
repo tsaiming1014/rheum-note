@@ -6,3 +6,63 @@
 .md-content {
   max-width: none;
 }
+
+/* 進站密碼遮罩 */
+html.site-locked body > *:not(#site-gate) {
+  display: none !important;
+}
+
+#site-gate {
+  position: fixed;
+  inset: 0;
+  background: #0f172a;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 9999;
+}
+
+.site-gate-box {
+  background: #fff;
+  padding: 2rem 2.5rem;
+  border-radius: 8px;
+  text-align: center;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+}
+
+.site-gate-box p {
+  margin: 0 0 0.5rem;
+  color: #333;
+}
+
+.site-gate-box input {
+  display: block;
+  width: 100%;
+  margin: 1rem 0;
+  padding: 0.5rem 0.75rem;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.site-gate-box button {
+  padding: 0.5rem 1.5rem;
+  background: #009688;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 1rem;
+}
+
+.site-gate-box button:hover {
+  background: #00796b;
+}
+
+.site-gate-error {
+  color: #d32f2f;
+  min-height: 1.2em;
+  font-size: 0.9rem;
+  margin: 0.5rem 0 0;
+}
