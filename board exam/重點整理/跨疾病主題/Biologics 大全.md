@@ -177,14 +177,26 @@
 
 ## 9. csDMARDs / 免疫抑制劑
 
-> **機轉**：**Tacrolimus**與**Cyclosporin**皆為calcineurin inhibitor，但結合不同的免疫嗜素（immunophilin）——Tacrolimus結合**FKBP-12**、Cyclosporin結合**cyclophilin**，兩者形成的複合體皆可抑制calcineurin磷酸酶活性，阻止NFAT去磷酸化並進入細胞核，進而阻斷IL-2基因轉錄、抑制T細胞活化與增生（Tacrolimus效價約為cyclosporine之10–100倍）。**Mycophenolic acid（MPA）與Mycophenolate mofetil（MMF，為MPA的prodrug）**則抑制**IMPDH（inosine monophosphate dehydrogenase）**，阻斷嘌呤de novo合成路徑——因淋巴球（T、B cell）較其他細胞更依賴此路徑（缺乏有效的salvage pathway），故對淋巴球有相對選擇性的抗增生作用；Myfortic採腸衣錠設計於腸道釋放，目的是減少上消化道副作用。
+> **機轉**：
+>
+> - **Calcineurin inhibitors**：**Tacrolimus**與**Cyclosporin**結合不同的免疫嗜素（immunophilin）——Tacrolimus結合**FKBP-12**、Cyclosporin結合**cyclophilin**，兩者形成的複合體皆可抑制calcineurin磷酸酶活性，阻止NFAT去磷酸化並進入細胞核，進而阻斷IL-2基因轉錄、抑制T細胞活化與增生（Tacrolimus效價約為cyclosporine之10–100倍）。**Voclosporin**是cyclosporine的結構修飾類似物（同樣結合cyclophilin），calcineurin抑制效價更強、代謝物清除更快、藥物穩定性更好；此外還有**免疫機轉以外的直接抗蛋白尿效果**——透過穩定足細胞（podocyte）細胞骨架相關蛋白synaptopodin，直接減少蛋白尿，這是voclosporin在狼瘡腎炎（AURORA試驗，FDA/EMA已核准）中的重要機轉特色，非單純免疫抑制可解釋。
+> - **IMPDH inhibitors**：Mycophenolic acid（MPA）與Mycophenolate mofetil（MMF，為MPA的prodrug）抑制**IMPDH**，阻斷嘌呤de novo合成路徑，對淋巴球有相對選擇性的抗增生作用；Myfortic採腸衣錠設計於腸道釋放，目的是減少上消化道副作用。
+> - **Azathioprine**：本身是prodrug，經非酵素反應轉換為**6-mercaptopurine（6-MP）**，再經HGPRT代謝為具細胞毒性之thioguanine nucleotides並嵌入DNA/RNA，抑制嘌呤從頭合成，對增生中的淋巴球具細胞毒性。**TPMT（thiopurine S-methyltransferase）與NUDT15**負責將6-MP代謝成無活性產物；此兩酵素活性低下（尤其TPMT homozygous poor metabolizer，約0.3%人口）會使thioguanine代謝物蓄積、造成嚴重骨髓抑制，故建議治療前檢測TPMT/NUDT15基因型或活性。
+> - **Hydroxychloroquine（HCQ）**：屬弱鹼性lysosomotropic agent，可進入細胞內酸性胞器（溶酶體/內體）並提高其pH（由~4.0升至~6.0），干擾抗原處理與MHC class II呈現；近年更重要的機轉是**拮抗胞內辨識核酸的Toll-like receptor（TLR3/7/8/9）**，阻斷自身核酸活化TLR、減少pDC分泌type I IFN、減少NETs形成。此外HCQ具抗栓（抑制血小板凝集）、降血脂、降血糖等**免疫機轉以外的附加效益**，是SLE病人普遍建議長期使用的原因之一。
+> - **Cyclophosphamide**：為prodrug，經cytochrome P450代謝為4-hydroxycyclophosphamide/aldophosphamide，再轉換為活性烷化代謝物**phosphoramide mustard**（造成DNA交聯、抑制DNA合成、誘導凋亡）及副產物**acrolein**（造成出血性膀胱炎、膀胱癌風險的元凶，故給藥時需併用mesna中和acrolein、並大量水化）。
+> - **Sulfasalazine（SSZ）**：機轉多重且非單一——抑制ATIC/DHFR增加細胞外腺苷釋放（與MTX類似，且SSZ抑制ATIC效力更強）、抑制NFκB核轉位、抑制T細胞細胞激素（IL-2、IFN-γ）及巨噬細胞細胞激素（IL-1、TNF、IL-6）、抑制嗜中性球趨化與活化、抑制B細胞活化與免疫球蛋白/RF生成。活性成分被認為是SSZ母體本身（而非其代謝物磺胺吡啶sulfapyridine或5-ASA）。
 
 | Group | 學名 | 中文名 | 商品名 | 藥商 | 用量 | 途徑 | 副作用 | 特色 | 藥價(售價) |
 |---|---|---|---|---|---|---|---|---|---|
 | Calcineurin inhibitor（結合FKBP-12） | Tacrolimus | 普樂可復　膠囊　1毫克 | **Prograf cap 1 mg** | ? | | PO | 腎毒性；神經毒性；高血糖/糖尿病風險較高；高血壓 | 效價約為cyclosporine之10–100倍；致糖尿病風險高於cyclosporine | 125.4 (1mg) / 69.3 (0.5mg) |
 | Calcineurin inhibitor（結合cyclophilin） | Cyclosporin | 新體睦　軟膠囊　100毫克（蘭絲菌素） | **SANDIMMUN NEORAL CAP 100 MG** | | | PO | 腎毒性；高血壓；高血脂；牙齦增生、多毛症 | 牙齦增生/多毛症為其特徵性副作用（較tacrolimus常見） | 124 (100mg) / 39.16 (25mg) |
+| Calcineurin inhibitor（cyclosporine結構修飾類似物） | Voclosporin | （台灣尚未上市） | Lupkynis 23.7mg cap | Aurinia/Otsuka | <details><summary>用量</summary>23.7mg PO BID（與MMF、類固醇併用治療狼瘡腎炎）</details> | PO | 腎毒性；高血壓；血糖異常（較cyclosporine風險略低） | **唯一具直接抗蛋白尿效果**（穩定足細胞synaptopodin，非單純免疫抑制）；**FDA/EMA已核准狼瘡腎炎適應症**（AURORA試驗） | |
 | IMPDH inhibitor（腸衣錠設計，腸道釋放） | Mycophenolic acid | 睦體康　腸衣錠　180毫克 | **Myfortic tab 180 mg** | | | PO | GI副作用（腹瀉為主，但較MMF少見）；白血球低下；**致畸胎性（懷孕禁忌）**；CMV/BK virus感染風險增加 | 腸衣錠劑型於腸道釋放，設計目的為減少上消化道副作用 | 46.75 |
 | IMPDH inhibitor（MPA之prodrug） | Mycophenolate | 山喜多　膠囊　250毫克 | **Cellcept cap 250 mg** | | | PO | GI副作用（腹瀉常見）；白血球低下；**致畸胎性（懷孕禁忌）**；CMV/BK virus感染風險增加 | MMF為MPA的prodrug，經口服後水解為活性代謝物MPA | 41.58 |
+| Purine analogue（thiopurine prodrug） | Azathioprine | 移護寧　錠　50毫克 | **Imuran tab 50 mg** | 安沛國際 | <details><summary>用量</summary>1–2.5mg/kg/day PO（依適應症調整）</details> | PO | 骨髓抑制（TPMT/NUDT15活性低下者風險大增）；肝功能異常；急性過敏反應（發燒、皮疹、胰臟炎，用藥初期2週內）；感染 | 治療前建議檢測**TPMT/NUDT15**基因型或活性以評估骨髓抑制風險；與allopurinol併用需大幅減量（xanthine oxidase交互作用） | 24.4 |
+| Anti-malarial（lysosomotropic agent + TLR7/8/9拮抗劑） | Hydroxychloroquine | 必賴克廔　膜衣錠　200毫克 | **Plaquenil tab 200 mg** | | <details><summary>用量</summary>依實際體重≤5mg/kg/day（分次服用）</details> | PO | **視網膜毒性**（bull's-eye maculopathy，需長期眼科追蹤）；皮疹；頭痛/失眠；QT延長（罕見，長期使用風險略增） | 具抗栓、降血脂、降血糖等**免疫機轉以外附加效益**；視網膜毒性風險因子：劑量>5mg/kg實際體重、使用>10年、CKD、併用tamoxifen | |
+| Alkylating agent（DNA cross-linking cytotoxic） | Cyclophosphamide | 癌得星／癌德星　錠／注射劑 | **Endoxan tab/inj 50 mg** | | <details><summary>用量</summary>依適應症：IV pulse或PO daily（劑量因方案而異）</details> | PO/IV | 骨髓抑制；**出血性膀胱炎/膀胱癌**（代謝物acrolein所致，需併用mesna+大量水化）；性腺毒性（不孕）；次發性惡性腫瘤風險增加；伺機性感染（PJP，需預防性投藥） | 為prodrug，活性代謝物phosphoramide mustard負責細胞毒性；IV pulse較口服每日給藥之膀胱毒性/感染風險低 | |
+| 多重機轉（腺苷釋放、NFκB抑制、抑制T/B cell與neutrophil） | Sulfasalazine | 撒樂　腸溶錠　500毫克 | **Salazopyrin EN-tab 500 mg** | | <details><summary>用量</summary>初始500mg/day，漸增至2–3g/day，分次服用</details> | PO | GI副作用（噁心最常見）；皮疹；骨髓抑制（白血球低下，罕見但需監測）；**G6PD缺乏者禁忌**（溶血風險）；體液橘色變色（尿液、汗液、淚液） | 懷孕相對安全，為育齡期女性風濕病患者可選用之DMARD之一；男性可能發生可逆性寡精症 | |
 
 ---
 
