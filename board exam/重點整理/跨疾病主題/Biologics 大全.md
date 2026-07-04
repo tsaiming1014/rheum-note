@@ -134,16 +134,18 @@
 
 ---
 
-## 7. Type 2 inflammation pathway inhibitors（IL-4/IL-13、IgE、IL-5）
+## 7. Type 2 inflammation pathway inhibitors（TSLP、IL-4/IL-13、IgE、IL-5）
 
-> **機轉**：Type 2 inflammation由Th2細胞、ILC2分泌IL-4、IL-5、IL-13驅動，是過敏性氣喘、AD、CSU、EGPA等疾病的共同致病軸。
+> **機轉**：Type 2 inflammation由Th2細胞、ILC2分泌IL-4、IL-5、IL-13驅動，是過敏性氣喘、AD、CSU、EGPA等疾病的共同致病軸；上游則由呼吸道上皮受損傷/過敏原刺激後釋放的**alarmin（TSLP、IL-25、IL-33）**啟動整個Th2/ILC2反應。
 >
+> - **TSLP（最上游）**：**Tezepelumab**阻斷上皮alarmin **TSLP**，作用點在Th2/ILC2活化**之前**，因此不論病人是否為嗜酸性球表現型（eosinophilic phenotype）皆可能有效，是此類中**唯一不需依賴特定Type 2 biomarker即可使用**的藥物；下游可同時降低IgE、FeNO、IL-5、IL-13等多種發炎指標。
 > - **IL-4/IL-13 軸**：IL-4與IL-13共用**IL-4Rα**次單元——Type I receptor（IL-4Rα+γc，僅結合IL-4）、Type II receptor（IL-4Rα+IL-13Rα1，IL-4與IL-13皆可結合）。**Dupilumab**阻斷**IL-4Rα**，故同時阻斷IL-4（經Type I/II receptor）與IL-13（經Type II receptor），範圍最廣。**Lebrikizumab**直接中和**IL-13 ligand**本身，不影響IL-4訊號，且保留IL-13與decoy receptor IL-13Rα2結合之內生調控機制。
 > - **IgE 軸**：**Omalizumab**結合游離IgE（非receptor），使其無法結合FcεRI，並使FcεRI表現量漸進下調（故起效需數週）；也結合低親和力IgE受體CD23。
-> - **IL-5 軸的機轉差異（重要考點，概念上與 [[RTX vs OBI]] 相似）**：**Mepolizumab**中和**游離IL-5 ligand**，阻斷IL-5與嗜酸性球表面IL-5Rα結合，屬於**阻斷存活訊號**策略；**Benralizumab**直接結合**IL-5Rα受體**，且經醣基工程去岩藻糖化（afucosylated）大幅強化ADCC/ADCP，屬於**直接清除**策略，可近乎完全清除嗜酸性球——與B cell章節中mepolizumab≈belimumab（阻斷）、benralizumab≈obinutuzumab（ADCC清除）的機轉邏輯一致。
+> - **IL-5 軸的機轉差異（重要考點，概念上與第6類 RTX vs OBI 相似）**：**Mepolizumab**中和**游離IL-5 ligand**，阻斷IL-5與嗜酸性球表面IL-5Rα結合，屬於**阻斷存活訊號**策略；**Benralizumab**直接結合**IL-5Rα受體**，且經醣基工程去岩藻糖化（afucosylated）大幅強化ADCC/ADCP，屬於**直接清除**策略，可近乎完全清除嗜酸性球——與B cell章節中mepolizumab≈belimumab（阻斷）、benralizumab≈obinutuzumab（ADCC清除）的機轉邏輯一致。
 
 | Group | 學名 | 中文名 | 商品名 | 藥商 | 用量 | 途徑 | 副作用 | 特色 | 藥價(售價) |
 |---|---|---|---|---|---|---|---|---|---|
+| Anti-TSLP mAb（阻斷上游epithelial alarmin） | Tezepelumab | 賽普爾（Tezspire，暫譯） | **TEZSPIRE soln for inj 210 mg** | AstraZeneca | <details><summary>用量</summary>210mg SC Q4W（大腿或腹部，避開肚臍5cm內）</details> | SC | 咽炎、關節痛、注射部位反應 | 作用於Th2/ILC2活化**之前**，不需依賴嗜酸性球表現型即可使用；台灣已上市（健保近期新收載） | |
 | Anti-IL-4Rα（阻斷IL-4+IL-13，範圍最廣） | Dupilumab | 杜避炎　注射劑 300毫克 | **DUPIXENT SOLN FOR INJ 300 MG/2 ML/PFS** | Sanofi | <details><summary>用量</summary>AD: induction 600mg, maintain 300mg Q2W</details> | IV | 結膜炎；注射部位反應；ANCA相關血管炎（罕見病例報告） | 阻斷IL-4Rα，同時阻斷IL-4與IL-13；適應症最多元（AD、氣喘、CRSwNP、EoE等） | 17255.7 |
 | Monoclonal Ab against IL-13（僅阻斷IL-13，不影響IL-4） | Lebrikizumab | 異可適　注射液　250毫克/2毫升 | **Ebglyss inj 250 mg/2 ml** | | <details><summary>用量</summary>AD: induction 500mg (2×250mg) at 0 wk, 250mg at 2 wk, maintain 250mg Q2W to 16 wk；反應良好者之後可改 250mg Q4W（或依反應延至 Q8W）</details> | SC | 結膜炎（較dupilumab少見報告） | 只阻斷IL-13、不影響IL-4；保留IL-13Rα2 decoy receptor之內生調控 | |
 | Anti-IgE mAb（結合游離IgE，非receptor） | Omalizumab | 喜瑞樂　凍晶注射劑　150毫克 | **Xolair powder for soln for inj 150 mg** | | <details><summary>用量</summary>依體重與治療前血清總 IgE（30–1500 IU/mL）查表決定劑量，每2或4週 SC 注射 150–375mg；CSU 固定劑量 300mg Q4W</details> | SC | 注射部位反應；過敏反應（含anaphylaxis，罕見但需備妥急救設備） | 結合游離IgE並使FcεRI表現下調；漸進式起效（需數週） | |
