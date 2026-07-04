@@ -204,9 +204,3 @@
 | Anti-malarial（lysosomotropic agent + TLR7/8/9拮抗劑） | Hydroxychloroquine | 必賴克廔　膜衣錠　200毫克 | **Plaquenil tab 200 mg** | | <details><summary>用量</summary>依實際體重≤5mg/kg/day（分次服用）</details> | PO | **視網膜毒性**（bull's-eye maculopathy，需長期眼科追蹤）；皮疹；頭痛/失眠；QT延長（罕見，長期使用風險略增） | 具抗栓、降血脂、降血糖等**免疫機轉以外附加效益**；視網膜毒性風險因子：劑量>5mg/kg實際體重、使用>10年、CKD、併用tamoxifen | |
 | Alkylating agent（DNA cross-linking cytotoxic） | Cyclophosphamide | 癌得星／癌德星　錠／注射劑 | **Endoxan tab/inj 50 mg** | | <details><summary>用量</summary>依適應症：IV pulse或PO daily（劑量因方案而異）</details> | PO/IV | 骨髓抑制；**出血性膀胱炎/膀胱癌**（代謝物acrolein所致，需併用mesna+大量水化）；性腺毒性（不孕）；次發性惡性腫瘤風險增加；伺機性感染（PJP，需預防性投藥） | 為prodrug，活性代謝物phosphoramide mustard負責細胞毒性；IV pulse較口服每日給藥之膀胱毒性/感染風險低 | |
 | 多重機轉（腺苷釋放、NFκB抑制、抑制T/B cell與neutrophil） | Sulfasalazine | 撒樂　腸溶錠　500毫克 | **Salazopyrin EN-tab 500 mg** | | <details><summary>用量</summary>初始500mg/day，漸增至2–3g/day，分次服用</details> | PO | GI副作用（噁心最常見）；皮疹；骨髓抑制（白血球低下，罕見但需監測）；**G6PD缺乏者禁忌**（溶血風險）；體液橘色變色（尿液、汗液、淚液） | 懷孕相對安全，為育齡期女性風濕病患者可選用之DMARD之一；男性可能發生可逆性寡精症 | |
-
----
-
-## 註：Rituximab（莫須瘤 MabThera）類風濕性關節炎前置用藥（仿單全文）
-
-類風濕性關節炎(Rheumatoid Arthritis)每次在輸注莫須瘤(MabThera)前應該給予前置用藥(premedication)，包括止痛劑/解熱劑(例如paracetamol)及抗組織胺(例如diphenhydramine)。在輸注前也應投予葡萄糖皮質素(glucocorticoids)做為前置用藥以降低輸注相關反應的頻率與嚴重度。在每次開始輸注莫須瘤(MabThera)的30分鐘之前，病患應先完成靜脈注射100毫克的methylprednisolone (見2.4警語及注意事項)。莫須瘤(MabThera)對類風濕性關節炎的一個療程共含兩次靜脈輸注，每次輸注500-1,000毫克。莫須瘤(MabThera)的建議劑量為靜脈輸注500-1,000毫克，再於2週後第2次靜脈輸注500-1,000毫克。在距前次療程結束後24週時，應依據殘存的或疾病活性DAS28-ESR是否回升到2.6以上(治療直到症狀緩解)，評估再接受後續療程治療的需要(見3.1.2類風濕性關節炎的臨床/療效研究)。病患若需接受後續療程治療，其間隔應勿短於16週。於臨床試驗中，大部分患者都是在前一療程的24到28週之後才需接受進一步治療。各療程中的第一次輸注建議起始輸注速度為50毫克/小時；若無輸注相關毒性，在最初的30分鐘之後，可每隔30分鐘以50毫克/小時的幅度提高輸注速度，但最高不可超過400毫克/小時。各療程中的第二次輸注後續的莫須瘤(MabThera)劑量可以100毫克/小時的起始速度進行輸注，若無輸注相關毒性，然後每隔30分鐘以100毫克/小時的幅度提高輸注速度，但最高不可超過400毫克/小時。
