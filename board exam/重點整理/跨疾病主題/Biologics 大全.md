@@ -132,6 +132,13 @@
 | Human mAb against BAFF-R（受體；雙重機轉：阻斷+ADCC清除） | Ianalumab | （尚未核准上市） | VAY736（investigational） | Novartis | <details><summary>用量</summary>300mg SC，每月一次或每3個月一次（NEPTUNUS試驗劑量）</details> | SC | 資料仍有限（phase 3試驗中安全性可接受，具良好耐受性） | **唯一同時阻斷BAFF-R訊號並以ADCC清除B cell**的雙重機轉藥物；2026年NEPTUNUS-1/2 phase 3試驗皆達主要endpoint（ESSDAI顯著改善），FDA已授予Sjögren's disease突破性療法認定，可能成為**首個Sjögren's disease專屬標靶藥物** | |
 | Humanized, afucosylated mAb against CD19 | Inebilizumab | （台灣未上市） | Uplizna inj 100 mg/10 mL | | <details><summary>用量</summary>300mg IV at day 0, 14, 之後每6個月一次</details> | IV | Infusion reaction；感染；低丙種球蛋白血症 | 標靶**CD19**而非CD20，涵蓋plasmablast等CD20陰性族群，清除範圍更廣；核准適應症為NMOSD（AQP4抗體陽性），非風濕病用藥 | |
 
+**藥物補充說明**：
+
+- **Rituximab 前置用藥與輸注方案**（RA適應症，仿單重點）：
+  - **前置用藥**：每次輸注前給予paracetamol+抗組織胺（如diphenhydramine），並於輸注前30分鐘給予**methylprednisolone 100mg IV**，以降低輸注反應之頻率與嚴重度。
+  - **劑量／排程**：一個療程共2次IV輸注（第0、2週各500–1000mg）；24週後依疾病活性（DAS28-ESR是否回升至≥2.6）評估是否需下一輪，兩輪間隔不可短於16週（多數病人於24–28週後才需再治療）。
+  - **輸注速度**：首次輸注起始50mg/hr，若無輸注反應，每30分鐘可提高50mg/hr，最高400mg/hr；同療程第2次輸注可自100mg/hr起始，同樣遞增規則、上限400mg/hr。
+
 ---
 
 ## 7. Type 2 inflammation pathway inhibitors（TSLP、IL-4/IL-13、IgE、IL-5）
