@@ -155,11 +155,15 @@
 
 ## 8. Others
 
-| Group | 學名 | 中文名 | 商品名 | 藥商 | 用量 | 途徑 | 藥價(售價) |
-|---|---|---|---|---|---|---|---|
-| T cell co-stimulation inhibitor | Abatacept | 恩瑞舒　凍晶注射劑　250毫克 | **Orencia powder for iv infu 250 mg** | BMS | <details><summary>用量</summary>Induction 0, 2, 4 wk, maintain Q4W；dose: <60kg 500mg, 60–100kg 750mg, >100kg 1000mg</details> | IV | 6821.1 |
-| Anti-IFNAR (type I IFN) | Anifrolumab | 莎芙諾 注射劑 150 毫克/毫升 | Saphnelo for infu. 150mg/ml 2 ml | AstraZeneca | <details><summary>用量</summary>300mg Q4W</details> | IV | 28719.9 |
-| Pooled IgG | IVIG | 國血製劑益康　人類免疫球蛋白　靜脈注射劑　60毫克　50毫升 | **HM Immunoglobulin inj 60mg/ml 50ml** | | | IV | 5940 |
+> **機轉**：此類機轉異質性高。**Abatacept**是CTLA4-Ig融合蛋白，阻斷CD28與CD80/86的T細胞共同刺激訊號。**Anifrolumab**阻斷IFNAR1，抑制type I IFN訊號。**IVIG**機轉多重（Fc受體飽和、抗獨特型抗體中和等）。新增兩個機轉：**Nipocalimab**阻斷**FcRn**（neonatal Fc receptor），加速致病性IgG自體抗體的分解代謝——不是B cell療法，而是直接降低循環IgG濃度（不論其來源）。**Dazodalibep**是非抗體之融合蛋白，阻斷**CD40L（CD154）-CD40**這條T-B共同刺激軸，概念上與Abatacept類似（都是切斷T-B co-stimulation），但標靶的是不同軸線（CD40-CD40L，而非CD28-CD80/86）。
+
+| Group | 學名 | 中文名 | 商品名 | 藥商 | 用量 | 途徑 | 副作用 | 特色 | 藥價(售價) |
+|---|---|---|---|---|---|---|---|---|---|
+| T cell co-stimulation inhibitor（CTLA4-Ig，阻斷CD28-CD80/86） | Abatacept | 恩瑞舒　凍晶注射劑　250毫克 | **Orencia powder for iv infu 250 mg** | BMS | <details><summary>用量</summary>Induction 0, 2, 4 wk, maintain Q4W；dose: <60kg 500mg, 60–100kg 750mg, >100kg 1000mg</details> | IV | 感染（COPD病人肺部感染需留意） | 唯一CTLA4-Ig融合蛋白；劑量依體重分段 | 6821.1 |
+| Anti-IFNAR1 mAb（阻斷type I IFN訊號） | Anifrolumab | 莎芙諾 注射劑 150 毫克/毫升 | Saphnelo for infu. 150mg/ml 2 ml | AstraZeneca | <details><summary>用量</summary>300mg Q4W</details> | IV | 帶狀皰疹風險增加；輸注反應 | 唯一核准用於SLE之anti-IFNAR藥物 | 28719.9 |
+| Pooled IgG（多重機轉） | IVIG | 國血製劑益康　人類免疫球蛋白　靜脈注射劑　60毫克　50毫升 | **HM Immunoglobulin inj 60mg/ml 50ml** | | | IV | 頭痛、無菌性腦膜炎、血栓風險（尤其高劑量快速輸注） | 多重機轉（Fc受體飽和、抗獨特型抗體中和等），非單一標靶藥物 | 5940 |
+| Anti-FcRn mAb（加速致病性IgG分解代謝，非B cell標靶） | Nipocalimab | （台灣未上市） | Imaavy（nipocalimab-aahu） | Johnson & Johnson | <details><summary>用量</summary>30mg/kg IV loading，之後15mg/kg IV Q2W</details> | IV | 感染風險（因IgG整體濃度下降）；頭痛 | 直接加速致病性IgG清除、不論其抗原特異性，非B cell療法；**2025年FDA核准gMG**（AChR+或MuSK+抗體陽性，12歲以上）；風濕科適應症（Sjögren's、RA等）仍在研究中 | |
+| CD40L (CD154) antagonist fusion protein（非抗體，阻斷CD40-CD40L T-B co-stimulation） | Dazodalibep | （尚未核准上市） | HZN-1116（investigational） | Amgen | <details><summary>用量</summary>1500mg IV，Q2W×3劑後改Q4W×4劑（phase 2劑量，phase 3劑量待公布）</details> | IV | 資料仍有限（phase 2/3試驗中耐受性良好） | 唯一**非抗體**的CD40L融合蛋白抑制劑；機轉概念類似abatacept但標靶CD40-CD40L軸而非CD28-CD80/86；Sjögren's disease phase 3試驗進行中（HZNP-DAZ-301/303），phase 2已顯示改善疾病活性 | |
 
 ---
 
