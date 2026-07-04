@@ -26,6 +26,8 @@
 
 ## 1. TLR：受體、配體與「分岔」
 
+![TLR 家族總覽：細胞表面 vs endosome 各 TLR 與配體](../images/TLR.png)
+
 ### 1-1. 常考的 TLR–配體配對 🔴
 
 | TLR | 配體 | 位置 |
