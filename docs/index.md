@@ -25,6 +25,7 @@
 | | [大血管炎（GCA / PMR / Takayasu）](Vasculitis/Large%20vessel/LVV_分類標準與臨床特徵.md) | [2022 ACR/EULAR](Vasculitis/Large%20vessel/LVV_分類標準與臨床特徵.md) | ITAS2010、臨床+CRP | - | [2021 ACR/VF](Vasculitis/Large%20vessel/LVV_GCA_TAK_治療.md) |
 | | Behçet 病 | ISG 1990、ICBD 2014 | BDCAF | - | [2025 EULAR](Vasculitis/Behcet/Behcet_治療總整理_2025.md) |
 | | 其他血管炎（PAN、IgA vasculitis） | 2022 ACR/EULAR (PAN)、EULAR/PRINTO/PRES (IgAV) | 臨床、BVAS | - | - |
+| | Relapsing Polychondritis（RP） | McAdam (1976)、Damiani & Levine (1979) | 臨床 | - | - |
 | **自體發炎疾病** | FMF / CAPS / 其他 | Tel Hashomer、Eurofever/PRINTO | AIDAI | - | 2024 EULAR/PReS（FMF）/ 2021 ACR/EULAR（CAPS、TRAPS、MKD、DIRA）|
 | | AOSD — 成人型 Still's 病 | Yamaguchi (1992)、Fautrel (2002) | (modified) Pouchot / systemic score、ferritin | - | 2024 EULAR/PReS |
 | | HLH / MAS | HLH-2004、2016 MAS-SLE criteria | HScore、ferritin | - | 2022 EULAR/ACR |
