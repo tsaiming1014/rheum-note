@@ -103,6 +103,18 @@
 | 反映 | **器官活動、預後、淋巴瘤風險相關**（高 ESSDAI、低補體、cryoglobulin 為淋巴瘤危險因子） | 症狀負擔、生活品質 |
 | 兩者關係 | **常不平行**，互補使用 | 同左 |
 
+**PSS 患者發生 lymphoma 的危險因子（完整清單）：**
+
+- **Persistent salivary gland swelling（持續性唾液腺腫大，尤其腮腺）**
+- **Lymphadenopathy（淋巴結腫大）**
+- **低補體 C3/C4**
+- **Cryoglobulinemia（冷凝球蛋白血症）**
+- Palpable purpura（可觸摸紫斑）
+- 單株免疫球蛋白血症（monoclonal gammopathy）
+- 高 ESSDAI
+
+上述因子多與**腺體內 ectopic germinal center 形成、慢性抗原刺激驅動 B cell clonal expansion**的機轉相關，最終可能演變為 **MALT lymphoma**（Sjögren's 患者發生淋巴瘤最常見的型態），好發部位常見於腮腺。
+
 ---
 
 ## 五、一句話總整理
