@@ -30,6 +30,8 @@
 | | AOSD — 成人型 Still's 病 | Yamaguchi (1992)、Fautrel (2002) | (modified) Pouchot / systemic score、ferritin | - | 2024 EULAR/PReS |
 | | HLH / MAS | HLH-2004、2016 MAS-SLE criteria | HScore、ferritin | - | 2022 EULAR/ACR |
 | **感染相關** | Septic arthritis / [Lyme](感染相關/Lyme_disease_關節表現與機轉.md) / [Tuberculous arthritis](感染相關/Tuberculous_arthritis_表現與機轉.md) / [HIV](感染相關/HIV_風濕病表現.md) / Viral | 關節液培養（無分類標準） | 臨床、培養追蹤 | 治癒 / 微生物根除 | - |
+| **肉芽腫性疾病** | [Sarcoidosis](Sarcoidosis/Sarcoidosis_完整整理.md) | 無 ACR/EULAR 標準（ATS/ERS/WASOG 三要件） | ACE、sIL-2R、Scadding stage | - | Corticosteroid → DMASD → TNFi（ERS guideline） |
+| | IgG4-Related Disease | - | - | - | - |
 | **兒童風濕病** | JIA — 幼年型自體免疫關節炎 | ILAR (1997/2004)、2019 PRINTO | JADAS-27/71、cJADAS | Wallace criteria（clinical inactive / remission on/off med） | 2019/2021 ACR |
 | **過敏相關疾病** | Asthma — 氣喘 | GINA 診斷準則 | ACT、ACQ、FeNO、肺功能 | - | 2025 GINA |
 | | 過敏性鼻炎 / 結膜炎 | ARIA 分類（間歇/持續、輕/中重度） | TNSS、VAS、RQLQ | - | ARIA 2019/2020 |
