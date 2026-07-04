@@ -103,15 +103,23 @@
 | 反映 | **器官活動、預後、淋巴瘤風險相關**（高 ESSDAI、低補體、cryoglobulin 為淋巴瘤危險因子） | 症狀負擔、生活品質 |
 | 兩者關係 | **常不平行**，互補使用 | 同左 |
 
-**PSS 患者發生 lymphoma 的危險因子（完整清單）：**
+**PSS 患者發生 lymphoma 的危險因子（兩組經典清單，出處不同、互補）：**
 
-- **Persistent salivary gland swelling（持續性唾液腺腫大，尤其腮腺）**
-- **Lymphadenopathy（淋巴結腫大）**
-- **低補體 C3/C4**
-- **Cryoglobulinemia（冷凝球蛋白血症）**
+**Kelley's Textbook of Rheumatology 原文（Ch74）明確列出：NHL 風險增加至少 5 倍**
+- Neutropenia（嗜中性白血球低下）
+- Cryoglobulinemia（冷凝球蛋白血症）
+- Splenomegaly（脾腫大）
+- Lymphadenopathy（淋巴結腫大）
+- Low C4 levels（低補體 C4）
+
+**其他經典文獻常整理的臨床預測因子**（如 Theander et al. 2006；Baimpa et al. 2009，即 Kelley 本章引用文獻 #131）：
+- **Persistent parotid/salivary gland swelling（持續性唾液腺腫大，尤其腮腺）**
 - Palpable purpura（可觸摸紫斑）
-- 單株免疫球蛋白血症（monoclonal gammopathy）
+- 低補體 **C3**/C4
+- Monoclonal gammopathy（單株免疫球蛋白血症）
 - 高 ESSDAI
+
+**兩組清單有重疊（cryoglobulinemia、lymphadenopathy、低補體），但各自強調的項目不同**——Kelley 版本多了 neutropenia、splenomegaly；另一組則多強調 persistent parotid swelling、purpura、monoclonal gammopathy。準備考試時建議兩組都熟悉，因為不同題目/年份可能引用不同來源。
 
 上述因子多與**腺體內 ectopic germinal center 形成、慢性抗原刺激驅動 B cell clonal expansion**的機轉相關，最終可能演變為 **MALT lymphoma**（Sjögren's 患者發生淋巴瘤最常見的型態），好發部位常見於腮腺。
 
