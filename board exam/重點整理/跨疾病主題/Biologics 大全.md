@@ -177,12 +177,14 @@
 
 ## 9. csDMARDs / 免疫抑制劑
 
-| Group | 學名 | 中文名 | 商品名 | 藥商 | 用量 | 途徑 | 藥價(售價) |
-|---|---|---|---|---|---|---|---|
-| Calcineurin inhibitor | Tacrolimus | 普樂可復　膠囊　1毫克 | **Prograf cap 1 mg** | ? | | PO | 125.4 (1mg) / 69.3 (0.5mg) |
-| Calcineurin inhibitor | Cyclosporin | 新體睦　軟膠囊　100毫克（蘭絲菌素） | **SANDIMMUN NEORAL CAP 100 MG** | | | PO | 124 (100mg) / 39.16 (25mg) |
-| IMPDH inhibitor | Mycophenolic acid | 睦體康　腸衣錠　180毫克 | **Myfortic tab 180 mg** | | | PO | 46.75 |
-| IMPDH inhibitor | Mycophenolate | 山喜多　膠囊　250毫克 | **Cellcept cap 250 mg** | | | PO | 41.58 |
+> **機轉**：**Tacrolimus**與**Cyclosporin**皆為calcineurin inhibitor，但結合不同的免疫嗜素（immunophilin）——Tacrolimus結合**FKBP-12**、Cyclosporin結合**cyclophilin**，兩者形成的複合體皆可抑制calcineurin磷酸酶活性，阻止NFAT去磷酸化並進入細胞核，進而阻斷IL-2基因轉錄、抑制T細胞活化與增生（Tacrolimus效價約為cyclosporine之10–100倍）。**Mycophenolic acid（MPA）與Mycophenolate mofetil（MMF，為MPA的prodrug）**則抑制**IMPDH（inosine monophosphate dehydrogenase）**，阻斷嘌呤de novo合成路徑——因淋巴球（T、B cell）較其他細胞更依賴此路徑（缺乏有效的salvage pathway），故對淋巴球有相對選擇性的抗增生作用；Myfortic採腸衣錠設計於腸道釋放，目的是減少上消化道副作用。
+
+| Group | 學名 | 中文名 | 商品名 | 藥商 | 用量 | 途徑 | 副作用 | 特色 | 藥價(售價) |
+|---|---|---|---|---|---|---|---|---|---|
+| Calcineurin inhibitor（結合FKBP-12） | Tacrolimus | 普樂可復　膠囊　1毫克 | **Prograf cap 1 mg** | ? | | PO | 腎毒性；神經毒性；高血糖/糖尿病風險較高；高血壓 | 效價約為cyclosporine之10–100倍；致糖尿病風險高於cyclosporine | 125.4 (1mg) / 69.3 (0.5mg) |
+| Calcineurin inhibitor（結合cyclophilin） | Cyclosporin | 新體睦　軟膠囊　100毫克（蘭絲菌素） | **SANDIMMUN NEORAL CAP 100 MG** | | | PO | 腎毒性；高血壓；高血脂；牙齦增生、多毛症 | 牙齦增生/多毛症為其特徵性副作用（較tacrolimus常見） | 124 (100mg) / 39.16 (25mg) |
+| IMPDH inhibitor（腸衣錠設計，腸道釋放） | Mycophenolic acid | 睦體康　腸衣錠　180毫克 | **Myfortic tab 180 mg** | | | PO | GI副作用（腹瀉為主，但較MMF少見）；白血球低下；**致畸胎性（懷孕禁忌）**；CMV/BK virus感染風險增加 | 腸衣錠劑型於腸道釋放，設計目的為減少上消化道副作用 | 46.75 |
+| IMPDH inhibitor（MPA之prodrug） | Mycophenolate | 山喜多　膠囊　250毫克 | **Cellcept cap 250 mg** | | | PO | GI副作用（腹瀉常見）；白血球低下；**致畸胎性（懷孕禁忌）**；CMV/BK virus感染風險增加 | MMF為MPA的prodrug，經口服後水解為活性代謝物MPA | 41.58 |
 
 ---
 
