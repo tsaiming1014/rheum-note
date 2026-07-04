@@ -73,9 +73,9 @@
 
 | Group | 學名 | 中文名 | 商品名 | 藥商 | 用量 | 途徑 | 副作用 | 特色 | 藥價(售價) |
 |---|---|---|---|---|---|---|---|---|---|
-| Human mAb against IL-12/23（p40共用次單元） | Ustekinumab | 喜達諾 靜脈注射液 130毫克/26毫升 | **Stelara conc for soln for inj 130 mg/26 ml** | | PsO/PsA: loading 45mg（>100kg用90mg）SC at 0, 4 wk, maintain 45mg（或90mg）SC **Q12W**<br>Crohn's/UC: IV體重計算之loading dose，之後 SC **Q8W** | SC（IBD需先IV loading） | 整體耐受性佳；注射部位反應少 | 適應症最廣；**臨床經驗**：已較少作第一線（新藥頭對頭較優） | 45942.6 |
-| Human mAb against IL-23（p19次單元） | Guselkumab | 特諾雅 注射液 100毫克/毫升 | **Tremfya soln for inj 100 mg/1 ml/PEN** | | Loading: 100mg SC at 0, 4 wk<br>Maintain: 100mg SC **Q8W** | SC | 罕見LFT上升、neutropenia | 皮膚起效快；PsA效果持續達52週；亦用IBD | 67502.6 |
-| Human mAb against IL-23（p19次單元） | Risankizumab | 喜開悅 注射劑 150毫克/毫升 | **Skyrizi inj 150 mg/1ml/PEN** | Abbvie | **PsO/PsA**: loading 150mg SC at 0, 4 wk, maintain 150mg SC **Q12W**<br>Crohn's: IV loading at 0, 4, 8 wk, 之後 SC **Q8W**起 | SC（IBD需先IV loading） | 同guselkumab | 核准含PsA；亦用IBD；Crohn's頭對頭優於ustekinumab | 97026.6 |
+| Human mAb against IL-12/23（p40共用次單元） | Ustekinumab | 喜達諾 靜脈注射液 130毫克/26毫升 | **Stelara conc for soln for inj 130 mg/26 ml** | | <details><summary>用量</summary>PsO/PsA: loading 45mg（>100kg用90mg）SC at 0, 4 wk, maintain 45mg（或90mg）SC Q12W<br>Crohn's/UC: IV體重計算之loading dose，之後 SC Q8W</details> | SC（IBD需先IV loading） | 整體耐受性佳；注射部位反應少 | 適應症最廣；**臨床經驗**：已較少作第一線（新藥頭對頭較優） | 45942.6 |
+| Human mAb against IL-23（p19次單元） | Guselkumab | 特諾雅 注射液 100毫克/毫升 | **Tremfya soln for inj 100 mg/1 ml/PEN** | | <details><summary>用量</summary>Loading: 100mg SC at 0, 4 wk<br>Maintain: 100mg SC Q8W</details> | SC | 罕見LFT上升、neutropenia | 皮膚起效快；PsA效果持續達52週；亦用IBD | 67502.6 |
+| Human mAb against IL-23（p19次單元） | Risankizumab | 喜開悅 注射劑 150毫克/毫升 | **Skyrizi inj 150 mg/1ml/PEN** | Abbvie | <details><summary>用量</summary>PsO/PsA: loading 150mg SC at 0, 4 wk, maintain 150mg SC Q12W<br>Crohn's: IV loading at 0, 4, 8 wk, 之後 SC Q8W起</details> | SC（IBD需先IV loading） | 同guselkumab | 核准含PsA；亦用IBD；Crohn's頭對頭優於ustekinumab | 97026.6 |
 
 **藥物補充說明**：
 
