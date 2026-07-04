@@ -122,13 +122,14 @@
 > - **Rituximab（RTX）**：Chimeric mouse-human IgG1，屬 **Type I anti-CD20**。結合後會使CD20重新分布聚集到細胞膜lipid raft，主要透過**complement-dependent cytotoxicity（CDC）**清除B cell，另有ADCC及部分apoptosis參與。
 > - **Obinutuzumab（OBI）**：Humanized、醣基工程改造（glycoengineered，Fc端**afucosylated**）之IgG1，屬 **Type II anti-CD20**。結合模式不會使CD20重新分布到lipid raft，CDC能力較弱，但因醣基工程大幅提升對效應細胞FcγRIII之親和力，**ADCC/ADCP能力遠強於RTX**，並透過homotypic adhesion誘導**direct（non-classical、caspase-independent）細胞死亡**。整體B cell清除效果**較RTX更徹底**。
 >
-> 另兩種策略：**Belimumab**中和可溶性BLyS（BAFF）配體，阻斷B cell存活訊號（非清除性）；**Inebilizumab**標靶**CD19**（表現範圍比CD20更廣，涵蓋部分plasmablast），清除深度較anti-CD20更廣。
+> 另三種策略：**Belimumab**中和可溶性BLyS（BAFF）配體，阻斷B cell存活訊號（非清除性）；**Ianalumab**標靶**BAFF-R（受體）**，機轉為雙重——同時阻斷BAFF-R存活訊號**並**透過ADCC清除B cell（結合了「阻斷」與「清除」兩種策略）；**Inebilizumab**標靶**CD19**（表現範圍比CD20更廣，涵蓋部分plasmablast），清除深度較anti-CD20更廣。
 
 | Group | 學名 | 中文名 | 商品名 | 藥商 | 用量 | 途徑 | 副作用 | 特色 | 藥價(售價) |
 |---|---|---|---|---|---|---|---|---|---|
 | Chimeric mAb against CD20（Type I） | Rituximab | 莫須瘤　注射劑　500毫克／50毫升<br>妥利希瑪 注射劑 500毫克/50毫升 | **MABTHERA for inj 500 mg/50 ml**<br>**TRUXIMA for inj 500 mg/50 ml** | Roche / Teva | <details><summary>用量</summary>500–1000 mg at 0, 2 wk；24 wk 後開始下一輪（間隔勿短於 16 wk）<br>※前置用藥詳見文末註</details> | IV | Infusion reaction（需前置用藥）；免疫原性（HACA）；低丙種球蛋白血症；PML風險（罕見） | Type I anti-CD20，CDC為主要機轉；此類中臨床經驗最多、適應症最廣（RA、AAV、SLE off-label等） | 36237.3 (Mabthera) / 35582.8 (Truxima) |
 | Humanized, glycoengineered mAb against CD20（Type II） | Obinutuzumab | 癌即瓦　注射劑　1000毫克／40毫升 | Gazyva soln for inj 1000mg/40ml | | <details><summary>用量</summary>1000mg IV at wk 0, 2, 24, 26（首次輸注分2天給予以減少輸注反應），之後每半年一次</details> | IV | Infusion reaction（較RTX更常見/更需留意）；B型肝炎再活化風險 | Type II anti-CD20，ADCC/ADCP強化、清除較RTX徹底；**REGENCY/NOBILITY試驗證實用於狼瘡腎炎**（FDA已核准LN適應症） | 98346.6 |
-| Human mAb against soluble BLyS/BAFF（非清除性） | Belimumab | 奔麗生　凍晶注射劑　120毫克 | **Benlysta powder for infu 120 mg** | GSK | <details><summary>用量</summary>10mg/kg at 0, 2, 4 wk, maintain Q4W（1mg/kg 效果也很好）</details> | IV | 感染；憂鬱/自殺意念（仿單警語）；輸注反應 | 唯一**非清除性**B cell標靶藥（中和BLyS而非殺死B cell）；RTX清除B cell後BLyS會代償上升，序貫使用belimumab可降低復發風險 | 4038.1 |
+| Human mAb against soluble BLyS/BAFF（非清除性，阻斷ligand） | Belimumab | 奔麗生　凍晶注射劑　120毫克 | **Benlysta powder for infu 120 mg** | GSK | <details><summary>用量</summary>10mg/kg at 0, 2, 4 wk, maintain Q4W（1mg/kg 效果也很好）</details> | IV | 感染；憂鬱/自殺意念（仿單警語）；輸注反應 | 唯一**非清除性**B cell標靶藥（中和BLyS而非殺死B cell）；RTX清除B cell後BLyS會代償上升，序貫使用belimumab可降低復發風險 | 4038.1 |
+| Human mAb against BAFF-R（受體；雙重機轉：阻斷+ADCC清除） | Ianalumab | （尚未核准上市） | VAY736（investigational） | Novartis | <details><summary>用量</summary>300mg SC，每月一次或每3個月一次（NEPTUNUS試驗劑量）</details> | SC | 資料仍有限（phase 3試驗中安全性可接受，具良好耐受性） | **唯一同時阻斷BAFF-R訊號並以ADCC清除B cell**的雙重機轉藥物；2026年NEPTUNUS-1/2 phase 3試驗皆達主要endpoint（ESSDAI顯著改善），FDA已授予Sjögren's disease突破性療法認定，可能成為**首個Sjögren's disease專屬標靶藥物** | |
 | Humanized, afucosylated mAb against CD19 | Inebilizumab | （台灣未上市） | Uplizna inj 100 mg/10 mL | | <details><summary>用量</summary>300mg IV at day 0, 14, 之後每6個月一次</details> | IV | Infusion reaction；感染；低丙種球蛋白血症 | 標靶**CD19**而非CD20，涵蓋plasmablast等CD20陰性族群，清除範圍更廣；核准適應症為NMOSD（AQP4抗體陽性），非風濕病用藥 | |
 
 ---
