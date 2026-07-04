@@ -10,11 +10,11 @@
 
 | Group | 學名 | 中文名 | 商品名 | 藥商 | 用量 | 途徑 | 副作用 | 特色 | 藥價(售價) |
 |---|---|---|---|---|---|---|---|---|---|
-| Chimeric mAb against TNF（~70%人源化IgG1κ） | Infliximab | 類克　凍晶注射劑　100毫克 | Remicade powder for infu. 100 mg | Janssen (楊森) JJ子公司 | Induction: 3 mg/kg IV at 0, 2, 6 wk<br>Maintain: 3 mg/kg IV Q8W | IV | Infusion reaction、免疫原性高 | 首個anti-TNF mAb；誘導凋亡→IBD有效 | 8919.9 |
-| Soluble TNF receptor（p75/TNFR2-Fc fusion） | Etanercept | 恩博　針筒裝注射劑　25毫克 | Enbrel sol for inj 25 mg/PFS | Pfizer | 25mg SC BIW, or 50mg SC QW | SC | 注射部位反應；TB風險較低 | 唯一阻斷TNF+LTα；不誘導凋亡→uveitis/IBD/GPA無效 | 3437.5 |
-| Fully human mAb against TNF (IgG1) | Adalimumab | 復邁 | **Humira 40mg** | Abbvie | 40mg SC Q2W | SC | 注射部位反應 | 適應症含uveitis | 10354.3 |
-| Human mAb against TNF (IgG1) | Golimumab | 欣普尼 | Simponi sol for inj 50 mg/0.5 ml | Johnson & Johnson | 50mg SC QM（另有IV劑型 Simponi Aria） | SC(/IV) | 注射部位反應 | 唯一SC+IV皆有；適應症含IBD | 20234.5 |
-| PEGylated Fab'（無Fc端） | Certolizumab pegol | 欣膝亞　注射液　200毫克／1毫升 | Cimzia soln for inj 200 mg/1 ml | UCB Pharma | Induction: 400mg SC at 0, 2, 4 wk<br>Maintain: 200mg Q2W or 400mg QM | SC | 注射部位反應 | 唯一無Fc端，孕期相對安全；首個核准nr-axSpA | 10642.5 |
+| Chimeric mAb against TNF（~70%人源化IgG1κ） | Infliximab | 類克　凍晶注射劑　100毫克 | Remicade powder for infu. 100 mg | Janssen (楊森) JJ子公司 | <details><summary>用量</summary>Induction: 3 mg/kg IV at 0, 2, 6 wk<br>Maintain: 3 mg/kg IV Q8W</details> | IV | Infusion reaction、免疫原性高 | 首個anti-TNF mAb；誘導凋亡→IBD有效 | 8919.9 |
+| Soluble TNF receptor（p75/TNFR2-Fc fusion） | Etanercept | 恩博　針筒裝注射劑　25毫克 | Enbrel sol for inj 25 mg/PFS | Pfizer | <details><summary>用量</summary>25mg SC BIW, or 50mg SC QW</details> | SC | 注射部位反應；TB風險較低 | 唯一阻斷TNF+LTα；不誘導凋亡→uveitis/IBD/GPA無效 | 3437.5 |
+| Fully human mAb against TNF (IgG1) | Adalimumab | 復邁 | **Humira 40mg** | Abbvie | <details><summary>用量</summary>40mg SC Q2W</details> | SC | 注射部位反應 | 適應症含uveitis | 10354.3 |
+| Human mAb against TNF (IgG1) | Golimumab | 欣普尼 | Simponi sol for inj 50 mg/0.5 ml | Johnson & Johnson | <details><summary>用量</summary>50mg SC QM（另有IV劑型 Simponi Aria）</details> | SC(/IV) | 注射部位反應 | 唯一SC+IV皆有；適應症含IBD | 20234.5 |
+| PEGylated Fab'（無Fc端） | Certolizumab pegol | 欣膝亞　注射液　200毫克／1毫升 | Cimzia soln for inj 200 mg/1 ml | UCB Pharma | <details><summary>用量</summary>Induction: 400mg SC at 0, 2, 4 wk<br>Maintain: 200mg Q2W or 400mg QM</details> | SC | 注射部位反應 | 唯一無Fc端，孕期相對安全；首個核准nr-axSpA | 10642.5 |
 
 **藥物補充說明**：
 
