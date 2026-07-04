@@ -130,11 +130,11 @@
 
 | Group | 學名 | 中文名 | 商品名 | 藥商 | 用量 | 途徑 | 藥價(售價) |
 |---|---|---|---|---|---|---|---|
-| Anti-IL-4Rα (IL-4/IL-13) | Dupilumab | 杜避炎　注射劑 300毫克 | **DUPIXENT SOLN FOR INJ 300 MG/2 ML/PFS** | Sanofi | AD: induction 600mg, maintain 300mg Q2W | IV | 17255.7 |
-| Monoclonal Ab against IL-13 | Lebrikizumab | 異可適　注射液　250毫克/2毫升 | **Ebglyss inj 250 mg/2 ml** | | AD: induction 500mg (2×250mg) at 0 wk, 250mg at 2 wk, maintain 250mg Q2W to 16 wk；反應良好者之後可改 250mg Q4W（或依反應延至 Q8W） | SC | |
-| Anti-IgE monoclonal Ab | Omalizumab | 喜瑞樂　凍晶注射劑　150毫克 | **Xolair powder for soln for inj 150 mg** | | 依體重與治療前血清總 IgE（30–1500 IU/mL）查表決定劑量，每2或4週 SC 注射 150–375mg；CSU 固定劑量 300mg Q4W | SC | |
-| Anti-IL-5 monoclonal Ab | Mepolizumab | 舒肺樂　凍晶注射劑／預充填筆　100毫克 | **Nucala 100 mg/mL (powder for soln for inj / pre-filled pen)** | | 100mg SC Q4W（重度嗜酸性球型氣喘、EGPA 皆同劑量方案） | SC | |
-| Anti-IL-5Rα monoclonal Ab（ADCC 機轉，直接消耗嗜酸性球） | Benralizumab | 肺昇朗　注射液劑 | **FASENRA inj 30 mg/1 ml** | | 30mg SC，前3劑 Q4W，之後改 Q8W | SC | |
+| Anti-IL-4Rα (IL-4/IL-13) | Dupilumab | 杜避炎　注射劑 300毫克 | **DUPIXENT SOLN FOR INJ 300 MG/2 ML/PFS** | Sanofi | <details><summary>用量</summary>AD: induction 600mg, maintain 300mg Q2W</details> | IV | 17255.7 |
+| Monoclonal Ab against IL-13 | Lebrikizumab | 異可適　注射液　250毫克/2毫升 | **Ebglyss inj 250 mg/2 ml** | | <details><summary>用量</summary>AD: induction 500mg (2×250mg) at 0 wk, 250mg at 2 wk, maintain 250mg Q2W to 16 wk；反應良好者之後可改 250mg Q4W（或依反應延至 Q8W）</details> | SC | |
+| Anti-IgE monoclonal Ab | Omalizumab | 喜瑞樂　凍晶注射劑　150毫克 | **Xolair powder for soln for inj 150 mg** | | <details><summary>用量</summary>依體重與治療前血清總 IgE（30–1500 IU/mL）查表決定劑量，每2或4週 SC 注射 150–375mg；CSU 固定劑量 300mg Q4W</details> | SC | |
+| Anti-IL-5 monoclonal Ab | Mepolizumab | 舒肺樂　凍晶注射劑／預充填筆　100毫克 | **Nucala 100 mg/mL (powder for soln for inj / pre-filled pen)** | | <details><summary>用量</summary>100mg SC Q4W（重度嗜酸性球型氣喘、EGPA 皆同劑量方案）</details> | SC | |
+| Anti-IL-5Rα monoclonal Ab（ADCC 機轉，直接消耗嗜酸性球） | Benralizumab | 肺昇朗　注射液劑 | **FASENRA inj 30 mg/1 ml** | | <details><summary>用量</summary>30mg SC，前3劑 Q4W，之後改 Q8W</details> | SC | |
 
 **藥物補充說明**：
 
