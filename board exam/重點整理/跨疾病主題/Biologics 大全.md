@@ -33,10 +33,10 @@
 
 | Group | 學名 | 中文名 | 商品名 | 藥商 | 用量 | 途徑 | 副作用 | 特色 | 藥價(售價) |
 |---|---|---|---|---|---|---|---|---|---|
-| Humanized mAb against IL-6R | Tocilizumab | 安挺樂　靜脈點滴注射劑　80毫克／4毫升 | **Actemra sol for infu. 80 mg/4 ml**<br>**Actemra for SC inj 162 mg** | 中外 | 4mg/kg IV QM，可調至 8mg/kg（SC另有劑型） | IV/SC | Infusion reaction；LFT上升；血脂上升；neutropenia；thrombocytopenia；GI穿孔（罕見） | 唯一IV+SC；適應症最廣（RA、**GCA**、PJIA/sJIA、CRS） | 3835.7 / 8418.3 |
-| Human mAb against IL-6R | Sarilumab | （台灣未上市） | Kevzara inj 200 mg | Sanofi | 200mg SC Q2W（異常可降150mg） | SC | 副作用較tocilizumab輕：LFT上升、neutropenia/thrombocytopenia較少 | 唯一**PMR**適應症；SC only；台灣未上市 | |
-| mAb against IL-6R（recycling antibody技術） | Satralizumab | 櫻普立 皮下注射劑 120毫克 | Enspryng "Y" for SC inj 120 mg/1 ml/PFS | | Loading: 120mg SC at 0, 2, 4 wk<br>Maintain: 120mg SC Q4W | SC | 感染、LFT上升、neutropenia；注射部位反應 | 唯一**NMOSD**適應症（神經科用藥）；recycling antibody延長半衰期 | 192787.1 |
-| Chimeric mAb against IL-6（ligand本身） | Siltuximab | | **Sylvant 100 mg/vial** | | 11 mg/kg Q3W；輸注1小時，需0.2µm PES濾器 | IV | 感染、LFT上升；需監測WBC/PLT/Hb | 唯一標靶IL-6 **ligand**本身；唯一不用於RA（iMCD） | 15998 |
+| Humanized mAb against IL-6R | Tocilizumab | 安挺樂　靜脈點滴注射劑　80毫克／4毫升 | **Actemra sol for infu. 80 mg/4 ml**<br>**Actemra for SC inj 162 mg** | 中外 | <details><summary>用量</summary>4mg/kg IV QM，可調至 8mg/kg（SC另有劑型）</details> | IV/SC | Infusion reaction；LFT上升；血脂上升；neutropenia；thrombocytopenia；GI穿孔（罕見） | 唯一IV+SC；適應症最廣（RA、**GCA**、PJIA/sJIA、CRS） | 3835.7 / 8418.3 |
+| Human mAb against IL-6R | Sarilumab | （台灣未上市） | Kevzara inj 200 mg | Sanofi | <details><summary>用量</summary>200mg SC Q2W（異常可降150mg）</details> | SC | 副作用較tocilizumab輕：LFT上升、neutropenia/thrombocytopenia較少 | 唯一**PMR**適應症；SC only；台灣未上市 | |
+| mAb against IL-6R（recycling antibody技術） | Satralizumab | 櫻普立 皮下注射劑 120毫克 | Enspryng "Y" for SC inj 120 mg/1 ml/PFS | | <details><summary>用量</summary>Loading: 120mg SC at 0, 2, 4 wk<br>Maintain: 120mg SC Q4W</details> | SC | 感染、LFT上升、neutropenia；注射部位反應 | 唯一**NMOSD**適應症（神經科用藥）；recycling antibody延長半衰期 | 192787.1 |
+| Chimeric mAb against IL-6（ligand本身） | Siltuximab | | **Sylvant 100 mg/vial** | | <details><summary>用量</summary>11 mg/kg Q3W；輸注1小時，需0.2µm PES濾器</details> | IV | 感染、LFT上升；需監測WBC/PLT/Hb | 唯一標靶IL-6 **ligand**本身；唯一不用於RA（iMCD） | 15998 |
 
 **藥物補充說明**：
 
@@ -53,10 +53,10 @@
 
 | Group | 學名 | 中文名 | 商品名 | 藥商 | 用量 | 途徑 | 副作用 | 特色 | 藥價(售價) |
 |---|---|---|---|---|---|---|---|---|---|
-| Human mAb against IL-17A | Secukinumab | 可善挺　注射液劑　150毫克／毫升 | Cosentyx soln for inj 150mg/1ml | Novartis | PsO: induction 300mg at 0,1,2,3,4 wk, maintain 300mg Q4W<br>AS, PsA: induction 150mg at 0,1,2,3,4 wk, maintain 150mg Q4W, 可增至 300mg | SC | Candidiasis；IBD惡化風險；注射部位反應；**可能增加uveitis風險** | 半衰期長（22–31天）；適應症廣（PsO/PsA/AS/HS）；反覆uveitis者避免使用 | 15501.2 |
-| Humanized mAb against IL-17A | Ixekizumab | 達癬治 注射劑 80毫克/毫升 | **Taltz inj 80 mg/1 ml** | Eli Lilly | PsO: 160mg (2×80mg) at 0 wk, 80mg at 2,4,6,8,10,12 wk, maintain 80mg Q4W<br>PsA: induction 160mg at 0 wk, maintain 80mg Q4W<br>AS: 80mg Q4W | SC | 同secukinumab；**理論上同樣增加uveitis風險** | 半衰期短（13天）；大腿注射生體可用率較高 | 28749.6 |
-| mAb against IL-17RA（受體，非ligand） | Brodalumab | 立美西膚 皮下注射劑 210毫克 | **Lumicef SC inj 210 mg/1.5 ml** | 台灣協和麒麟股份有限公司? | PsA, AS: induction 210mg at 0,1,2 wk, maintain 210mg Q2W | SC | Candidiasis、IBD風險；**美國黑框警語（自殺意念）**；**可能增加uveitis風險** | 唯一阻斷IL-17RA（非ligand）；**臨床經驗**：起效快但維持較短 | 14308.8 |
-| mAb against IL-17A/F（雙重ligand阻斷） | Bimekizumab | 本能適 注射液 160毫克/毫升 | **Bimzelx 160 mg/1 mL/syringe** | UCB Pharma | PsO: 320mg (2×160mg) at 0,4,8,12,16 wk, maintain 320mg Q8W（≧120kg 第16週起未達療效可改 320mg Q4W）<br>PsA: 160mg Q4W（合併中重度斑塊性乾癬則用乾癬劑量）<br>AS / nr-axSpA: 160mg Q4W<br>HS: 320mg at 0,2,4,6,8,10,12,14,16 wk, maintain Q4W | SC | Candidiasis發生率較anti-IL-17A單標靶藥高 | 唯一雙標靶IL-17A+F；**唯一對uveitis具保護效果** | |
+| Human mAb against IL-17A | Secukinumab | 可善挺　注射液劑　150毫克／毫升 | Cosentyx soln for inj 150mg/1ml | Novartis | <details><summary>用量</summary>PsO: induction 300mg at 0,1,2,3,4 wk, maintain 300mg Q4W<br>AS, PsA: induction 150mg at 0,1,2,3,4 wk, maintain 150mg Q4W, 可增至 300mg</details> | SC | Candidiasis；IBD惡化風險；注射部位反應；**可能增加uveitis風險** | 半衰期長（22–31天）；適應症廣（PsO/PsA/AS/HS）；反覆uveitis者避免使用 | 15501.2 |
+| Humanized mAb against IL-17A | Ixekizumab | 達癬治 注射劑 80毫克/毫升 | **Taltz inj 80 mg/1 ml** | Eli Lilly | <details><summary>用量</summary>PsO: 160mg (2×80mg) at 0 wk, 80mg at 2,4,6,8,10,12 wk, maintain 80mg Q4W<br>PsA: induction 160mg at 0 wk, maintain 80mg Q4W<br>AS: 80mg Q4W</details> | SC | 同secukinumab；**理論上同樣增加uveitis風險** | 半衰期短（13天）；大腿注射生體可用率較高 | 28749.6 |
+| mAb against IL-17RA（受體，非ligand） | Brodalumab | 立美西膚 皮下注射劑 210毫克 | **Lumicef SC inj 210 mg/1.5 ml** | 台灣協和麒麟股份有限公司? | <details><summary>用量</summary>PsA, AS: induction 210mg at 0,1,2 wk, maintain 210mg Q2W</details> | SC | Candidiasis、IBD風險；**美國黑框警語（自殺意念）**；**可能增加uveitis風險** | 唯一阻斷IL-17RA（非ligand）；**臨床經驗**：起效快但維持較短 | 14308.8 |
+| mAb against IL-17A/F（雙重ligand阻斷） | Bimekizumab | 本能適 注射液 160毫克/毫升 | **Bimzelx 160 mg/1 mL/syringe** | UCB Pharma | <details><summary>用量</summary>PsO: 320mg (2×160mg) at 0,4,8,12,16 wk, maintain 320mg Q8W（≧120kg 第16週起未達療效可改 320mg Q4W）<br>PsA: 160mg Q4W（合併中重度斑塊性乾癬則用乾癬劑量）<br>AS / nr-axSpA: 160mg Q4W<br>HS: 320mg at 0,2,4,6,8,10,12,14,16 wk, maintain Q4W</details> | SC | Candidiasis發生率較anti-IL-17A單標靶藥高 | 唯一雙標靶IL-17A+F；**唯一對uveitis具保護效果** | |
 
 **藥物補充說明**：
 
