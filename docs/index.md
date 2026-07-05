@@ -20,6 +20,7 @@
 | **晶體沉積疾病** | [Gout — 痛風](Crystal/Gout_致病機轉.md) | [2015 ACR/EULAR](Crystal/Gout_分類標準與診斷.md) | 血清尿酸、發作頻率 | 2016 remission 定義（尿酸 <6、無發作等） | [2020 ACR / 2016 EULAR](Crystal/Gout_治療.md) / 2017 BSR |
 | | [CPPD / BCP — 鈣晶體沉積](Crystal/CPPD_分類與診斷.md) | [2023 ACR/EULAR；Ryan & McCarty](Crystal/CPPD_分類與診斷.md) | 臨床 | - | - |
 | **退化性疾病** | OA — 骨關節炎 | 1986/1991 ACR、KL grade | WOMAC、KL 分級 | - | 2019 ACR / 2019 OARSI |
+| **代謝性骨病** | Osteoporosis — 骨質疏鬆症 | WHO T-score ≤ -2.5 / 脆弱性骨折 | [Bone turnover markers](Osteoporosis/Bone_Turnover_Markers.md)、FRAX、DXA | - | - |
 | **非發炎性疼痛** | [Fibromyalgia — 纖維肌痛症](Fibromyalgia/Fibromyalgia_致病機轉與治療.md) | [2016 ACR（修訂 2010/2011；WPI+SSS）](Fibromyalgia/Fibromyalgia_分類與診斷標準.md) | FIQR、WPI+SSS | - | 2016 EULAR |
 | **血管炎** | [AAV（GPA / MPA / EGPA）](Vasculitis/AAV/AAV_三大疾病完整比較.md) | [2022 ACR/EULAR](Vasculitis/AAV/AAV_分類診斷的來龍去脈與2022標準.md) | [BVAS、VDI](Vasculitis/AAV/AAV_BVAS活性評估.md) | BVAS = 0（區分 on/off therapy） | [2021 ACR / 2022 EULAR](Vasculitis/AAV/AAV_治療.md) / 2025 BSR |
 | | [大血管炎（GCA / PMR / Takayasu）](Vasculitis/Large%20vessel/LVV_分類標準與臨床特徵.md) | [2022 ACR/EULAR](Vasculitis/Large%20vessel/LVV_分類標準與臨床特徵.md) | ITAS2010、臨床+CRP | - | [2021 ACR/VF](Vasculitis/Large%20vessel/LVV_GCA_TAK_治療.md) |
