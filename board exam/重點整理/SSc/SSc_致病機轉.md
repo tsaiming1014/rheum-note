@@ -90,7 +90,7 @@ EC 損傷
 
 ## 三、免疫失調（Immune Dysregulation）
 
-### ⚠️ 核心迴路
+### 核心迴路
 
 ```
 細胞損傷 / DAMPs / 核酸碎片
@@ -144,7 +144,7 @@ EC 損傷
 - 血管壁周細胞（Pericyte，表現 CD248）
 - 循環中的纖維細胞前驅（fibrocyte）
 
-### ⚠️ TGFβ 的核心地位
+### TGFβ 的核心地位
 **分泌來源：** platelet、macrophage、Th2 T cell、myofibroblast（自分泌）
 
 **下游效應：**
