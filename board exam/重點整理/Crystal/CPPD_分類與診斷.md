@@ -61,6 +61,18 @@ CPP 結晶沉積於齒突（dens）周圍韌帶，造成軸性發炎。**臨床 
 - **低磷酸酶症（hypophosphatasia）**
 - **CPPD 家族史**
 
+**門診篩檢建議檢驗項目：**
+
+| 記憶點 | 對應疾病 | 建議檢驗項目（方向） |
+|---|---|---|
+| **鐵** | Hereditary hemochromatosis | Transferrin saturation (↑，>45%)、Ferritin (↑)、Serum iron (↑)、TIBC (↓或正常)；異常者加做 HFE gene 確診 |
+| **鈣** | Primary hyperparathyroidism | Corrected serum calcium (↑)、Intact PTH (↑)、Serum phosphate (↓) |
+| **鎂** | Hypomagnesemia / Gitelman syndrome | Serum magnesium (↓)、Serum potassium (↓)、Bicarbonate / venous blood gas (↑，代謝性鹼中毒)、Urine calcium (↓，與 Bartter 鑑別)、Renin/aldosterone (↑) |
+| **磷** | Hypophosphatasia | **Alkaline phosphatase (↓)**（診斷關鍵，並非磷離子本身）；Vitamin B6 / pyridoxal-5'-phosphate (↑)；Serum phosphate 通常正常或偏高，非典型低下 |
+| **家族** | CPPD 家族史 | 無需檢驗，病史詢問 |
+
+> 補充：Hypophosphatasia 病名易誤導——真正異常是 **ALP 偏低**（TNSALP 酵素活性不足），血中 phosphate 本身不一定下降，判讀請以 **ALP ↓** 為主要線索。
+
 ### 其他關鍵定義
 
 - **持續性發炎關節炎**：≥1 關節持續腫脹伴疼痛和/或發熱
