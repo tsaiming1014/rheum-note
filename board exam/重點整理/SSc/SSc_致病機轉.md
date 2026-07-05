@@ -59,7 +59,7 @@ SSc 的致病機轉由**三個核心病理過程**組成，三者相互驅動、
 - 自體抗體（anti-endothelial cell antibody）
 - 活性氧（ROS）
 
-### 內皮細胞損傷後的連鎖反應
+### ⚠️ 內皮細胞損傷後的連鎖反應
 
 ```
 EC 損傷
@@ -72,7 +72,7 @@ EC 損傷
               → 失去 CD31，獲得 α-SMA → Myofibroblast
 ```
 
-### 血小板活化的角色
+### ⚠️ 血小板活化的角色
 活化血小板釋出：**PDGF、TGFβ、CXCL-4（PF4）、HMGB1、serotonin**
 → 促進凝血、血管收縮、直接刺激 fibroblast 活化
 
