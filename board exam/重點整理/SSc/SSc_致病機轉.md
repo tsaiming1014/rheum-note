@@ -220,7 +220,7 @@ EC 損傷
 
 #### B. 肺動脈高壓（PAH）
 
-**⚠️ 機轉（獨立於 ILD 的血管病變）：**
+**機轉（獨立於 ILD 的血管病變）：**
 
 - ET-1 ↑ → 血管收縮 + smooth muscle cell 增生
 - NO ↓、Prostacyclin ↓ → 失去 vasodilation
@@ -239,7 +239,7 @@ EC 損傷
 
 #### 食道（最常見，90% 患者）
 
-**⚠️ 機轉：特別之處——主要不是纖維化造成！**
+**機轉：特別之處——主要不是纖維化造成！**
 
 - **神經功能異常（先於肌肉病變）**：autoantibody 針對 myenteric cholinergic neuron → 神經傳導失調
 - 食道平滑肌 **atrophy**（非單純纖維化）
