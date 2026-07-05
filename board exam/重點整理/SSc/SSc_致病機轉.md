@@ -155,6 +155,19 @@ EC 損傷
 - 活化 Wnt/β-catenin、JAK/STAT、YAP/TAZ、Hedgehog、NOTCH 訊號路徑
 - 誘導 IL-11（autocrine, ERK-dependent）→ 進一步促纖維化
 
+**Kelley Table 84.5：TGF-β Activities Relevant to Systemic Sclerosis Pathogenesis**
+
+![TGF-β in SSc pathogenesis](../images/TGFB%20in%20SSc.png)
+
+- Recruits monocytes/macrophages；促進 alternate（M2）macrophage activation
+- Stimulates synthesis of collagens、fibronectin、proteoglycans、elastin、TIMP；**inhibits MMP**；microRNA regulation
+- Stimulates fibroblast proliferation, adhesion, and chemotaxis
+- Induces fibrogenic cytokine production：CTGF；**stimulates production of endothelin-1**
+- **Stimulates generation of ROS from Nox4 and mitochondria**
+- Stimulates expression of TGF-β and PDGF receptors
+- Promotes fibroblast–myofibroblast differentiation、EMT、EndMT；suppresses adipogenesis
+- Prevents myofibroblast apoptosis；promotes senescence phenotype
+
 ### 重要輔助促纖維化媒介
 
 | 媒介 | 來源 | 作用 |
