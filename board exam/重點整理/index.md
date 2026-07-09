@@ -48,6 +48,7 @@
 | 主題 | 連結 |
 |------|------|
 | Biologics 大全 | [Biologics 大全](跨疾病主題/Biologics%20大全.md) |
+| Biologic 藥物設計與作用機轉 | [Target 選擇、代謝機轉與抗體工程設計](跨疾病主題/Biologic藥物設計與作用機轉.md) |
 | CV Risk | [CV risk](跨疾病主題/CV risk.md) |
 | 補體系統 | [補體系統 — 臨床檢驗與各疾病變化](跨疾病主題/Complement_疾病與檢驗.md) |
 | NETosis / LDG | [NETosis 與 LDG](跨疾病主題/NETosis與LDG.md) |
