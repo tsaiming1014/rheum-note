@@ -47,17 +47,25 @@
 
 | 主題 | 連結 |
 |------|------|
-| Biologics 大全 | [Biologics 大全](跨疾病主題/Biologics%20大全.md) |
-| Biologic 藥物設計與作用機轉 | [Target 選擇、代謝機轉與抗體工程設計](跨疾病主題/Biologic藥物設計與作用機轉.md) |
 | CV Risk | [CV risk](跨疾病主題/CV risk.md) |
 | 補體系統 | [補體系統 — 臨床檢驗與各疾病變化](跨疾病主題/Complement_疾病與檢驗.md) |
 | NETosis / LDG | [NETosis 與 LDG](跨疾病主題/NETosis與LDG.md) |
 | NSAIDs | [NSAIDs 口試完整答案](跨疾病主題/謝松洲_NSAIDs口試完整答案.md) |
 | Paradoxical Psoriasis | [矛盾性乾癬反應（含矛盾性濕疹）](跨疾病主題/Paradoxical_Psoriasis.md) |
 | 先天免疫 / 發炎體 | [TLR → Inflammasome 與 Interferon 整合](跨疾病主題/先天免疫_TLR_發炎體_干擾素整合.md) |
-| JAK-STAT 訊息傳遞機轉 | [JAK-STAT 訊息傳遞機轉：故事版整理](跨疾病主題/JAK-STAT_訊息傳遞機轉.md) |
 | CTD-ILD | CTD 相關間質性肺病 |
 | Pregnancy in rheumatic disease | 風濕病與妊娠（2022 BSR Part 1 & 2） |
+
+---
+
+## Biologics / 小分子標靶藥物
+
+| 主題 | 連結 |
+|------|------|
+| Biologics 大全 | [Biologics 大全](跨疾病主題/Biologics%20大全.md) |
+| Biologic 藥物設計與作用機轉 | [Target 選擇、代謝機轉與抗體工程設計](跨疾病主題/Biologic藥物設計與作用機轉.md) |
+| JAK-STAT 訊息傳遞機轉 | [JAK-STAT 訊息傳遞機轉：故事版整理](跨疾病主題/JAK-STAT_訊息傳遞機轉.md) |
+| JAK Inhibitor 藥物治療與臨床應用 | [JAK Inhibitor 藥物治療與臨床應用（Kelly Ch.65）](跨疾病主題/JAK_Inhibitor_藥物治療與臨床應用.md) |
 
 ---
 
