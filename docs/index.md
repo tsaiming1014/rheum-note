@@ -62,10 +62,8 @@
 
 | 主題 | 連結 |
 |------|------|
-| Biologics 大全 | [Biologics 大全](跨疾病主題/Biologics%20大全.md) |
-| Biologic 藥物設計與作用機轉 | [Target 選擇、代謝機轉與抗體工程設計](跨疾病主題/Biologic藥物設計與作用機轉.md) |
-| JAK-STAT 訊息傳遞機轉 | [JAK-STAT 訊息傳遞機轉：故事版整理](跨疾病主題/JAK-STAT_訊息傳遞機轉.md) |
-| JAK Inhibitor 藥物治療與臨床應用 | [JAK Inhibitor 藥物治療與臨床應用（Kelly Ch.65）](跨疾病主題/JAK_Inhibitor_藥物治療與臨床應用.md) |
+| Biologics | [Biologics 大全](跨疾病主題/Biologics%20大全.md)、[藥物設計與作用機轉](跨疾病主題/Biologic藥物設計與作用機轉.md) |
+| JAK Inhibitor | [JAK-STAT 訊息傳遞機轉](跨疾病主題/JAK-STAT_訊息傳遞機轉.md)、[JAK Inhibitor 藥物](跨疾病主題/JAK_Inhibitor_藥物治療與臨床應用.md) |
 
 ---
 
