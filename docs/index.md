@@ -35,7 +35,7 @@
 | | IgG4-Related Disease | - | - | - | - |
 | **irAE**（Immune Checkpoint Inhibitor 相關） | [Checkpoint inhibitor 機轉整理](irAE/irAE_Checkpoint_inhibitor機轉整理.md) | - | - | - | - |
 | **兒童風濕病** | JIA — 幼年型自體免疫關節炎 | ILAR (1997/2004)、2019 PRINTO | JADAS-27/71、cJADAS | Wallace criteria（clinical inactive / remission on/off med） | 2019/2021 ACR |
-| **過敏相關疾病** | Asthma — 氣喘 | GINA 診斷準則 | ACT、ACQ、FeNO、肺功能 | - | 2025 GINA |
+| **過敏相關疾病** | Asthma — 氣喘 | GINA 診斷準則 | ACT、ACQ、FeNO、肺功能 | - | [2026 GINA](Allergy/Asthma/Asthma_藥物治療整理.md) |
 | | 過敏性鼻炎 / 結膜炎 | ARIA 分類（間歇/持續、輕/中重度） | TNSS、VAS、RQLQ | - | ARIA 2019/2020 |
 | | Drug Allergy — 藥物過敏 | Gell & Coombs I–IV 型 | - | - | 2022 AAAAI / EAACI |
 | | Urticaria — 蕁麻疹 | 急/慢性（CSU、CIndU） | UAS7、UCT、AAS | - | 2021 EAACI/GA²LEN/EDF/WAO |
@@ -77,4 +77,4 @@
 | 2022 | [筆試＋口試](考試準備/風專歷屆考題/2022風濕筆試+口試.md) | | | |
 | 2023 | [筆試＋口試](考試準備/風專歷屆考題/2023風專筆試+口試.md) | | | |
 | 2024 | [筆試＋口試](考試準備/風專歷屆考題/2024風專筆試+口試.md) | | | |
-| 2025 | [筆試＋口試](考試準備/風專歷屆考題/2025風專筆試+口試.md) | [詳解](考試準備/風專歷屆考題/2025風專筆試解答.md) | [筆試＋口試](考試準備/免專歷屆考題/2025免專筆試+口試.md) | |
+| 2025 | [筆試＋口試](考試準備/風專歷屆考題/2025風專筆試+口試.md) | [詳解](考試準備/風專歷屆考題/2025風專筆試解答.md) | [筆試＋口試](考試準備/免專歷屆考題/2025免專筆試+口試.md) | [詳解](考試準備/免專歷屆考題/2025免專筆試解答.md) |
