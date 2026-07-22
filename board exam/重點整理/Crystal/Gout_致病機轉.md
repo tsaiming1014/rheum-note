@@ -220,3 +220,14 @@ Neutrophil 從血液遷移 → 進入關節腔
 | RANKL | Tophus 誘發骨侵蝕的關鍵訊號 |
 | TGF-β（M2 macrophage） | Flare 緩解機轉 |
 | 15d-PGJ2 / PPARγ | 自發性 flare 緩解 |
+
+---
+
+## 十、Gout Flare 時的 UA Pseudo-low 現象
+
+- **現象**：急性 flare 時，最多可達 **40%** 病人血清尿酸會急性下降至正常範圍（Kelly Ch97）
+- **臨床意義**：flare 當下 UA 正常**不能排除**痛風診斷；懷疑痛風但驗到正常 UA 時，應在症狀緩解後（intercritical period）重新檢測，才能反映真實 baseline hyperuricemia
+- **可能機轉**（⚠️ Kelly 本章未明確闡述，以下為生理推論／常見文獻解釋）：
+  1. **尿酸消耗於結晶沉積**：flare 時大量可溶性尿酸從血中析出形成 MSU 結晶、被 neutrophil 吞噬消耗，可能造成血中濃度暫時性下降
+  2. **急性期發炎反應的 uricosuric effect**：IL-6 等發炎介質引發的全身急性期反應，可能改變腎臟尿酸處理、增加排泄
+  3. **ACTH/Cortisol 分泌**：flare 造成的生理壓力反應促使 ACTH 分泌（見本筆記第六節，為 flare 自我緩解機轉之一），糖皮質素本身具 uricosuric 作用，可能加成造成 UA 下降
