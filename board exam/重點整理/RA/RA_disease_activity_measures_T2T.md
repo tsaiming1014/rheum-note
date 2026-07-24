@@ -1,10 +1,69 @@
-﻿# RA 疾病活躍度評估工具與 Treat-to-Target 重點整理
+# RA 疾病活躍度評估工具與 Treat-to-Target 重點整理
 
 > 來源：Kelly's Textbook of Rheumatology, Ch033 & Ch073
 
 ---
 
-## 一、各工具計算方式
+## 一、關節評估基礎：28 關節計數 vs 分類標準關節計數
+
+### DAS28／CDAI／SDAI 共用的 28 個關節
+
+TJC28、SJC28 評估以下 **28 個關節**：
+
+| 部位 | 關節 | 數量 |
+|---|---|---|
+| 肩 | Shoulders | 2 |
+| 肘 | Elbows | 2 |
+| 腕 | Wrists | 2 |
+| 掌指 | MCPs (1–5) | 10 |
+| 近端指間 | PIPs (1–5) | 10 |
+| 膝 | Knees | 2 |
+| **總計** | | **28** |
+
+**不含**：足部（MTPs、ankles）、髖（hips）、DIP。
+
+### 與 2010 ACR/EULAR RA Classification Criteria 關節計數的差異
+
+分類標準採「大關節 vs 小關節」計分系統，**含 ankles、hips**，用於診斷分類而非活性追蹤：
+
+- **Large joints**（10 個，雙側計）：Shoulders、Elbows、Hips、Knees、Ankles
+- **Small joints**：MCPs、PIPs、thumb IP、2nd–5th MTPs、Wrists（**不含** DIP、first CMC、first MTP）
+
+**Joint involvement domain 計分（0–5）：**
+
+| 關節侵犯情形 | 分數 |
+|---|---|
+| 1 個 large joint | 0 |
+| 2–10 個 large joints | 1 |
+| 1–3 個 small joints | 2 |
+| 4–10 個 small joints | 3 |
+| >10 個關節（至少 1 個 small joint） | 5 |
+
+> **關鍵區別**：DAS28/CDAI 固定 28 關節、不含足部與髖，用於**疾病活性追蹤**；ACR/EULAR classification 含 ankles/hips、用於**診斷分類**，兩套系統不可混用。
+
+### 各關節理學檢查手法
+
+| 關節 | 檢查手法 |
+|---|---|
+| **Shoulder** | 觸診 anterior joint line（喙突外側、肱骨頭前方）及 subacromial region；滑膜腫脹不易直接觸及，多依賴疼痛與 ROM 受限判斷 |
+| **Elbow** | 肘微彎 70°，拇指觸診 lateral 與 posterior groove（橈骨頭外側、鷹嘴突兩側凹陷）；腫脹使 groove 消失、呈 boggy 感 |
+| **Wrist** | 雙拇指沿 dorsal radiocarpal joint line 觸診（DAS28 腕關節算 1 個，不分腕骨細項）；腫脹使背側骨性輪廓消失，呈 boggy/fluctuant |
+| **MCP** | 拇指置背側兩側、食指掌側頂住觸診；或先用 **MCP squeeze test**（橫向擠壓 2–5 掌骨）篩檢後逐一觸診；腫脹使關節兩側凹陷消失 |
+| **PIP** | 拇指與食指兩側夾按觸診；RA 典型呈 **fusiform（紡錘狀）腫脹** |
+| **Knee** | 視診 suprapatellar pouch 膨出；少量積液用 **bulge sign**（由下往上推擠液體至對側再推回觀察鼓起）；中大量積液用 **patellar tap/ballottement**；並觸診 joint line |
+| **Hip**（分類標準用） | 深層關節難直接觸診滑膜；靠 groin pain、被動內轉誘發痛、ROM 受限判斷，多需影像輔助 |
+| **Ankle**（分類標準用） | 觸診 anterior joint line（內外踝之間、伸拇長肌腱旁）；腫脹使兩側凹陷消失、呈 boggy 感；需與 tenosynovitis 鑑別 |
+| **MTP**（分類標準用） | **MTP squeeze test**（橫向擠壓蹠骨頭）篩檢；個別觸診同 MCP 手法兩側夾按 |
+| **Thumb IP**（分類標準用） | 同 PIP 手法，兩側夾按 |
+| **DIP**（不計入任一系統） | 仍應觸診鑑別；典型侵犯見於 OA、PsA，非 RA 特徵 |
+
+**判讀原則（TJC/SJC 共通）：**
+- **Tender**：按壓／擠壓誘發疼痛或退縮反應（不論有無腫脹）
+- **Swollen**：觸診到 synovial thickening 或 effusion（fluctuant、boggy），非單純骨性肥大（如 Heberden/Bouchard nodes 不算）
+
+---
+
+## 二、各工具計算方式
 
 ### DAS28-ESR
 **公式（需計算機）：**
@@ -40,7 +99,7 @@
 
 ---
 
-## 二、分層閾值對照
+## 三、分層閾值對照
 
 | | DAS28 | SDAI | CDAI | RAPID3 |
 |---|---|---|---|---|
@@ -54,7 +113,7 @@
 
 ---
 
-## 三、工具比較總覽
+## 四、工具比較總覽
 
 | | DAS28-ESR | SDAI | CDAI | RAPID3 |
 |---|---|---|---|---|
@@ -68,7 +127,7 @@
 
 ---
 
-## 四、ACR20/50/70（補充對照）
+## 五、ACR20/50/70（補充對照）
 
 **性質：Response criterion，不是 disease activity measure**
 
@@ -83,7 +142,7 @@
 
 ---
 
-## 五、Treat-to-Target (T2T) 重點（Kelly Ch073）
+## 六、Treat-to-Target (T2T) 重點（Kelly Ch073）
 
 ### 概念
 - T2T 是當代 RA 治療最重要的典範轉移
