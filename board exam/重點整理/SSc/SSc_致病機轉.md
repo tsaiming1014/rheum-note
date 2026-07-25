@@ -376,6 +376,16 @@ GERD → esophagitis → stricture → Barrett's esophagus（↑30倍腺癌風�
 
 > 註：ACA 在 lcSSc 中盛行率可達 40–60%；Anti-Scl-70 在 dcSSc 中可達 ~40%；各文獻因族群不同略有差異
 
+### 三大抗體記憶口訣
+
+三者幾乎互斥（一個病人通常只帶一種，反映不同 HLA 基因型與免疫失調型態），可用下列口訣快速對應：
+
+| 抗體 | 記憶口訣 | 亞型 | 最兇的器官 |
+|---|---|---|---|
+| **Anti-RNA pol III** | **3 個 R**：**R**apid skin progression、**R**enal crisis（佔 SRC 病人 60%）、癌症 **R**isk | dcSSc | 腎（SRC） |
+| **Anti-Scl-70** | 「柒十歲肺不好」（70 諧音柒十）→ 肺纖維化（ILD）最兇 | dcSSc | 肺（ILD） |
+| **ACA（centromere）** | 「中心局限、脾氣晚發」→ 侷限型、PAH 是晚期才出現、整體預後好 | lcSSc | 心肺（晚期 PAH） |
+
 ### 自體抗體如何參與致病
 
 1. **免疫複合物 → 放大 IFN 迴路**：Autoantibody + 核酸 → IC → pDC TLR7/9 → Type I IFN → 更多 autoantibody（正向回饋）
