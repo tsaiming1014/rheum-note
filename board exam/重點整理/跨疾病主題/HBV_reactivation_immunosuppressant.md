@@ -13,6 +13,10 @@ HBV reactivation（HBVr）風險評估的第一步是確認病人血清學狀態
 
 ## 二、藥物 reactivation 風險分級表
 
+![Table 14 HBV reactivation risk - High risk](../images/2025%20EASL%20HBVr%201.png)
+
+![Table 14 HBV reactivation risk - Moderate/Low risk](../images/2025%20EASL%20HBVr%202.png)
+
 ### High risk (>10%)
 
 | HBsAg(+) 或 HBsAg(-)/anti-HBc(+) 但 HBV DNA(+) | HBsAg(-)/anti-HBc(+)（HBV DNA 陰性）* |
