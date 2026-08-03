@@ -217,7 +217,86 @@ NETosis、membranolytic death
 
 ---
 
-## 十二、口試重點整理
+## 十二、Carbamylation 與 Anti-CarP 抗體
+
+> 來源：Kelley's Textbook of Rheumatology, Ch.56 — Autoantibodies in Rheumatoid Arthritis；Ch.11 — Neutrophils
+
+![RA autoantibodies](../images/RA%20autoantibodies.png)
+
+### (1) Carbamylation 的生化機轉
+
+- **本質**：Carbamylation（又稱 homocitrullination）是**非酵素性（nonenzymatic）**的 PTM，與 citrullination（酵素性，由 PAD 催化）機轉完全不同
+- **反應**：Cyanate 或 carbamyl phosphate 攻擊 lysine 殘基的 primary amine group → lysine 轉為 **homocitrulline**
+- **Cyanate 來源**：
+
+  - 體內 cyanate 與 urea 處於平衡狀態，因此在 **uremia、發炎、抽菸**等狀況下 cyanate 濃度上升，carbamylation 隨之增加
+  - Carbamyl phosphate 由 carbamoyl phosphate synthase 以 ammonia + bicarbonate 生成
+  - 在 RA 關節中，**neutrophil 釋放的 myeloperoxidase（MPO）**可將 thiocyanate 轉換為 cyanate，被認為是關節局部 carbamylation 增強的關鍵機轉
+- **結構相似性**：Homocitrulline 比 citrulline 多一個 methylene group，但形狀、電荷、疏水性都與 citrulline 相似
+- **分類**：Carbamylation 屬於**不可逆**的 PTM-derived products（PTMDPs），隨年齡與慢性發炎累積，與 oxidative stress 相關（citrullination 不屬於此類）
+
+### (2) Anti-CarP 抗體的發現緣起
+
+- 背景：早期以 citrullinated proteins/antibodies 誘發實驗性關節炎，結果多為 modest 或 negative，因此推測**可能有其他修飾蛋白才是真正的「missing link」**
+- 關鍵實驗：小鼠以 carbamylated peptides 免疫後**產生 erosive arthritis**，之後對關節內注射 citrullinated peptides 更為易感（更嚴重的 erosive arthritis）
+- 這些動物實驗結果促成了對 RA 病人血清中 anti-CarP 抗體的探索
+
+### (3) 盛行率與已知抗原
+
+| 抗體 | Prevalence | 主要抗原 | 備註 |
+|---|---|---|---|
+| Anti-CarP | **36–45%**（文獻概括常引用 >40%）| **Alpha-1-antitrypsin**（RA 病人 synovial fluid 中發現被 carbamylate，較 control 血清更強被辨識）；其餘抗原多數未知 | 以 carbamylated–fetal calf serum、carbamylated-fibrinogen 為 surrogate antigen 建立 ELISA |
+
+- IgG、IgA anti-CarP 抗體皆可偵測到
+- **約 35% 的 ACPA 陰性 RA 病人**anti-CarP 陽性
+- Anti-CarP 抗體可在發病**前多年**出現，**獨立於 anti-CCP** 預測 arthralgia 病人未來發展為 RA
+- 目前最大未解問題：**anti-CarP 真正辨識的關節蛋白標的仍大多未知**
+
+### (4) Anti-CarP 與 ACPA 的關係——Cross-reactivity 與 AMPA 概念
+
+- Monoclonal 抗體研究顯示：ACPA 對形狀、電荷、疏水性與 citrulline 相似的其他 PTM（carbamylated lysine／homocitrulline、acetylated lysine）具有 **cross-reactivity**
+- 兩派解讀：
+
+  1. **獨立抗體說**：anti-CarP 可見於 ACPA 陰性病人、且能獨立於 ACPA 預測更嚴重病程
+  2. **Cross-reactive 說**（目前證據較支持）：monoclonal 抗體研究發現部分 ACPA 亞群本身就能有效結合 carbamylated／acetylated 序列，anti-CarP 可能只是辨識 ACPA binding motif 內剛好帶有 homocitrulline 的 ACPA 亞群，而非真正獨立的抗體家族
+- 由此衍生 **Anti-modified protein antibodies（AMPA）** 概念：將 ACPA、anti-CarP、AAPA（anti-acetylated protein antibodies）統一歸類
+
+  - **優點**：可將部分 anti-CCP 陰性、anti-CarP／AAPA 陽性的病人也歸類為 seropositive RA
+  - **爭議**：缺乏證據證實三者真的是各自獨立的抗體（AAPA 證據更薄弱）；後續將 anti-MAA 抗體也納入 AMPA 並不恰當
+
+### (5) 臨床意義小結
+
+1. Anti-CarP 對 RA **並非特異**，但在部分 ACPA 陰性病人中仍具臨床附加價值
+2. 與**較嚴重的疾病病程**相關，此關聯**獨立於 ACPA 狀態**
+3. 可在發病前多年出現，並可獨立於 anti-CCP 預測 arthralgia 病人進展為 RA
+4. 目前**未列入常規臨床檢驗**，多用於研究情境
+
+### (6) 與 AAV/GPA 機轉的比較：MPO／Neutrophil 是共同上游驅動者
+
+| | AAV/GPA 的 A1AT | RA 關節的 A1AT |
+|---|---|---|
+| A1AT 角色 | **Protease inhibitor**（煞住 PR3 活性）| **被修飾的抗原**（carbamylation 受質，被 anti-CarP 辨識）|
+| 問題核心 | 局部**濃度／活性不足**，煞不住 PR3 | 局部**存在，並被修飾**，變成自體抗原 |
+| 邏輯方向 | A1AT 太少 → 蛋白酶失控 → 組織破壞 | A1AT 存在 → 被 carbamylate → 產生 anti-CarP 反應 |
+
+Kelly 對 RA 關節中 A1AT 的描述僅止於「被發現 carbamylate 的抗原」，並未像 AAV 那樣強調關節內 A1AT 抗蛋白酶活性不足（此點書上未明講，不宜直接類推）。
+
+**真正的共同點**：MPO／Neutrophil 是兩病共同的上游驅動者。
+
+- AAV：MPO 本身即為 ANCA 抗原（MPO-ANCA），neutrophil degranulation／NETosis 釋放 MPO 造成組織破壞
+- RA：Neutrophil 釋放的 MPO 將 thiocyanate 轉為 cyanate，驅動關節內 carbamylation；NETs externalize carbamylated histones、car-LL37 等抗原，與 anti-CarP 抗體及**更嚴重的 erosive RA** 相關（O'Neil et al., *Sci Adv* 2020："Neutrophil-mediated carbamylation promotes articular damage in RA"）
+
+**為何黏膜 A1AT 少、關節 A1AT 卻多？**（此段為一般生理學推論，非逐字引用 Kelly，信心度中等）
+
+- Synovial fluid 本質上是 plasma 的 ultrafiltrate：滑膜有 fenestrated capillaries，血漿中等分子量蛋白（含 A1AT）持續滲入關節腔；synovitis 時血管通透性再上升，滲入更多
+- A1AT 本身是 acute-phase reactant，全身發炎時肝臟合成上升，加上血管通透性增加，關節腔內濃度隨之水漲船高
+- 呼吸道黏膜表面液主要靠上皮／腺體局部分泌供應，不會隨全身 acute-phase response 等比例上升，因此即使血中 A1AT 飆高，黏膜表面的有效防護濃度仍相對不足
+
+> 簡言之：**關節腔像是被血漿「灌注」的空間，黏膜表面則是相對獨立於血漿的分泌屏障**——這是兩者 A1AT 濃度反差的關鍵，而非兩病共用同一套「濃度決定命運」的機轉。
+
+---
+
+## 十三、口試重點整理
 
 ### Citrullination 在生理與病理中的角色（一句話版）
 

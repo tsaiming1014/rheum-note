@@ -227,6 +227,24 @@ IL-15 有特殊的呈現方式叫 **trans-presentation**：不像一般 cytokine
 - **IL-12** 屬於第六節的 **IL-12/23 家族**（JAK2+TYK2+STAT4），任務是驅動「Th1式效應反應」——對 NK 細胞來說就是「現在立刻分泌IFN-γ去殺病毒感染細胞」。
 - **IL-15** 屬於第三節的 **common γc 家族**（JAK1+JAK3+STAT5），任務是「淋巴球（含NK細胞）的存活與恆定」——與第九節「帶狀疱疹機轉」提到的是同一條路徑：IL-15維持NK細胞與記憶CD8 T細胞數量，讓它們能長期站崗巡邏，壓制潛伏的VZV。
 
+## 十二、總彙整：五大 Th 亞群的 Master Transcription Factor
+
+前面幾節花了很多篇幅講「JAK 配對」，但 JAK-STAT 訊息傳到細胞核之後，真正拍板決定「這顆 T 細胞要分化成哪種 Th」的，是 STAT 誘導出來的 **master transcription factor（主導轉錄因子）**。這張表是整份筆記的收尾——把每個 Th 亞群的「誘導 cytokine → STAT → master TF → 效應 cytokine」串成一條完整的線：
+
+| Th 亞群 | 誘導分化的 Cytokine | 主要 STAT（見前面章節） | Master TF | 效應 Cytokine |
+|---|---|---|---|---|
+| **Th1** | IL-12（第六節） | STAT4 | **T-bet** | IFN-γ |
+| **Th2** | IL-4（第八節） | STAT6 | **GATA3** | IL-4、IL-5、IL-13 |
+| **Th17** | TGF-β + IL-6（第七節，＋IL-1β、IL-23 維持） | STAT3 | **RORγt** | IL-17A、IL-17F、IL-21、IL-22 |
+| **Treg（iTreg）** | TGF-β（無 IL-6 時） | STAT5（IL-2 訊息） | **FOXP3** | TGF-β、IL-10 |
+| **Tfh** | IL-6、IL-21 | STAT3 | **BCL-6** | IL-21 |
+
+**記憶錨點：** T-bet→Th1、GATA3→Th2、RORγt→Th17、FOXP3→Treg、BCL-6→Tfh——五個 master TF 對五條線，跟前面「JAK 身分由受體鏈決定」是同一種化繁為簡的邏輯：**STAT 負責把訊息從細胞膜帶進核，但真正執行分化決策、直接坐上基因啟動子的是這些 master TF**，STAT 比較像是「送信的郵差」，master TF 才是「拆信、下決定的人」。
+
+**Th17/Treg 蹺蹺板：** 這裡有個前面章節沒特別提到、但很重要的分岔點——**同樣是 TGF-β 起手，加不加 IL-6 決定了完全相反的命運**：單獨 TGF-β → FOXP3 → Treg（抗發炎）；TGF-β + IL-6 → RORγt → Th17（促發炎）。IL-6 的存在與否，就是這個蹺蹺板的開關，也是為什麼 tocilizumab（anti-IL-6R）除了消炎，理論上還可能讓這個平衡往 Treg 端偏移。
+
+**跟第六節 IL-12/23 的交會：** Th1（T-bet，IL-12/STAT4 驅動）與 Th17（RORγt，IL-6 起始、IL-23/STAT3 維持）在這裡完整對上號——第六節說的「IL-12 是 Th1 的起手式，IL-23 是 Th17 的續命丹」，講的正是這兩個 master TF 各自的上游訊息來源。
+
 ---
 
 **資料來源**：Kelly's Textbook of Rheumatology Ch.65（Janus Kinase and Other Intra-cellular Targets）；Janeway's Immunobiology 10th ed（Appendix II/III Cytokines and Their Receptors、Ch3 Cellular Mechanisms of Innate Immunity、Ch16 Manipulation of the Immune Response）；CV risk 筆記（Lipid Paradox）。

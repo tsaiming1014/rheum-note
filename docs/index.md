@@ -60,6 +60,7 @@
 | TNF Superfamily | [TNF Superfamily 完整整理](跨疾病主題/TNF_superfamily_完整整理.md) |
 | Vaccination | [2026 EULAR 疫苗接種建議](跨疾病主題/2026_EULAR_疫苗接種建議.md) |
 | HBV Reactivation | [免疫抑制劑與 HBV Reactivation 風險分級與處置（2025 EASL）](跨疾病主題/HBV_reactivation_immunosuppressant.md) |
+| PAH 右心導管判讀 | [PAH 右心導管(RHC)數值判讀](跨疾病主題/PAH_右心導管判讀.md) |
 | CTD-ILD | CTD 相關間質性肺病 |
 | Pregnancy in rheumatic disease | 風濕病與妊娠（2022 BSR Part 1 & 2） |
 

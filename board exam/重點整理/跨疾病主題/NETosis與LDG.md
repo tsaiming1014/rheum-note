@@ -26,8 +26,9 @@
 ## 三、NET 的成分（記這三樣）
 
 1. **dsDNA / chromatin** → 自體抗原，TLR9 的配體
-2. **Citrullinated histone** → RA 的自體抗原（anti-CCP 的來源）；由 **PAD4** 酶執行 citrullination
-3. **LL37（cathelicidin）/ MPO / elastase** → 放大發炎、活化 pDC
+2. **Citrullinated histone** → RA 的自體抗原（anti-CCP 的來源）；由 **PAD4** 酶執行 citrullination（酵素性，arginine→citrulline）
+3. **Car-histone（carbamylated histone）** → RA 的另一自體抗原（**anti-CarP 的來源**）；同一批 histone 被 NET 上的 **MPO** 把 thiocyanate 轉成 cyanate，非酵素性修飾 lysine→homocitrulline
+4. **LL37（cathelicidin）/ MPO / elastase** → 放大發炎、活化 pDC
 
 ---
 
@@ -36,7 +37,7 @@
 | 疾病 | NETosis 的角色 |
 |------|---------------|
 | **SLE** | NET DNA → TLR9/TLR7 → IFN-α → 自體免疫放大；anti-NET 抗體陽性 |
-| **RA** | Citrullinated histone → anti-CCP 抗體的來源 |
+| **RA** | 同一批 histone 走兩條平行路徑：PAD4 → Citrullinated histone → anti-CCP 抗體來源；MPO → Car-histone → anti-CarP 抗體來源 |
 | **ANCA 血管炎** | NET 釋放 MPO/PR3 → ANCA 自體抗原暴露；內皮損傷 |
 | **血栓（COVID/APS）** | NET 活化血小板與凝血路徑 → 血栓形成（immunothrombosis） |
 | **痛風** | MSU crystals 誘發 NETosis → 關節炎放大 |
@@ -124,7 +125,7 @@ IFN-α 作用於骨髓
 | LDG 最重要的特性 | 自發性 NETosis（spontaneous）|
 | SLE 中清除 NET 的障礙 | DNase I 活性下降、C1q 缺乏、LL37 保護複合體 |
 | LL37 的角色 | 與 DNA 結合 → 保護 NET 不被 DNase I 降解 → 持續活化 TLR9 |
-| NET 在 RA 的意義 | Citrullinated histone → anti-CCP 抗原來源 |
+| NET 在 RA 的意義 | 雙軌抗原生產線：PAD4 citrullination → anti-CCP 抗原來源；MPO carbamylation → anti-CarP 抗原來源，兩者並存不互斥 |
 | NET 促血栓的機制 | 提供磷脂支架 + 活化 Factor XII（接觸活化） |
 | ANCA 血管炎的連結 | NET 釋放 MPO/PR3 → 成為 ANCA 自體抗原 |
 | LDG 與心血管風險 | 直接損傷血管內皮 → 早發性動脈粥樣硬化 |
