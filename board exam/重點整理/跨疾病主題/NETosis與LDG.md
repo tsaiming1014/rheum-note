@@ -23,12 +23,52 @@
 
 ---
 
-## 三、NET 的成分（記這三樣）
+## 三、NET 的成分
 
-1. **dsDNA / chromatin** → 自體抗原，TLR9 的配體
-2. **Citrullinated histone** → RA 的自體抗原（anti-CCP 的來源）；由 **PAD4** 酶執行 citrullination（酵素性，arginine→citrulline）
-3. **Car-histone（carbamylated histone）** → RA 的另一自體抗原（**anti-CarP 的來源**）；同一批 histone 被 NET 上的 **MPO** 把 thiocyanate 轉成 cyanate，非酵素性修飾 lysine→homocitrulline
-4. **LL37（cathelicidin）/ MPO / elastase** → 放大發炎、活化 pDC
+NET 不是單純的「DNA 網子」，而是多種成分打包噴出，各自在不同疾病中扮演不同角色。
+
+### (1) 骨架：dsDNA / Chromatin
+
+- 去凝縮的染色質構成 NET 的網狀骨架
+- 本身即為自體抗原，是 **TLR9** 的配體（endosomal TLR，辨識 unmethylated CpG DNA）
+- SLE 中因 DNase I 清除不良而持續存在，驅動 pDC 活化
+
+### (2) Histones —— 同一顆 histone，兩條平行修飾路線
+
+| 修飾 | 催化方式 | 產物 | 對應抗體 | 相關疾病 |
+|---|---|---|---|---|
+| Citrullination | 酵素性，**PAD4**（Ca²⁺-dependent），arginine→citrulline | Citrullinated histone（H3、H4）| ACPA / anti-CCP | RA |
+| Carbamylation | 非酵素性，NET 上 **MPO** 把 thiocyanate 轉成 cyanate，再修飾 lysine→homocitrulline | Car-histone | Anti-CarP | RA |
+
+> 兩條路徑同時發生在同一批 histone 上，互不排斥，是 RA 關節內平行的雙軌抗原生產線。
+
+### (3) 顆粒酵素（Granule Proteins）
+
+| 酵素 | 主要功能 | 臨床連結 |
+|---|---|---|
+| **MPO（myeloperoxidase）** | 催化 thiocyanate→cyanate（驅動 carbamylation）；氧化殺菌 | **MPO-ANCA** 抗原（MPA）；同時驅動 RA 關節 carbamylation |
+| **PR3（proteinase-3）** | Constitutive 表現於細胞膜；促進 TNF-α/IL-1β 釋放 | **PR3-ANCA** 抗原（GPA）；被 alpha-1-antitrypsin 抑制 |
+| **Neutrophil elastase（NE）** | 降解細胞外基質、活化其他蛋白酶 | 組織破壞 |
+| **Cathepsin G** | 絲胺酸蛋白酶，協同 NE 作用 | 組織破壞、微生物殺滅 |
+
+### (4) 抗菌胜肽與 Alarmins
+
+| 分子 | 功能 |
+|---|---|
+| **LL37（cathelicidin）** | 與 DNA 結合 → 保護 NET 抵抗 DNase I 降解 → 持續活化 pDC 的 TLR9 → IFN-α；carbamylation 後（car-LL37）也是 anti-CarP 抗原之一 |
+| **Defensins（α/β-defensin）** | 抗菌胜肽，亦可放大發炎反應 |
+| **S100A8/A9（calprotectin）** | Alarmin，活化 TLR4／RAGE，促進發炎細胞激素釋放 |
+| **HMGB1** | DAMP，活化 RAGE/TLR，放大發炎、延長 NET 存活 |
+
+### (5) 其他被 NET 帶出的修飾自體抗原（不只 histone）
+
+- RA 關節中除了 histone，**vimentin、α-enolase、fibrinogen、alpha-1-antitrypsin** 等蛋白也會經由 NET 釋出後被 citrullinate 或 carbamylate
+- 這些蛋白共同構成 RA citrullinome（已知 >250 種）與 anti-CarP 抗原庫的主要來源
+
+### (6) 促凝血成分
+
+- NET 的 DNA/histone 骨架提供帶負電磷脂表面 → 活化 **Factor XII（接觸活化）**
+- 活化血小板，促進 **immunothrombosis**（與 APS、COVID 相關血栓有關）
 
 ---
 
