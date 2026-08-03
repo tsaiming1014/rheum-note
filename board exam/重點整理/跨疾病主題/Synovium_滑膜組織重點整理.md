@@ -84,9 +84,3 @@ Synovium 是覆蓋 diarthrodial joint capsule 的膜狀構造，**不覆蓋 arti
 - 正常 synovium pO₂ ~7%；RA 發炎關節 pO₂ 降至 ~3%（缺氧狀態）。
 - **Hypoxia 是 RA 滑膜血管新生與發炎的重要驅動因子**（活化 HIF-1α、NFκB、STAT3、NOTCH pathway）。
 - 抗 TNF 治療後 pO₂ 回升，血管趨於穩定成熟。
-
----
-
-## 考古題連結
-
-- [第 8 題 — 滑膜組織何者正確（Type A/B、turnover、collagen 基底）](../考試準備/index.md)
