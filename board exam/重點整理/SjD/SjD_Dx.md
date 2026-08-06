@@ -173,8 +173,8 @@
 ## 9. Minor Salivary Gland Biopsy 陽性定義
 
 - **Focus score ≥ 1 focus / 4 mm²**
-- 1 focus = ≥ 50 個淋巴球聚集，以腺泡組織為中心
-- 不是圍繞血管或導管旁的浸潤
+- 1 focus = ≥ 50 個淋巴球聚集，鄰近正常腺泡組織
+- 病灶型態為**局灶性（focal）**聚集，多以小導管（intralobular duct）或小血管為中心（periductal/perivascular），需與瀰漫性、非特異性慢性唾液腺炎（non-specific chronic sialadenitis）區分——後者浸潤瀰漫、無明顯聚集邊界，即使有淋巴球浸潤也不計入 focus score
 - 主要由 CD4+ T cells 和 B cells 組成
 - 組織學可見 acinar atrophy 和 ductal dilation
 - **Criteria 中得 3 分**（最高權重單項）
