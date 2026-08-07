@@ -51,13 +51,9 @@
 | 主題 | 連結 |
 |------|------|
 | CV Risk | [CV risk](跨疾病主題/CV risk.md) |
-| 補體系統 | [補體系統 — 臨床檢驗與各疾病變化](跨疾病主題/Complement_疾病與檢驗.md) |
-| NETosis / LDG | [NETosis 與 LDG](跨疾病主題/NETosis與LDG.md) |
 | NSAIDs | [NSAIDs 口試完整答案](跨疾病主題/謝松洲_NSAIDs口試完整答案.md) |
 | Migratory Oral Ulcer | [反覆/游走性口腔潰瘍鑑別診斷](跨疾病主題/Migratory_oral_ulcer_鑑別診斷.md) |
 | Paradoxical Psoriasis | [矛盾性乾癬反應（含矛盾性濕疹）](跨疾病主題/Paradoxical_Psoriasis.md) |
-| 先天免疫 / 發炎體 | [TLR → Inflammasome 與 Interferon 整合](跨疾病主題/先天免疫_TLR_發炎體_干擾素整合.md) |
-| TNF Superfamily | [TNF Superfamily 完整整理](跨疾病主題/TNF_superfamily_完整整理.md) |
 | Vaccination | [2026 EULAR 疫苗接種建議](跨疾病主題/2026_EULAR_疫苗接種建議.md) |
 | HBV Reactivation | [免疫抑制劑與 HBV Reactivation 風險分級與處置（2025 EASL）](跨疾病主題/HBV_reactivation_immunosuppressant.md) |
 | PAH 右心導管判讀 | [PAH 右心導管(RHC)數值判讀](跨疾病主題/PAH_右心導管判讀.md) |
@@ -73,6 +69,11 @@
 | 主題 | 連結 |
 |------|------|
 | T Cell Activation | [T cell activation — TCR 訊息傳遞機轉](Immunology/T_cell_activation_TCR訊息傳遞.md) |
+| JAK-STAT | [JAK-STAT 訊息傳遞機轉](Immunology/JAK-STAT_訊息傳遞機轉.md) |
+| 補體系統 | [補體系統 — 臨床檢驗與各疾病變化](Immunology/Complement_疾病與檢驗.md) |
+| NETosis / LDG | [NETosis 與 LDG](Immunology/NETosis與LDG.md) |
+| 先天免疫 / 發炎體 | [TLR → Inflammasome 與 Interferon 整合](Immunology/先天免疫_TLR_發炎體_干擾素整合.md) |
+| TNF Superfamily | [TNF Superfamily 完整整理](Immunology/TNF_superfamily_完整整理.md) |
 
 ---
 
@@ -82,7 +83,7 @@
 |------|------|
 | csDMARD / 免疫抑制劑 | [八大類藥物重點整理](跨疾病主題/csDMARD_免疫抑制劑_八大類藥物整理.md) |
 | Biologics | [Biologics 大全](跨疾病主題/Biologics%20大全.md)、[藥物設計與作用機轉](跨疾病主題/Biologic藥物設計與作用機轉.md) |
-| JAK Inhibitor | [JAK-STAT 訊息傳遞機轉](跨疾病主題/JAK-STAT_訊息傳遞機轉.md)、[JAK Inhibitor 藥物](跨疾病主題/JAK_Inhibitor_藥物治療與臨床應用.md) |
+| JAK Inhibitor | [JAK-STAT 訊息傳遞機轉](Immunology/JAK-STAT_訊息傳遞機轉.md)、[JAK Inhibitor 藥物](跨疾病主題/JAK_Inhibitor_藥物治療與臨床應用.md) |
 
 ---
 
