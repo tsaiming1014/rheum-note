@@ -1,6 +1,6 @@
 # JAK Inhibitor 藥物治療與臨床應用（Kelly Ch.65）
 
-> 機轉背景（JAK家族與cytokine對應、STAT特異性、Th2例外、HZ與血脂機轉等）請見 [JAK-STAT 訊息傳遞機轉：故事版整理](JAK-STAT_訊息傳遞機轉.md)，本篇只整理藥物本身與臨床應用。
+> 機轉背景（JAK家族與cytokine對應、STAT特異性、Th2例外、HZ與血脂機轉等）請見 [JAK-STAT 訊息傳遞機轉：故事版整理](../Immunology/JAK-STAT_訊息傳遞機轉.md)，本篇只整理藥物本身與臨床應用。
 
 ## 一、已核准的 JAK / TYK2 Inhibitors
 
@@ -45,7 +45,7 @@
 
 ## 三、安全性
 
-**常見不良反應分類**：MACE、惡性腫瘤、serious infection、病毒/伺機性感染（尤其herpes zoster，機轉見[JAK-STAT機轉筆記第九節](JAK-STAT_訊息傳遞機轉.md)）、TB、血脂上升（機轉見[同筆記第十節](JAK-STAT_訊息傳遞機轉.md)）、轉胺酶上升、GI穿孔、VTE風險增加。
+**常見不良反應分類**：MACE、惡性腫瘤、serious infection、病毒/伺機性感染（尤其herpes zoster，機轉見[JAK-STAT機轉筆記第九節](../Immunology/JAK-STAT_訊息傳遞機轉.md)）、TB、血脂上升（機轉見[同筆記第十節](../Immunology/JAK-STAT_訊息傳遞機轉.md)）、轉胺酶上升、GI穿孔、VTE風險增加。
 
 **各藥物安全性摘要**：
 - Tofacitinib：SAE 5mg 9.6/100pt-yrs、10mg 8.6/100pt-yrs（與adalimumab相近）；HZ 3.6/100pt-yrs；10mg因SIE較高未獲RA核准（但核准UC）；危險因子為10mg劑量、類固醇、年齡、亞裔。
