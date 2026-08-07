@@ -167,7 +167,7 @@ IL-5 走 IL-5Rα + **βc**（跟 IL-3、GM-CSF 共用的 common beta chain），
 
 ## 十、延伸應用：為什麼 JAK Inhibitor 會讓血脂變差
 
-這題可以跟 [CV risk 筆記](CV%20risk.md) 裡的「**Lipid Paradox**」概念接起來——JAK inhibitor 讓血脂上升，其實是這個矛盾現象的「逆轉」，而不是憑空製造出新的心血管風險。
+這題可以跟 [CV risk 筆記](../跨疾病主題/CV%20risk.md) 裡的「**Lipid Paradox**」概念接起來——JAK inhibitor 讓血脂上升，其實是這個矛盾現象的「逆轉」，而不是憑空製造出新的心血管風險。
 
 ### 先回顧 Lipid Paradox：發炎期間血脂是「假性偏低」
 
