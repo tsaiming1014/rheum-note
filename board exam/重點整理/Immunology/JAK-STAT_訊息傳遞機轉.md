@@ -245,6 +245,36 @@ IL-15 有特殊的呈現方式叫 **trans-presentation**：不像一般 cytokine
 
 **跟第六節 IL-12/23 的交會：** Th1（T-bet，IL-12/STAT4 驅動）與 Th17（RORγt，IL-6 起始、IL-23/STAT3 維持）在這裡完整對上號——第六節說的「IL-12 是 Th1 的起手式，IL-23 是 Th17 的續命丹」，講的正是這兩個 master TF 各自的上游訊息來源。
 
+## 十三、煞車系統：JAK-STAT 訊息傳遞的三層負向調控
+
+前面十二節都在講「訊號怎麼傳進去」，但一個活化的訊息系統一定要有「煞車」，否則細胞會持續活化、走向腫瘤化或過度發炎。JAK-STAT 路徑的煞車分成三層，作用位置由上游到下游剛好對應受體、JAK、STAT三個層級：
+
+| 煞車層級 | 代表分子 | 作用位置 | 機轉 |
+|---|---|---|---|
+| **第一層（受體端）** | PTP（如 SHP1、SHP2、CD45） | 受體/JAK | 直接去磷酸化受體或JAK，屬於「物理性拆線」 |
+| **第二層（JAK端，負回饋）** | **SOCS 家族**（SOCS1-7、CIS） | JAK | STAT活化後誘導SOCS產生，SOCS再回頭抑制JAK活性──是「自己剎自己車」的負回饋迴路 |
+| **第三層（STAT端）** | **PIAS 家族**（PIAS1、PIASx、PIASy、PIAS3） | STAT | 恆定表現（不需誘導），直接結合已磷酸化雙聚化的STAT，阻止它與DNA結合 |
+| **第三層變體（STAT端）** | **STAT3β**（顯性負向剪接變異體） | STAT3 | 與正常STAT3α競爭同樣的DNA結合位，但轉錄活化能力缺陷，形成「假鑰匙卡在鎖孔」的抑制效果 |
+
+**一句話記憶三層煞車的邏輯順序**：訊號一路往下傳是「受體→JAK→STAT」，煞車系統也剛好對應「PTP煞受體/JAK、SOCS煞JAK、PIAS/STAT3β煞STAT」──**煞車位置永遠卡在訊號傳遞鏈的每一個關鍵節點上**，這樣才能有效率地讓訊號適可而止。
+
+### SOCS：最經典的「負回饋」教材
+
+SOCS（Suppressor Of Cytokine Signaling）家族最特別的地方是它的**誘導方式本身就是負回饋**：cytokine活化JAK-STAT後，STAT會直接轉錄誘導SOCS基因表現，SOCS蛋白質合成出來後，再回頭抑制同一條（或相關）JAK-STAT路徑──類似「訊號自己下令製造煞車皮來煞停自己」。
+
+- **SOCS1**：主要抑制IFN-γ/STAT1路徑
+- **SOCS3**：主要抑制IL-6/gp130/STAT3路徑，也是本題庫第19題的考點分子
+
+**臨床連結**：SOCS3表現不足或功能缺陷與慢性發炎性疾病（RA、IBD）中IL-6/STAT3訊號過度活化有關；這也是為什麼JAK inhibitor（藥物性煞車）某種程度上是在**取代身體原本SOCS這套天然煞車系統**失靈的部分。
+
+### PIAS：恆定表現的「常駐警衛」
+
+PIAS（Protein Inhibitor of Activated STAT）家族不需要被誘導，本來就恆定表現在細胞內，功能是直接抓住已經磷酸化、雙聚化、準備進核的STAT蛋白，阻止它與DNA的STAT結合位（GAS element）結合，是比SOCS更「隨時待命」的一層防線。PIAS1主要作用於STAT1，是本題庫的考點分子。
+
+### STAT3β：偽裝成鑰匙的假貨
+
+正常的STAT3基因會被選擇性剪接（alternative splicing）成兩種轉錄本：**STAT3α**（全長，具完整轉錄活化能力）與**STAT3β**（C端轉錄活化域被截短，雖然仍可磷酸化、雙聚化、進核、結合DNA，卻無法有效活化下游基因轉錄）。STAT3β會與STAT3α競爭同樣的DNA結合位，形成「顯性負向（dominant-negative）」抑制效果，是細胞用來微調STAT3訊號強度的另一種機制。
+
 ---
 
 **資料來源**：Kelly's Textbook of Rheumatology Ch.65（Janus Kinase and Other Intra-cellular Targets）；Janeway's Immunobiology 10th ed（Appendix II/III Cytokines and Their Receptors、Ch3 Cellular Mechanisms of Innate Immunity、Ch16 Manipulation of the Immune Response）；CV risk 筆記（Lipid Paradox）。
