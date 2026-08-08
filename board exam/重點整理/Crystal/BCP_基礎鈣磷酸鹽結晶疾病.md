@@ -74,6 +74,8 @@ BCP crystals 泛指一群 submicron 大小的 calcium phosphate 結晶：
 
 BCP 結晶個別 <1 μm（20–100 nm），一般光學顯微鏡偵測極限 >1 μm，只有聚集成團塊時才可能看到（"shiny coin" 外觀，見 Alizarin Red 染色 Fig 98.9）。
 
+![BCP crystal aggregates, Alizarin Red S 染色](../images/BCP%20Alizarin%20red%20stain.png)
+
 | 方法 | 優點 | 缺點 |
 |---|---|---|
 | Light microscopy | 便宜、普及 | 偵測極限 >1μm，除非聚集成團否則看不到 |
