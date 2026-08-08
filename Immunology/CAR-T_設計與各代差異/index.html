@@ -1618,7 +1618,7 @@
         <li class="md-nav__item">
   <a href="#3-car-t-14" class="md-nav__link">
     <span class="md-ellipsis">
-      3. 緩解 CAR-T 副作用的設計策略（第14題相關）
+      3. CAR-T 相關設計策略的分類（第14題相關）
     </span>
   </a>
   
@@ -5499,7 +5499,7 @@
         <li class="md-nav__item">
   <a href="#3-car-t-14" class="md-nav__link">
     <span class="md-ellipsis">
-      3. 緩解 CAR-T 副作用的設計策略（第14題相關）
+      3. CAR-T 相關設計策略的分類（第14題相關）
     </span>
   </a>
   
@@ -5579,8 +5579,9 @@
 </tbody>
 </table>
 <p><strong>CD28 vs. 4-1BB 共刺激域的差異</strong>：CD28訊號活化快、效應強但T細胞較快耗竭；4-1BB訊號活化較慢但可延長T細胞存續時間、降低耗竭速度，兩者是臨床設計CAR-T時的重要取捨。</p>
-<h2 id="3-car-t-14">3. 緩解 CAR-T 副作用的設計策略（第14題相關）</h2>
-<p>CAR-T最主要的副作用是<strong>CRS（cytokine release syndrome，細胞激素釋放症候群）</strong>與<strong>ICANS（immune effector cell-associated neurotoxicity syndrome，神經毒性）</strong>，以下為降低風險的設計：</p>
+<h2 id="3-car-t-14">3. CAR-T 相關設計策略的分類（第14題相關）</h2>
+<p>CAR-T最主要的副作用是<strong>CRS（cytokine release syndrome，細胞激素釋放症候群）</strong>與<strong>ICANS（immune effector cell-associated neurotoxicity syndrome，神經毒性）</strong>。CAR-T的設計改良大致可分成兩個不同方向，<strong>目的不同，不該混為一談</strong>：</p>
+<p><strong>(A) 真正用於「緩解/控制副作用」的安全機制</strong></p>
 <table>
 <thead>
 <tr>
@@ -5592,28 +5593,45 @@
 <tbody>
 <tr>
 <td><strong>iCaspase9（誘導性Caspase9）安全開關</strong></td>
-<td>給予二聚化藥物（如AP1903）後誘導CAR-T細胞快速凋亡</td>
-<td>CRS/神經毒性發生時可迅速「關閉」治療，屬於<strong>自殺基因（suicide gene）</strong>策略</td>
+<td>給予二聚化藥物（如AP1903/rimiducid）後誘導CAR-T細胞快速凋亡</td>
+<td>CRS/神經毒性發生時可迅速「關閉」治療，屬於<strong>自殺基因（suicide gene）</strong>策略，是本題唯一真正以「降低副作用」為設計目的的選項</td>
 </tr>
 <tr>
-<td><strong>Syn-Notch / Bispecific（雙特異性）設計</strong></td>
-<td>需同時辨識兩種抗原才活化，或先辨識抗原A誘導表現CAR再辨識抗原B才殺傷</td>
-<td>提高腫瘤專一性、降低on-target/off-tumor毒性</td>
+<td>（同類延伸，非本題選項）truncated EGFR/CD20 tag</td>
+<td>表現可被cetuximab/rituximab辨識的標記，用藥物即可清除CAR-T細胞</td>
+<td>同樣屬於安全開關概念</td>
+</tr>
+</tbody>
+</table>
+<p><strong>(B) 提升專一性或效果、但目的不是「降低副作用」的設計</strong></p>
+<table>
+<thead>
+<tr>
+<th>設計</th>
+<th>機轉</th>
+<th>實際目的</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Syn-Notch / Bispecific（雙特異性）</strong></td>
+<td>需同時辨識兩種抗原才活化</td>
+<td>提高腫瘤專一性、<strong>間接</strong>降低on-target/off-tumor毒性，但主要目的是「精準辨識」而非「副作用發生後的控制」</td>
 </tr>
 <tr>
 <td><strong>NKG2D CAR</strong></td>
 <td>以NKG2D天然受體取代scFv，辨識多種腫瘤壓力配體（如MICA/MICB、ULBP）</td>
-<td>拓寬辨識範圍，但專一性設計與傳統scFv CAR不同，非直接針對CRS</td>
+<td><strong>拓寬辨識範圍、增強效果</strong>，與副作用緩解無關</td>
 </tr>
 <tr>
 <td><strong>TRUCK</strong></td>
 <td>額外分泌cytokine強化抗腫瘤能力</td>
-<td>目的是增強效果而非降低副作用，<strong>反而可能加重全身性發炎反應</strong></td>
+<td><strong>增強效果</strong>，反而可能<strong>加重</strong>全身性發炎反應，與副作用緩解方向相反</td>
 </tr>
 </tbody>
 </table>
 <blockquote>
-<p>因此第14題「可緩解CAR-T副作用之CAR設計」答案應選 <strong>iCaspase9</strong>（安全開關），其餘三者皆屬於「增強效果」而非「降低副作用」的設計方向。</p>
+<p>第14題問的是「可<strong>緩解</strong>CAR-T副作用之CAR設計」，四個選項中只有 <strong>iCaspase9</strong> 是以「發生副作用時能主動終止治療」為設計目的，其餘三者都是「提升辨識度/效果」的設計，不屬於同一類別，故答案為 <strong>A) iCaspase9</strong>。</p>
 </blockquote>
 <h2 id="4">4. 速記</h2>
 <ul>
