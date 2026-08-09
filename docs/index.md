@@ -61,6 +61,7 @@
 | Synovium | [滑膜組織重點整理](跨疾病主題/Synovium_滑膜組織重點整理.md) |
 | HOA | [Hypertrophic Osteoarthropathy 重點整理](跨疾病主題/HOA_Hypertrophic_Osteoarthropathy.md) |
 | 老鼠動物模型 | [風濕免疫疾病老鼠動物模型整理](跨疾病主題/風濕免疫疾病_老鼠動物模型整理.md) |
+| 過敏原免疫治療（AIT） | [SCIT / SLIT / OIT 完整比較](Allergy/過敏原免疫治療_AIT比較.md) |
 | CTD-ILD | CTD 相關間質性肺病 |
 | Pregnancy in rheumatic disease | 風濕病與妊娠（2022 BSR Part 1 & 2） |
 
