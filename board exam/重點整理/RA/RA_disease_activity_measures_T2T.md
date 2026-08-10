@@ -43,6 +43,8 @@ TJC28、SJC28 評估以下 **28 個關節**：
 
 ### 各關節理學檢查手法
 
+> 詳細姿勢擺位、觸診手法、tender/swollen 判讀與常見鑑別陷阱，見 [RA_DAS28理學檢查詳解.md](RA_DAS28理學檢查詳解.md)。
+
 | 關節 | 檢查手法 |
 |---|---|
 | **Shoulder** | 觸診 anterior joint line（喙突外側、肱骨頭前方）及 subacromial region；滑膜腫脹不易直接觸及，多依賴疼痛與 ROM 受限判斷 |
