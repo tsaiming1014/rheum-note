@@ -114,7 +114,7 @@ Anti-HMGCR 的特殊機轉：Statins 上調再生肌肉中的 HMGCR 表現 → �
 |------|----------|---------|---------|
 | Anti-synthetase（Jo-1等）| Aminoacyl-tRNA synthetase（蛋白質合成）| 血管 + 肺 | 肺部為起始地；perimysial fragmentation；perifascicular MHC II 上調 |
 | Anti-Mi-2 | 核內 helicase（chromatin remodeling）| 血管（DM）| UV → complement → MAC → perifascicular atrophy；Type I IFN |
-| Anti-MDA5 | Innate immune receptor（偵測 dsRNA）| Type I IFN innate pathway | 病毒樣觸發；Type I IFN surge；rapid progressive ILD；DAD |
+| [Anti-MDA5](Anti-MDA5_致病機轉與臨床表現.md) | Innate immune receptor（偵測 dsRNA）| Type I IFN innate pathway | 病毒樣觸發；Type I IFN surge；rapid progressive ILD；DAD |
 | Anti-TIF1-γ | Transcriptional regulator（腫瘤抑制）| Paraneoplastic | 腫瘤抗原與再生肌肉交叉反應；feed-forward loop |
 | Anti-NXP2 | Nuclear matrix protein（轉錄調控）| Paraneoplastic + 缺血 | 慢性炎症 → calcinosis；鈣訊號調控失常 |
 | Anti-SRP | Signal recognition particle（蛋白質轉位至ER）| 抗體直接損傷 | MAC 沉積在 sarcolemma；ER stress；無 CTL |
