@@ -6007,9 +6007,19 @@
 <h3 id="3-2-pdc-tlr7tlr9-pathwaytlr-dependent">3-2. pDC 活化：TLR7/TLR9 pathway（TLR-dependent，主要路徑）</h3>
 <ul>
 <li>Immune complex 透過 pDC 表面的 <strong>Fc receptor</strong> 被內吞，進入 endosome。</li>
-<li>Endosomal <strong>TLR7</strong>（辨識 ssRNA，如 anti-RNP/Sm 抗體結合的 U1 RNA）與 <strong>TLR9</strong>（辨識 unmethylated CpG DNA）被活化。</li>
-<li>訊號經 MyD88 → IRAK4/IRAK1 → TRAF6/TRAF3 → 活化轉錄因子 <strong>IRF5、IRF7</strong>（兩者都轉位進核）→ 大量轉錄 <strong>IFN-α</strong> 及其他發炎介質。</li>
-<li>pDC 是目前公認<strong>分泌 type I IFN 效率最高</strong>的細胞（每顆細胞產量遠高於其他細胞），因此被視為此路徑的 major producer。</li>
+<li>Endosomal <strong>TLR7</strong>（辨識 ssRNA，如 anti-RNP/Sm 抗體結合的 U1 RNA）與 <strong>TLR9</strong>（辨識 unmethylated CpG DNA）被活化，經 TIR domain 招募 adaptor <strong>MyD88</strong>。</li>
+<li>
+<p><strong>MyD88 訊號在此分成兩條並行路徑</strong>（常見誤解：MyD88 不是只走 IRF，多數 TLR 用 MyD88 的預設終點其實是 NF-κB）：</p>
+</li>
+<li>
+<p><strong>NF-κB 路線（多數細胞、多數 TLR 的預設路徑）</strong>：MyD88 → IRAK4/IRAK1 → TRAF6 → TAK1 → IKK 複合體 → IκB 降解 → <strong>NF-κB</strong> 入核 → 轉錄 TNF-α、IL-1β、IL-6 等促發炎 cytokine；<strong>IRF5</strong> 也歸在這條促發炎路線，並非直接產生 IFN-α。</p>
+</li>
+<li>
+<p><strong>IRF7 路線（pDC 特有，是 IFN-α 大量產生的關鍵）</strong>：在 pDC 中，IRAK1 可<strong>直接結合並磷酸化 IRF7</strong>。這是因為 pDC <strong>組成性（constitutively）高量表現 IRF7</strong>，其他細胞通常要先被 IFN 誘導才會表現 IRF7（正回饋迴路），所以這條路徑只在 pDC 特別活躍。IRF7 入核後大量轉錄 <strong>IFN-α/β</strong> 基因。</p>
+</li>
+<li>
+<p>兩條路徑同時啟動，所以 pDC 活化後既產生促發炎 cytokine，也產生大量 type I IFN；但 pDC 的招牌反應是 <strong>IRF7 driven 的巨量 IFN-α</strong>，遠超其他細胞，因此被視為此路徑的 major producer。</p>
+</li>
 </ul>
 <p><strong>基因面向（考試常考）</strong>：</p>
 <ul>
@@ -6068,7 +6078,7 @@
 <p>此機轉直接催生了 <strong>anifrolumab</strong>（anti-IFNAR1 單株抗體，阻斷所有 type I IFN 訊號），已核准用於 SLE；也是 belimumab（anti-BLyS，作用在下游 B 細胞分化）合理性的機轉基礎。</p>
 <h2 id="_4">參考資料</h2>
 <ul>
-<li><em>Janeway's Immunobiology</em> 第10版 Ch01（cell origins）、Ch09 Section 9-6、9-7（DC subsets）</li>
+<li><em>Janeway's Immunobiology</em> 第10版 Ch01（cell origins）、Ch03 Section 3-7（TLR → MyD88/TRIF → NF-κB vs IRF3/IRF7 分岔機轉）、Ch09 Section 9-6、9-7（DC subsets）</li>
 <li><em>Kelly's Textbook of Rheumatology</em> Ch080（Etiology and Pathogenesis of Systemic Lupus Erythematosus）</li>
 </ul>
 
