@@ -62,9 +62,13 @@ SLE 病人的 apoptotic cell debris 清除有缺陷（尤其 **complement C1q、
 ### 3-2. pDC 活化：TLR7/TLR9 pathway（TLR-dependent，主要路徑）
 
 - Immune complex 透過 pDC 表面的 **Fc receptor** 被內吞，進入 endosome。
-- Endosomal **TLR7**（辨識 ssRNA，如 anti-RNP/Sm 抗體結合的 U1 RNA）與 **TLR9**（辨識 unmethylated CpG DNA）被活化。
-- 訊號經 MyD88 → IRAK4/IRAK1 → TRAF6/TRAF3 → 活化轉錄因子 **IRF5、IRF7**（兩者都轉位進核）→ 大量轉錄 **IFN-α** 及其他發炎介質。
-- pDC 是目前公認**分泌 type I IFN 效率最高**的細胞（每顆細胞產量遠高於其他細胞），因此被視為此路徑的 major producer。
+- Endosomal **TLR7**（辨識 ssRNA，如 anti-RNP/Sm 抗體結合的 U1 RNA）與 **TLR9**（辨識 unmethylated CpG DNA）被活化，經 TIR domain 招募 adaptor **MyD88**。
+- **MyD88 訊號在此分成兩條並行路徑**（常見誤解：MyD88 不是只走 IRF，多數 TLR 用 MyD88 的預設終點其實是 NF-κB）：
+
+  1. **NF-κB 路線（多數細胞、多數 TLR 的預設路徑）**：MyD88 → IRAK4/IRAK1 → TRAF6 → TAK1 → IKK 複合體 → IκB 降解 → **NF-κB** 入核 → 轉錄 TNF-α、IL-1β、IL-6 等促發炎 cytokine；**IRF5** 也歸在這條促發炎路線，並非直接產生 IFN-α。
+  2. **IRF7 路線（pDC 特有，是 IFN-α 大量產生的關鍵）**：在 pDC 中，IRAK1 可**直接結合並磷酸化 IRF7**。這是因為 pDC **組成性（constitutively）高量表現 IRF7**，其他細胞通常要先被 IFN 誘導才會表現 IRF7（正回饋迴路），所以這條路徑只在 pDC 特別活躍。IRF7 入核後大量轉錄 **IFN-α/β** 基因。
+
+- 兩條路徑同時啟動，所以 pDC 活化後既產生促發炎 cytokine，也產生大量 type I IFN；但 pDC 的招牌反應是 **IRF7 driven 的巨量 IFN-α**，遠超其他細胞，因此被視為此路徑的 major producer。
 
 **基因面向（考試常考）**：
 
@@ -107,5 +111,5 @@ SLE 病人的 apoptotic cell debris 清除有缺陷（尤其 **complement C1q、
 
 ## 參考資料
 
-- *Janeway's Immunobiology* 第10版 Ch01（cell origins）、Ch09 Section 9-6、9-7（DC subsets）
+- *Janeway's Immunobiology* 第10版 Ch01（cell origins）、Ch03 Section 3-7（TLR → MyD88/TRIF → NF-κB vs IRF3/IRF7 分岔機轉）、Ch09 Section 9-6、9-7（DC subsets）
 - *Kelly's Textbook of Rheumatology* Ch080（Etiology and Pathogenesis of Systemic Lupus Erythematosus）
