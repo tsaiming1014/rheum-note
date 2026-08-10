@@ -156,7 +156,41 @@ IFN-α 作用於骨髓
 
 ---
 
-## 八、考試常見考點整理
+## 八、NETosis 的檢測方法
+
+### (1) 免疫螢光顯微鏡（Immunofluorescence microscopy）——最直接的方法
+
+| 染色標的 | 意義 |
+|---|---|
+| DNA（DAPI / Sytox Green） | 標出胞外網狀 DNA 骨架 |
+| Citrullinated histone H3（citH3） | PAD4 活化的標記，NET 特異性高 |
+| MPO / Neutrophil elastase | 顆粒蛋白，確認來源是嗜中性球 |
+
+> 關鍵判讀原則：**DNA 與 citH3/MPO 要共定位（co-localization）**才算真正的 NET，單獨測到細胞外 DNA 不夠 specific（一般細胞壞死也會釋出 DNA）。
+
+### (2) 血清／血漿生化標記（臨床研究最常用）
+
+| 檢測項目 | 原理 | 特異性 |
+|---|---|---|
+| **MPO-DNA complex ELISA** | 測 MPO 與 DNA 結合的複合物 | 目前最常用的血中 NETs 定量法 |
+| **Citrullinated histone H3 (citH3) ELISA** | PAD4 催化產物 | 特異性高 |
+| Cell-free DNA（PicoGreen） | 單純測游離 DNA 濃度 | 特異性較低，需搭配上述複合物 |
+
+### (3) 體外誘導功能性試驗（ex vivo NETosis assay）
+
+分離病人 neutrophils（或 LDG），以 PMA、免疫複合體，或病人血清刺激，觀察其自發／誘導後的 NET 形成量，常用於證明 SLE 病人 neutrophils（尤其 LDG）有異常高的 spontaneous NETosis 傾向。
+
+### (4) NET 清除能力檢測（NET degradation assay）
+
+測血清 **DNase I 活性**，或觀察病人血清是否能分解體外形成的 NET，用來解釋 SLE 病人 NET **清除障礙**（DNase I 活性不足、LL37 保護複合體抵抗分解）。
+
+### 口試簡答版本
+
+> 「NETosis 主要用三個層次來檢測：第一，**免疫螢光染色**看細胞外 DNA 是否與 citrullinated histone H3 或 MPO 共定位；第二，血中用 **MPO-DNA complex ELISA** 或 **citH3 ELISA** 定量循環中的 NET 產物；第三，可做 **ex vivo 功能性試驗**，分離病人 neutrophil 看其自發 NETosis 傾向，或測血清 **DNase I 活性**評估 NET 清除能力，這在 SLE 病人常常是下降的。」
+
+---
+
+## 九、考試常見考點整理
 
 | 考點 | 答案 |
 |------|------|
