@@ -49,6 +49,37 @@ Dendritic cell 分兩大類：**conventional/classical DC (cDC，即 myeloid DC)
 
 pDC 是「type I interferon 生產專家」（過去也稱 interferon-producing cell, IPC），透過 TLR-7/TLR-9 辨識病毒 RNA/DNA 後大量分泌 IFN-α/β，抗病毒功能顯著，但呈現抗原活化 naive T 細胞的能力遠不如 cDC。這也是 pDC 在 SLE 等自體免疫疾病 pathogenesis 中扮演重要角色的機轉基礎（持續產生 type I IFN 驅動 IFN signature）。
 
+### TLR3：cDC1 也會產生 type I IFN（TRIF-IRF3 路徑，與 pDC 的 MyD88-IRF7 路徑不同）
+
+pDC 不是唯一能產生 type I IFN 的 DC——**cDC1** 透過 **TLR3** 也能誘導 type I IFN，但走的是完全不同的 adaptor/IRF。
+
+**主要表現細胞**：
+
+- **Macrophage**
+- **Conventional dendritic cell**，尤其是 **cDC1** 亞群——TLR-3 是區別 cDC1 與 cDC2 的關鍵標記之一（cDC2 不表現 TLR-3）
+- **腸道上皮細胞（intestinal epithelial cell）**
+
+（TLR3 位於 **endosome**，需要 **UNC93B1** 這個 12-次跨膜蛋白幫忙從內質網轉運到 endosome，這點與 TLR7/8/9 相同。）
+
+**辨識的配體**：**dsRNA (double-stranded RNA)**，來源可以是：
+
+1. 本身基因體就是 dsRNA 的病毒（如 rotavirus）直接被胞吞後在 endosome 中偵測到；
+2. ssRNA 病毒**複製過程中**產生的 dsRNA 中間產物；
+3. 連 **DNA 病毒**（如 herpes simplex virus）也能被 TLR3 偵測到——機轉是病毒基因體上正負股重疊轉錄（overlapping transcription）產生了 dsRNA。
+
+**訊息傳遞路徑**（與 TLR7/8/9 不同，這條走 **TRIF，不經 MyD88**）：
+
+```
+TLR3 + dsRNA → TRIF → TRAF3 → TBK1/IKKε → IRF3 磷酸化
+     → IRF3 入核 → 轉錄 type I IFN（主要 IFN-β）
+```
+
+與 pDC 的「MyD88 → IRAK1 → IRF7」路線是**兩條獨立產生 type I IFN 的路徑**：TLR3 用 TRIF-IRF3，TLR7/9（在 pDC）用 MyD88-IRF7，adaptor、IRF 家族成員、主要細胞完全不同。
+
+**功能意義**：在 cDC1 上，TLR3 的表現與其「專責活化 naive CD8 T 細胞、cross-presentation、對付胞內病原（尤其病毒）」的角色一致——偵測到 dsRNA 代表細胞正遭受病毒複製，適合啟動抗病毒的 CD8 T 細胞反應。在腸道上皮細胞上，則提供黏膜屏障對腸道病毒（如 rotavirus）的第一線偵測。
+
+**臨床鉤子（與 MyD88/TLR7/9 路線的鑑別考點）**：**TLR3（或其上游 UNC93B1）loss-of-function mutation** 與**反覆單純疱疹病毒腦炎（HSE, herpes simplex encephalitis）**相關——儘管 HSV 是 DNA 病毒。這類病人對其他病毒的免疫力大致正常（其他病毒感應器可代償），顯示 **TLR3 路徑在中樞神經系統的局部抗病毒防禦中特別關鍵**，可與「MyD88/IRAK4 缺乏 → 反覆化膿菌感染、發燒反應減弱」互為鑑別選項。
+
 ## 3. pDC 與 SLE 的 Type I IFN Pathway
 
 這是 SLE pathogenesis 的核心機轉，也是近年最重要的治療標的（anifrolumab 已上市）。以下依「上游刺激 → pDC 活化 → 下游放大」的順序整理。
