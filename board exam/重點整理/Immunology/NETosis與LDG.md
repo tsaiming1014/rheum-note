@@ -158,6 +158,17 @@ IFN-α 作用於骨髓
 
 ## 八、NETosis 的檢測方法
 
+### 口試速記表
+
+| 層次 | 方法 | 測什麼 | 重點 |
+|---|---|---|---|
+| ① 免疫螢光顯微鏡（最直接） | Immunofluorescence microscopy | DNA（DAPI/Sytox）+ **citrullinated histone H3（citH3）** + MPO/elastase | 關鍵：**DNA 要與 citH3/MPO 共定位（co-localization）**才算真正 NET，單獨測到細胞外 DNA 不夠 specific |
+| ② 血清／血漿生化標記（臨床研究最常用） | MPO-DNA complex ELISA | MPO 與 DNA 結合的複合物 | 目前**最常用**的血中 NETs 定量法 |
+| | Citrullinated histone H3 (citH3) ELISA | PAD4 催化產物 | 特異性高 |
+| | Cell-free DNA（PicoGreen） | 單純測游離 DNA 濃度 | 特異性較低，需搭配上述複合物一起判讀 |
+| ③ Ex vivo 功能性試驗 | NETosis induction assay | 分離病人 neutrophil（或 LDG），以 PMA/免疫複合體/病人血清刺激 | 用來證明 SLE 病人（尤其 LDG）有異常高的 spontaneous NETosis 傾向 |
+| ④ NET 清除能力檢測 | NET degradation assay / 血清 DNase I 活性 | 血清能否分解體外形成的 NET | 解釋 SLE 病人 NET 清除障礙（DNase I 活性不足 + LL37 保護複合體抵抗分解） |
+
 ### (1) 免疫螢光顯微鏡（Immunofluorescence microscopy）——最直接的方法
 
 | 染色標的 | 意義 |
