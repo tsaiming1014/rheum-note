@@ -94,6 +94,7 @@
 | Biologics | [Biologics 大全](跨疾病主題/Biologics%20大全.md)、[藥物設計與作用機轉](跨疾病主題/Biologic藥物設計與作用機轉.md) |
 | JAK Inhibitor | [JAK-STAT 訊息傳遞機轉](Immunology/JAK-STAT_訊息傳遞機轉.md)、[JAK Inhibitor 藥物](跨疾病主題/JAK_Inhibitor_藥物治療與臨床應用.md) |
 | MTX-Pneumonitis | [MTX-Pneumonitis](跨疾病主題/MTX_Pneumonitis_vs_RA-ILD.md) |
+| HCQ Retinopathy | [HCQ Retinopathy — Risk Factors 與監測方法](跨疾病主題/HCQ-retinopathy.md) |
 
 ---
 

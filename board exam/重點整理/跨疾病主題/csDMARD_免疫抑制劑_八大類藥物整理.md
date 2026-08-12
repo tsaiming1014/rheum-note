@@ -2,6 +2,15 @@
 
 來源：Kelly's Textbook of Rheumatology — Ch61 *Traditional DMARDs*（Methotrexate、Leflunomide、Sulfasalazine、Hydroxychloroquine）+ Ch62 *Immunosuppressive Drugs*（Cyclophosphamide、Azathioprine、Mycophenolate Mofetil、Calcineurin inhibitors）
 
+## 核苷酸合成抑制與淋巴細胞專一性
+
+| 藥物 | Pathway | 具體抑制酵素/機制 | 淋巴細胞專一性原因 |
+|---|---|---|---|
+| MMF | De novo (Purine) | IMPDH | 淋巴細胞缺乏 HGPRT 補救路徑，極度依賴從頭合成。 |
+| AZA | De novo (Purine) | 偽裝成 Purine 併入 DNA/RNA | 同樣打擊依賴從頭合成的快速分裂細胞。 |
+| MTX | De novo (全面) | DHFR (耗盡葉酸) | 葉酸是所有核苷酸從頭合成的必需原料。 |
+| Leflunomide | De novo (Pyrimidine) | DHODH | 活化淋巴細胞需 8 倍嘧啶量，補救路徑無法支應。 |
+
 ## 機轉總覽
 
 | 藥物 | 分類 | 主要機轉 |
