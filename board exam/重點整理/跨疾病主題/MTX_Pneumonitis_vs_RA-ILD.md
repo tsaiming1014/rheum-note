@@ -1,4 +1,4 @@
-# MTX-Associated Pneumonitis vs. RA/CTD-ILD 慢性進展
+# MTX-Pneumonitis
 
 ## 一、兩個不同的概念：不要混淆
 
