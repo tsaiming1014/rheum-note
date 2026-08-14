@@ -16,6 +16,10 @@
 > - IV-S = 各腎絲球中 <50% 小葉受累（segmental）
 > - IV-G = 各腎絲球中 ≥50% 小葉受累（global）
 
+![LN pathology 1](../images/LN%20pathology%201.jpg)
+
+![LN pathology 2](../images/LN%20pathology%202.jpg)
+
 ## 二、沉積部位與對應分類（Kelly Ch.081）
 
 > "Thick **subendothelial** immune deposits form classic 'wire loop' lesions." — Kelly Ch.081
