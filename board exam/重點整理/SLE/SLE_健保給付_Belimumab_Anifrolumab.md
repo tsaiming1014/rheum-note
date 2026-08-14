@@ -204,3 +204,9 @@ SLEDAI-2K 共 24 個項目，總分上限 105 分（8×8 + 4×6 + 2×7 + 1×3）
 **8.** 不給付於神經精神性狼瘡，或是狼瘡腎炎病人。
 
 **9.** Anifrolumab 不得與其他生物製劑併用為原則。
+
+### 補充：Anifrolumab 在各器官系統的療效差異
+
+臨床試驗（TULIP-1/TULIP-2）之器官別分析顯示，anifrolumab 相較 placebo 的治療效果在 **mucocutaneous（皮膚黏膜）、musculoskeletal（MSK，肌肉骨骼）、hematologic（血液）與 immunologic（免疫／血清學）** 這幾個器官系統較為明顯；相對地在 renal（腎臟）等其他器官系統的效果證據較不足。這也呼應本節第 8 點「不給付於神經精神性狼瘡，或是狼瘡腎炎病人」的健保限制——給付範圍聚焦在療效證據較明確的器官系統。
+
+![anifrolumab better in mucocutaneous MSK hema immune](../images/anifrolumab%20better%20in%20mucocutaneous%20MSK%20hema%20immune.png)
