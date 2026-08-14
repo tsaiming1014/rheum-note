@@ -686,3 +686,331 @@ Eligible trial designs:
 - Trials with population <20
 - Trials on paediatric populations
 
+## Search strategy
+
+In line with the EULAR standardised operating procedures, the SLR included two databases (MEDLINE and the Cochrane Library - CENTRAL database) and one additional journal not indexed in PubMed (Lancet Rheumatology). Eligible studies had to be published between December 2017 and December 2022. The search queries for MEDLINE and CENTRAL were as follows:
+
+### Medline Search string for PICO 1 (PICOs 1a–1f)
+
+```
+("SLE"[Title] OR "lupus"[Title]) AND ("glucocorticoid*"[All Fields] OR "glucocorticoids"[MeSH Terms] OR "steroid*"[All Fields] OR "steroids"[MeSH Terms] OR "corticosteroid*"[All Fields] OR "anti inflammatory agents, non steroidal"[MeSH Terms] OR "non-steroidal anti-inflammatory agents"[Title] OR "nsaid"[Title] OR "nsaids"[Title] OR "nsaid s"[Title] OR ("hydroxychloroquine"[MeSH Terms] OR "hydroxychloroquine"[All Fields]) OR "antimalarial*"[All Fields] OR ("quinacrine"[MeSH Terms] OR "quinacrine"[All Fields]) OR ("methotrexate"[MeSH Terms] OR "methotrexate"[All Fields] OR "methotrexate s"[All Fields] OR "methotrexates"[All Fields]) OR ("leflunomid"[All Fields] OR "leflunomide"[MeSH Terms] OR "leflunomide"[All Fields] OR "leflunomide s"[All Fields]) OR ("calcineurin"[MeSH Terms] OR "calcineurin"[All Fields] OR "calcineurin s"[All Fields] OR "calcineurine"[All Fields] OR "calcineurins"[All Fields]) OR ("cyclosporine"[MeSH Terms] OR "cyclosporine"[All Fields] OR "ciclosporin"[All Fields] OR "ciclosporine"[All Fields] OR "cyclosporin"[All Fields] OR "cyclosporine s"[All Fields] OR "cyclosporins"[MeSH Terms] OR "cyclosporins"[All Fields] OR "cyclosporines"[All Fields]) OR ("tacrolimus"[MeSH Terms] OR "tacrolimus"[All Fields]) OR ("voclosporin"[Supplementary Concept] OR "voclosporin"[All Fields]) OR ("azathioprin"[All Fields] OR "azathioprine"[MeSH Terms] OR "azathioprine"[All Fields]) OR ("mycophenolate"[All Fields] OR "mycophenolates"[All Fields] OR "mycophenolic"[All Fields]) OR ("mycophenolate"[All Fields] OR "mycophenolates"[All Fields] OR "mycophenolic"[All Fields]) OR ("cyclophosphamide"[MeSH Terms] OR "cyclophosphamide"[All Fields] OR "cyclophosphamid"[All Fields] OR "cyclophosphamide s"[All Fields] OR "cyclophosphamides"[All Fields]) OR ("rituximab"[MeSH Terms] OR "rituximab"[All Fields] OR "rituximab s"[All Fields]) OR ("belimumab"[Supplementary Concept] OR "belimumab"[All Fields]) OR ("abatacept"[MeSH Terms] OR "abatacept"[All Fields]) OR "biologic*"[All Fields] OR "intravenous immunoglobulin"[All Fields] OR "plasma exchange"[All Fields] OR ("plasmapheresis"[MeSH Terms] OR "plasmapheresis"[All Fields] OR "plasmaphereses"[All Fields]) OR ("immunoadsorption"[All Fields] OR "immunoadsorptions"[All Fields]) OR ("anifrolumab"[Supplementary Concept] OR "anifrolumab"[All Fields]) OR ("obinutuzumab"[Supplementary Concept] OR "obinutuzumab"[All Fields]) OR ("ofatumumab"[Supplementary Concept] OR "ofatumumab"[All Fields]) OR ("ocrelizumab"[Supplementary Concept] OR "ocrelizumab"[All Fields]) OR ("taci receptor igg fc fragment fusion protein"[Supplementary Concept] OR "taci receptor igg fc fragment fusion protein"[All Fields] OR "atacicept"[All Fields]) OR ("etanercept"[MeSH Terms] OR "etanercept"[All Fields]) OR ("adalimumab"[MeSH Terms] OR "adalimumab"[All Fields]) OR ("tocilizumab"[Supplementary Concept] OR "tocilizumab"[All Fields]) OR ("secukinumab"[Supplementary Concept] OR "secukinumab"[All Fields]) OR ("ustekinumab"[MeSH Terms] OR "ustekinumab"[All Fields]) OR ("interleukin 1 receptor antagonist protein"[MeSH Terms] OR "interleukin 1 receptor antagonist protein"[All Fields] OR "anakinra"[All Fields]) OR ("tofacitinib"[Supplementary Concept] OR "tofacitinib"[All Fields] OR "tofacitinib s"[All Fields]) OR ("baricitinib"[Supplementary Concept] OR "baricitinib"[All Fields]) OR ("upadacitinib"[Supplementary Concept] OR "upadacitinib"[All Fields]) OR ("deucravacitinib"[Supplementary Concept] OR "deucravacitinib"[All Fields]) OR ("proteasome inhibitors"[MeSH Terms] OR "proteasome inhibitors"[All Fields]) OR ("bortezomib"[MeSH Terms] OR "bortezomib"[All Fields]) OR ("iberdomide"[Supplementary Concept] OR "iberdomide"[All Fields]) OR "Litifilimab"[All Fields] OR ("interleukin 2"[MeSH Terms] OR "interleukin 2"[All Fields] OR "IL-2"[All Fields]) OR ("daratumumab"[Supplementary Concept] OR "daratumumab"[All Fields]) OR "CAR-T cells"[All Fields] OR ("receptors"[All Fields] AND "thrombopoietin"[All Fields]) OR ("receptors, thrombopoietin"[MeSH Terms] OR "thrombopoietin receptors"[All Fields]) OR ("romiplostim"[Supplementary Concept] OR "romiplostim"[All Fields]) OR ("eltrombopag"[Supplementary Concept] OR "eltrombopag"[All Fields]) OR ("sodium glucose transporter 2 inhibitors"[MeSH Terms] OR "sodium glucose transporter 2 inhibitors"[All Fields] OR ("sglt2"[All Fields] AND "inhibitor"[All Fields])) OR ("dapagliflozin"[Supplementary Concept] OR "dapagliflozin"[All Fields] OR "dapagliflozin s"[All Fields]) OR (("renin"[MeSH Terms] OR "renin"[All Fields]) AND ("angiotensin s"[All Fields] OR "angiotensin"[All Fields] OR "angiotensins"[MeSH Terms] OR "angiotensins"[All Fields] OR "angiotensin"[All Fields]) AND "inhibitors"[All Fields]))
+```
+
+Hits: 3,755
+
+### CENTRAL search string for PICO 1
+
+https://www.cochranelibrary.com/advanced-search/search-manager?search=7138193
+
+```
+#1 MeSH descriptor: [Lupus Erythematosus, Systemic] explode all trees
+#2 ("systemic lupus erythematosus"):ti,ab,kw (Word variations have been searched)
+#3 (lupus):ti,ab,kw (Word variations have been searched)
+#4 ("glucocorticoid") (Word variations have been searched)
+#5 MeSH descriptor: [Glucocorticoids] explode all trees
+#6 MeSH descriptor: [Steroids] explode all trees
+#7 (steroid) (Word variations have been searched)
+#8 (corticosteroid) (Word variations have been searched)
+#9 MeSH descriptor: [Anti-Inflammatory Agents, Non-Steroidal] explode all trees
+#10 ("non-steroidal anti-inflammatory agents"):ti (Word variations have been searched)
+#11 (nsaids):ti (Word variations have been searched)
+#12 MeSH descriptor: [Hydroxychloroquine] explode all trees
+#13 ("hydroxychloroquine") (Word variations have been searched)
+#14 ("antimalarial") (Word variations have been searched)
+#15 MeSH descriptor: [Quinacrine] explode all trees
+#16 ("quinacrine") (Word variations have been searched)
+#17 MeSH descriptor: [Methotrexate] explode all trees
+#18 ("methotrexate") (Word variations have been searched)
+#19 MeSH descriptor: [Leflunomide] explode all trees
+#20 ("leflunomide") (Word variations have been searched)
+#21 MeSH descriptor: [Calcineurin] explode all trees
+#22 ("calcineurin") (Word variations have been searched)
+#23 MeSH descriptor: [Cyclosporine] explode all trees
+#24 ("ciclosporin") (Word variations have been searched)
+#25 MeSH descriptor: [Tacrolimus] explode all trees
+#26 ("tacrolimus") (Word variations have been searched)
+#27 (voclosporin) (Word variations have been searched)
+#28 MeSH descriptor: [Azathioprine] explode all trees
+#29 ("azathioprin") (Word variations have been searched)
+#30 ("azathioprine") (Word variations have been searched)
+#31 MeSH descriptor: [Mycophenolic Acid] explode all trees
+#32 ("mycophenolate") (Word variations have been searched)
+#33 ("mycophenolic") (Word variations have been searched)
+#34 MeSH descriptor: [Cyclophosphamide] explode all trees
+#35 ("cyclophosphamide") (Word variations have been searched)
+#36 MeSH descriptor: [Rituximab] explode all trees
+#37 ("rituximab") (Word variations have been searched)
+#38 (belimumab) (Word variations have been searched)
+#39 MeSH descriptor: [Abatacept] explode all trees
+#40 ("abatacept") (Word variations have been searched)
+#41 ("biologic") (Word variations have been searched)
+#42 ("intravenous immunoglobulin") (Word variations have been searched)
+#43 ("plasma exchange") (Word variations have been searched)
+#44 MeSH descriptor: [Plasmapheresis] explode all trees
+#45 ("plasmapheresis") (Word variations have been searched)
+#46 (anifrolumab) (Word variations have been searched)
+#47 (obinutuzumab) (Word variations have been searched)
+#48 (ofatumumab) (Word variations have been searched)
+#49 (ocrelizumab) (Word variations have been searched)
+#50 (atacicept) (Word variations have been searched)
+#51 MeSH descriptor: [Etanercept] explode all trees
+#52 ("etanercept") (Word variations have been searched)
+#53 MeSH descriptor: [Adalimumab] explode all trees
+#54 ("adalimumab") (Word variations have been searched)
+#55 (tocilizumab) (Word variations have been searched)
+#56 (secukinumab) (Word variations have been searched)
+#57 (ustekinumab) (Word variations have been searched)
+#58 MeSH descriptor: [Ustekinumab] explode all trees
+#59 MeSH descriptor: [Interleukin 1 Receptor Antagonist Protein] explode all trees
+#60 (interleukin 1 receptor antagonist) (Word variations have been searched)
+#61 (anakinra) (Word variations have been searched)
+#62 (tofacitinib) (Word variations have been searched)
+#63 (baricitinib) (Word variations have been searched)
+#64 (upadacitinib) (Word variations have been searched)
+#65 (deucravacitinib) (Word variations have been searched)
+#66 MeSH descriptor: [Proteasome Inhibitors] explode all trees
+#67 ("protease inhibitor") (Word variations have been searched)
+#68 MeSH descriptor: [Bortezomib] explode all trees
+#69 ("bortezomib") (Word variations have been searched)
+#70 (iberdomide) (Word variations have been searched)
+#71 (litifilimab) (Word variations have been searched)
+#72 MeSH descriptor: [Interleukin-2] explode all trees
+#73 (interleukin 2) (Word variations have been searched)
+#74 ("IL 2") (Word variations have been searched)
+#75 (daratumumab) (Word variations have been searched)
+#76 (CAR-T cells) (Word variations have been searched)
+#77 MeSH descriptor: [Receptors, Thrombopoietin] explode all trees
+#78 (romiplostim) (Word variations have been searched)
+#79 (eltrombopag) (Word variations have been searched)
+#80 MeSH descriptor: [Sodium-Glucose Transporter 2 Inhibitors] explode all trees
+#81 (sodium glucose transporter 2 inhibitors) (Word variations have been searched)
+#82 (sglt2) (Word variations have been searched)
+#83 (dapagliflozin) (Word variations have been searched)
+#84 MeSH descriptor: [Renin] explode all trees
+#85 (renin) (Word variations have been searched)
+#86 MeSH descriptor: [Angiotensins] explode all trees
+#87 ("angiotensin") (Word variations have been searched)
+#88 (inhibitors) (Word variations have been searched)
+#89 #1 OR #2 OR #3
+#90 #84 OR #85
+#91 #86 OR #87
+#92 #90 AND #91 AND #88
+#93 #4 OR #5 OR #6 OR #7 OR #8 OR #9 OR #10 OR #11 OR #12 OR #13 OR #14 OR #15 OR #16 OR #17 OR #18 OR #19 OR #20 OR #21 OR #22 OR #23 OR #24 OR #25 OR #26 OR #27 OR #28 OR #29 OR #30 OR #31 OR #32 OR #33 OR #34 OR #35 OR #36 OR #37 OR #38 OR #39 OR #40 OR #41 OR #42 OR #43 OR #44 OR #45 OR #46 OR #47 OR #48 OR #49 OR #50 OR #51 OR #52 OR #53 OR #54 OR #55 OR #56 OR #57 OR #58 OR #59 OR #60 OR #61 OR #62 OR #63 OR #64 OR #65 OR #66 OR #67 OR #68 OR #69 OR #70 OR #71 OR #72 OR #73 OR #74 OR #75 OR #76 OR #77 OR #78 OR #79 OR #80 OR #81 OR #82 OR #83 OR #92
+#94 #89 AND #93
+```
+
+Hits: 2347
+
+### Medline search string for PICO 2
+
+```
+(("SLE"[Title] OR "lupus"[Title]) AND ("remission"[All Fields] OR "remissions"[All Fields] OR "low disease activity"[All Fields] OR "LLDAS"[All Fields] OR "inactive disease"[All Fields] OR "quiescent disease"[All Fields] OR "disease quiescence"[All Fields] OR "treat to target"[All Fields]))
+```
+
+Hits: 929
+
+### CENTRAL search string for PICO 2
+
+https://www.cochranelibrary.com/advanced-search/search-manager?search=7138194
+
+```
+#1 MeSH descriptor: [Lupus Erythematosus, Systemic] explode all trees
+#2 ("systemic lupus erythematosus"):ti,ab,kw (Word variations have been searched)
+#3 (lupus):ti,ab,kw (Word variations have been searched)
+#4 (remission) (Word variations have been searched)
+#5 (low disease activity) (Word variations have been searched)
+#6 (LLDAS) (Word variations have been searched)
+#7 (inactive disease) (Word variations have been searched)
+#8 (quiescent disease) (Word variations have been searched)
+#9 (disease quiescence) (Word variations have been searched)
+#10 (treat to target) (Word variations have been searched)
+#11 #1 OR #2 OR #3
+#12 #4 OR #5 OR #6 OR #7 OR #8 OR #9 OR #10
+#13 #11 AND #12
+```
+
+Hits: 911
+
+### Medline search string for PICO 3
+
+```
+(("SLE"[Title] OR "lupus"[Title]) AND ("anti b2*"[All Fields] OR "anti beta*"[All Fields] OR "anti beta2*"[All Fields] OR "anti cardiolipin*"[All Fields] OR "anticardiolipin*"[All Fields] OR "lupus anticoagulant"[All Fields] OR "LAC"[All Fields] OR "aPL"[All Fields] OR "antiphospolipid"[All Fields] OR ("syndrom"[All Fields] OR "syndromal"[All Fields] OR "syndromally"[All Fields] OR "syndrome"[MeSH Terms] OR "syndrome"[All Fields] OR "syndromes"[All Fields] OR "syndrome s"[All Fields] OR "syndromic"[All Fields] OR "syndroms"[All Fields])) AND ("manage"[All Fields] OR "managed"[All Fields] OR "management s"[All Fields] OR "managements"[All Fields] OR "manager"[All Fields] OR "manager s"[All Fields] OR "managers"[All Fields] OR "manages"[All Fields] OR "managing"[All Fields] OR "managment"[All Fields] OR "organization and administration"[MeSH Terms] OR ("organization"[All Fields] AND "administration"[All Fields]) OR "organization and administration"[All Fields] OR "management"[All Fields] OR "disease management"[MeSH Terms] OR ("disease"[All Fields] AND "management"[All Fields]) OR "disease management"[All Fields] OR ("therapeutics"[MeSH Terms] OR "therapeutics"[All Fields] OR "therapies"[All Fields] OR "therapy"[MeSH Subheading] OR "therapy"[All Fields] OR "therapy s"[All Fields] OR "therapys"[All Fields]) OR ("therapeutical"[All Fields] OR "therapeutically"[All Fields] OR "therapeuticals"[All Fields] OR "therapeutics"[MeSH Terms] OR "therapeutics"[All Fields] OR "therapeutic"[All Fields]) OR ("therapeutics"[MeSH Terms] OR "therapeutics"[All Fields] OR "treatments"[All Fields] OR "therapy"[MeSH Subheading] OR "therapy"[All Fields] OR "treatment"[All Fields] OR "treatment s"[All Fields]) OR "anticoagul*"[All Fields] OR "anti platelet*"[All Fields] OR "anti platelet*"[All Fields] OR ("aspirin"[MeSH Terms] OR "aspirin"[All Fields] OR "aspirins"[All Fields] OR "aspirin s"[All Fields] OR "aspirine"[All Fields]) OR ("heparin"[MeSH Terms] OR "heparin"[All Fields] OR "heparine"[All Fields] OR "heparins"[All Fields] OR "heparin s"[All Fields] OR "heparinate"[All Fields] OR "heparinated"[All Fields] OR "heparines"[All Fields] OR "heparinic"[All Fields] OR "heparinisation"[All Fields] OR "heparinised"[All Fields] OR "heparinization"[All Fields] OR "heparinize"[All Fields] OR "heparinized"[All Fields] OR "heparinizing"[All Fields]) OR ("warfarin"[MeSH Terms] OR "warfarin"[All Fields] OR "warfarin s"[All Fields] OR "warfarinization"[All Fields] OR "warfarinized"[All Fields] OR "warfarins"[All Fields]) OR ("apixaban"[Supplementary Concept] OR "apixaban"[All Fields] OR "apixaban s"[All Fields]) OR ("rivaroxaban"[MeSH Terms] OR "rivaroxaban"[All Fields]) OR "glucocorticoid*"[All Fields] OR "glucocorticoids"[MeSH Terms] OR "steroid*"[All Fields] OR "steroids"[MeSH Terms] OR "corticosteroid*"[All Fields] OR "anti inflammatory agents, non steroidal"[MeSH Terms] OR "non-steroidal anti-inflammatory agents"[Title] OR "nsaid"[Title] OR "nsaids"[Title] OR "nsaid s"[Title] OR ("hydroxychloroquine"[MeSH Terms] OR "hydroxychloroquine"[All Fields]) OR "antimalarial*"[All Fields] OR ("quinacrine"[MeSH Terms] OR "quinacrine"[All Fields]) OR ("methotrexate"[MeSH Terms] OR "methotrexate"[All Fields] OR "methotrexate s"[All Fields] OR "methotrexates"[All Fields]) OR ("leflunomid"[All Fields] OR "leflunomide"[MeSH Terms] OR "leflunomide"[All Fields] OR "leflunomide s"[All Fields]) OR ("calcineurin"[MeSH Terms] OR "calcineurin"[All Fields] OR "calcineurin s"[All Fields] OR "calcineurine"[All Fields] OR "calcineurins"[All Fields]) OR ("cyclosporine"[MeSH Terms] OR "cyclosporine"[All Fields] OR "ciclosporin"[All Fields] OR "ciclosporine"[All Fields] OR "cyclosporin"[All Fields] OR "cyclosporine s"[All Fields] OR "cyclosporins"[MeSH Terms] OR "cyclosporins"[All Fields] OR "cyclosporines"[All Fields]) OR ("tacrolimus"[MeSH Terms] OR "tacrolimus"[All Fields]) OR ("voclosporin"[Supplementary Concept] OR "voclosporin"[All Fields]) OR ("azathioprin"[All Fields] OR "azathioprine"[MeSH Terms] OR "azathioprine"[All Fields]) OR ("mycophenolate"[All Fields] OR "mycophenolates"[All Fields] OR "mycophenolic"[All Fields]) OR ("mycophenolate"[All Fields] OR "mycophenolates"[All Fields] OR "mycophenolic"[All Fields]) OR ("cyclophosphamide"[MeSH Terms] OR "cyclophosphamide"[All Fields] OR "cyclophosphamid"[All Fields] OR "cyclophosphamide s"[All Fields] OR "cyclophosphamides"[All Fields]) OR ("rituximab"[MeSH Terms] OR "rituximab"[All Fields] OR "rituximab s"[All Fields]) OR ("belimumab"[Supplementary Concept] OR "belimumab"[All Fields]) OR ("abatacept"[MeSH Terms] OR "abatacept"[All Fields]) OR "biologic*"[All Fields] OR "intravenous immunoglobulin"[All Fields] OR "plasma exchange"[All Fields] OR ("plasmapheresis"[MeSH Terms] OR "plasmapheresis"[All Fields] OR "plasmaphereses"[All Fields]) OR ("immunoadsorption"[All Fields] OR "immunoadsorptions"[All Fields]) OR ("anifrolumab"[Supplementary Concept] OR "anifrolumab"[All Fields]) OR ("obinutuzumab"[Supplementary Concept] OR "obinutuzumab"[All Fields]) OR ("ofatumumab"[Supplementary Concept] OR "ofatumumab"[All Fields]) OR ("ocrelizumab"[Supplementary Concept] OR "ocrelizumab"[All Fields]) OR ("taci receptor igg fc fragment fusion protein"[Supplementary Concept] OR "taci receptor igg fc fragment fusion protein"[All Fields] OR "atacicept"[All Fields]) OR "complement inactivating agents"[MeSH Terms] OR (("complement"[All Fields] AND "inactivating"[All Fields] AND "agents"[All Fields]) OR "complement inactivating agents"[All Fields] OR ("complement"[All Fields] AND "inhibitor"[All Fields]) OR "complement inhibitor"[All Fields]) OR ("thrombo*"[All Fields] OR "pregnan*"[All Fields] OR ("blood vessels"[MeSH Terms] OR ("blood"[All Fields] AND "vessels"[All Fields]) OR "blood vessels"[All Fields] OR "vascular"[All Fields] OR "neovascularization, pathologic"[MeSH Terms] OR ("neovascularization"[All Fields] AND "pathologic"[All Fields]) OR "pathologic neovascularization"[All Fields] OR "vascularisation"[All Fields] OR "vascularization"[All Fields] OR "vascularisations"[All Fields] OR "vascularise"[All Fields] OR "vascularised"[All Fields] OR "vascularities"[All Fields] OR "vascularitis"[All Fields] OR "vascularity"[All Fields] OR "vascularizations"[All Fields] OR "vascularize"[All Fields] OR "vascularized"[All Fields] OR "vascularizes"[All Fields] OR "vascularizing"[All Fields] OR "vasculars"[All Fields]) OR "obstetric*"[All Fields])))
+```
+
+Hits: 1359
+
+### CENTRAL search string for PICO 3
+
+https://www.cochranelibrary.com/advanced-search/search-manager?search=7138190
+
+```
+#1 MeSH descriptor: [Lupus Erythematosus, Systemic] explode all trees
+#2 ("systemic lupus erythematosus"):ti,ab,kw (Word variations have been searched)
+#3 (lupus):ti,ab,kw (Word variations have been searched)
+#4 (anti b2) (Word variations have been searched)
+#5 (anti beta) (Word variations have been searched)
+#6 ("anti-cardiolipin") (Word variations have been searched)
+#7 (anti cardiolipin) (Word variations have been searched)
+#8 ("lupus anticoagulant") (Word variations have been searched)
+#9 (LAC) (Word variations have been searched)
+#10 (aPL) (Word variations have been searched)
+#11 (antiphospholipid) (Word variations have been searched)
+#12 (management) (Word variations have been searched)
+#13 (therapeutics) (Word variations have been searched)
+#14 MeSH descriptor: [Therapeutics] explode all trees
+#15 MeSH descriptor: [Disease Management] explode all trees
+#16 (treatment) (Word variations have been searched)
+#17 ("anticoagulant") (Word variations have been searched)
+#18 ("antiplatelet") (Word variations have been searched)
+#19 ("aspirin") (Word variations have been searched)
+#20 MeSH descriptor: [Aspirin] explode all trees
+#21 ("heparin") (Word variations have been searched)
+#22 MeSH descriptor: [Heparin] explode all trees
+#23 MeSH descriptor: [Warfarin] explode all trees
+#24 ("Warfarin") (Word variations have been searched)
+#25 ("warfarin") (Word variations have been searched)
+#26 (apixaban) (Word variations have been searched)
+#27 MeSH descriptor: [Rivaroxaban] explode all trees
+#28 ("rivaroxaban") (Word variations have been searched)
+#29 ("glucocorticoid") (Word variations have been searched)
+#30 MeSH descriptor: [Glucocorticoids] explode all trees
+#31 MeSH descriptor: [Steroids] explode all trees
+#32 (steroid) (Word variations have been searched)
+#33 (corticosteroid) (Word variations have been searched)
+#34 MeSH descriptor: [Anti-Inflammatory Agents, Non-Steroidal] explode all trees
+#35 ("non-steroidal anti-inflammatory agents"):ti (Word variations have been searched)
+#36 (nsaids):ti (Word variations have been searched)
+#37 MeSH descriptor: [Hydroxychloroquine] explode all trees
+#38 ("hydroxychloroquine") (Word variations have been searched)
+#39 ("antimalarial") (Word variations have been searched)
+#40 MeSH descriptor: [Quinacrine] explode all trees
+#41 ("quinacrine") (Word variations have been searched)
+#42 MeSH descriptor: [Methotrexate] explode all trees
+#43 ("methotrexate") (Word variations have been searched)
+#44 MeSH descriptor: [Leflunomide] explode all trees
+#45 ("leflunomide") (Word variations have been searched)
+#46 MeSH descriptor: [Calcineurin] explode all trees
+#47 ("calcineurin") (Word variations have been searched)
+#48 MeSH descriptor: [Cyclosporine] explode all trees
+#49 ("ciclosporin") (Word variations have been searched)
+#50 MeSH descriptor: [Tacrolimus] explode all trees
+#51 ("tacrolimus") (Word variations have been searched)
+#52 (voclosporin) (Word variations have been searched)
+#53 MeSH descriptor: [Azathioprine] explode all trees
+#54 ("azathioprin") (Word variations have been searched)
+#55 ("azathioprine") (Word variations have been searched)
+#56 MeSH descriptor: [Mycophenolic Acid] explode all trees
+#57 ("mycophenolate") (Word variations have been searched)
+#58 ("mycophenolic") (Word variations have been searched)
+#59 MeSH descriptor: [Cyclophosphamide] explode all trees
+#60 ("cyclophosphamide") (Word variations have been searched)
+#61 MeSH descriptor: [Rituximab] explode all trees
+#62 ("rituximab") (Word variations have been searched)
+#63 (belimumab) (Word variations have been searched)
+#64 MeSH descriptor: [Abatacept] explode all trees
+#65 ("abatacept") (Word variations have been searched)
+#66 ("biologic") (Word variations have been searched)
+#67 ("intravenous immunoglobulin") (Word variations have been searched)
+#68 ("plasma exchange") (Word variations have been searched)
+#69 MeSH descriptor: [Plasmapheresis] explode all trees
+#70 ("plasmapheresis") (Word variations have been searched)
+#71 (anifrolumab) (Word variations have been searched)
+#72 (obinutuzumab) (Word variations have been searched)
+#73 (ofatumumab) (Word variations have been searched)
+#74 (ocrelizumab) (Word variations have been searched)
+#75 (atacicept) (Word variations have been searched)
+#76 MeSH descriptor: [Complement Inactivating Agents] explode all trees
+#77 (complement inactivating factors) (Word variations have been searched)
+#78 (complement inhibitor) (Word variations have been searched)
+#79 ("thrombose") (Word variations have been searched)
+#80 ("thrombosis") (Word variations have been searched)
+#81 ("pregnancy") (Word variations have been searched)
+#82 MeSH descriptor: [Blood Vessels] explode all trees
+#83 (vascular) (Word variations have been searched)
+#84 (obstetric) (Word variations have been searched)
+#85 #1 OR #2 OR #3
+#86 #4 OR #5 OR #6 OR #7 OR #8 OR #9 OR #10 OR #11
+#87 #12 OR #13 OR #14 OR #15 OR #16 OR #17 OR #18 OR #19 OR #20 OR #21 OR #22 OR #23 OR #24 OR #25 OR #26 OR #27 OR #28 OR #29 OR #30 OR #31 OR #32 OR #33 OR #34 OR #35 OR #36 OR #37 OR #38 OR #39 OR #40 OR #41 OR #42 OR #43 OR #44 OR #45 OR #46 OR #47 OR #48 OR #49 OR #50 OR #51 OR #52 OR #53 OR #54 OR #55 OR #56 OR #57 OR #58 OR #59 OR #60 OR #61 OR #62 OR #63 OR #64 OR #65 OR #66 OR #67 OR #68 OR #69 OR #70 OR #71 OR #72 OR #73 OR #74 OR #75 OR #76 OR #77 OR #78 OR #79 OR #80 OR #81 OR #82 OR #83 OR #84
+#88 #85 AND #86 AND #87
+```
+
+Hits: 249
+
+### Medline search for PICO 4
+
+```
+(("SLE"[Title] OR "lupus"[Title]) AND ("therapeutics"[MeSH Terms] OR "therapeutics"[All Fields] OR "treatments"[All Fields] OR "therapy"[MeSH Subheading] OR "therapy"[All Fields] OR "treatment"[All Fields] OR "treatment s"[All Fields] OR ("therapeutics"[MeSH Terms] OR "therapeutics"[All Fields] OR "therapies"[All Fields] OR "therapy"[MeSH Subheading] OR "therapy"[All Fields] OR "therapy s"[All Fields] OR "therapies"[All Fields]) OR ("manage"[All Fields] OR "managed"[All Fields] OR "management s"[All Fields] OR "managements"[All Fields] OR "manager"[All Fields] OR "manager s"[All Fields] OR "managers"[All Fields] OR "manages"[All Fields] OR "managing"[All Fields] OR "management"[All Fields] OR "organization and administration"[MeSH Terms] OR ("organization"[All Fields] AND "administration"[All Fields]) OR "organization and administration"[All Fields] OR "management"[All Fields] OR "disease management"[MeSH Terms] OR ("disease"[All Fields] AND "management"[All Fields]) OR "disease management"[All Fields])) AND ("stop*"[All Fields] OR "withdraw*"[All Fields] OR "discontin*"[All Fields] OR "taper*"[All Fields] OR ("duration"[All Fields] OR "durations"[All Fields])))
+```
+
+Hits: 829
+
+### CENTRAL search string for PICO 4
+
+https://www.cochranelibrary.com/advanced-search/search-manager?search=7138188
+
+```
+#1 MeSH descriptor: [Lupus Erythematosus, Systemic] explode all trees
+#2 ("systemic lupus erythematosus"):ti,ab,kw (Word variations have been searched)
+#3 (lupus):ti,ab,kw (Word variations have been searched)
+#4 MeSH descriptor: [Therapeutics] explode all trees
+#5 (therapeutics) (Word variations have been searched)
+#6 (stop) (Word variations have been searched)
+#7 ("withdrawal") (Word variations have been searched)
+#8 ("discontinuation") (Word variations have been searched)
+#9 (taper) (Word variations have been searched)
+#10 ("duration") (Word variations have been searched)
+#11 #1 OR #2 OR #3
+#12 #4 OR #5
+#13 #6 OR #7 OR #8 OR #9 OR #10
+#14 #11 AND #12 AND #13
+```
+
+Hits: 375
+
+### Medline search string for PICO 5
+
+```
+(("SLE"[Title] OR "lupus"[Title]) AND ((("vaccination"[MeSH Terms] OR "vaccination"[All Fields] OR "vaccinable"[All Fields] OR "vaccinal"[All Fields] OR "vaccinate"[All Fields] OR "vaccinated"[All Fields] OR "vaccinates"[All Fields] OR "vaccinating"[All Fields] OR "vaccinations"[All Fields] OR "vaccination s"[All Fields] OR "vaccines"[MeSH Terms] OR "vaccines"[All Fields] OR "vaccine"[All Fields] OR "vaccins"[All Fields]) AND ("herpes zoster"[MeSH Terms] OR ("herpes"[All Fields] AND "zoster"[All Fields]) OR "herpes zoster"[All Fields])) OR ("sars cov 2"[MeSH Terms] OR "sars cov 2"[All Fields] OR "covid"[All Fields] OR "covid 19"[MeSH Terms] OR "covid 19"[All Fields]))))
+```
+
+Hits: 333
+
+### CENTRAL search string for PICO 5
+
+https://www.cochranelibrary.com/advanced-search/search-manager?search=7138094
+
+```
+#1 MeSH descriptor: [Lupus Erythematosus, Systemic] explode all trees
+#2 ("systemic lupus erythematosus"):ti,ab,kw (Word variations have been searched)
+#3 (lupus):ti,ab,kw (Word variations have been searched)
+#4 MeSH descriptor: [Vaccines] explode all trees
+#5 (vaccine) (Word variations have been searched)
+#6 (vaccination) (Word variations have been searched)
+#7 MeSH descriptor: [Herpes Zoster] explode all trees
+#8 ("herpes zoster virus") (Word variations have been searched)
+#9 ("herpes virus") (Word variations have been searched)
+#10 (zoster) (Word variations have been searched)
+#11 MeSH descriptor: [COVID-19] explode all trees
+#12 MeSH descriptor: [COVID-19 Vaccines] explode all trees
+#13 ("SARS CoV") (Word variations have been searched)
+#14 (covid 19) (Word variations have been searched)
+#15 (covid) (Word variations have been searched)
+#16 #1 OR #2 OR #3
+#17 #4 OR #5 OR #6
+#18 #7 OR #8 OR #9 OR #10 OR #11 OR #12 OR #13 OR #14 OR #15
+#19 #17 AND #18
+#20 #16 AND #19
+```
+
+Hits: 31
+
+## Flowchart
+
+PRISMA flowchart with the use of the package DiagrammeR R [1]
+
+（原文附圖 PRISMA flow diagram，請參照原始 PDF 頁碼 23，pypdf 純文字擷取無法取得圖形內容。）
+
+## Summary fact sheets for all included studies
+
+All relevant data are presented in a separate Excel file.（原文說明：詳細資料另存於獨立 Excel 檔案，未包含於本 PDF 內文。）
+
