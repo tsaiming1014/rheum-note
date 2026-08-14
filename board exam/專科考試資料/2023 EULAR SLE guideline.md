@@ -462,3 +462,35 @@ In conclusion, the 2023 recommendations for the management of SLE provide curren
 119. Chavatza K, Kostopoulou M, Nikolopoulos D, et al. Quality indicators for systemic lupus erythematosus based on the 2019 EULAR recommendations: development and initial validation in a cohort of 220 patients. Ann Rheum Dis 2021;80:1175–82.
 120. Taheri N, Mageau A, Chauveheid M-P, et al. Impact of adherence to EULAR quality indicators on the quality of life of patients with systemic lupus erythematosus. Eur J Intern Med 2023;109:68–72.
 
+---
+
+## Supplementary Table 1. Recommended doses of drugs used to treat systemic lupus erythematosus
+
+| Drug | Recommended dose | Dose adjustment needed in CKD |
+|---|---|---|
+| Glucocorticoids | Mild–Moderate disease: If needed, start with ≤20 mg/day with gradual tapering.<br>Severe/Organ-threatening disease: Consider IV MP pulses 250-1000 mg/day for 1-3 days – Continue with PO 0.3-0.5 mg/kg/day with tapering*.<br>All circumstances: Keep maintenance prednisone dose at ≤5 mg/day | No |
+| Hydroxychloroquine | Target dose 5 mg/kg/day (up to 400 mg/day).<br>In patients in long-standing remission, consider tapering to 200 mg/day | Yes |
+| Methotrexate | 10-25 mg/week in 1-2 doses (given in one day) | Yes |
+| Azathioprine | 2-3 mg/kg/day in 1-2 doses.<br>In patients in remission, consider tapering to <2 mg/day | Yes |
+| Mycophenolate mofetil (MMF)/Mycophenolic acid (MPA)§ | Severe/Organ-threatening disease or "Initial" therapy in LN: MMF 2-3 g/day in 2 doses – MPA: 1.44-2.16 g/day in 2 doses.<br>"Subsequent therapy" in LN: MMF 1-2 g/day in 2 doses – MPA 720-1440 mg/day in 2 doses | Yes |
+| Leflunomide | 10-20 mg/day in 1 dose | Yes |
+| Cyclophosphamide | "Initial" therapy in LN: IV 500 mg on weeks 0, 2, 4, 6, 8 and 10 (Low-dose - Euro-Lupus regimen).<br>Organ- or life-threatening disease: IV 0.75-1 g/m² BSA/month for 6 months (High-dose - NIH regimen) | Yes |
+| Cyclosporine A | 1-3 mg/kg/day or up to 400 mg/day in 2 doses | Avoid overall |
+| Tacrolimus | 0.05 to 0.1 mg/kg/day or 2-4 mg/day in 2 doses - Titrate to target blood concentration 4-6 ng/ml 12 hours after dose | Yes |
+| Voclosporin | 23.7 mg two times per day | No |
+| Intravenous immunoglobulin | 2 g/kg total, given in 2-5 days | No |
+| Anifrolumab | IV 300 mg every 4 weeks | No |
+| Belimumab | IV: 10 mg/kg on weeks 0, 2, 4, then every 4 weeks.<br>SC: 200 mg weekly | No |
+| Rituximab | 1000 mg on days 1 and 15 - re-administration every 6 months or "on-demand" | No |
+| Other biologic agents (off-label use usually for refractory joint and/or skin disease), e.g., Tocilizumab, Abatacept, JAK inhibitors#, TNF inhibitors (rarely)$ | Depending on agent | Depending on agent |
+
+\* Recommended initial PO doses are general indication. In selected cases of organ- or life-threatening disease, higher initial doses, up to 0.7-0.8 mg/kg/day, may be given.
+
+§ Mycophenolate mofetil (MMF) is a prodrug of mycophenolic acid (MPA), administered orally either as MMF or as enteric-coated mycophenolate sodium (MPS). A 720 mg dose of MPS is roughly equivalent to a 1 g dose of MMF. MPS tends to be associated with more frequent gastrointestinal intolerance.
+
+\# Based on available data in patients with rheumatoid arthritis, risk factors for thrombosis and malignancy should be taken into account prior to use of JAK inhibitors in patients with SLE. With current knowledge, they should be avoided in patients with antiphospholipid syndrome.
+
+$ TNF inhibitors are rarely used in SLE, due to their potential to cause drug-induced lupus. If used, regular monitoring for the appearance of anti-dsDNA antibodies and/or kidney involvement is needed.
+
+IV: Intravenous; MP: Methylprednisolone; PO: Per os; LN: Lupus nephritis; BSA: Body surface area; NIH: National Institutes of Health; SC: Subcutaneous
+
