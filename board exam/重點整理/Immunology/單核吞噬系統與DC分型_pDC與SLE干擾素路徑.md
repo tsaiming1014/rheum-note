@@ -82,6 +82,8 @@ TLR3 + dsRNA → TRIF → TRAF3 → TBK1/IKKε → IRF3 磷酸化
 
 ## 3. pDC 與 SLE 的 Type I IFN Pathway
 
+![IFN in SLE](../images/IFN%20in%20SLE.png)
+
 這是 SLE pathogenesis 的核心機轉，也是近年最重要的治療標的（anifrolumab 已上市）。以下依「上游刺激 → pDC 活化 → 下游放大」的順序整理。
 
 ### 3-1. 上游：為什麼會有持續的 nucleic acid 刺激？
