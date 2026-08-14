@@ -156,6 +156,8 @@ SLEDAI-2K 共 24 個項目，總分上限 105 分（8×8 + 4×6 + 2×7 + 1×3）
 
 ## 8.2.18 Anifrolumab（如 Saphnelo）(113/10/1)
 
+![anifrolumab better in mucocutaneous MSK hema immune](../images/anifrolumab%20better%20in%20mucocutaneous%20MSK%20hema%20immune.png)
+
 **1.** 限使用於 18 歲以上具有活動性之全身性紅斑性狼瘡病人。
 
 **2.** 限內科專科醫師且具有風濕或免疫專科醫師證書之處方。
