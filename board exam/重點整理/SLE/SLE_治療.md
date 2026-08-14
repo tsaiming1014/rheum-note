@@ -226,12 +226,20 @@ SLE 治療的 **anchor drug**，幾乎所有病人皆建議使用（除非禁忌
 - 生物製劑：anifrolumab 對皮膚表現似有特別療效（真實世界證據尚待確認）；belimumab、RTX 也有效但研究未用經驗證的皮膚評估工具（RTX 對慢性皮膚狼瘡效果可能較差）
 - **thalidomide**：僅用於重度難治型 CLE，因其嚴重且可能不可逆的神經毒性
 
+**Bullous Lupus Erythematosus 與 Chilblain Lupus**（Kelly 原文未收錄此二亞型，以下補自 guideline）(Guideline補充)
+
+- 輕度 bullous LE（水疱性狼瘡）：局部與抗瘧藥治療下仍有症狀 → 優先加用 **dapsone**（優於直接開始 GC）；治療前需檢測 G6PD
+- 中重度 bullous LE：加用傳統免疫抑制劑（MPAA/MTX/AZA）及/或 anti-CD20
+- Chilblain lupus（凍瘡樣狼瘡）：症狀性/局部/抗瘧藥治療反應不佳 → 加用 **pentoxifylline**、**PDE5抑制劑**（sildenafil、tadalafil）及/或**鈣離子通道阻斷劑**（nifedipine），優先於直接啟動免疫抑制治療
+
 **關節：**
 
 - 輕度：抗瘧藥通常足夠
 - 持續性：加用 DMARD（尤其 MTX）
 - 對 DMARD 反應不佳：belimumab（若類似 RA 的重度關節炎則效果較差）
 - 重度或 SLE-RA overlap 難治型：RTX
+- Leflunomide 等 RA 用藥偶爾用於以關節炎為主要表現者
+- **Jaccoud arthropathy**：治療證據不足、無共識，建議物理/職能治療、副木或護具 (Guideline補充)
 
 ### 中樞神經系統疾病 (NPSLE)
 
