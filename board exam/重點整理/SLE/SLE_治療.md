@@ -241,6 +241,14 @@ SLE 治療的 **anchor drug**，幾乎所有病人皆建議使用（除非禁忌
 - Leflunomide 等 RA 用藥偶爾用於以關節炎為主要表現者
 - **Jaccoud arthropathy**：治療證據不足、無共識，建議物理/職能治療、副木或護具 (Guideline補充)
 
+### 漿膜炎 (Serositis)
+
+Kelly 原文未獨立收錄此節，以下補自 guideline 建議 (Guideline補充)
+
+- Pleuropericarditis（肋膜心包膜炎）：一線治療為 **NSAID、colchicine 或兩者合併**，若反應不佳應積極（低門檻）升級為 GC 治療，優於一開始就單用 GC
+- HCQ/NSAID/colchicine/GC 治療下仍持續或復發：加用傳統免疫抑制劑（MPAA、AZA）或生物製劑
+- 生物製劑選擇：以漿膜炎為主要表現者，可優先考慮 **IL-1 blockade**（證據多為間接證據），需視是否合併其他器官侵犯及藥物可近性/成本決定
+
 ### 中樞神經系統疾病 (NPSLE)
 
 Neuropsychiatric SLE 診斷困難，需排除 mimics（感染、惡性腫瘤等），並考慮利於 primary NPSLE 的因子（表現的 type/timing、廣泛性肺腎外疾病活性、異常神經影像及腦脊髓液分析、aPL 陽性）。
