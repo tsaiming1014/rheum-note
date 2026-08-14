@@ -281,11 +281,33 @@ Neuropsychiatric SLE 診斷困難，需排除 mimics（感染、惡性腫瘤等�
 3. 對 GC 無反應（血小板無法達>50,000/mm³）或復發 → **RTX**（CYC 亦曾使用）
 4. 所有方法皆失敗 → 考慮 **TPO agonist** 或 **脾臟切除**（AIHA 治療原則相同，但不使用 TPO agonist）
 
+### 全身性血管炎 (Systemic Vasculitis)
+
+Kelly 原文未獨立收錄此節，以下補自 guideline 建議 (Guideline補充)
+
+- 一般血管炎：pulse/高劑量 GC 減量 + 傳統（IV CYC、MPAA、AZA）或生物製劑（anti-CD20、belimumab、anifrolumab）免疫抑制治療，優於單用 GC
+- 重度血管炎：優先選擇 **IV CYC 或 anti-CD20** 作為初始治療
+- 威脅生命的血管炎（如瀰漫性肺泡出血、腸繫膜血管炎）：於高劑量 GC+免疫抑制治療基礎上，加用 **PLEX 及/或 IVIG**
+
+### 心臟表現 (Cardiac Manifestations)
+
+Kelly 原文未獨立收錄此節，以下補自 guideline 建議 (Guideline補充)
+
+- **狼瘡性心肌炎（Myocarditis）**：急性或惡化中的心肌炎，建議 GC + IV CYC、MPAA、anti-CD20，及/或 IVIG，優於 GC 單獨治療；需合併心衰竭相關治療
+- **Non-bacterial (Libman-Sacks) endocarditis**：與 aPL 密切相關（2023 ACR/EULAR APS分類標準將瓣膜病變列為臨床 domain 之一），建議**抗凝治療及/或免疫抑制治療**（依栓塞風險及是否合併其他器官 SLE 活性決定）；重度病灶常需外科瓣膜置換
+
 ### 抗磷脂症候群 (APS)
 
 aPL（aCL、anti-β2GPI、LAC）見於30–40% SLE 病人，增加血栓、產科不良結局及不可逆 damage 風險。
 
 APS 定義：血管栓塞及/或產科不良結局 + 持續陽性 aPL（間隔≥12週）。治療原則（抗血小板或抗凝、目標 INR）與 primary APS 相同。
+
+**具體治療建議**（Kelly 原文僅寫「詳見他章」，以下補自 guideline）(Guideline補充)
+
+- 血栓性 APS：發生第一次動脈或無誘因（unprovoked）靜脈栓塞事件後，建議**長期使用 vitamin K antagonist**（如 warfarin）；**DOAC（新型口服抗凝劑）風險較高**（meta分析顯示動脈栓塞 OR 5.43、中風 OR 10.74），不建議取代 VKA
+- 未發生栓塞但 aPL 高風險族群（LAC 陽性，或 double/triple aPL 陽性）：建議**低劑量 aspirin（75–100mg/day）**作為初級預防
+- HCQ 具潛在抗栓效果並可能降低 aPL 力價，SLE-aPL 或 SLE-APS 病人建議使用
+- **Catastrophic APS (CAPS)**：罕見但致命，定義為≥3個器官同時或相繼血栓；治療為**三合一療法**（full anticoagulation + 高劑量 GC + PLEX 及/或 IVIG）；難治型可考慮補體抑制劑（eculizumab）或 RTX；需積極尋找並治療誘發因子（如感染）
 
 **APS 腎病變**（thrombotic microangiopathy 伴慢性血管病變）：aPL 陽性病人合併高血壓、蛋白尿（多為 subnephrotic）、血尿、腎功能受損時須懷疑；可考慮抗血小板/抗血栓治療，但仍常進展至 ESKD。已發現 mTOR pathway 異常活化，可能是未來治療標的。
 
