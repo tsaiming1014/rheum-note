@@ -1258,3 +1258,107 @@ Risk domains: Selection (Adequacy of case definition; Representativeness of case
 | 32807233 Fernandez-Ruiz et al | 1 | 0 | 0 | 1 | 2 | 1 | 1 | 0 | 6/9 |
 | 28857715 Ugarte-Gil et al | 1 | 1 | 1 | 1 | 2 | 1 | 1 | 0 | 8/9 |
 
+### Risk of bias assessment for RCTs and quasi-RCTs using RoB2
+
+RoB2 is a Cochrane risk-of-bias tool for randomized trials [3]. Risk of bias is assessed in 5 different domains including bias arising from the randomization process, bias due to deviations from intended interventions, bias due to missing outcome data, bias in measurement of the outcome, and bias in selection of the reported result. The tool uses algorithms to determine the individual risk of bias for each domain. The domain-level ratings determine the overall risk of bias of a study. In brief, a trial is of low overall risk of bias if all domains are of low risk of bias, a study is considered to raise some concerns if there are concerns in at least one domain but no high risk of bias in any domain and, a study is of high risk of bias if at least one domain is of high risk of bias or multiple domains raise some concerns.
+
+| RCT | Randomization process | Deviations from intended interventions | Missing outcome data | Measurement of outcome | Selection of reported result | Overall risk of bias |
+|---|---|---|---|---|---|---|
+| Zhang, Drugs R&D, 2022 | High | Some concerns | Low | Low | Low | High |
+| Morand, Arthritis Rheumatol, 2022 | Low | Low | Low | Low | Low | Low |
+| Wang, RMD Open | High | Low | Low | Some concerns | Low | High |
+| Zheng, Mod Rheumatol, 2022 | Low | Low | Low | Low | Low | Low |
+| Wallace, Lupus, 2022 | Low | Low | Low | Low | Low | Low |
+| Furie, N Engl J Med, 2022 | Low | Low | Low | Low | Low | Low |
+| Yu, Am J Kidney Dis, 2022 | Low | Low | Low | Low | Low | Low |
+| Arriens, Arthritis Rheumatol, 2022 | Low | Low | Low | Low | Low | Low |
+| Van Vollenhoven, Ann Rheum Dis, 2022 | Low | Some concerns | Some concerns | Low | Some concerns | Some concerns |
+| Fu, Ann Rheum Dis, 2022 | Some concerns | Low | Some concerns | Low | Low | Some concerns |
+| Jourde-Chiche, Ann Rheum Dis, 2022 | — | — | — | — | — | Some concerns |
+| Lipsky, Ann Rheum Dis, 2022 | Low | Low | Low | Low | Low | Low |
+| Zhang, RMD Open, 2022 | Low | Some concerns | Some concerns | Low | Low | Some concerns |
+| Zheng, JAMA Netw Open, 2022 | Low | Low | Low | Low | Low | Low |
+| Vital, Ann Rheum Dis, 2022 | Low | Low | Low | Low | Low | Low |
+| Zhang, Front Med, 2022 | Some concerns | Low | Some concerns | Low | Low | Some concerns |
+| Merrill, N Engl J Med, 2022 | Low | Low | Low | Low | Low | Low |
+| Ye, Am J Transl Res, 2022 | Some concerns | Low | Some concerns | High | High | High |
+| Furie, Lupus Sci Med, 2022 | Low | Some concerns | Some concerns | Low | Low | Some concerns |
+| Jayne, Ann Rheum Dis, 2022 | Low | Some concerns | Some concerns | Low | Some concerns | Some concerns |
+| Jiang, Lupus Sci Med, 2022 | Low | Low | Low | Some concerns | Low | Some concerns |
+| Bandhan, Int J Rheum Dis, 2022 | High | Some concerns | Low | Low | Low | High |
+| Furie, Ann Rheum Dis, 2022 | Low | Low | Low | Low | Low | Low |
+| Rovin, Kidney Int, 2022 | Low | Low | Low | Low | Low | Low |
+| Tanaka, RMD Open, 2022 | Low | Low | Some concerns | Low | Low | Low |
+| Rovin, Lancet, 2021 | Low | Low | Low | Low | Low | Low |
+| Ginzler, Arthritis Rheumatol, 2022 | Low | Low | Low | Low | Low | Low |
+| Hasni, Nat Communicat, 2021 | Some concerns | Low | Low | Low | Some concerns | Some concerns |
+| Isenberg, Arthritis Rheumatol, 2021 | Low | Low | Low | Low | Low | Low |
+| Furie, Rheumatology, 2021 | Low | Low | Low | Low | Low | Low |
+| Wallace, Rheumatology, 2021 | Low | Low | High | Low | Low | High |
+| Maslen, Lupus Sci Med, 2021 | Low | Low | Low | Low | Low | Low |
+| Tummala, Lupus Sci Med, 2021 | Low | Low | Low | Low | Low | Low |
+| Barua, Dermatol Ther, 2021 | Some concerns | Low | Low | Low | Low | Some concerns |
+| Chatham, Arthritis Rheumatol, 2021 | Low | Low | High | Low | Low | High |
+| Furie, N Engl J Med, 2020 | Low | Low | Low | Low | Low | Low |
+| Bruce, Lancet Rheumatol, 2021 | Low | Low | Some concerns | Low | Low | Some concerns |
+| Morand, Lancet Rheumatol, 2022 | Low | Low | Low | Low | Low | Low |
+| Sheikh, Lancet Rheumatol, 2021 | Low | Low | Low | Low | Low | Low |
+| 29073347 Merrill et al | Some concerns | Some concerns | Low risk | Some concerns | Low risk | Some concerns |
+| 29105558 Kamanamool et al | Some concerns | Some concerns | Low risk | Some concerns | Low risk | Some concerns |
+| 29295825 Zhang et al | Low risk | Low risk | Low risk | Low risk | Low risk | Low risk of bias |
+| 29450636 Mehra et al | Low risk | Low risk | Low risk | Low risk | Low risk | Low risk of bias |
+| 29671280 Doria et al | Some concerns | Some concerns | Some concerns | Some concerns | Low risk | High risk of bias |
+| 29996800 Sedhain et al | High risk | High risk | Some concerns | Low risk | Low risk | High risk of bias |
+| 30043749 Wallace et al | Low risk | Low risk | Low risk | Low risk | Low risk | Low risk of bias |
+| 30249507 van Vollenhoven et al | Low risk | Low risk | Low risk | Low risk | Low risk | Low risk |
+| 30420324 Rovin et al | Low risk | Low risk | Some concerns | Low risk | Low risk | Some concerns |
+| 30426311 Zhang et al | Low risk | Some concerns | Some concerns | Low risk | Low risk | Some concerns |
+| 30488367 An et al | High risk | High risk | Low risk | Low risk | Some concerns | High risk of bias |
+| 31537547 He et al | Some concerns | Low risk | Low risk | Low risk | Low risk | Some concerns |
+| 31571750 Bharati et al | High risk | High risk | Low risk | Some concerns | Some concerns | High risk of bias |
+| 31851795 Morand et al | Some concerns | Low risk | Low risk | Low risk | Low risk | Some concerns |
+| 31852672 Mathian et al | High risk | High risk | Low risk | Low risk | Low risk | High risk of bias |
+| 32755035 Atisha-Fregoso et al | Some concerns | Some concerns | Low risk | Some concerns | Low risk | Some concerns |
+| 31530556 Mok et al | Some concerns | Low risk | Low risk | Low risk | Some concerns | Some concerns |
+
+### Risk of bias assessment for meta-analyses
+
+The AMSTAR2 (A MeaSurement Tool to Assess systematic Reviews) tool was used to assess the risk of bias of meta-analyses of RCTs and quasi-RCTs [4]. Meta-analyses of cohort studies and network meta-analyses were not considered for evaluation. Each eligible study was assessed using a checklist of sixteen items (https://amstar.ca/Amstar_Checklist.php) including seven critical domains (registration of a predefined protocol, adequacy of literature search, justification for excluding individual studies, risk of bias from individual studies, appropriateness of meta-analytical methods, consideration of risk of bias when interpreting the results of the review, and assessment of presence of publication bias). Based on the ratings a study is of high, moderate, low, or critically low quality.
+
+| Meta-analysis | Quality of study based on AMSTAR2 |
+|---|---|
+| Oon, Semin Arthritis Rheum, 2018 | Critically Low |
+| Tunnicliffe, Cochrane Database Syst Rev, 2018 | High |
+| Alshaiki, Eur J Rheumatol, 2018 | Critically Low |
+| Deng, Turk J Med Sci, 2018 | Critically Low |
+| Thong, Lupus, 2019 | Critically Low |
+| Zhong, Drug Des Devel Ther, 2019 | Critically Low |
+| Zhou, Drug Des Devel Ther, 2019 | Critically Low |
+| Liu, Clin Rheumatol, 2019 | Critically Low |
+| Zhou, J Pharm Pharm Sci, 2019 | Critically Low |
+| Yang, Clin Rheumatol, 2020 | Critically Low |
+| Chasset, J Am Acad Dermatol, 2018 | Critically Low |
+| Gu, Arch Osteoporos, 2019 | Critically Low |
+| Kneeland, Arthritis Care Res, 2022 | Critically Low |
+| Liu, Front Immunol, 2022 | Critically Low |
+| Lee, Lupus, 2022 | Critically Low |
+| Wu, Front Immunol, 2022 | Critically Low |
+| Chen, J Clin Rheumatol, 2022 | Critically Low |
+| Chiang, Lupus, 2022 | Critically Low |
+| Teng, Int J Rheum Dis, 2022 | Critically Low |
+| Xie, Lupus Sci Med, 2021 | Low |
+| Lee, Z Rheumatol, 2021 | Critically Low |
+| Zhang, Medicine, 2020 | Low |
+| Koh, Lupus, 2020 | Critically Low |
+| Jiang, Medicine, 2020 | Critically Low |
+| Ji, Lupus Sci Med, 2022 | Critically Low |
+
+## References (Systematic Literature Review report)
+
+1. Haddaway N, Page M, Pritchard C, McGuinness L. PRISMA2020: An R package and Shiny app for producing PRISMA 2020‐compliant flow diagrams, with interactivity for optimised digital transparency and Open Synthesis. Campbell Systematic Reviews. 2022 03/27; 18.
+2. Stang A. Critical evaluation of the Newcastle-Ottawa scale for the assessment of the quality of nonrandomized studies in meta-analyses. Eur J Epidemiol. 2010 Sep; 25(9):603-605.
+3. Sterne JAC, Savović J, Page MJ, Elbers RG, Blencowe NS, Boutron I, et al. RoB 2: a revised tool for assessing risk of bias in randomised trials. BMJ. 2019; 366:l4898.
+4. Shea BJ, Reeves BC, Wells G, Thuku M, Hamel C, Moran J, et al. AMSTAR 2: a critical appraisal tool for systematic reviews that include randomised or non-randomised studies of healthcare interventions, or both. BMJ. 2017; 358:j4008.
+
+*BMJ Publishing Group Limited (BMJ) disclaims all liability and responsibility arising from any reliance placed on this supplemental material which has been supplied by the author(s). Ann Rheum Dis doi: 10.1136/ard-2023-224762*
+
