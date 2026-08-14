@@ -453,3 +453,131 @@ We thank the patients who (along with authors Christele Felix and Brandi Rollins
 
 ## References
 
+1. Izmirly PM, Parton H, Wang L, et al. Prevalence of systemic lupus erythematosus in the United States: Estimates from a meta-analysis of the Centers for Disease Control and Prevention National Lupus Registries. Arthritis Rheumatol 2021;73:991–996.
+2. Hocaoğlu M, Valenzuela-Almada MO, Dabit JY, et al. Incidence, prevalence, and mortality of lupus nephritis: a population-based study over four decades using the Lupus Midwest Network. Arthritis Rheumatol 2023;75:567–573.
+3. Tektonidou MG, Dasgupta A, Ward MM. Risk of end-stage renal disease in patients with lupus nephritis, 1971–2015: a systematic review and Bayesian meta-analysis. Arthritis Rheumatol 2016;68:1432–1441.
+4. Dall'Era M, Cisternas MG, Snipes K, et al. The incidence and prevalence of systemic lupus erythematosus in San Francisco County, California: The California Lupus Surveillance Project. Arthritis Rheumatol 2017;69:1996–2005.
+5. Drenkard C, Lim SS. Update on lupus epidemiology: advancing health disparities research through the study of minority populations. Curr Opin Rheumatol 2019;31:689–696.
+6. Izmirly PM, Wan I, Sahl S, et al. The incidence and prevalence of systemic lupus erythematosus in New York County (Manhattan), New York: The Manhattan Lupus Surveillance Program. Arthritis Rheumatol 2017;69:2006–2017.
+7. Lim SS, Bayakly AR, Helmick CG, et al. The incidence and prevalence of systemic lupus erythematosus, 2002–2004: The Georgia Lupus Registry. Arthritis Rheumatol 2014;66:357–368.
+8. Somers EC, Marder W, Cagnoli P, et al. Population-based incidence and prevalence of systemic lupus erythematosus: the Michigan Lupus Epidemiology and Surveillance program. Arthritis Rheumatol 2014;66:369–378.
+9. Feldman CH, Hiraki LT, Liu J, et al. Epidemiology and sociodemographics of systemic lupus erythematosus and lupus nephritis among US adults with Medicaid coverage, 2000–2004. Arthritis Rheum 2013;65:753–763.
+10. Mahmood SB, Aziz M, Malepati D, et al. Evaluating sex differences in the characteristics and outcomes of lupus nephritis: a systematic review and meta-analysis. Glomerular Dis 2024;4:19–32.
+11. Yelin E, Trupin L, Yazdany J. A prospective study of the impact of current poverty, history of poverty, and exiting poverty on accumulation of disease damage in systemic lupus erythematosus. Arthritis Rheumatol 2017;69:1612–1622.
+12. Hahn BH, McMahon MA, Wilkinson A, et al. American College of Rheumatology guidelines for screening, treatment, and management of lupus nephritis. Arthritis Care Res (Hoboken) 2012;64:797–808.
+13. Furie R, Rovin BH, Houssiau F, et al. Two-year, randomized, controlled trial of belimumab in lupus nephritis. N Engl J Med 2020;383:1117–1128.
+14. Rovin BH, Teng YKO, Ginzler EM, et al. Efficacy and safety of voclosporin versus placebo for lupus nephritis (AURORA 1): a double-blind, randomised, multicentre, placebo-controlled, phase 3 trial. Lancet 2021;397:2070–2080.
+15. Anders HJ, Lei Y, Rovin BH. Induction and maintenance therapy of lupus nephritis: an obituary. Kidney Int 2021;99:288–291.
+16. Alamilla-Sanchez ME, Alcala-Salgado MA, Alonso-Bello CD, et al. Mechanism of action and efficacy of immunosupressors in lupus nephritis. Int J Nephrol Renovasc Dis 2021;14:441–458.
+17. Crow MK. Pathogenesis of systemic lupus erythematosus: risks, mechanisms and therapeutic targets. Ann Rheum Dis 2023;82:999–1014.
+18. Figueroa-Parra G, Cuéllar-Gutiérrez MC, González-Treviño M, et al. Impact of glucocorticoid dose on complete response, serious infections, and mortality during the initial therapy of lupus nephritis: a systematic review and meta-analysis of the control arms of randomized controlled trials. Arthritis Rheumatol 2024;76:1408–1418.
+19. Balevic SJ, Niu J, Chen J, et al. Extrapolation of adult efficacy data to pediatric systemic lupus erythematosus: evaluating similarities in exposure-response. J Clin Pharmacol 2023;63:105–118.
+20. Brunner HI, Martini A, Lovell DJ, et al. Clinical trials in children and adolescents with systemic lupus erythematosus: methodological aspects, regulatory landscape and future opportunities. Ann Rheum Dis 2019;78:162–170.
+21. Pottackal G, Travis J, Neuner R, et al. Application of Bayesian Statistics to Support Approval of Intravenous Belimumab in Children with Systemic Lupus Erythematosus in the United States. 2019;71(suppl 10). https://acrabstracts.org/abstract/application-of-bayesian-statistics-to-support-approval-of-intravenous-belimumab-in-children-with-systemic-lupus-erythematosus-in-the-united-states/.
+22. Andrews JC, Schünemann HJ, Oxman AD, et al. GRADE guidelines: 15. Going from evidence to recommendation-determinants of a recommendation's direction and strength. J Clin Epidemiol 2013;66:726–735.
+23. Guyatt GH, Oxman AD, Vist GE, et al. GRADE: an emerging consensus on rating quality of evidence and strength of recommendations. BMJ 2008;336:924–926.
+24. Bartels CM, Jorge A, Feldman CH, et al. Development of American College of Rheumatology quality measures for systemic lupus erythematosus: a modified Delphi process with Rheumatology Informatics System for Effectiveness (RISE) registry data review. Arthritis Care Res (Hoboken) 2023;75:2295–2305.
+25. Bajema IM, Wilhelmus S, Alpers CE, et al. Revision of the International Society of Nephrology/Renal Pathology Society classification for lupus nephritis: clarification of definitions, and modified National Institutes of Health activity and chronicity indices. Kidney Int 2018;93:789–796.
+26. Corapi KM, Chen JL, Balk EM, et al. Bleeding complications of native kidney biopsy: a systematic review and meta-analysis. Am J Kidney Dis 2012;60:62–73.
+27. Deonaraine KK, Carlucci PM, Fava A, et al. Safety of procuring research tissue during a clinically indicated kidney biopsy from patients with lupus: data from the Accelerating Medicines Partnership RA/SLE Network. Lupus Sci Med 2021;8:e000522.
+28. Halimi JM, Gatault P, Longuet H, et al. Major bleeding and risk of death after percutaneous native kidney biopsies: a French nationwide cohort study. Clin J Am Soc Nephrol 2020;15:1587–1594.
+29. Palsson R, Short SAP, Kibbelaar ZA, et al. Bleeding complications after percutaneous native kidney biopsy: results from the Boston Kidney Biopsy Cohort. Kidney Int Rep 2020;5:511–518.
+30. Poggio ED, McClelland RL, Blank KN, et al. Systematic review and meta-analysis of native kidney biopsy complications. Clin J Am Soc Nephrol 2020;15:1595–1602.
+31. Schorr M, Roshanov PS, Weir MA, et al. Frequency, timing, and prediction of major bleeding complications from percutaneous renal biopsy. Can J Kidney Health Dis 2020;7:2054358120923527.
+32. Chen TK, Estrella MM, Fine DM. Predictors of kidney biopsy complication among patients with systemic lupus erythematosus. Lupus 2012;21:848–854.
+33. Jordan N, Chaib A, Sangle S, et al. Association of thrombotic microangiopathy and intimal hyperplasia with bleeding post-renal biopsy in antiphospholipid antibody-positive patients. Arthritis Care Res (Hoboken) 2014;66:725–731.
+34. Kang ES, Ahn SM, Oh JS, et al. Risk of bleeding-related complications after kidney biopsy in patients with systemic lupus erythematosus. Clin Rheumatol 2023;42:751–759.
+35. Sun YS, Sun IT, Wang HK, et al. Risk of complications of ultrasound-guided renal biopsy for adult and pediatric patients with systemic lupus erythematosus. Lupus 2018;27:828–836.
+36. Carlucci PM, Li J, Fava A, et al. High incidence of proliferative and membranous nephritis in SLE patients with low proteinuria in the Accelerating Medicines Partnership. Rheumatology (Oxford) 2022;61:4335–4343.
+37. De Rosa M, Rocha AS, De Rosa G, et al. Low-grade proteinuria does not exclude significant kidney injury in lupus nephritis. Kidney Int Rep 2020;5:1066–1068.
+38. Stamenkovic I, Favre H, Donath A, et al. Renal biopsy in SLE irrespective of clinical findings: long-term follow-up. Clin Nephrol 1986;26:109–115.
+39. Wakasugi D, Gono T, Kawaguchi Y, et al. Frequency of class III and IV nephritis in systemic lupus erythematosus without clinical renal involvement: an analysis of predictive measures. J Rheumatol 2012;39:79–85.
+40. Fava A, Fenaroli P, Rosenberg A, et al. History of proliferative glomerulonephritis predicts end stage kidney disease in pure membranous lupus nephritis. Rheumatology (Oxford) 2022;61:2483–2493.
+41. Gao JJ, Cai GY, Liu SW, et al. Characteristics and influence factors of pathologic transformation in the subclasses of class IV lupus nephritis. Rheumatol Int 2012;32:1751–1759.
+42. Moroni G, Porata G, Raffiotta F, et al. Predictors of increase in chronicity index and of kidney function impairment at repeat biopsy in lupus nephritis. Lupus Sci Med 2022;9:e000721.
+43. KDIGO 2021 Clinical practice guideline for the management of glomerular diseases. Kidney Int 2021;100:S1–S276.
+44. Pons-Estel GJ, Alarcón GS, McGwin G, Jr., et al. Protective effect of hydroxychloroquine on renal damage in patients with lupus nephritis: LXV, data from a multiethnic US cohort. Arthritis Rheum 2009;61:830–839.
+45. Cai T, Zhao J, Yang Y, et al. Hydroxychloroquine use reduces mortality risk in systemic lupus erythematosus: a systematic review and meta-analysis of cohort studies. Lupus 2022;31:1714–1725.
+46. Rosenbaum JT, Costenbader KH, Desmarais J, et al. American College of Rheumatology, American Academy of Dermatology, Rheumatologic Dermatology Society, and American Academy of Ophthalmology 2020 Joint Statement on hydroxychloroquine use with respect to retinal toxicity. Arthritis Rheumatol 2021;73:908–911.
+47. Ku E, Inker LA, Tighiouart H, et al. Angiotensin-converting enzyme inhibitors or angiotensin-receptor blockers for advanced chronic kidney disease: a systematic review and retrospective individual participant-level meta-analysis of clinical trials. Ann Intern Med 2024;177:953–963.
+48. Chang JC, Weiss PF, Xiao R, et al. Use of renin angiotensin aldosterone system inhibitors in children with lupus and time to glucocorticoid discontinuation. Kidney Int 2022;102:395–404.
+49. Bandhan IH, Islam MN, Ahmad HI, et al. Outcome of low-dose prednisolone use for the induction of remission in lupus nephritis patients. Int J Rheum Dis 2022;25:121–130.
+50. Bharati J, Rathi M, Ramachandran R, et al. Comparison of two steroid regimens in induction therapy of proliferative lupus nephritis: a randomized controlled trial. Indian J Nephrol 2019;29:373–375.
+51. Zeher M, Doria A, Lan J, et al. Efficacy and safety of enteric-coated mycophenolate sodium in combination with two glucocorticoid regimens for the treatment of active lupus nephritis. Lupus 2011;20:1484–1493.
+52. Webel ML, Ritts RE, Jr., Taswell HF, et al. Cellular immunity after intravenous administration of methylprednisolone. J Lab Clin Med 1974;83:383–392.
+53. Malvar A, Alberton V, Lococo B, et al. Remission of lupus nephritis: the trajectory of histological response in successfully treated patients. Lupus Sci Med 2023;10:e000932.
+54. Chakravarty EF, Utset T, Kamen DL, et al. Mycophenolate mofetil withdrawal in patients with systemic lupus erythematosus: a multicentre, open-label, randomised controlled trial. Lancet Rheumatol 2024;6:e168–e177.
+55. Jourde-Chiche N, Costedoat-Chalumeau N, Baumstarck K, et al. Weaning of maintenance immunosuppressive therapy in lupus nephritis (WIN-Lupus): results of a multicentre randomised controlled trial. Ann Rheum Dis 2022;81:1420–1427.
+56. Malvar A, Alberton V, Lococo B, et al. Kidney biopsy-based management of maintenance immunosuppression is safe and may ameliorate flare rate in lupus nephritis. Kidney Int 2020;97:156–162.
+57. Appel GB, Contreras G, Dooley MA, et al. Mycophenolate mofetil versus cyclophosphamide for induction treatment of lupus nephritis. J Am Soc Nephrol 2009;20:1103–1112.
+58. Furie R, Petri M, Zamani O, et al. A phase III, randomized, placebo-controlled study of belimumab, a monoclonal antibody that inhibits B lymphocyte stimulator, in patients with systemic lupus erythematosus. Arthritis Rheum 2011;63:3918–3930.
+59. Rovin BH, Furie R, Teng YKO, et al. A secondary analysis of the Belimumab International Study in Lupus Nephritis trial examined effects of belimumab on kidney outcomes and preservation of kidney function in patients with lupus nephritis. Kidney Int 2022;101:403–413.
+60. Manzi S, Sánchez-Guerrero J, Merrill JT, et al. Effects of belimumab, a B lymphocyte stimulator-specific inhibitor, on disease activity across multiple organ domains in patients with systemic lupus erythematosus: combined results from two phase III trials. Ann Rheum Dis 2012;71:1833–1838.
+61. Houssiau FA, Vasconcelos C, D'Cruz D, et al. Immunosuppressive therapy in lupus nephritis: the Euro-Lupus Nephritis Trial, a randomized trial of low-dose versus high-dose intravenous cyclophosphamide. Arthritis Rheum 2002;46:2121–2131.
+62. Wofsy D, Diamond B, Houssiau FA. Crossing the Atlantic: the Euro-Lupus nephritis regimen in North America. Arthritis Rheumatol 2015;67:1144–1146.
+63. Wang CS, Sadun RE, Zhou W, et al. Renal response outcomes of the EuroLupus and National Institutes of Health cyclophosphamide dosing regimens in childhood-onset proliferative lupus nephritis. Arthritis Rheumatol 2024;76:469–478.
+64. Austin HA, 3rd, Illei GG, Braun MJ, et al. Randomized, controlled trial of prednisone, cyclophosphamide, and cyclosporine in lupus membranous nephropathy. J Am Soc Nephrol 2009;20:901–911.
+65. Chavarot N, Verhelst D, Pardon A, et al. Rituximab alone as induction therapy for membranous lupus nephritis: a multicenter retrospective study. Medicine (Baltimore) 2017;96:e7429.
+66. Liu Z, Zhang H, Liu Z, et al. Multitarget therapy for induction treatment of lupus nephritis: a randomized trial. Ann Intern Med 2015;162:18–26.
+67. Mok CC, Ying KY, Yim CW, et al. Very long-term outcome of pure lupus membranous nephropathy treated with glucocorticoid and azathioprine. Lupus 2009;18:1091–1095.
+68. Radhakrishnan J, Moutzouris DA, Ginzler EM, et al. Mycophenolate mofetil and intravenous cyclophosphamide are similar as induction therapy for class V lupus nephritis. Kidney Int 2010;77:152–160.
+69. Arriens C, Teng YKO, Ginzler EM, et al. Update on the efficacy and safety profile of voclosporin: an integrated analysis of clinical trials in lupus nephritis. Arthritis Care Res (Hoboken) 2023;75:1399–1408.
+70. Garg S, Plantinga LC. A bitter pill to swallow: the challenge of medication nonadherence in systemic lupus erythematosus. J Rheumatol 2024;51:841–844.
+71. Cortés-Hernández J, Torres-Salido MT, Medrano AS, et al. Long-term outcomes--mycophenolate mofetil treatment for lupus nephritis with addition of tacrolimus for resistant cases. Nephrol Dial Transplant 2010;25:3939–3948.
+72. Dall'Era M, Stone D, Levesque V, et al. Identification of biomarkers that predict response to treatment of lupus nephritis with mycophenolate mofetil or pulse cyclophosphamide. Arthritis Care Res (Hoboken) 2011;63:351–357.
+73. Houssiau FA, Vasconcelos C, D'Cruz D, et al. Early response to immunosuppressive therapy predicts good renal outcome in lupus nephritis: lessons from long-term followup of patients in the Euro-Lupus Nephritis Trial. Arthritis Rheum 2004;50:3934–3940.
+74. Kapitsinou PP, Boletis JN, Skopouli FN, et al. Lupus nephritis: treatment with mycophenolate mofetil. Rheumatology (Oxford) 2004;43:377–380.
+75. Mackay M, Dall'Era M, Fishbein J, et al. Establishing surrogate kidney end points for lupus nephritis clinical trials: development and validation of a novel approach to predict future kidney outcomes. Arthritis Rheumatol 2019;71:411–419.
+76. Alshaiki F, Obaid E, Almuallim A, et al. Outcomes of rituximab therapy in refractory lupus: a meta-analysis. Eur J Rheumatol 2018;5:118–126.
+77. Arora S, Rovin BH. Expert perspective: an approach to refractory lupus nephritis. Arthritis Rheumatol 2022;74:915–926.
+78. Roccatello D, Fenoglio R, Caniggia I, et al. Daratumumab monotherapy for refractory lupus nephritis. Nat Med 2023;29:2041–2047.
+79. Segarra A, Arredondo KV, Jaramillo J, et al. Efficacy and safety of bortezomib in refractory lupus nephritis: a single-center experience. Lupus 2020;29:118–125.
+80. Zhang H, Liu Z, Huang L, et al. The short-term efficacy of bortezomib combined with glucocorticoids for the treatment of refractory lupus nephritis. Lupus 2017;26:952–958.
+81. Aranow C, Allaart CF, Amoura Z, et al. Efficacy and safety of sequential therapy with subcutaneous belimumab and one cycle of rituximab in patients with systemic lupus erythematosus: the phase 3, randomised, placebo-controlled BLISS-BELIEVE study. Ann Rheum Dis 2024;83:1502–1512.
+82. Atisha-Fregoso Y, Malkiel S, Harris KM, et al. Phase II randomized trial of rituximab plus cyclophosphamide followed by belimumab for the treatment of lupus nephritis. Arthritis Rheumatol 2021;73:121–131.
+83. Shipa M, Embleton-Thirsk A, Parvaz M, et al. Effectiveness of belimumab after rituximab in systemic lupus erythematosus: a randomized controlled trial. Ann Intern Med 2021;174:1647–1657.
+84. KDIGO 2024 Clinical practice guideline for the management of lupus nephritis. Kidney Int 2024;105:S1–S69.
+85. Barbhaiya M, Zuily S, Naden R, et al. The 2023 ACR/EULAR Antiphospholipid Syndrome Classification Criteria. Arthritis Rheumatol 2023;75:1687–1702.
+86. Sciascia S, Yazdany J, Dall'Era M, et al. Anticoagulation in patients with concomitant lupus nephritis and thrombotic microangiopathy: a multicentre cohort study. Ann Rheum Dis 2019;78:1004–1006.
+87. Wright RD, Bannerman F, Beresford MW, et al. A systematic review of the role of eculizumab in systemic lupus erythematosus-associated thrombotic microangiopathy. BMC Nephrol 2020;21:245.
+88. Weening JJ, D'Agati VD, Schwartz MM, et al. The classification of glomerulonephritis in systemic lupus erythematosus revisited. Kidney Int 2004;65:521–530.
+89. Chen D, Hu W. Lupus podocytopathy: a distinct entity of lupus nephritis. J Nephrol 2018;31:629–634.
+90. Xia W, Deng J, Zhuang L, et al. Risk factors for acute kidney injury and kidney relapse in patients with lupus podocytopathy. Clin Kidney J 2024;17:sfae148.
+91. Pediatric to Adult Rheumatology Care Transition. Accessed April 14, 2025. https://rheumatology.org/pediatric-to-adult-rheumatology-care-transition
+92. Cintron D, Chang JC, Sadun RE. Transition to adult rheumatology care: a disease-specific guide. J Clin Rheumatol 2024;30:159–167.
+93. Ciosek AL, Makris UE, Kramer J, et al. Health literacy and patient activation in the pediatric to adult transition in systemic lupus erythematosus: patient and health care team perspectives. ACR Open Rheumatol 2022;4:782–793.
+94. Dushnicky MJ, Fine C, Cellucci T, et al. Mind the gap: a longitudinal analysis of the experiences of adolescents and parents in a rheumatology transition clinic. J Clin Rheumatol 2023;29:235–239.
+95. Kamińska J, Dymicka-Piekarska V, Tomaszewska J, et al. Diagnostic utility of protein to creatinine ratio (P/C ratio) in spot urine sample within routine clinical practice. Crit Rev Clin Lab Sci 2020;57:345–364.
+96. Rahman MM, Azad K, Ahmed N, et al. Spot morning urine protein creatinine ratio and 24 hour urinary total protein excretion rate. Mymensingh Med J 2006;15:146–149.
+97. Barnado A, Carroll RJ, Casey C, et al. Phenome-wide association study identifies dsDNA as a driver of major organ involvement in systemic lupus erythematosus. Lupus 2019;28:66–76.
+98. Birmingham DJ, Irshaid F, Nagaraja HN, et al. The complex nature of serum C3 and C4 as biomarkers of lupus renal flare. Lupus 2010;19:1272–1280.
+99. Fasano S, Pierro L, Borgia A, et al. Biomarker panels may be superior over single molecules in prediction of renal flares in systemic lupus erythematosus: an exploratory study. Rheumatology (Oxford) 2020;59:3193–3200.
+100. Akhter E, Burlingame RW, Seaman AL, et al. Anti-C1q antibodies have higher correlation with flares of lupus nephritis than other serum markers. Lupus 2011;20:1267–1274.
+101. Fava A, Wagner CA, Guthridge CJ, et al. Association of autoantibody concentrations and trajectories with lupus nephritis histologic features and treatment response. Arthritis Rheumatol 2024;76:1611–1622.
+102. Izmirly PM, Kim MY, Carlucci PM, et al. Longitudinal patterns and predictors of response to standard-of-care therapy in lupus nephritis: data from the Accelerating Medicines Partnership Lupus Network. Arthritis Res Ther 2024;26:54.
+103. Taghavi M, Jabrane A, Jacobs L, et al. Antiphospholipid antibodies associated with native arteriovenous fistula complications in hemodialysis patients: a comprehensive review of the literature. Antibodies (Basel) 2024;13:1.
+104. Wagenknecht DR, Becker DG, LeFor WM, et al. Antiphospholipid antibodies are a risk factor for early renal allograft failure. Transplantation 1999;68:241–246.
+105. Jorge A, Wallace ZS, Lu N, et al. Renal transplantation and survival among patients with lupus nephritis: a cohort study. Ann Intern Med 2019;170:240–247.
+106. O'Shaughnessy MM, Montez-Rath ME, Lafayette RA, et al. Differences in initial treatment modality for end-stage renal disease among glomerulonephritis subtypes in the USA. Nephrol Dial Transplant 2016;31:290–298.
+107. Broder A, Khattri S, Patel R, et al. Undertreatment of disease activity in systemic lupus erythematosus patients with endstage renal failure is associated with increased all-cause mortality. J Rheumatol 2011;38:2382–2389.
+108. Azegami T, Kounoue N, Sofue T, et al. Efficacy of pre-emptive kidney transplantation for adults with end-stage kidney disease: a systematic review and meta-analysis. Ren Fail 2023;45:2169618.
+109. Rana Magar R, Knight SR, Maggiore U, et al. What are the benefits of preemptive versus non-preemptive kidney transplantation? A systematic review and meta-analysis. Transplant Rev (Orlando) 2023;37:100798.
+110. Naveed A, Nilubol C, Melancon JK, et al. Preemptive kidney transplantation in systemic lupus erythematosus. Transplant Proc 2011;43:3713–3714.
+111. Chung MC, Yu TM, Shu KH, et al. Influence of pretransplantation dialysis time and lupus activity on outcome of kidney transplantation in systemic lupus erythematosus. Transplant Proc 2014;46:336–338.
+112. Yap KS, Urowitz MB, Mahood Q, et al. The utility of lupus serology in predicting outcomes of renal transplantation in lupus patients: systematic literature review and analysis of the Toronto lupus cohort. Semin Arthritis Rheum 2017;46:791–797.
+113. Burgos PI, Alarcón GS, McGwin G, Jr., et al. Disease activity and damage are not associated with increased levels of fatigue in systemic lupus erythematosus patients from a multiethnic cohort: LXVII. Arthritis Rheum 2009;61:1179–1186.
+114. Broder A, Mowrey WB, Valle A, et al. Prescribing patterns of hydroxychloroquine and glucocorticoids among lupus patients after new-onset end-stage renal disease. Arthritis Care Res (Hoboken) 2022;74:2024–2032.
+115. Hiraki LT, Feldman CH, Liu J, et al. Prevalence, incidence, and demographics of systemic lupus erythematosus and lupus nephritis from 2000 to 2004 among children in the US Medicaid beneficiary population. Arthritis Rheum 2012;64:2669–2676.
+116. Vazzana KM, Daga A, Goilav B, et al. Principles of pediatric lupus nephritis in a prospective contemporary multi-center cohort. Lupus 2021;30:1660–1670.
+117. Hiraki LT, Hamilton J, Silverman ED. Measuring permanent damage in pediatric systemic lupus erythematosus. Lupus 2007;16:657–662.
+118. Chalhoub NE, Wenderfer SE, Levy DM, et al. International consensus for the dosing of corticosteroids in childhood-onset systemic lupus erythematosus with proliferative lupus nephritis. Arthritis Rheumatol 2022;74:263–273.
+119. de Gruijter NM, Naja M, Peckham H, et al. A systematic review exploring the bidirectional relationship between puberty and autoimmune rheumatic diseases. Pediatr Rheumatol Online J 2021;19:47.
+120. Rygg M, Pistorio A, Ravelli A, et al. A longitudinal PRINTO study on growth and puberty in juvenile systemic lupus erythematosus. Ann Rheum Dis 2012;71:511–517.
+121. Sontichai W, Liao F, Dominguez D, et al. Timing of childhood-onset systemic lupus erythematosus diagnosis relative to menarche and the impact on final adult height. Arthritis Care Res (Hoboken) 2022;74:199–207.
+122. Chang JC, Sears C, Torres V, et al. Racial disparities in renal outcomes over time among hospitalized children with systemic lupus erythematosus. Arthritis Rheumatol 2022;74:1430–1439.
+123. Hiraki LT, Lu B, Alexander SR, et al. End-stage renal disease due to lupus nephritis among children in the US, 1995–2006. Arthritis Rheum 2011;63:1988–1997.
+124. Furie RA, Rovin BH, Garg JP, et al. Efficacy and safety of obinutuzumab in active lupus nephritis. N Engl J Med Preprint posted online February 7, 2025. https://doi.org/10.1056/NEJMoa2410965.
+125. Humphrey MB, Russell L, Danila MI, et al. 2022 American College of Rheumatology guideline for the prevention and treatment of glucocorticoid-induced osteoporosis. Arthritis Rheumatol 2023;75(12):2088–102.
+126. Bass AR, Chakravarty E, Akl EA, et al. 2022 American College of Rheumatology guideline for vaccinations in patients with rheumatic and musculoskeletal diseases. Arthritis Care Res 2023;75(3):449–64.
+127. Sammaritano LR, Bermas BL, Chakravarty EE, et al. 2020 American College of Rheumatology guideline for the management of reproductive health in rheumatic and musculoskeletal diseases. Arthritis Rheumatol 2020;72(4):529–56.
+
