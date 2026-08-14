@@ -108,3 +108,101 @@ Terminology, definitions, and abbreviations are summarized in Table 2; recommend
 
 <sup>c</sup> Variably defined across studies – both irreversible damage and active disease impact kidney function and proteinuria and may require kidney biopsy to distinguish.
 
+### Table 3. Recommendations and good practice statements
+
+**SCREENING**
+
+| Recommendation | Strength | Level of Evidence | PICOs addressed |
+|---|---|---|---|
+| In people with SLE without known kidney disease, we strongly recommend screening for proteinuria at least every 6–12 months, OR when experiencing extra-renal flares. | Strong | Indirect evidence; Very low | P16(a) (revision) |
+
+**KIDNEY BIOPSY**
+
+GPS: Prompt kidney biopsy should be performed in people with SLE when LN is suspected (unless contraindicated or not feasible) as histopathologic biopsy features will confirm the diagnosis, rule out mimicking diseases, and impact therapy decisions.
+
+| Recommendation | Strength | Level of Evidence | PICOs addressed |
+|---|---|---|---|
+| In people with SLE who have proteinuria >0.5 g/g and/or impaired kidney function not otherwise explained, we conditionally recommend performing a percutaneous kidney biopsy. | Conditional | Low–Very low | P1(a-e); P3(e-h) |
+| For people with treated LN in remission who present with suspected LN flare (increased proteinuria, hematuria, and/or worsening kidney function), OR for people with ≥6 months of appropriate treatment and ongoing or worsening proteinuria, hematuria, and/or decreased kidney function, we conditionally recommend repeat percutaneous kidney biopsy. | Conditional | Low–Very low | P2(a-e); P4(a-c) |
+
+**TREATMENT OF ACTIVE LN (CLASS III/IV OR CLASS V)**
+
+- GPS: Prompt glucocorticoid treatment should be administered for suspected LN to suppress acute inflammation while awaiting a kidney biopsy and the histopathology results.
+- GPS: Dosage of LN medications should be adjusted in people with decreased GFR at initiation of therapy and periodically.
+- GPS: Adjunctive treatment with systemic anticoagulation for people with LN and significant risk factors for thrombosis (eg, low serum albumin in context of severe proteinuria) should be discussed with nephrology.
+
+**IN PEOPLE WITH ACTIVE, NEW ONSET OR FLARE OF CLASS III/IV OR CLASS V LN**
+
+| Recommendation | Strength | Level of Evidence | PICOs addressed |
+|---|---|---|---|
+| …If not already on HCQ treatment, we strongly recommend initiation and continuation of HCQ to manage and prevent lupus clinical manifestations, unless contraindicated. | Strong | Low–Very low | P15(a) |
+| …With any elevation in level of proteinuria, including <0.5g/g, we conditionally recommend the addition of RAAS-I therapy. | Conditional | Low–Very low | P7(d); P9(a) |
+| …We conditionally recommend pulse intravenous glucocorticoids followed by oral prednisone (≤0.5 mg/kg/d, max of 40 mg/d) with taper to a target dose of ≤5 mg/day by 6 months. | Conditional | Moderate-low | P7(a-c); P8(a,b); P9(a-c) |
+| …Who have achieved and sustained a complete response after treatment with any (triple or dual) immunosuppressive therapy, we conditionally recommend a total duration of therapy of at least 3–5 years. | Conditional | Low | P8(o,p); P10(l,m) |
+
+**IN PEOPLE WITH ACTIVE, NEW ONSET, OR FLARE OF CLASS III/IV (WITH OR WITHOUT CONCOMITANT CLASS V LN)**
+
+| Recommendation | Strength | Level of Evidence | PICOs addressed |
+|---|---|---|---|
+| …We conditionally recommend therapy with a triple immunosuppressive regimen consisting of pulse intravenous glucocorticoids (250–1000 mg methylprednisolone daily × 1–3 days) followed by oral glucocorticoid (≤0.5 mg/kg/day, maximum dose 40 mg/day) taper, plus: a) MPAA plus belimumab -or- b) MPAA plus CNI -or- c) Euro-Lupus Nephritis Trial (ELNT) low-dose CYC plus belimumab (MPAA substituted for CYC after CYC course is complete). | Conditional | Moderate-Low | P7(j,k,n-q); P8(f-h,k-m) |
+| …We conditionally recommend an MPAA-based regimen over a CYC-based regimen. | Conditional | Low–Very low | P7(g,h) |
+| …With proteinuria ≥3g/g, we conditionally recommend a triple immunosuppressive regimen containing pulse intravenous glucocorticoids (250–1000 mg methylprednisolone daily × 1–3 days) followed by oral glucocorticoid (≤0.5 mg/kg/day, maximum dose 40 mg/day) taper, plus MPAA plus CNI over a regimen containing belimumab. | Conditional | Low | P7(l,p) |
+| …With extra-renal manifestations, we conditionally recommend a triple immunosuppressive therapy that contains belimumab over a regimen containing a CNI. | Conditional | Low | P7(p2) (revision) |
+| …We conditionally recommend a target MMF dose of 2–3g/d (or equivalent). | Conditional | Very low | P7(l) |
+| …Receiving a CYC-based regimen, we conditionally recommend the ELNT low-dose CYC regimen over a high-dose monthly pulse IV regimen. | Conditional | Very low | P7(e) |
+| We also strongly recommend the ELNT low-dose CYC regimen over a daily oral CYC regimen. | Strong | Very low | P7(f) |
+| …Who have undergone triple immunosuppressive therapy and achieved a complete renal response, we conditionally recommend continuing the same immunosuppressive regime. | Conditional | Moderate-Low | P8.3 (revision); P8(f-h,k-m) |
+| …Who have undergone triple immunosuppressive therapy and achieved a partial renal response, we conditionally recommend individualizing therapy depending on clinical factors that include the trajectory of response. | Conditional | None | P8.4 (revision) |
+| …Who have undergone dual immunosuppressive therapy (glucocorticoids plus either CYC or MPAA) and achieved a complete renal response, we conditionally recommend continuing therapy with MPAA over AZA. | Conditional | Low | P8.1 (revision); P8(d,e,j) |
+| …who have undergone dual immunosuppressive therapy (glucocorticoids plus either CYC or MPAA) and achieved a partial renal response, we conditionally recommend escalating therapy to a triple immunosuppressive regimen. | Conditional | None | P8.2 (revision); P8(v-x, aa-cc) |
+
+**IN PEOPLE WITH ACTIVE, NEW ONSET, OR FLARE OF (PURE) CLASS V LN**
+
+| Recommendation | Strength | Level of Evidence | PICOs addressed |
+|---|---|---|---|
+| …With proteinuria ≥1 g/g we conditionally recommend treatment with a triple immunosuppressive regimen consisting of pulse intravenous glucocorticoids (250–1000 mg methylprednisolone daily x 1–3 days) followed by oral glucocorticoid (≤0.5 mg/kg/day, maximum dose 40 mg/day) taper, and MPAA plus CNI (over MPAA plus belimumab, or CYC plus belimumab). | Conditional | Indirect: Very low | P9(p) |
+| …with proteinuria <1 g/g, we conditionally recommend treatment with glucocorticoids and/or immunosuppressant therapy (MPAA, AZA, or CNI) over no glucocorticoid or other immunosuppression. | Conditional | None | P9(b) |
+
+**NON-RESPONSIVE OR REFRACTORY LN**
+
+GPS: Medication dose and patient adherence should be assessed as an important first step in evaluating inadequate response or refractory LN, as insufficient treatment is an important cause of non-response.
+
+| Recommendation | Strength | Level of Evidence | PICOs addressed |
+|---|---|---|---|
+| In people with any LN class with nonresponse (i.e., have not achieved at least a partial renal response by 6–12 months) we conditionally recommend escalation of treatment: For initial dual therapy, escalate to triple therapy (pulse intravenous glucocorticoids, 250–1000 mg methylprednisolone daily for 1–3 days, followed by oral glucocorticoid ≤0.5 mg/kg/day, maximum dose 40 mg/day taper, plus either MPAA plus belimumab, MPAA plus CNI, or ELNT CYC plus belimumab). For initial triple therapy, change to an alternative triple therapy or consider addition of an anti-CD20 agent as a second immunosuppressive. | Conditional | Very low-None | P11.1, P11.2 (revision) |
+| In people with any LN class with refractory disease (i.e., failed two standard therapy courses), we conditionally recommend treatment escalation to a more intensive regimen, including addition of anti-CD20 agents, combination therapy with three non-glucocorticoid immunosuppressives (i.e., MPAA, belimumab and CNI), or referral for investigational therapy. | Conditional | Very low-None | P12.1, P12.2 (revision) |
+
+**OTHER LUPUS KIDNEY DISEASE**
+
+GPS: Alternative etiologies of kidney dysfunction in people with SLE should be carefully excluded, including non-inflammatory etiologies such as hypertensive, diabetic, and medication-induced nephropathy.
+
+**ADJUNCTIVE / NON-IMMUNOLOGIC TREATMENT**
+
+- GPS: Adjunctive and non-immunologic therapies and practices should be initiated in addition to appropriate immunosuppressive therapy to improve overall kidney health (Table 4).
+- GPS: In children with childhood-onset SLE (cSLE) and LN, glucocorticoid regimens should be reduced to pediatric-appropriate doses for children, as reduction of cumulative glucocorticoid dosing is critically important given the early age of onset of cSLE onset and attendant comorbidities.
+- GPS: In children with cSLE and LN, clinicians should monitor for delayed pubertal onset and decreased growth velocity that can result from disease activity and glucocorticoid treatment and consider referral to pediatric endocrinology if indicated.
+- GPS: For children with cSLE, a structured, intentional transition from pediatric to adult rheumatology care is indicated to avoid poor outcomes during this vulnerable period.
+- GPS: For older people with LN, medication number, type, and dosage should be regularly assessed, given the risks of polypharmacy and age-related decline in GFR in this population.
+
+**MONITORING LN ACTIVITY**
+
+| Recommendation | Strength | Level of Evidence | PICOs addressed |
+|---|---|---|---|
+| In people with SLE and LN who have not achieved CRR, we strongly recommend quantifying proteinuria at least every 3 months. | Strong | Indirect evidence; Very low | P16(b,c) (revision) |
+| In people with SLE with known nephritis in sustained clinical renal remission, we strongly recommend quantifying proteinuria every 3–6 months. | Strong | Indirect evidence; Very low | P16(d) (revision) |
+
+GPS: In people with LN, serum complement and anti-dsDNA antibody should be measured at every clinic visit (but not more frequently than monthly).
+
+**RENAL REPLACEMENT THERAPIES**
+
+GPS: Decisions for initiation and type of dialysis and timing for kidney transplant require close collaboration with nephrology.
+
+| Recommendation | Strength | Level of Evidence | PICOs addressed |
+|---|---|---|---|
+| In people with LN and ESKD, we strongly recommend kidney transplantation over dialysis. | Strong | High | P18(a) |
+| In people with LN who have progressive loss of kidney function and are nearing ESKD (defined as an eGFR of 15 ml/min/1.73m<sup>2</sup>), we conditionally recommend preemptive kidney transplant over dialysis/no preemptive kidney transplant. | Conditional | Very low | P22(a) |
+| In people with LN and ESKD, we conditionally recommend proceeding with kidney transplantation without requiring complete clinical or serologic remission, provided there is no other major organ involvement. | Conditional | Very low | P23(a,b) |
+| In people with LN on current dialysis or after kidney transplantation, we strongly recommend regular follow up with rheumatology. | Strong | Very low | P20(a,b) |
+
+\* Anti-CD20 therapy: rituximab or obinutuzumab. AZA, azathioprine; CNI, calcineurin inhibitor therapies (cyclosporine, tacrolimus, voclosporin); CRR, complete renal response; CYC, cyclophosphamide; dsDNA, double-stranded DNA; eGFR, estimated glomerular filtration rate (various definitions are used in clinical studies; calculations of eGFR from creatinine in recent research do not include coefficients for race; however, earlier literature does); ESKD, end stage kidney disease; GFR, glomerular filtration rate; GPS, Good Practice Statements; HCQ, hydroxychloroquine; LN, lupus nephritis; MMF, mycophenolate mofetil; MPAA, mycophenolic acid analogs (including mycophenolate mofetil, or MMF, and mycophenolic acid, or MPA); PICO, population, intervention, comparator, outcome; RAAS-I, renin-angiotensin-aldosterone system inhibitors (including angiotensin converting enzyme inhibitors, angiotensin II receptor blockers, mineralocorticoid receptor antagonists); SLE, systemic lupus erythematosus.
+
