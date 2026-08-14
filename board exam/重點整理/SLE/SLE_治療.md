@@ -79,8 +79,11 @@ SLE 治療的 **anchor drug**，幾乎所有病人皆建議使用（除非禁忌
 - 風險因子：每日劑量 >5 mg/kg real body weight、使用時間 >5年（尤其>10年）、CKD、既有視網膜/黃斑病變、併用 tamoxifen
 - **劑量上限：5 mg/kg real body weight/day**（但近期研究顯示 ≤5mg 劑量本身也可能增加 flare 風險）
 - **眼科監測**：baseline、5年後、之後每年一次（若 baseline 正常）；有風險因子者需更頻繁監測
+- **remission 後仍建議持續使用**：兩份 guideline 皆明確建議 HCQ 應無限期持續使用，即使達 remission 也不應停用（僅 GC 與免疫抑制劑可考慮減量/停藥）(Guideline補充)
 
 ### 免疫抑制劑與細胞毒性藥物
+
+**停藥時機**（Kelly 原文於一般 SLE 無明確時間框架，僅 LN 段落有提及）：持續 remission 或低疾病活性者，guideline 建議治療 **3–5年後**可考慮逐步減量、以停藥為目標；決定需綜合考量復發風險、器官侵犯嚴重度、病人偏好 (Guideline補充)
 
 **Methotrexate (MTX)**
 
@@ -172,6 +175,8 @@ SLE 治療的 **anchor drug**，幾乎所有病人皆建議使用（除非禁忌
 - 常見副作用：發燒、肌痛、頭痛、關節痛；少見：無菌性腦膜炎、sucrose 製劑造成腎病變、血栓栓塞（老年動脈硬化病人）
 
 ### 生物製劑
+
+**Belimumab 與 Anifrolumab 之選擇**：兩份 guideline 皆明確聲明兩者**無階層之分**（未有head-to-head試驗比較），亦**不要求**先使用傳統免疫抑制劑失敗才能啟用生物製劑（雖多數臨床情境仍會先嘗試至少一種傳統免疫抑制劑）；belimumab 已有 >10 年 real-life 使用經驗，anifrolumab 相對較新 (Guideline補充)
 
 **Belimumab**
 
