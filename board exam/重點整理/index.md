@@ -78,6 +78,7 @@
 | 補體系統 | [補體系統 — 臨床檢驗與各疾病變化](Immunology/Complement_疾病與檢驗.md) |
 | NETosis / LDG | [NETosis 與 LDG](Immunology/NETosis與LDG.md) |
 | 先天免疫 / 發炎體 | [TLR → Inflammasome 與 Interferon 整合](Immunology/先天免疫_TLR_發炎體_干擾素整合.md) |
+| ILC（先天淋巴細胞） | [ILC 三大亞群與功能總整理](Immunology/ILC_先天淋巴細胞_三大亞群與功能.md) |
 | PID 分類 | [PID 2022 IUIS 分類速記](Immunology/PID_2022IUIS分類速記.md) |
 | TNF Superfamily | [TNF Superfamily 完整整理](Immunology/TNF_superfamily_完整整理.md) |
 | 骨代謝機轉 | [RANKL-RANK-OPG 與 Wnt/DKK1 考試速記](Immunology/RANKL-RANK-OPG與Wnt-DKK1_骨代謝考試速記.md) |

@@ -10,7 +10,7 @@
 
 ## 臨床診斷問卷（WPI＋SS score）
 
-![Fibromyalgia 臨床診斷標準問卷 Part 1（WPI 身體圖）與 Part 2a（SS score）](../images/FibroCriteria-RGB-p1_1.jpg)
+![Fibromyalgia 2016 WPI／SSS 診斷標準](../images/Fibromyalgia%202016%20WPI%20SSS.gif)
 
 > 上圖：左半為 **WPI 身體圖**（前側 Front／背側 Back，共 19 區，勾選過去一週疼痛部位，計 0–19）；下半為 **Part 2a 症狀嚴重度**（疲倦、睡醒不解乏、認知症狀，各 0–3）。
 
