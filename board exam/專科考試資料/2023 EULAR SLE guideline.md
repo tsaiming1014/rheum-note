@@ -494,3 +494,195 @@ $ TNF inhibitors are rarely used in SLE, due to their potential to cause drug-in
 
 IV: Intravenous; MP: Methylprednisolone; PO: Per os; LN: Lupus nephritis; BSA: Body surface area; NIH: National Institutes of Health; SC: Subcutaneous
 
+---
+
+# Systematic Literature Review (SLR) report for the 2023 update of the EULAR recommendations for the management of SLE
+
+*（以下為原文獻線上附錄 online supplemental material 的系統性文獻回顧報告全文，逐字轉錄，未翻譯。）*
+
+## Table of Contents
+
+- Research questions and PICOs
+  - PICO 1 – Therapeutic interventions
+    - PICO 1a – Active SLE
+    - PICO 1b – SLE with active mucocutaneous involvement
+    - PICO 1c – SLE with active musculoskeletal involvement
+    - PICO 1d – SLE with active neuropsychiatric involvement
+    - PICO 1e – SLE with active haematological involvement
+    - PICO 1f – SLE with active kidney involvement
+  - PICO 2 – Low disease activity and remission
+  - PICO 3 – SLE and antiphospholipid syndrome
+  - PICO 4 – Tapering and/or withdrawal of treatment
+  - PICO 5 – Vaccination against herpes zoster and SARS-CoV2 viruses
+- Inclusion and exclusion criteria
+- Search strategy
+  - Medline search string for PICO 1 (PICOs 1a–1f)
+  - CENTRAL search string for PICO 1
+  - Medline search string for PICO 2
+  - CENTRAL search string for PICO 2
+  - Medline search string for PICO 3
+  - CENTRAL search string for PICO 3
+  - Medline search for PICO 4
+  - CENTRAL search string for PICO 4
+  - Medline search string for PICO 5
+  - CENTRAL search string for PICO 5
+- Flowchart
+- Summary fact sheets for all included studies
+- Risk of bias assessment
+  - Risk of bias assessment of cohort studies and case-control studies using NOS
+  - Risk of bias assessment for RCTs and quasi-RCTs using RoB2
+  - Risk of bias assessment for meta-analyses
+- References
+
+*BMJ Publishing Group Limited (BMJ) disclaims all liability and responsibility arising from any reliance placed on this supplemental material which has been supplied by the author(s). Ann Rheum Dis doi: 10.1136/ard-2023-224762*
+
+---
+
+## Research questions and PICOs
+
+For this update the research questions focused on five different domains: 1) the benefit/harm of SLE treatments (including lupus nephritis, neuropsychiatric, mucocutaneous, musculoskeletal and haematological lupus), 2) the benefits from the attainment of remission/low disease activity, 3) the risk/benefit from treatment tapering/withdrawal, 4) the management of SLE with aPL/APS and 5) the safety/toxicity of immunizations against zoster and SARS-Cov2.
+
+Given the diversity of SLE populations, interventions, and outcomes different PICOs were developed for each individual question. As a first step a draft of the PICOs was circulated among the Task Force members who were encouraged to propose additional treatments or outcomes. The final version of PICOs was used as basis for the formulation of the respective search queries. Points-to-consider for special areas/topics of interest were also included after each research question. The research questions with the respective PICOs, and points to consider are listed below.
+
+### PICO 1 – Therapeutic interventions
+
+**PICO 1a.** In patients with active SLE, what is the evidence for the benefits and harms of therapeutic interventions including antimalarials, glucocorticoids, immunosuppressive, biological/targeted agents, plasma exchange/immunoadsorption?
+
+| Population(s) | Intervention(s)-exposure(s) | Comparison | Outcome(s) |
+|---|---|---|---|
+| Patients with active SLE | Sun protection; NSAIDs; Glucocorticoids; Hydroxychloroquine, antimalarials; Immunosuppressive agents; Cytotoxic agents; Methotrexate; Leflunomide; Azathioprine; Cyclophosphamide; Mycophenolate; Ciclosporin; Tacrolimus; Biological agents; Belimumab; Anifrolumab; Rituximab; Obinutuzumab; Ofatumumab; Ocrelizumab; Atacicept; Etanercept; Adalimumab; Abatacept; Tocilizumab; Secukinumab; Ustekinumab; Anakinra; JAK inhibitors (tofacitinib, baricitinib, upadacitinib, deucravacitinib); Proteasome inhibitors (eg, bortezomib); Iberdomide; Litifilimab; Low-dose IL-2; Daratumumab; CD19 CAR-T cells; Plasmapheresis; Plasma exchange; Immunoadsorption; Intravenous immunoglobulin | Standard of care; Azathioprine; Placebo; None | Disease activity improvement/worsening (SLEDAI, BILAG): global and specific domains; Cutaneous LE Disease Area and Severity Index; Tender joint count; Swollen joint count; Physician Global Assessment; Glucocorticoid sparing; Response (SRI-4, BICLA); Disease control; Low disease activity (LLDAS); Remission (various definitions including steroid-free remission); Relapse, flare, time-to-flare; Treatment failure; Organ damage (including cataract, cognitive dysfunction, osteoporotic fracture, osteonecrosis, stroke, cardiovascular disease/MACEs, malignancy, diabetes); Infection; Hospitalizations; Death; Adverse events/toxicity (including retinopathy); Thrombosis |
+
+*Points to consider (for the SLR and/or data extraction):*
+- Stratification according to: patient age, ancestry/race, disease duration, prior treatments, selected biomarkers (serum complements, anti-dsDNA, IFN-signature)
+- Glucocorticoids: capture dosage details such as the use of pulse methylprednisolone, initial dose, average dosage, tapering scheme
+- Evidence on the efficacy of treatments in relapsing and refractory disease
+- Collect data on global disease activity indices and activity from individual domains (eg, serositis)
+- Collect data on relevant safety outcomes: retinopathy, infections (including HZV, opportunistic), MACEs, hospitalizations, death
+
+**PICO 1b.** In patients with SLE and active mucocutaneous involvement, what is the evidence for the benefits and harms of therapeutic interventions including sun protection, topical agents, antimalarials, glucocorticoids, immunosuppressive, biological/targeted agents?
+
+| Population(s) | Intervention(s)-exposure(s) | Comparison | Outcome(s) |
+|---|---|---|---|
+| SLE patients with active mucocutaneous involvement | Sun protection; Topical agents (glucocorticoids, calcineurin inhibitors); Glucocorticoids; Hydroxychloroquine, antimalarials; Immunosuppressive agents; Cytotoxic agents; Methotrexate; Leflunomide; Azathioprine; Cyclophosphamide; Mycophenolate; Ciclosporin; Tacrolimus; Retinoids; Dapsone; Thalidomide; Lenalidomide; Biological agents; Belimumab; Anifrolumab; Rituximab; Obinutuzumab; Ofatumumab; Ocrelizumab; Atacicept; Etanercept; Adalimumab; Abatacept; Tocilizumab; Secukinumab; Ustekinumab; Anakinra; JAK inhibitors (tofacitinib, baricitinib, upadacitinib, deucravacitinib); Proteasome inhibitors (eg, bortezomib); Iberdomide; Litifilimab; Low-dose IL-2; Daratumumab; CD19 CAR-T cells; Intravenous immunoglobulin | Standard of care; Placebo; None | Disease activity improvement/worsening (SLEDAI, BILAG): mucocutaneous-specific domains; Cutaneous LE Disease Area and Severity Index; Physician Global Assessment; Glucocorticoid sparing; Response (SRI-4, BICLA); Disease control; Low disease activity (LLDAS); Remission (various definitions including steroid-free remission); Relapse, flare, time-to-flare; Treatment failure; Organ damage (including cataract, cognitive dysfunction, osteoporotic fracture, osteonecrosis, stroke, cardiovascular disease/MACEs, malignancy, diabetes); Infection; Hospitalizations; Death; Toxicity (including retinopathy); Thrombosis |
+
+*Points to consider (for the SLR and/or data extraction):*
+- Stratification according to subtype: ACLE, SCLE, DLE and other forms of CCLE; patient age, ancestry/race, disease duration, prior treatments, selected biomarkers (serum complements, anti-dsDNA, IFN-signature)
+- Glucocorticoids: capture dosage details such as the use of pulse methylprednisolone, initial/cumulative dose, tapering scheme
+- Evidence on the efficacy of treatments in relapsing and refractory disease
+
+**PICO 1c.** In patients with SLE and active musculoskeletal involvement, what is the evidence for the benefits and harms of therapeutic interventions including antimalarials, glucocorticoids, immunosuppressive and biological/targeted agents?
+
+| Population(s) | Intervention(s)-exposure(s) | Comparison | Outcome(s) |
+|---|---|---|---|
+| SLE patients with active musculoskeletal involvement | NSAIDs; Glucocorticoids; Hydroxychloroquine, antimalarials; Immunosuppressive agents; Cytotoxic agents; Methotrexate; Leflunomide; Azathioprine; Cyclophosphamide; Mycophenolate; Ciclosporin; Tacrolimus; Biological agents; Belimumab; Anifrolumab; Rituximab; Obinutuzumab; Ofatumumab; Ocrelizumab; Atacicept; Etanercept; Adalimumab; Abatacept; Tocilizumab; Secukinumab; Ustekinumab; Anakinra; JAK inhibitors (tofacitinib, baricitinib, upadacitinib, deucravacitinib); Proteasome inhibitors (eg, bortezomib); Iberdomide; Litifilimab; Low-dose IL-2; Daratumumab; CD19 CAR-T cells | Standard of care; Placebo; None | Disease activity improvement/worsening (SLEDAI, BILAG): musculoskeletal-specific domains; Tender joint count; Swollen joint count; Physician Global Assessment; Glucocorticoid sparing; Response (SRI-4, BICLA); Disease control; Low disease activity (LLDAS); Remission (various definitions including steroid-free remission); Relapse, flare, time-to-flare; Treatment failure; Organ damage (including cataract, cognitive dysfunction, osteoporotic fracture, osteonecrosis, stroke, cardiovascular disease/MACEs, malignancy, diabetes); Infection; Hospitalizations; Death; Toxicity (including retinopathy); Thrombosis |
+
+*Points to consider (for the SLR and/or data extraction):*
+- Stratification according to arthritis phenotype (eg, RA-like), patient age, ancestry/race, disease duration, prior treatments, selected biomarkers (serum complements, anti-dsDNA, IFN-signature)
+- Glucocorticoids: capture dosage details such as the use of pulse methylprednisolone, initial dose, average dosage, tapering scheme
+- Evidence on the efficacy of treatments in relapsing and refractory disease
+
+**PICO 1d.** In patients with SLE and active neuropsychiatric involvement, what is the evidence for the benefits and harms of therapeutic interventions including antimalarials, glucocorticoids, immunosuppressive, biological/targeted agents, plasma exchange/immunoadsorption?
+
+| Population(s) | Intervention(s)-exposure(s) | Comparison | Outcome(s) |
+|---|---|---|---|
+| SLE patients with active neuropsychiatric involvement | Glucocorticoids; Hydroxychloroquine, antimalarials; Immunosuppressive agents; Cytotoxic agents; Methotrexate; Leflunomide; Azathioprine; Cyclophosphamide; Mycophenolate; Ciclosporin; Tacrolimus; Biological agents; Belimumab; Anifrolumab; Rituximab; Obinutuzumab; Ofatumumab; Ocrelizumab; Atacicept; Etanercept; Adalimumab; Abatacept; Tocilizumab; Secukinumab; Ustekinumab; Anakinra; JAK inhibitors (tofacitinib, baricitinib, upadacitinib, deucravacitinib); Proteasome inhibitors; Iberdomide; Litifilimab; Low-dose IL-2; Daratumumab; CD19 CAR-T cells; Plasmapheresis; Plasma exchange; Immunoadsorption; Intravenous immunoglobulin | Standard of care; Placebo; None | Disease activity improvement/worsening (SLEDAI, BILAG): neuropsychiatric-specific domains; Neurological deficit (eg, EDSS); Neuropsychological tests; Psychiatric scales; Physician Global Assessment; Glucocorticoid sparing; Response (SRI-4, BICLA); Disease control; Low disease activity (LLDAS); Remission (various definitions including steroid-free remission); Relapse, flare, time-to-flare; Treatment failure; Organ damage (including cataract, cognitive dysfunction, osteoporotic fracture, osteonecrosis, stroke, cardiovascular disease/MACEs, malignancy, diabetes); Infection; Hospitalizations; Death; Toxicity (including retinopathy); Thrombosis |
+
+*Points to consider (for the SLR and/or data extraction):*
+- Neuropsychiatric lupus as a single entity and according to individual manifestations (ACR nomenclature; 19 syndromes)
+- Stratification according to: patient age, ancestry/race, disease duration, prior treatments, selected biomarkers (serum complements, anti-dsDNA, IFN-signature)
+- Glucocorticoids: capture dosage details such as the use of pulse methylprednisolone, initial dose, average dosage, tapering scheme
+- Evidence on the efficacy of treatments in relapsing and refractory disease
+- Relevant safety outcomes: infections (including HZV, opportunistic), hospitalizations, death
+
+**PICO 1e.** In patients with SLE and active haematological involvement, what is the evidence for the benefits and harms of therapeutic interventions including antimalarials, glucocorticoids, immunosuppressive, biological/targeted agents, plasma exchange/immunoadsorption?
+
+| Population(s) | Intervention(s)-exposure(s) | Comparison | Outcome(s) |
+|---|---|---|---|
+| SLE patients with active haematological involvement | Glucocorticoids; Hydroxychloroquine, antimalarials; Immunosuppressive agents; Cytotoxic agents; Methotrexate; Leflunomide; Azathioprine; Cyclophosphamide; Mycophenolate; Ciclosporin; Tacrolimus; Biological agents; Belimumab; Anifrolumab; Rituximab; Obinutuzumab; Ofatumumab; Ocrelizumab; Atacicept; Etanercept; Adalimumab; Abatacept; Tocilizumab; Secukinumab; Ustekinumab; Anakinra; JAK inhibitors (tofacitinib, baricitinib, upadacitinib, deucravacitinib); Proteasome inhibitors (eg, bortezomib); Iberdomide; Litifilimab; Low-dose IL-2; Daratumumab; CD19 CAR-T cells; Plasmapheresis; Plasma exchange; Immunoadsorption; Intravenous immunoglobulin; Thrombopoietin-receptor agonists (romiplostim, eltrombopag) | Standard of care; Placebo; None | Disease activity improvement/worsening (SLEDAI, BILAG): haematological-specific domains; Complete blood count; Physician Global Assessment; Glucocorticoid sparing; Response (SRI-4, BICLA); Disease control; Low disease activity (LLDAS); Remission (various definitions including steroid-free remission); Relapse, flare, time-to-flare; Treatment failure; Organ damage (including cataract, cognitive dysfunction, osteoporotic fracture, osteonecrosis, stroke, cardiovascular disease/MACEs, malignancy, diabetes); Infection; Hospitalizations; Death; Toxicity (including retinopathy); Cardiovascular disease; Thrombosis |
+
+*Points to consider (for the SLR and/or data extraction):*
+- Stratification according to patient age, ancestry/race, disease duration, prior treatments, selected biomarkers (serum complements, anti-dsDNA, IFN-signature)
+- Glucocorticoids: capture dosage details such as the use of pulse methylprednisolone, initial dose, average dosage, tapering scheme
+- Evidence on the efficacy of treatments in relapsing and refractory disease
+- Relevant safety outcomes: infections (including HZV, opportunistic), hospitalizations, death
+
+**PICO 1f.** In patients with SLE and active kidney involvement, what is the evidence for the benefits and harms of therapeutic interventions including antimalarials, glucocorticoids, immunosuppressive, biological/targeted agents, plasma exchange/immunoadsorption?
+
+| Population(s) | Intervention(s)-exposure(s) | Comparison | Outcome(s) |
+|---|---|---|---|
+| SLE patients with active kidney involvement | Glucocorticoids; Hydroxychloroquine, antimalarials; Immunosuppressive agents; Cytotoxic agents; Methotrexate; Leflunomide; Azathioprine; Cyclophosphamide; Mycophenolate; Ciclosporin; Tacrolimus; Voclosporin; Biological agents; Belimumab; Anifrolumab; Rituximab; Obinutuzumab; Ofatumumab; Ocrelizumab; Atacicept; Telaticept; Dapagliflozin; Etanercept; Adalimumab; Abatacept; Tocilizumab; Secukinumab; Ustekinumab; Anakinra; JAK inhibitors (tofacitinib, baricitinib, upadacitinib, deucravacitinib); Proteasome inhibitors; Iberdomide; Litifilimab; Low-dose IL-2; Daratumumab; CD19 CAR-T cells; Plasmapheresis; Plasma exchange; Immunoadsorption; Intravenous immunoglobulin; RAAS inhibitors; SGLT2 inhibitors (Dapagliflozin) | Standard of care; Mycophenolate; Azathioprine; Cyclophosphamide; Ciclosporin; Tacrolimus; Placebo; None | Kidney function (serum creatinine, eGFR) improvement/worsening; Disease activity improvement/worsening (SLEDAI, BILAG): renal-specific domains; Proteinuria improvement/worsening; Chronic kidney disease; End-stage kidney disease; Histological improvement/worsening (change in activity/chronicity indices); Physician Global Assessment; Glucocorticoid dose/tapering; Renal response (eg, PEER, EULAR-defined endpoints); Renal remission (complete renal response); Relapse, flare, time-to-flare; Treatment failure; Organ damage (including cataract, cognitive dysfunction, osteoporotic fracture, osteonecrosis, stroke, cardiovascular disease/MACEs, malignancy, diabetes); Infection; Hospitalizations; Death; Toxicity (including retinopathy); Thrombosis |
+
+*Points to consider (for the SLR and/or data extraction):*
+- Stratification according to kidney histology: proliferative, mixed proliferative and membranous, pure membranous (class V) lupus nephritis; presence of thrombotic microangiopathy (or other features of APS nephropathy); presence of crescents; activity and chronicity index; presence of IF/TA – limitations of current approaches to histologic classification, use of activity and chronicity scores
+- Stratification according to: patient age, ancestry/race, disease duration, prior treatments, selected biomarkers (serum complements, anti-dsDNA, IFN-signature)
+- Glucocorticoids: dosage details such as the use of pulse methylprednisolone, initial dose, average dosage, tapering scheme
+- Evidence on the efficacy of treatments in relapsing and refractory disease
+- Relevant safety outcomes: infections (including HZV, opportunistic), hospitalizations, death
+
+### PICO 2. In patients with SLE, what is the evidence that attainment of low disease activity and remission are associated with improved patient and disease outcomes?
+
+| Population(s) | Intervention(s)-exposure(s) | Comparison | Outcome(s) |
+|---|---|---|---|
+| SLE patients | Low disease activity; Lupus Low Disease Activity State (LLDAS); Remission; Inactive disease; Disease quiescence; Duration of LLDAS/remission | Active disease; Not in low disease activity or remission or disease quiescence; None | Relapse, flare, time-to-flare; Organ damage (including cataract, cognitive dysfunction, osteoporotic fracture, osteonecrosis, stroke, cardiovascular disease/MACEs, malignancy, diabetes); Kidney function (serum creatinine, eGFR) improvement/worsening; Chronic kidney disease; End-stage kidney disease; Toxicity; Infection; Hospitalizations; Death |
+
+*Points to consider (for the SLR and/or data extraction):*
+- Evidence on the prognostic value of various existing definitions and their modification, treated as binary variables (attainment or not) or (percentage of) time spent under the state
+- Stratification according to: general SLE, lupus nephritis
+- Stratification according to: patient age, ancestry/race, disease duration, selected biomarkers (serological activity, serum complements, anti-dsDNA, IFN-signature)
+
+### PICO 3. In patients with SLE and antiphospholipid syndrome (including thrombotic microangiopathy), what is the evidence for the benefits and harms of therapeutic interventions including antiplatelets, anticoagulants, antimalarials, glucocorticoids, immunosuppressive, biological/targeted agents, plasma exchange/immunoadsorption?
+
+| Population(s) | Intervention(s)-exposure(s) | Comparison | Outcome(s) |
+|---|---|---|---|
+| SLE patients with antiphospholipid syndrome | Glucocorticoids; Hydroxychloroquine, antimalarials; Immunosuppressive agents; Cytotoxic agents; Methotrexate; Leflunomide; Azathioprine; Cyclophosphamide; Mycophenolate; Ciclosporin; Tacrolimus; Voclosporin; Biological agents; Belimumab; Anifrolumab; Rituximab; Obinutuzumab; Ofatumumab; Ocrelizumab; Atacicept; Complement inhibitors (eg, eculizumab); Plasmapheresis; Plasma exchange; Immunoadsorption; Intravenous immunoglobulin; Aspirin; Heparin; Warfarin; Apixaban; Rivaroxaban; Eculizumab | Standard of care; Placebo; None | Organ damage (including cataract, cognitive dysfunction, osteoporotic fracture, osteonecrosis, stroke, cardiovascular disease/MACEs, malignancy, diabetes); Hospitalizations; Death; Toxicity (including bleeding); Cardiovascular disease; Pregnancy/foetal loss; Live birth; Premature birth; Stillbirth; (Pre-)eclampsia; Vascular thrombosis (venous, arterial) |
+
+*Points to consider (for the SLR and/or data extraction):*
+- Stratification according to: APS phenotype (obstetric APS, thrombotic APS, catastrophic APS), patient age, ancestry/race, selected biomarkers (serum complements, anti-dsDNA, IFN-signature)
+- Evidence on the efficacy of treatments in relapsing and refractory disease
+
+### PICO 4. In patients with SLE and quiescent disease, what is the evidence for the benefits and harms of tapering and/or withdrawal of treatment including antimalarials, glucocorticoids, immunosuppressive, biological/targeted agents?
+
+| Population(s) | Intervention(s)-exposure(s) | Comparison | Outcome(s) |
+|---|---|---|---|
+| SLE patients with quiescent disease (low disease activity or remission) | Treatment withdrawal, discontinuation, tapering (including glucocorticoids, hydroxychloroquine, antimalarials, immunosuppressive agents, biological agents); Duration of treatment | Standard of care; Placebo; None | Disease activity (SLEDAI, BILAG): global and specific domains; Physician Global Assessment; Glucocorticoid exposure; Disease control; Disease worsening; Treatment re-initiation; Low disease activity (LLDAS); Remission (including steroid-free remission); Relapse, flare, time-to-flare; Organ damage (including cataract, cognitive dysfunction, osteoporotic fracture, osteonecrosis, stroke, cardiovascular disease/MACEs, malignancy, diabetes); Hospitalizations; Death; Toxicity (including bleeding) |
+
+*Points to consider (for the SLR and/or data extraction):*
+- Data stratification according to: patient age, ancestry/race, selected biomarkers (serum complements, anti-dsDNA, IFN-signature), disease duration, type of disease (SLE, lupus nephritis), tapering/withdrawal of glucocorticoids versus other therapeutic agents
+
+### PICO 5. In patients with SLE, what is the evidence for the benefits and harms of vaccination against infectious pathogens including herpes zoster and SARS-CoV2 viruses?
+
+| Population(s) | Intervention(s)-exposure(s) | Comparison | Outcome(s) |
+|---|---|---|---|
+| SLE patients | Vaccination against zoster; Vaccination against SARS-CoV2 | No vaccination; None | Serological response (protective antibodies); Herpes zoster infection; SARS-CoV2 infection; COVID-19; Need for hospitalization (eg, need for oxygen supply, ICU); Death; Disease activity (SLEDAI, BILAG): global and specific domains; Physician Global Assessment; Glucocorticoid exposure; Disease control; Disease worsening; Relapse, flare, time-to-flare; Toxicity |
+
+*Points to consider (for the SLR and/or data extraction):*
+- Stratification according to: patient age, ancestry/race, disease status (active, inactive), type of disease (SLE, lupus nephritis), concomitant treatments (dose of glucocorticoids, immunosuppressives, biologics), major comorbidities (diabetes mellitus, cardiovascular disease, chronic respiratory disorders)
+- Stratification according to type of vaccine (eg, attenuated, recombinant, mRNA), number of booster vaccinations
+
+## Inclusion and exclusion criteria
+
+**Inclusion criteria:**
+
+- SLE adult population
+- Studies reporting data regarding efficacy/safety of treatments/withdrawal of treatments
+- Studies reporting data regarding efficacy/safety of immunization against herpes or SARS-CoV2
+- Studies reporting outcomes associated with attainment of low disease activity or remission
+
+Eligible trial designs:
+- Meta-analyses
+- RCTs, quasi-RCTs
+- Cohort studies (prospective and retrospective)
+- Case-control studies
+- Cross sectional-studies
+
+**Exclusion criteria:**
+
+- Reviews
+- Case series
+- Case reports
+- Conference abstracts
+- Animal studies
+- Non-English language
+- Trials with population <20
+- Trials on paediatric populations
+
