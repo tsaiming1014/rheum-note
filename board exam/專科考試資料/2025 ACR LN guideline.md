@@ -79,3 +79,32 @@ Terminology, definitions, and abbreviations are summarized in Table 2; recommend
 
 *LN, lupus nephritis.*
 
+### Table 2. Guideline terminology, definitions, and abbreviations
+
+| Terminology | ACR LN Guideline Definitions<sup>a</sup> |
+|---|---|
+| **Kidney biopsy** | |
+| Diagnostic | Biopsy performed to establish diagnosis and guide treatment |
+| For cause | Biopsy performed in response to clinical indications or change in patient status |
+| Per protocol | Biopsy performed according to a predetermined schedule or study protocol, regardless of clinical response |
+| **Therapy** | |
+| Initial / induction therapy | *Prior terminology:* Therapy prescribed immediately after diagnosis of new LN or flare of LN |
+| Subsequent / maintenance therapy | *Prior terminology:* Therapy prescribed to patients on initial therapy for 6–12 months who have achieved at least a PRR |
+| Lupus nephritis therapy | *Preferred terminology:* Ongoing therapy (ie, initial plus subsequent therapy) based on current recommendations for combination therapy that starts at diagnosis and continues throughout the treatment course.<br><br>**TRIPLE therapy:** GC (pulse intravenous: 250–1000 mg methylprednisolone daily × 1–3 days, followed by oral 0.5 mg/kg/day (maximum dose 40 mg/day) taper. Plus: two immunosuppressive therapies, usually a) MPAA plus belimumab OR b) MPAA plus CNI OR c) ELNT low-dose CYC plus belimumab (MPAA substituted for CYC after CYC course is completed).<br><br>**DUAL therapy:** GC plus one immunosuppressive therapy, usually MPAA or ELNT low-dose CYC |
+| **Renal response** | |
+| Complete renal response (CRR) | Within 6–12 months of starting therapy (may take >12 months):<br>- Reduction in proteinuria <0.5 g/g (50 mg/mmol) (24-hour collection or urine protein/creatinine ratio); AND<br>- Stabilization or improvement in kidney function (±20% baseline i.e. at least 80% of baseline)<sup>b</sup> |
+| Partial renal response (PRR) | Within 6–12 months of starting therapy:<br>- Reduction in proteinuria by at least 50% and to <3 g/g (300 mg/mmol) (24-hour collection or urine protein/creatinine ratio); AND<br>- Stabilization of kidney function (±20% baseline i.e., at least 80% baseline)<sup>b</sup> |
+| Inadequate renal response / Nonresponse | Lack of achieving at least a PRR despite adherence to appropriate treatment for active LN of any class by 6–12 months |
+| Refractory disease | Persistently active disease and absence of at least a PRR to at least two different appropriate 6-month courses of therapy for active LN of any class |
+| Proteinuria | Protein as measured by 24-hour collection (g/24hr) or random urine protein-creatinine ratio (g/g) |
+| Glomerular hematuria | Urine sediment positive for acanthocytes, ≥5%, RBC casts |
+| Decreased kidney function | Abnormal eGFR below expected level for age and clinical history, or decreasing eGFR with no attribution other than SLE<sup>c</sup> |
+
+\* ACR, American College of Rheumatology; CNI, calcineurin inhibitor therapy; CYC, cyclophosphamide; eGFR, estimated glomerular filtration rate; ELNT, Euro-Lupus Nephritis Trial; GC, glucocorticoid; LN, lupus nephritis; MPAA, mycophenolic acid analogs; RBC, red blood cell; SLE, systemic lupus erythematosus.
+
+<sup>a</sup> Terminology and definitions vary across specialties, guidelines, and clinical trials. Those listed here reflect the consensus of the Voting Panel as being both reasonable and relevant; however, no systematic analyses were performed, and others may prefer alternative definitions.
+
+<sup>b</sup> Some experts and clinical trials have included a requirement for low dose of prednisone (eg, ≤5 mg/d equivalent) in addition to proteinuria and renal function requirements for CRR and PRR definitions; however, many do not. This was extensively discussed when definitions were created. Although GC dose is a part of validated SLE remission criteria, and while we recommend a goal of ≤5 mg/d prednisone equivalent by 6 months of therapy in this guideline, we did not consider this to be an appropriate mandatory criterion for the renal response definitions.
+
+<sup>c</sup> Variably defined across studies – both irreversible damage and active disease impact kidney function and proteinuria and may require kidney biopsy to distinguish.
+
