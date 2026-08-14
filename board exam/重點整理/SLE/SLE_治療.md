@@ -58,7 +58,7 @@ LLDAS 需維持至少 12 個月以上才具有預後意義（與較低的 damage
 - 治療滿 4 週後開始減量，目標 6 個月內降至 ≤7.5 mg/day
 - **重度快速惡化疾病**或需要 >0.6 mg/kg/day 才能控制病情 → 考慮 IV MP pulse（250–1000 mg/day × 1–3 天），可降低累積口服劑量、減少 damage 累積、加速緩解
 - **毒性**：早期（情緒變化、痤瘡、肌痛、感染）、中期（代謝）、晚期（骨質疏鬆、AVN、白內障、CVD）
-- **慢性維持劑量應 <7.5 mg/day prednisone equivalent**（若無法完全停用）
+- **慢性維持劑量應 <7.5 mg/day prednisone equivalent**（若無法完全停用）——此為 Kelly／2019 EULAR 之數字；**2023 EULAR 與 2025 ACR guideline 已將此門檻下修為 ≤5 mg/day**（ACR列為Strong recommendation：prednisone>5mg/day之穩定病人應於6個月內減至≤5mg/day，理想為0）(Guideline補充)
 - 減量需謹慎：SLE clinically quiescent >1年的病人，若驟然停用 5mg/day prednisone，flare 風險上升（RR 0.2，95% CI 0.1–0.7，維持5mg組風險較低）
 
 ### 抗瘧藥（Hydroxychloroquine, HCQ）
