@@ -337,3 +337,128 @@ In conclusion, the 2023 recommendations for the management of SLE provide curren
 - George Bertsias http://orcid.org/0000-0001-5299-1406
 - Dimitrios T Boumpas http://orcid.org/0000-0002-9812-4671
 
+---
+
+## REFERENCES
+
+1. Bertsias G, Ioannidis JPA, Boletis J, et al. EULAR recommendations for the management of systemic lupus erythematosus. Report of a task force of the EULAR standing committee for International clinical studies including therapeutics. Ann Rheum Dis 2008;67:195–205.
+2. Bertsias GK, Ioannidis JPA, Aringer M, et al. EULAR recommendations for the management of systemic lupus erythematosus with neuropsychiatric manifestations: report of a task force of the EULAR standing committee for clinical affairs. Ann Rheum Dis 2010;69:2074–82.
+3. Bertsias GK, Tektonidou M, Amoura Z, et al. Joint European league against rheumatism and European renal association-European dialysis and transplant association (EULAR/ERA-EDTA) recommendations for the management of adult and paediatric lupus nephritis. Ann Rheum Dis 2012;71:1771–82.
+4. Andreoli L, Bertsias GK, Agmon-Levin N, et al. EULAR recommendations for women's health and the management of family planning, assisted reproduction, pregnancy and menopause in patients with systemic lupus erythematosus and/or antiphospholipid syndrome. Ann Rheum Dis 2017;76:476–85.
+5. Mosca M, Tani C, Aringer M, et al. European league against rheumatism recommendations for monitoring patients with systemic lupus erythematosus in clinical practice and in observational studies. Ann Rheum Dis 2010;69:1269–74.
+6. Parodis I, Houssiau FA. From sequential to combination and personalised therapy in lupus nephritis: moving towards a paradigm shift. Ann Rheum Dis 2022;81:15–9.
+7. Kostopoulou M, Fanouriakis A, Bertsias G, et al. Treatment of lupus: more options after a long wait. Ann Rheum Dis 2022;81:753–6.
+8. Smolen JS, Landewé RBM, Bergstra SA, et al. EULAR recommendations for the management of rheumatoid arthritis with synthetic and biological disease-modifying antirheumatic drugs: 2022 update. Ann Rheum Dis 2023;82:3–18.
+9. Ramiro S, Nikiphorou E, Sepriano A, et al. ASAS-EULAR recommendations for the management of axial spondyloarthritis: 2022 update. Ann Rheum Dis 2023;82:19–34.
+10. van der Heijde D, Aletaha D, Carmona L, et al. Update of the EULAR standardised operating procedures for EULAR-endorsed recommendations. Ann Rheum Dis 2015;74:8–13.
+11. Brouwers MC, Kho ME, Browman GP, et al. AGREE II: advancing guideline development, reporting and evaluation in health care. CMAJ 2010;182:E839–42.
+12. Holwick J, Chalmers I, Galsziou P, et al. Explanation of the 2011 Oxford centre for evidence-based medicine (OCEBM) levels of evidence (background document). In: Oxford Centre for Evidence-Based Medicine. 2011.
+13. Kostopoulou M, Fanouriakis A, Cheema K, et al. Management of lupus nephritis: a systematic literature review informing the 2019 update of the joint EULAR and European renal association-European dialysis and transplant association (EULAR/ERA-EDTA) recommendations. RMD Open 2020;6:e001263.
+14. Chasset F, Francès C, Barete S, et al. Influence of smoking on the efficacy of antimalarials in cutaneous lupus: a meta-analysis of the literature. J Am Acad Dermatol 2015;72:634–9.
+15. Parodis I, Sjöwall C, Jönsen A, et al. Smoking and pre-existing organ damage reduce the efficacy of Belimumab in systemic lupus erythematosus. Autoimmunity Reviews 2017;16:343–51.
+16. Parodis I, Girard-Guyonvarc'h C, Arnaud L, et al. EULAR recommendations for the non-pharmacological management of systemic lupus erythematosus and systemic sclerosis. Ann Rheum Dis 2023:ard-2023-224416.
+17. Isenberg D, Appel GB, Contreras G, et al. Influence of race/Ethnicity on response to lupus nephritis treatment: the ALMS study. Rheumatology (Oxford) 2010;49:128–40.
+18. Aringer M, Costenbader K, Daikh D, et al. European league against rheumatism/American college of rheumatology classification criteria for systemic lupus erythematosus. Ann Rheum Dis 2019;78:1151–9.
+19. Kapsala NN, Nikolopoulos DS, Flouda SP, et al. From first symptoms to diagnosis of systemic lupus erythematosus: mapping the journey of patients in an observational study. Clin Exp Rheumatol 2023;41:74–81.
+20. Kernder A, Richter JG, Fischer-Betz R, et al. Delayed diagnosis adversely affects outcome in systemic lupus erythematosus: cross sectional analysis of the lula cohort. Lupus 2021;30:431–8.
+21. van Vollenhoven RF, Bertsias G, Doria A, et al. DORIS definition of remission in SLE: final recommendations from an international task force. Lupus Sci Med 2021;8:e000538.
+22. Franklyn K, Lau CS, Navarra SV, et al. Definition and initial validation of a lupus low disease activity state (LLDAS). Ann Rheum Dis 2016;75:1615–21.
+23. Costedoat-Chalumeau N, Pouchot J, Guettrot-Imbert G, et al. Adherence to treatment in systemic lupus erythematosus patients. Best Pract Res Clin Rheumatol 2013;27:329–40.
+24. Melles RB, Marmor MF. The risk of toxic retinopathy in patients on long-term hydroxychloroquine therapy. JAMA Ophthalmol 2014;132:1453–60.
+25. Jorge AM, Mancini C, Zhou B, et al. Hydroxychloroquine dose per ophthalmology guidelines and the risk of systemic lupus erythematosus flares. JAMA 2022;328:1458–60.
+26. Garg S, Unnithan R, Hansen KE, et al. Clinical significance of monitoring hydroxychloroquine levels in patients with systemic lupus erythematosus: a systematic review and meta-analysis. Arthritis Care Res (Hoboken) 2021;73:707–16.
+27. Marmor MF, Kellner U, Lai TYY, et al. Recommendations on screening for chloroquine and hydroxychloroquine retinopathy (2016 revision). Ophthalmology 2016;123:1386–94.
+28. Stahn C, Buttgereit F. Genomic and nongenomic effects of glucocorticoids. Nat Rev Rheumatol 2008;4:525–33.
+29. Ruiz-Irastorza G, Ugarte A, Saint-Pastou Terrier C, et al. Repeated pulses of methylprednisolone with reduced doses of prednisone improve the outcome of class III, IV and V lupus nephritis: an observational comparative study of the lupus-cruces and lupus-Bordeaux cohorts. Autoimmun Rev 2017;16:826–32.
+30. Kallas R, Li J, Petri M. Predictors of osteonecrosis in systemic lupus erythematosus: a prospective cohort study. Arthritis Care Res (Hoboken) 2022;74:1122–32.
+31. Tselios K, Gladman DD, Al-Sheikh H, et al. Medium versus high initial prednisone dose for remission induction in lupus nephritis: a propensity score-matched analysis. Arthritis Care Res (Hoboken) 2022;74:1451–8.
+32. Ruiz-Arruza I, Barbosa C, Ugarte A, et al. Comparison of high versus low-medium prednisone doses for the treatment of systemic lupus erythematosus patients with high activity at diagnosis. Autoimmun Rev 2015;14:875–9.
+33. Furie RA, Morand EF, Bruce IN, et al. Type I interferon inhibitor anifrolumab in active systemic lupus erythematosus (TULIP-1): a randomised, controlled, phase 3 trial. Lancet Rheumatol 2019;1:e208–19.
+34. Morand EF, Furie R, Tanaka Y, et al. Trial of anifrolumab in active systemic lupus erythematosus. N Engl J Med 2020;382:211–21.
+35. Singh JA, Shah NP, Mudano AS. Belimumab for systemic lupus erythematosus. Cochrane Database Syst Rev 2021;2:CD010668.
+36. Tam L-S, Li EK, Wong C-K, et al. Double-blind, randomized, placebo-controlled pilot study of leflunomide in systemic lupus erythematosus. Lupus 2004;13:601–4.
+37. Alshaiki F, Obaid E, Almuallim A, et al. Outcomes of rituximab therapy in refractory lupus: a meta-analysis. Eur J Rheumatol 2018;5:118–26.
+38. Jónsdóttir T, Gunnarsson I, Risselada A, et al. Treatment of refractory SLE with rituximab plus cyclophosphamide: clinical effects, serological changes, and predictors of response. Ann Rheum Dis 2008;67:330–4.
+39. Li EK, Tam L-S, Zhu TY, et al. Is combination rituximab with cyclophosphamide better than rituximab alone in the treatment of lupus nephritis. Rheumatology (Oxford) 2009;48:892–8.
+40. Kraaij T, Kamerling SWA, de Rooij ENM, et al. The NET-effect of combining rituximab with belimumab in severe systemic lupus erythematosus. J Autoimmun 2018;91:45–54.
+41. Atisha-Fregoso Y, Malkiel S, Harris KM, et al. Phase II randomized trial of Rituximab plus cyclophosphamide followed by belimumab for the treatment of lupus nephritis. Arthritis Rheumatol 2021;73:121–31.
+42. Kronbichler A, Brezina B, Quintana LF, et al. Efficacy of plasma exchange and immunoadsorption in systemic lupus erythematosus and antiphospholipid syndrome: a systematic review. Autoimmun Rev 2016;15:38–49.
+43. Leone A, Radin M, Almarzooqi AM, et al. Autologous hematopoietic stem cell transplantation in systemic lupus erythematosus and antiphospholipid syndrome: a systematic review. Autoimmun Rev 2017;16:469–77.
+44. Mackensen A, Müller F, Mougiakakos D, et al. Anti-CD19 CAR T cell therapy for refractory systemic lupus erythematosus. Nat Med 2022;28:2124–32.
+45. Chasset F, Arnaud L, Jachiet M, et al. Changing antimalarial agents after inefficacy or intolerance in patients with cutaneous lupus erythematosus: a multicenter observational study. J Am Acad Dermatol 2018;78:107–14.
+46. Ugarte A, Porta S, Ríos R, et al. Combined mepacrine–hydroxychloroquine treatment in patients with systemic lupus erythematosus and refractory cutaneous and articular activity. Lupus 2018;27:1718–22.
+47. Chasset F, Bouaziz J-D, Costedoat-Chalumeau N, et al. Efficacy and comparison of antimalarials in cutaneous lupus erythematosus subtypes: a systematic review and meta-analysis. Br J Dermatol 2017;177:188–96.
+48. Keyes E, Jobanputra A, Feng R, et al. Comparative responsiveness of cutaneous lupus erythematosus patients to methotrexate and mycophenolate mofetil: a cohort study. J Am Acad Dermatol 2022;87:447–8.
+49. Morand EF, Furie RA, Bruce IN, et al. Efficacy of anifrolumab across organ domains in patients with moderate-to-severe systemic lupus erythematosus: a post-hoc analysis of pooled data from the TULIP-1 and TULIP-2 trials. Lancet Rheumatol 2022;4:e282–92.
+50. Kneeland R, Montes D, Endo J, et al. Improvement in cutaneous lupus erythematosus after twenty weeks of Belimumab use: a systematic review and meta-analysis. Arthritis Care Res (Hoboken) 2023;75:1838–48.
+51. Chasset F, Tounsi T, Cesbron E, et al. Efficacy and tolerance profile of thalidomide in cutaneous lupus erythematosus: a systematic review and meta-analysis. J Am Acad Dermatol 2018;78:342–50.
+52. Aitmehdi R, Arnaud L, Francès C, et al. Long-term efficacy and safety outcomes of lenalidomide for cutaneous lupus erythematosus: a multicenter retrospective observational study of 40 patients. J Am Acad Dermatol 2021;84:1171–4.
+53. Govoni M, Hanly JG. The management of neuropsychiatric lupus in the 21st century: still so many unmet needs. Rheumatology (Oxford) 2020;59:v52–62.
+54. Bortoluzzi A, Scirè CA, Bombardieri S, et al. Development and validation of a new algorithm for attribution of neuropsychiatric events in systemic lupus erythematosus. Rheumatology (Oxford) 2015;54:891–8.
+55. Hanly JG, Su L, Farewell V, et al. Prospective study of neuropsychiatric events in systemic lupus erythematosus. J Rheumatol 2009;36:1449–59.
+56. Narváez J, Ríos-Rodriguez V, de la Fuente D, et al. Rituximab therapy in refractory neuropsychiatric lupus: current clinical evidence. Semin Arthritis Rheum 2011;41:364–72.
+57. Serris A, Amoura Z, Canouï-Poitrine F, et al. Efficacy and safety of rituximab for systemic lupus erythematosus-associated immune cytopenias: a multicenter retrospective cohort study of 71 adults. Am J Hematol 2018;93:424–9.
+58. Moysidou G-S, Garantziotis P, Nikolopoulos D, et al. Relapses are common in severe hematologic systemic lupus erythematosus and may be prevented by early institution of immunosuppressive agents: a real-life single-center study. Lupus 2023;32:225–30.
+59. Bradbury CA, Pell J, Hill Q, et al. Mycophenolate mofetil for first-line treatment of immune thrombocytopenia. N Engl J Med 2021;385:885–95.
+60. Roussotte M, Gerfaud-Valentin M, Hot A, et al. Immune thrombocytopenia with clinical significance in systemic lupus erythematosus: a retrospective cohort study of 90 patients. Rheumatology (Oxford) 2022;61:3627–39.
+61. Catalá-López F, Corrales I, de la Fuente-Honrubia C, et al. Risk of thromboembolism with thrombopoietin receptor agonists in adult patients with thrombocytopenia: systematic review and meta-analysis of randomized controlled trials. Med Clin (Barc) 2015;145:511–9.
+62. Houssiau FA, Vasconcelos C, D'Cruz D, et al. Immunosuppressive therapy in lupus nephritis: the Euro-lupus nephritis trial, a randomized trial of low-dose versus high-dose intravenous cyclophosphamide. Arthritis Rheum 2002;46:2121–31.
+63. Anders H-J, Saxena R, Zhao M-H, et al. Lupus nephritis. Nat Rev Dis Primers 2020;6:7.
+64. Furie R, Rovin BH, Houssiau F, et al. Two-year, randomized, controlled trial of belimumab in lupus nephritis. N Engl J Med 2020;383:1117–28.
+65. Rovin BH, Teng YKO, Ginzler EM, et al. Efficacy and safety of voclosporin versus placebo for lupus nephritis (AURORA 1): a double-blind, randomised, multicentre, placebo-controlled, phase 3 trial. Lancet 2021;397:2070–80.
+66. Rovin BH, Furie R, Teng YKO, et al. A secondary analysis of the belimumab international study in lupus nephritis trial examined effects of belimumab on kidney outcomes and preservation of kidney function in patients with lupus nephritis. Kidney Int 2022;101:403–13.
+67. Furie R, Rovin BH, Houssiau F, et al. Safety and efficacy of belimumab in patients with lupus nephritis: open-label extension of BLISS-LN study. Clin J Am Soc Nephrol 2022;17:1620–30.
+68. Luís MSF, Bultink IEM, da Silva JAP, et al. Early predictors of renal outcome in patients with proliferative lupus nephritis: a 36-month cohort study. Rheumatology (Oxford) 2021;60:5134–41.
+69. Kapsia E, Marinaki S, Michelakis I, et al. Predictors of early response, flares, and long-term adverse renal outcomes in proliferative lupus nephritis: a 100-month median follow-up of an inception cohort. J Clin Med 2022;11:5017.
+70. Zhou T, Zhang X, Lin W, et al. Multitarget therapy: an effective and safe therapeutic regimen for lupus nephritis. J Pharm Pharm Sci 2019;22:365–75.
+71. Arriens C, Teng YKO, Ginzler EM, et al. Update on the efficacy and safety profile of voclosporin: an integrated analysis of clinical trials in lupus nephritis. Arthritis Care Res (Hoboken) 2023;75:1399–408.
+72. Fanouriakis A, Kostopoulou M, Cheema K, et al. Update of the joint European league against rheumatism and European renal association–European dialysis and transplant association (EULAR/ERA–EDTA) recommendations for the management of lupus nephritis. Ann Rheum Dis 2020;79:713–23.
+73. Tai S, Anumolu N, Putman M. Challenging wisely: how to move beyond '1 mg/kg then taper'. Rheumatology (Oxford) 2022;62:3–6.
+74. Sciascia S, Yazdany J, Dall'Era M, et al. Anticoagulation in patients with concomitant lupus nephritis and thrombotic microangiopathy: a multicentre cohort study. Ann Rheum Dis 2019;78:1004–6.
+75. Wright RD, Bannerman F, Beresford MW, et al. A systematic review of the role of eculizumab in systemic lupus erythematosus-associated thrombotic microangiopathy. BMC Nephrol 2020;21:245.
+76. Moroni G, Gatto M, Tamborini F, et al. Lack of EULAR/ERA-EDTA response at 1 year predicts poor long-term renal outcome in patients with lupus nephritis. Ann Rheum Dis 2020;79:1077–83.
+77. Jourde-Chiche N, Costedoat-Chalumeau N, Baumstarck K, et al. Weaning of maintenance immunosuppressive therapy in lupus nephritis (WIN-lupus): results of a multicentre randomised controlled trial. Ann Rheum Dis 2022;81:1420–7.
+78. Liu Z, Zhang H, Liu Z, et al. Multitarget therapy for induction treatment of lupus nephritis: a randomized trial. Ann Intern Med 2015;162:18–26.
+79. Mok CC, Ho LY, Ying SKY, et al. Long-term outcome of a randomised controlled trial comparing tacrolimus with mycophenolate mofetil as induction therapy for active lupus nephritis. Ann Rheum Dis 2020;79:1070–6.
+80. Saxena A, Ginzler EM, Gibson K, et al. Safety and efficacy of long-term Voclosporin treatment for lupus nephritis in the phase 3 AURORA 2 clinical trial. Arthritis Rheumatol 2023.
+81. Walsh M, Solomons N, Lisk L, et al. Mycophenolate mofetil or intravenous cyclophosphamide for lupus nephritis with poor kidney function: a subgroup analysis of the Aspreva lupus management study. Am J Kidney Dis 2013;61:710–5.
+82. Ji L, Xie W, Zhang Z. Low-dose glucocorticoids should be withdrawn or continued in systemic lupus erythematosus? A systematic review and meta-analysis on risk of flare and damage accrual. Rheumatology (Oxford) 2021;60:5517–26.
+83. Mathian A, Pha M, Haroche J, et al. Withdrawal of low-dose prednisone in SLE patients with a clinically quiescent disease for more than 1 year: a randomised clinical trial. Ann Rheum Dis 2020;79:339–46.
+84. Tselios K, Gladman DD, Su J, et al. Gradual glucocorticosteroid withdrawal is safe in clinically quiescent systemic lupus erythematosus. ACR Open Rheumatol 2021;3:550–7.
+85. Fasano S, Coscia MA, Pierro L, et al. Which patients with systemic lupus erythematosus in remission can withdraw low dose steroids? Results from a single inception cohort study. Lupus 2021;30:991–7.
+86. Zen M, Fuzzi E, Loredo Martinez M, et al. Immunosuppressive therapy withdrawal after remission achievement in patients with lupus nephritis. Rheumatology 2022;61:688–95.
+87. Moroni G, Longhi S, Giglio E, et al. What happens after complete withdrawal of therapy in patients with lupus nephritis. Clin Exp Rheumatol 2013;31:S75–81.
+88. De Rosa M, Azzato F, Toblli JE, et al. A prospective observational cohort study highlights kidney biopsy findings of lupus nephritis patients in remission who flare following withdrawal of maintenance therapy. Kidney Int 2018;94:788–94.
+89. Malvar A, Alberton V, Lococo B, et al. Kidney biopsy–based management of maintenance immunosuppression is safe and may ameliorate flare rate in lupus nephritis. Kidney Int 2020;97:156–62.
+90. Jorge A, McCormick N, Lu N, et al. Hydroxychloroquine and mortality among patients with systemic lupus erythematosus in the general population. Arthritis Care Res (Hoboken) 2021;73:1219–23.
+91. Papachristos DA, Gladman DD, Su J, et al. Outcomes following antimalarial withdrawal in patients with quiescent systemic lupus erythematosus. Semin Arthritis Rheum 2022;55:152046.
+92. Almeida-Brasil CC, Hanly JG, Urowitz M, et al. Flares after hydroxychloroquine reduction or discontinuation: results from the systemic lupus international collaborating clinics (SLICC) inception cohort. Ann Rheum Dis 2022;81:370–8.
+93. Almeida-Brasil CC, Pineau CA, Vinet E, et al. Predictors of unsuccessful hydroxychloroquine tapering and discontinuation: can we personalize decision-making in systemic lupus erythematosus treatment. Arthritis Care Res (Hoboken) 2022;74:1070–8.
+94. Ji L, Xie W, Fasano S, et al. Risk factors of flare in patients with systemic lupus erythematosus after glucocorticoids withdrawal. A systematic review and meta-analysis. Lupus Sci Med 2022;9:e000603.
+95. Tektonidou MG, Andreoli L, Limper M, et al. EULAR recommendations for the management of antiphospholipid syndrome in adults. Ann Rheum Dis 2019;78:1296–304.
+96. Khairani CD, Bejjani A, Piazza G, et al. Direct oral anticoagulants vs vitamin K antagonists in patients with antiphospholipid syndromes: meta-analysis of randomized trials. J Am Coll Cardiol 2023;81:16–30.
+97. Kravvariti E, Koutsogianni A, Samoli E, et al. The effect of hydroxychloroquine on thrombosis prevention and antiphospholipid antibody levels in primary antiphospholipid syndrome: a pilot open label randomized prospective study. Autoimmun Rev 2020;19:102491.
+98. Tektonidou MG, Laskari K, Panagiotakos DB, et al. Risk factors for thrombosis and primary thrombosis prevention in patients with systemic lupus erythematosus with or without antiphospholipid antibodies. Arthritis Rheum 2009;61:29–36.
+99. Petri M, Konig MF, Li J, et al. Association of higher hydroxychloroquine blood levels with reduced thrombosis risk in systemic lupus erythematosus. Arthritis Rheumatol 2021;73:997–1004.
+100. López-Benjume B, Rodríguez-Pintó I, Amigo MC, et al. Eculizumab use in catastrophic antiphospholipid syndrome (CAPS): descriptive analysis from the "CAPS registry". Autoimmun Rev 2022;21:103055.
+101. Furer V, Rondaan C, Heijstek MW, et al. 2019 update of EULAR recommendations for vaccination in adult patients with autoimmune inflammatory rheumatic diseases. Ann Rheum Dis 2020;79:39–52.
+102. Drosos GC, Vedder D, Houben E, et al. EULAR recommendations for cardiovascular risk management in rheumatic and musculoskeletal diseases, including systemic lupus erythematosus and antiphospholipid syndrome. Ann Rheum Dis 2022;81:768–79.
+103. Kwan A, Rayes HA, Lazova T, et al. Herpes zoster in SLE: prevalence, incidence and risk factors. Lupus Sci Med 2022;9:e000574.
+104. Mok CC, Chan KH, Ho LY, et al. Safety and immune response of a live-attenuated herpes Zoster vaccine in patients with systemic lupus erythematosus: a randomised placebo-controlled trial. Ann Rheum Dis 2019;78:1663–8.
+105. Leung J, Anderson TC, Dooling K, et al. Recombinant zoster vaccine uptake and risk of flares among older adults with immune-mediated inflammatory diseases in the US. Arthritis Rheumatol 2022;74:1833–41.
+106. Tan SYS, Yee AM, Sim JJL, et al. COVID-19 vaccination in systemic lupus erythematosus: a systematic review of its effectiveness, immunogenicity, flares and acceptance. Rheumatology 2023;62:1757–72.
+107. Fragoulis GE, Nikiphorou E, Dey M, et al. EULAR recommendations for screening and prophylaxis of chronic and opportunistic infections in adults with autoimmune inflammatory rheumatic diseases. Ann Rheum Dis 2023;82:742–53.
+108. Tselios K, Gladman DD, Su J, et al. Impact of the new American college of cardiology/American heart association definition of hypertension on atherosclerotic vascular events in systemic lupus erythematosus. Ann Rheum Dis 2020;79:612–7.
+109. Hakroush S, Tampe D, Kluge IA, et al. Comparative analysis of SGLT-2 expression in renal vasculitis and lupus nephritis. Ann Rheum Dis 2022;81:1048–50.
+110. Wang H, Li T, Sun F, et al. Safety and efficacy of the SGLT2 inhibitor dapagliflozin in patients with systemic lupus erythematosus: a phase I/II trial. RMD Open 2022;8:e002686.
+111. Gatto M, Saccon F, Zen M, et al. Early disease and low baseline damage as predictors of response to belimumab in patients with systemic lupus erythematosus in a real-life setting. Arthritis Rheumatol 2020;72:1314–24.
+112. Nikoloudaki M, Nikolopoulos D, Koutsoviti S, et al. Clinical response trajectories and drug persistence in systemic lupus erythematosus patients on Belimumab treatment: a real-life, multicentre observational study. Front Immunol 2023;13:1074044.
+113. Bruce IN, Golam S, Steenkamp J, et al. Indirect treatment comparison of anifrolumab efficacy versus belimumab in adults with systemic lupus erythematosus. J Comp Eff Res 2022;11:765–77.
+114. Neupane B, Shukla P, Slim M, et al. Belimumab versus anifrolumab in adults with systemic lupus erythematosus: an indirect comparison of clinical response at 52 weeks. Lupus Sci Med 2023;10:e000907.
+115. Vital EM, Merrill JT, Morand EF, et al. Anifrolumab efficacy and safety by type I interferon gene signature and clinical subgroups in patients with SLE: post hoc analysis of pooled data from two phase III trials. Ann Rheum Dis 2022;81:951–61.
+116. van Vollenhoven RF, Petri MA, Cervera R, et al. Belimumab in the treatment of systemic lupus erythematosus: high disease activity predictors of response. Ann Rheum Dis 2012;71:1343–9.
+117. Pisetsky DS, Clowse MEB, Criscione-Schreiber LG, et al. A novel system to categorize the symptoms of systemic lupus erythematosus. Arthritis Care Res (Hoboken) 2019;71:735–41.
+118. Geenen R, Overman CL, Christensen R, et al. EULAR recommendations for the health professional's approach to pain management in inflammatory arthritis and osteoarthritis. Ann Rheum Dis 2018;77:797–807.
+119. Chavatza K, Kostopoulou M, Nikolopoulos D, et al. Quality indicators for systemic lupus erythematosus based on the 2019 EULAR recommendations: development and initial validation in a cohort of 220 patients. Ann Rheum Dis 2021;80:1175–82.
+120. Taheri N, Mageau A, Chauveheid M-P, et al. Impact of adherence to EULAR quality indicators on the quality of life of patients with systemic lupus erythematosus. Eur J Intern Med 2023;109:68–72.
+
