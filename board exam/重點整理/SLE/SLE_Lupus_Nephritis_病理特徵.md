@@ -1,6 +1,22 @@
 # Lupus Nephritis 病理切片特徵整理
 
-## 一、沉積部位與對應分類（Kelly Ch.081）
+## 一、ISN/RPS 組織分類（重要！）
+
+| Class | 名稱 | 組織特徵 | IC 位置 | 臨床表現 | 預後 |
+|-------|------|---------|---------|---------|------|
+| **I** | Minimal Mesangial | LM 正常 | 系膜（IF/EM）| 無症狀 | 極佳 |
+| **II** | Mesangial Proliferative | 系膜細胞↑ | 系膜 | 輕微血尿/蛋白尿 | 佳 |
+| **III** | Focal（<50% 腎絲球）| 內皮下增生；局灶 | 內皮下 | 血尿 + 蛋白尿 | 中 |
+| **IV** | Diffuse（≥50% 腎絲球）| 彌漫增生；**wire loop**；新月體 | 內皮下（廣泛）| 腎炎症候群 + 腎功能惡化 | **最差** |
+| **V** | Membranous | 上皮下 IC；毛細管壁增厚 | 上皮下 | 腎病症候群（大量蛋白尿）| 中 |
+| **VI** | Advanced Sclerotic | >90% 全球性硬化 | — | 腎功能衰竭 | 最差（ESKD）|
+
+> Class IV-S vs IV-G：
+>
+> - IV-S = 各腎絲球中 <50% 小葉受累（segmental）
+> - IV-G = 各腎絲球中 ≥50% 小葉受累（global）
+
+## 二、沉積部位與對應分類（Kelly Ch.081）
 
 > "Thick **subendothelial** immune deposits form classic 'wire loop' lesions." — Kelly Ch.081
 
@@ -18,7 +34,7 @@
 | Hyaline thrombi | 微血管/小動脈管腔內（免疫複合體堆積，呈玻璃樣） | Class III/IV 活動性指標 |
 | Tubuloreticular inclusions | 內皮細胞「胞漿內」（非免疫複合體本身） | 提示 IFN signature，非特異性但支持狼瘡診斷；需排除 HBV/HCV/HIV 等慢性病毒感染 |
 
-## 二、Activity Index vs Chronicity Index（病理預後因子）
+## 三、Activity Index vs Chronicity Index（病理預後因子）
 
 Lupus nephritis（尤其 Class III/IV 增生性腎炎）的病理報告會分別評估 **activity index（活動性指數，可逆）**與 **chronicity index（慢性化指數，不可逆）**，兩者病理意義與治療意涵相反：
 
@@ -32,7 +48,7 @@ Lupus nephritis（尤其 Class III/IV 增生性腎炎）的病理報告會分別
 
 **臨床意義：** Activity index 高代表疾病活動度高，積極免疫抑制治療仍有機會逆轉腎功能；Chronicity index 高則代表已有不可逆的結構性損傷，即使積極治療也難以恢復，兩者合併評估可協助判斷治療強度與預後。
 
-## 三、Activity/Chronicity Index 計分方式（Revised NIH Scoring System，Bajema et al. 2018）
+## 四、Activity/Chronicity Index 計分方式（Revised NIH Scoring System，Bajema et al. 2018）
 
 > ⚠️ 此節內容為廣泛採用的病理學公認計分系統（非直接引用自 Kelly 原文，Kelly 僅提及「modified NIH activity and chronicity scoring system」此名稱，未列出完整計分細項）
 
@@ -60,7 +76,7 @@ Lupus nephritis（尤其 Class III/IV 增生性腎炎）的病理報告會分別
 
 **加權原因：** Fibrinoid necrosis 與 cellular crescents 因與**快速惡化型腎絲球腎炎（RPGN）及較差短期預後**關聯性最強，故給予 2 倍權重，凸顯其臨床嚴重度。
 
-## 四、常見混淆點
+## 五、常見混淆點
 
 1. **Wire loop（subendothelial）vs Membranous 病灶（subepithelial）**：部位相反，容易考混。
 2. **Cellular crescents（活動性，計入 activity index，×2 加權）vs Fibrous crescents（慢性化，計入 chronicity index）**：意義相反，前者代表疾病仍在活動、可逆，後者代表已纖維化、不可逆。
