@@ -1014,3 +1014,247 @@ PRISMA flowchart with the use of the package DiagrammeR R [1]
 
 All relevant data are presented in a separate Excel file.（原文說明：詳細資料另存於獨立 Excel 檔案，未包含於本 PDF 內文。）
 
+## Risk of bias assessment
+
+A risk of bias assessment was performed for all eligible studies using the appropriate tools based on their design. The Newcastle-Ottawa scale (NOS) was used to assess cohort and case-control studies, RoB2 was used for RCTs and quasi RCTs and AMSTAR2 was used to assess meta-analyses.
+
+### Risk of bias assessment of cohort studies and case-control studies using NOS
+
+The NOS scale is a risk of bias tool for the assessment of cohorts and case control studies based on their performance in three grouping items namely the selection of population, the comparability and the outcomes/exposures of the respective study [2]. Each cohort or case-control study is graded with a maximum of one star for each numbered item within the Selection and Outcome categories while Comparability can be graded with a maximum of two stars. For cohort studies, the number of stars and their distribution determines whether the study is of good, fair, or poor quality according to AHRQ (Agency for Healthcare Research and Quality) standards:
+
+- **Good quality:** 3 or 4 stars in selection domain AND 1 or 2 stars in comparability domain AND 2 or 3 stars in outcome/exposure domain
+- **Fair quality:** 2 stars in selection domain AND 1 or 2 stars in comparability domain AND 2 or 3 stars in outcome/exposure domain
+- **Poor quality:** 0 or 1 star in selection domain OR 0 stars in comparability domain OR 0 or 1 stars in outcome/exposure domain
+
+**Newcastle-Ottawa scale — Cohort studies**
+
+Risk domains: Selection (Representativeness of the exposed cohort; Selection of the non-exposed cohort; Ascertainment of exposure; Demonstration that outcome of interest was not present at start of study) | Comparability (Comparability of cohorts on the basis of the design or analysis controlled for confounders) | Outcomes (Assessment of outcome; Was follow-up long enough for outcomes to occur; Adequacy of follow-up of cohorts)
+
+| Cohort study | Repr. exposed cohort | Selection non-exposed | Ascertainment exposure | Outcome not present at start | Comparability | Assessment outcome | Follow-up long enough | Adequacy follow-up | Quality |
+|---|---|---|---|---|---|---|---|---|---|
+| Rathoon, Indian J Nephrol, 2022 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | Poor |
+| Nikoloudaki, Front Immunol, 2023 | 1 | 0 | 1 | 1 | 0 | 1 | 0 | 1 | Poor |
+| Zhang, Front Immunol 2022 | 1 | 1 | 1 | 0 | 1 | 1 | 0 | 1 | Good |
+| Floris RMD Open, 2022 | 0 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | Good |
+| Aloub, Open Access Rheumatol, 2022 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | Poor |
+| Hurst, AM J Med, 2022 | 1 | 1 | 1 | 1 | 0 | 1 | 1 | 1 | Poor |
+| Hunnicutt, Lupus Sci Med, 2022 | 0 | 0 | 1 | 1 | 0 | 1 | 1 | 0 | Poor |
+| Carter, Arthritis Rheumatol, 2022 | 1 | 0 | 1 | 1 | 0 | 1 | 0 | 0 | Poor |
+| Kagawa, Acta Med Okayama, 2022 | 0 | 0 | 1 | 0 | 0 | 1 | 1 | 1 | Poor |
+| Enfrein, RMD Open, 2022 | 0 | 0 | 1 | 1 | 0 | 1 | 1 | 0 | Poor |
+| Kao, J Ocul Phrmacol Ther, 2022 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 1 | Poor |
+| Ko, Semin Arthritis Rheum, 2022 | 1 | 1 | 0 | 1 | 2 | 1 | 1 | 1 | Good |
+| Dobrowolski, Rheumatology, 2022 | 1 | 1 | 1 | 1 | 1 | 1 | 0 | 1 | Good |
+| Connelly, Arthritis Rheumatol, 2022 | 0 | 0 | 1 | 1 | 2 | 1 | 1 | 1 | Good |
+| Mok, Vaccine, 2022 | 1 | 1 | 0 | 0 | 1 | 1 | 0 | 1 | Fair |
+| Hoque, Arthritis Rheumatol, 2022 | 1 | 1 | 0 | 1 | 2 | 1 | 1 | 1 | Good |
+| Wang, Lupus Sci Med, 2022 | 1 | 1 | 0 | 1 | 1 | 0 | 0 | 1 | Poor |
+| Chen, J Int Med Res, 2022 | 0 | 1 | 0 | 1 | 1 | 0 | 0 | 0 | Poor |
+| Ugarte-Gil, Ann Rheum Dis, 2022 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | Good |
+| Nakai, Clin Rheumatol, 2022 | 0 | 0 | 1 | 1 | 0 | 1 | 1 | 0 | Poor |
+| Li, Pak J Med Sci, 2022 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | Poor |
+| Nakai, Lupus Sci Med, 2022 | 0 | 0 | 1 | 1 | 1 | 1 | 0 | 0 | Poor |
+| Kapsia, Front Med, 2022 | 0 | 0 | 1 | 0 | 0 | 1 | 1 | 0 | Poor |
+| Khattab, Lupus, 2022 | 1 | 1 | 1 | 1 | 1 | 1 | 0 | 1 | Good |
+| Hussenbocus, Clin Rheumatol, 2022 | 1 | 1 | 0 | 1 | 0 | 1 | 0 | 1 | Poor |
+| Miyazaki, Rheumatology, 2022 | 1 | 1 | 1 | 1 | 2 | 1 | 1 | 1 | Good |
+| Almeida-Brasil, Ann Rheum Dis, 2022 | 1 | 1 | 0 | 1 | 2 | 1 | 0 | 1 | Good |
+| Ohkubo, Mod Rheumatol, 2022 | 0 | 0 | 1 | 1 | 1 | 1 | 1 | 0 | Fair |
+| Ayano, Mod Rheumatol, 2022 | 0 | 0 | 1 | 0 | 1 | 1 | 0 | 0 | Poor |
+| Yuki, Arthritis Care Res, 2022 | 1 | 0 | 1 | 0 | 2 | 1 | 1 | 0 | Fair |
+| Keyes, J Am Acad Dermatol, 2022 | 0 | 0 | 0 | 1 | 1 | 0 | 1 | 0 | Poor |
+| Simard, Lupus Sci Med, 2022 | 1 | 1 | 1 | 1 | 2 | 1 | 1 | 1 | Good |
+| Liao, J Clin Rheumatol, 2022 | 0 | 0 | 1 | 1 | 1 | 1 | 0 | 0 | Poor |
+| Izmirly, Arthritis Rheumatol, 2022 | 1 | 0 | 1 | 1 | 0 | 1 | 1 | 1 | Poor |
+| Sonigo, J Am Acad Dermatol, 2021 | 0 | 0 | 1 | 0 | 0 | 1 | 1 | 0 | Poor |
+| Ruiz-Irastorza, Autoimmun Rev, 2021 | 0 | 0 | 1 | 1 | 1 | 1 | 0 | 1 | Fair |
+| Chen, Lupus, 2021 | 1 | 1 | 0 | 1 | 0 | 1 | 1 | 1 | Poor |
+| Tselios, ACR Open Rheumatol, 2021 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | Good |
+| Olivieri, Joint Bone Spine, 2021 | 1 | 0 | 1 | 1 | 0 | 1 | 0 | 0 | Poor |
+| Piranavan, Clin Immunol, 2021 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 1 | Poor |
+| Abdelbaky, Egypt J Intern Med, 2021 | 1 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | Poor |
+| Yoshida, Lupus, 2021 | 0 | 0 | 0 | 1 | 0 | 1 | 1 | 0 | Poor |
+| Fasano, Clin Exp Rheumatol, 2021 | 0 | 1 | 1 | 1 | 2 | 1 | 1 | 1 | Good |
+| Ugarte, Rheumatology, 2021 | 1 | 1 | 1 | 1 | 2 | 1 | 1 | 1 | Good |
+| Hill, Lupus Sci Med, 2021 | 1 | 0 | 0 | 1 | 2 | 2 | 1 | 1 | Fair |
+| Chen, Ther Adv Musculoskelet Dis, 2021 | 1 | 1 | 1 | 1 | 2 | 1 | 0 | 1 | Good |
+| Lobbes, Rheumatology, 2022 | 0 | 0 | 0 | 1 | 0 | 1 | 1 | 0 | Poor |
+| Zen, Rheumatology, 2022 | 1 | 0 | 1 | 1 | 2 | 1 | 1 | 0 | Good |
+| Roccatello, Kidney Int Rep, 2021 | 0 | 1 | 1 | 1 | 1 | 1 | 0 | 1 | Good |
+| Tselios, Arthritis Care Res, 2022 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | Good |
+| Wang, Arthritis Care Res, 2021 | 1 | 1 | 1 | 1 | 2 | 1 | 0 | 1 | Good |
+| Abe, Biomed Res Int, 2021 | 1 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | Poor |
+| Hoque, Arthritis Care Res, 2021 | 1 | 1 | 0 | 1 | 2 | 1 | 0 | 1 | Good |
+| Petri, Arthritis Rheumatol, 2021 | 1 | 0 | 1 | 1 | 2 | 1 | 0 | 1 | Good |
+| Choi, Rheumatology, 2021 | 0 | 1 | 0 | 1 | 2 | 1 | 0 | 1 | Fair |
+| Zickert, Rheumatology, 2021 | 0 | 0 | 1 | 1 | 0 | 1 | 0 | 1 | Poor |
+| Birt, Lupus Sci Med, 2020 | 1 | 0 | 1 | 0 | 0 | 0 | 1 | 1 | Poor |
+| Almeida-Brasil, Arthritis Care Res, 2022 | 1 | 1 | 0 | 1 | 2 | 0 | 1 | 1 | Good |
+| Haugaard, J Am Acad Dermatol, 2021 | 1 | 1 | 0 | 1 | 1 | 1 | 1 | 1 | Good |
+| Reátegui-Sokolova, RMD Open, 2021 | 0 | 0 | 0 | 1 | 2 | 1 | 0 | — | Poor |
+| Ceccarelli, Isr Med Assoc J, 2020 | 0 | 0 | 1 | 1 | 0 | 1 | 1 | 0 | Poor |
+| Collins, Rheumatol Ther, 2020 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | Poor |
+| Sogayise, Int J Nephrol, 2020 | 1 | 1 | 1 | 1 | 0 | 1 | 1 | 0 | Poor |
+| Jin, Rheumatology, 2021 | 1 | 1 | 0 | 1 | 2 | 1 | 0 | 1 | Good |
+| Gupta, Arthritis Care Res, 2021 | 1 | 1 | 1 | 1 | 2 | 1 | 0 | 1 | Good |
+| Urowitz, Lupus Sci Med, 2020 | 1 | 1 | 1 | 1 | 2 | 1 | 1 | 1 | Good |
+| Sakai, Lupus, 2020 | 1 | 1 | 0 | 1 | 2 | 1 | 0 | 0 | Fair |
+| Nikfar, Int J Clin Pract, 2021 | 1 | 1 | 1 | 1 | 2 | 1 | 1 | 0 | Good |
+| Jakez-Ocampo, Clin Rheumatol, 2020 | 1 | 1 | 0 | 1 | 1 | 1 | 1 | 0 | Good |
+| Kang, Rheumatology, 2021 | 1 | 1 | 1 | 0 | 2 | 1 | 1 | 1 | Good |
+| Kandane-Rathnayake, Lancet Rheumatol, 2022 | 1 | 1 | 1 | 1 | 2 | 1 | 0 | 1 | Good |
+| Golder, Lancet Rheumatol, 2019 | 1 | 1 | 1 | 1 | 2 | 1 | 0 | 1 | Good |
+| 28528869 Silva-Fernández et al | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 0 | Good |
+| 28566017 Li et al | 0 | 0 | 1 | 1 | 0 | 1 | 0 | 1 | Poor |
+| 28704598 Ruiz-Arruza et al | 0 | 0 | 1 | 0 | 0 | 0 | 1 | 0 | Poor |
+| 28753077 Sheikholeslami et al | 1 | 0 | 1 | 1 | 0 | 1 | 0 | 0 | Poor |
+| 28856466 Sun et al | 0 | 0 | 1 | 1 | 0 | 1 | 0 | 0 | Poor |
+| 28862513 Emamikia et al | 1 | 1 | 1 | 1 | 0 | 1 | 1 | 1 | Good |
+| 28901731 Kasitanon et al | 0 | 0 | 1 | 1 | 1 | 1 | 0 | 0 | Fair |
+| 28935492 Iaccarino et al | 1 | 0 | 1 | 1 | 1 | 1 | 1 | 0 | Good |
+| 28970217 Zen et al | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 0 | Good |
+| 29061479 Chasset et al | 0 | 0 | 1 | 1 | 0 | 0 | 1 | 0 | Poor |
+| 29087260 Mok et al | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | Good |
+| 29142034 Chen et al | 1 | 0 | 1 | 1 | 1 | 1 | 0 | 0 | Poor |
+| 29142038 Pakchotanon et al | 1 | 0 | 0 | 1 | 2 | 1 | 1 | 0 | Fair |
+| 29157178 Lee et al | 1 | 0 | 1 | 1 | 2 | 1 | 0 | 0 | Poor |
+| 29186572 Cunha et al | 1 | 0 | 1 | 1 | 0 | 1 | 1 | 0 | Poor |
+| 29216396 McCarthy et al | 1 | 0 | 1 | 1 | 0 | 1 | 0 | 0 | Poor |
+| 29222972 Deguchi et al | 1 | 0 | 1 | 1 | 2 | 1 | 1 | 0 | Good |
+| 29247540 Serris et al | 1 | 0 | 1 | 1 | 0 | 1 | 1 | 0 | Poor |
+| 29320974 Ganapati et al | 1 | 1 | 1 | 1 | 0 | 1 | 0 | 0 | Poor |
+| 29308726 Iwata et al | 1 | 0 | 1 | 1 | 0 | 1 | 1 | 1 | Poor |
+| 29409143 Furie et al | 1 | 0 | 1 | 1 | 0 | 1 | 1 | 1 | Poor |
+| 29420200 Morand et al | 1 | 1 | 1 | 1 | 2 | 1 | 1 | 0 | Good |
+| 29448881 Choi et al | 0 | 0 | 1 | 1 | 0 | 1 | 1 | 0 | Poor |
+| 29449503 Yue et al | 0 | 0 | 1 | 1 | 2 | 1 | 1 | 0 | Fair |
+| 29531772 Tani et al | 1 | 0 | 1 | 1 | 2 | 1 | 1 | 0 | Good |
+| 29515299 Sahay et al | 1 | 1 | 1 | 1 | 0 | 1 | 0 | 0 | Poor |
+| 29509932 Yap et al | 1 | 1 | 1 | 1 | 0 | 1 | 1 | 0 | Poor |
+| 29496892 Davidson et al | 1 | 1 | 1 | 1 | 2 | 1 | 0 | 0 | Poor |
+| 29460699 Furie et al | 1 | 1 | 1 | 1 | 1 | 1 | 0 | 1 | Fair |
+| 29561474 Goswami et al | 1 | 0 | 1 | 1 | 2 | 1 | 0 | 0 | Poor |
+| 29555348 Fanouriakis et al | 1 | 0 | 1 | 1 | 0 | 1 | 1 | 1 | Poor |
+| 29611341 Joo et al | 1 | 1 | 1 | 1 | 0 | 1 | 1 | 0 | Poor |
+| 29631512 Liu et al | 1 | 0 | 1 | 1 | 2 | 1 | 1 | 0 | Good |
+| 29635998 Ugarte et al | 1 | 0 | 1 | 1 | 0 | 1 | 1 | 0 | Poor |
+| 29657872 Soyuöz et al | 0 | 0 | 1 | 1 | 0 | 1 | 0 | 0 | Poor |
+| 29720229 Hanaoka et al | 0 | 0 | 1 | 1 | 0 | 1 | 0 | 0 | Poor |
+| 29792370 Tanaka et al | 1 | 0 | 1 | 1 | 0 | 1 | 1 | 0 | Poor |
+| 29806142 Petri et al | 1 | 1 | 1 | 1 | 2 | 1 | 1 | 0 | Good |
+| 29807477 Doria et al | 1 | 0 | 1 | 1 | 0 | 1 | 0 | 1 | Poor |
+| 29854814 Su et al | 0 | 0 | 1 | 1 | 0 | 1 | 0 | 0 | Poor |
+| 29855561 Burt et al | 0 | 0 | 1 | 1 | 0 | 1 | 1 | 1 | Poor |
+| 29931367 Hsu et al | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 0 | Fair |
+| 29950160 Kwon et al | 1 | 1 | 1 | 0 | 2 | 0 | 1 | 0 | Poor |
+| 29954281 Spinelli et al | 0 | 0 | 1 | 1 | 1 | 1 | 1 | 1 | Fair |
+| 29987550 Monzavi et al | 0 | 0 | 1 | 1 | 0 | 1 | 0 | 0 | Poor |
+| 29998829 Park et al | 1 | 0 | 1 | 1 | 0 | 1 | 0 | 0 | Poor |
+| 30008461 Garnier et al | 0 | 0 | 1 | 1 | 0 | 1 | 0 | 0 | Poor |
+| 30055090 Tselios et al | 1 | 1 | 1 | 1 | 0 | 1 | 1 | 0 | Poor |
+| 30194649 Fasano et al | 1 | 1 | 1 | 1 | 2 | 1 | 1 | 0 | Good |
+| 30203113 Karasawa et al | 0 | 0 | 1 | 1 | 0 | 1 | 1 | 0 | Poor |
+| 30284580 Alsuwaida et al | 0 | 0 | 1 | 1 | 0 | 1 | 0 | 0 | Poor |
+| 30338639 Miyagawa et al | 0 | 0 | 1 | 1 | 0 | 1 | 0 | 0 | Poor |
+| 30451641 Gonzalez-Echavarri et al | 0 | 0 | 1 | 1 | 2 | 1 | 0 | 0 | Poor |
+| 30487482 Hossain et al | 0 | 0 | 1 | 1 | 0 | 1 | 0 | 0 | Poor |
+| 30538815 Tani et al | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | Poor |
+| 30523554 Goswami et al | 1 | 0 | 1 | 1 | 2 | 1 | 1 | 0 | Good |
+| 30552172 Sciascia et al | 1 | 0 | 1 | 1 | 2 | 1 | 0 | 0 | Poor |
+| 30557058 Okabayashi et al | 1 | 0 | 1 | 1 | 2 | 1 | 0 | 0 | Poor |
+| 30588322 Merrill et al | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 0 | Good |
+| 30588323 van Vollenhoven et al | 1 | 1 | 1 | 1 | 0 | 1 | 0 | 0 | Poor |
+| 30626831 Hanaoka et al | 0 | 0 | 1 | 1 | 0 | 1 | 0 | 0 | Poor |
+| 30678605 Alarcon et al | 1 | 1 | 1 | 1 | 0 | 1 | 0 | 0 | Poor |
+| 30700214 Ichinose et al | 1 | 1 | 1 | 1 | 0 | 1 | 0 | 0 | Poor |
+| 30719729 Ototake et al | 0 | 0 | 1 | 1 | 0 | 1 | 1 | 0 | Poor |
+| 30755141 Martin-Iglesias et al | 1 | 0 | 1 | 1 | 0 | 1 | 1 | 0 | Poor |
+| 30771238 Wallace et al | 1 | 0 | 1 | 1 | 0 | 1 | 1 | 1 | Poor |
+| 30778862 Kawazoe et al | 0 | 0 | 1 | 1 | 0 | 1 | 0 | 0 | Poor |
+| 30852830 von Kempis et al | 1 | 0 | 1 | 1 | 0 | 1 | 0 | 0 | Poor |
+| 30937637 Sumethkul et al | 0 | 0 | 1 | 1 | 0 | 1 | 0 | 0 | Poor |
+| 30941559 Rebelo et al | 1 | 0 | 1 | 1 | 0 | 1 | 1 | 0 | Poor |
+| 30979713 Huang et al | 1 | 0 | 1 | 1 | 0 | 1 | 1 | 0 | Poor |
+| 31031386 Sharma et al | 0 | 0 | 1 | 1 | 0 | 1 | 0 | 0 | Poor |
+| 31074727 Tseng et al | 1 | 0 | 1 | 1 | 0 | 1 | 1 | 0 | Poor |
+| 31102498 Cassia et al | 1 | 0 | 1 | 1 | 0 | 1 | 1 | 0 | Poor |
+| 31122136 Geraldino-Pardilla et al | 1 | 0 | 1 | 1 | 2 | 1 | 0 | 0 | Poor |
+| 31175481 Hanaoka et al | 1 | 0 | 1 | 1 | 0 | 1 | 1 | 0 | Poor |
+| 31195632 Yang et al | 1 | 0 | 1 | 1 | 2 | 1 | 1 | 0 | Good |
+| 31199180 Tanaka et al | 0 | 0 | 1 | 1 | 0 | 1 | 1 | 1 | Poor |
+| 31264525 Anjo et al | 0 | 0 | 1 | 1 | 0 | 1 | 1 | 0 | Poor |
+| 31275608 Tani et al | 0 | 0 | 1 | 1 | 2 | 1 | 1 | 0 | Poor |
+| 31293110 Jung et al | 1 | 0 | 1 | 1 | 0 | 1 | 0 | 0 | Poor |
+| 31302695 van Vollenhoven et al | 1 | 0 | 1 | 1 | 0 | 1 | 1 | 1 | Poor |
+| 31464233 Al Hamzi et al | 1 | 0 | 1 | 1 | 0 | 1 | 1 | 0 | Good |
+| 31551028 Reategui-Sokolova et al | 1 | 1 | 1 | 1 | 2 | 1 | 1 | 0 | Good |
+| 31583978 Won et al | 0 | 0 | 1 | 1 | 2 | 1 | 1 | 0 | Poor |
+| 31600023 Floris et al | 0 | 0 | 1 | 1 | 2 | 1 | 1 | 0 | Poor |
+| 31653191 Nieto-Aristizabal et al | 0 | 0 | 1 | 1 | 0 | 1 | 0 | 0 | Poor |
+| 31769212 van Vollenhoven et al | 1 | 1 | 1 | 1 | 0 | 1 | 0 | 1 | Poor |
+| 31777844 Aouhab et al | 0 | 0 | 1 | 1 | 0 | 1 | 0 | 0 | Poor |
+| 31793379 Lee et al | 1 | 0 | 1 | 1 | 2 | 1 | 1 | 0 | Good |
+| 32020727 Miyagawa et al | 1 | 1 | 1 | 1 | 0 | 1 | 0 | 0 | Poor |
+| 32192398 Pedrosa et al | 0 | 0 | 1 | 1 | 0 | 1 | 0 | 0 | Poor |
+| 32238515 Takeuchi et al | 1 | 0 | 1 | 1 | 0 | 1 | 1 | 0 | Poor |
+| 32275125 Gatto et al | 1 | 0 | 1 | 1 | 2 | 1 | 1 | 0 | Good |
+| 32321345 Sun et al | 1 | 0 | 1 | 1 | 2 | 1 | 1 | 0 | Good |
+| 32321721 Saccon et al | 1 | 0 | 1 | 1 | 0 | 1 | 1 | 0 | Poor |
+| 32434863 Vázquez-Otero et al | 1 | 0 | 1 | 1 | 0 | 1 | 0 | 0 | Poor |
+| 32437258 Prasad et al | 1 | 1 | 1 | 1 | 0 | 1 | 1 | 0 | Poor |
+| 32448782 Mok et al | 1 | 1 | 1 | 1 | 2 | 1 | 1 | 1 | Good |
+| 32452167 Padiyar et al | 0 | 0 | 1 | 1 | 0 | 1 | 0 | 0 | Poor |
+| 32462476 Argolini et al | 0 | 0 | 1 | 1 | 2 | 1 | 1 | 1 | Fair |
+| 32493152 Saleh et al | 1 | 1 | 1 | 1 | 2 | 1 | 0 | 0 | Poor |
+| 32522920 Wakiya et al | 0 | 0 | 1 | 1 | 0 | 1 | 0 | 0 | Poor |
+| 32791930 Babini et al | 1 | 0 | 1 | 1 | 0 | 1 | 1 | 0 | Poor |
+| 32813314 Bernatsky et al | 1 | 1 | 1 | 1 | 2 | 1 | 1 | 0 | Good |
+| 28857717 Pakchotanon et al | 1 | 1 | 1 | 1 | 2 | 1 | 1 | 0 | Good |
+| 28888363 Medina-Rosas et al | 1 | 1 | 1 | 1 | 2 | 1 | 1 | 0 | Good |
+| 29423203 Lay The et al | 0 | 0 | 1 | 1 | 2 | 1 | 1 | 0 | Fair |
+| 29478901 Wang et al | 1 | 0 | 1 | 1 | 0 | 1 | 1 | 1 | Poor |
+| 30045812 De Rosa et al | 1 | 0 | 1 | 1 | 2 | 1 | 1 | 1 | Good |
+| 30406967 Hanaoka et al | 0 | 0 | 1 | 1 | 0 | 1 | 0 | 0 | Poor |
+| 30755146 Ichinose et al | 0 | 0 | 1 | 1 | 2 | 1 | 0 | 0 | Poor |
+| 30821926 Sharma et al | 0 | 0 | 1 | 1 | 1 | 1 | 1 | 0 | Fair |
+| 31642908 Zen et al | 0 | 0 | 1 | 1 | 2 | 1 | 1 | 0 | Fair |
+| 31685314 Malvar et al | 1 | 0 | 1 | 1 | 0 | 1 | 1 | 1 | Poor |
+| 28659045 Watanabe et al | 1 | 1 | 1 | 1 | 2 | 1 | 1 | 0 | Good |
+| 29130759 Mecacci et al | 0 | 0 | 1 | 1 | 0 | 1 | 0 | 0 | Poor |
+| 29723256 Hanaoka et al | 0 | 0 | 1 | 1 | 0 | 1 | 1 | 1 | Poor |
+| 30837214 Gebhart et al | 0 | 0 | 1 | 1 | 2 | 1 | 1 | 0 | Fair |
+| 31905492 Dogan et al | 0 | 0 | 1 | 1 | 0 | 1 | 0 | 0 | Poor |
+| 29667100 The et al | 0 | 0 | 1 | 1 | 2 | 1 | 1 | 0 | Fair |
+| 34121836 Abdelbaky et al | 0 | 0 | 1 | 1 | 0 | 1 | 0 | 0 | Poor |
+
+**Newcastle-Ottawa scale — Case-control studies**
+
+Risk domains: Selection (Adequacy of case definition; Representativeness of cases; Selection of controls; Definition of controls) | Comparability (Comparability of the cases and controls on the basis of design or analysis) | Exposure (Ascertainment of exposure; Same method of ascertainment for cases and controls; Non-response rate)
+
+| Case-control study | Adequacy case def. | Repr. cases | Selection controls | Def. controls | Comparability | Ascertainment exposure | Same method | Non-response rate | Total stars |
+|---|---|---|---|---|---|---|---|---|---|
+| Su, Front Immunol, 2022 | 1 | 0 | 1 | 1 | 1 | 1 | 1 | 0 | 5/9 |
+| Sada, Lupus Sci Med, 2022 | 1 | 0 | 0 | 1 | 1 | 0 | 1 | 0 | 4/9 |
+| Jorge, JAMA 2022 | 1 | 1 | 1 | 1 | 2 | 1 | 1 | 1 | 9/9 |
+| Damara, Cureus, 2022 | 1 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 3/9 |
+| Mancuso, Clin Exp Rheumatol, 2022 | 1 | 1 | 1 | 0 | 1 | 1 | 1 | 0 | 6/9 |
+| Rua-Figeroa, Semin Arthritis Rheum, 2022 | 0 | 0 | 1 | 1 | 0 | 0 | 1 | 0 | 3/9 |
+| Kwan, Lupus Sci Med, 2022 | 1 | 1 | 1 | 1 | 1 | 0 | 1 | 0 | 6/9 |
+| Jorge, Arthritis Care Res, 2022 | 1 | 1 | 1 | 1 | 2 | 1 | 1 | 1 | 9/9 |
+| Long, Lupus, 2021 | 0 | 1 | 1 | 1 | 0 | 0 | 1 | 1 | 5/9 |
+| Lo, PLOS One, 2021 | 1 | 1 | 1 | 1 | 2 | 0 | 1 | 1 | 8/9 |
+| Garelick, Rheumatology, 2021 | 0 | 0 | 1 | 1 | 1 | 1 | 1 | 0 | 5/9 |
+| Wang, Lupus, 2020 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 0 | 7/9 |
+| Papachristos, Semin Arthritis Rheum, 2022 | 1 | 1 | 1 | 1 | 2 | 1 | 1 | 0 | 8/9 |
+| 29765616 Davidson et al | 0 | 0 | 0 | 1 | 1 | 1 | 1 | 0 | 4/9 |
+| 30103646 Yang et al | 1 | 1 | 1 | 1 | 2 | 1 | 1 | 1 | 9/9 |
+| 30367020 Gadakchi et al | 1 | 0 | 1 | 0 | 1 | 1 | 1 | 0 | 5/9 |
+| 31066646 Dall'Era | 1 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 3/9 |
+| 31474597 Mukwikwi et al | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 8/9 |
+| 32407570 Jorge et al | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 0 | 7/9 |
+| 32442312 Lenfant et al | 1 | 1 | 0 | 1 | 0 | 1 | 1 | 0 | 5/9 |
+| 32586407 Guo et al | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 0 | 7/9 |
+| 32653901 Bultink et al | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 0 | 7/9 |
+| 32807233 Fernandez-Ruiz et al | 1 | 0 | 0 | 1 | 2 | 1 | 1 | 0 | 6/9 |
+| 28857715 Ugarte-Gil et al | 1 | 1 | 1 | 1 | 2 | 1 | 1 | 0 | 8/9 |
+
