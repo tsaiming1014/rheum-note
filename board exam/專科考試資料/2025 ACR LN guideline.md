@@ -206,3 +206,107 @@ GPS: Decisions for initiation and type of dialysis and timing for kidney transpl
 
 \* Anti-CD20 therapy: rituximab or obinutuzumab. AZA, azathioprine; CNI, calcineurin inhibitor therapies (cyclosporine, tacrolimus, voclosporin); CRR, complete renal response; CYC, cyclophosphamide; dsDNA, double-stranded DNA; eGFR, estimated glomerular filtration rate (various definitions are used in clinical studies; calculations of eGFR from creatinine in recent research do not include coefficients for race; however, earlier literature does); ESKD, end stage kidney disease; GFR, glomerular filtration rate; GPS, Good Practice Statements; HCQ, hydroxychloroquine; LN, lupus nephritis; MMF, mycophenolate mofetil; MPAA, mycophenolic acid analogs (including mycophenolate mofetil, or MMF, and mycophenolic acid, or MPA); PICO, population, intervention, comparator, outcome; RAAS-I, renin-angiotensin-aldosterone system inhibitors (including angiotensin converting enzyme inhibitors, angiotensin II receptor blockers, mineralocorticoid receptor antagonists); SLE, systemic lupus erythematosus.
 
+### Screening
+
+In people with SLE without known kidney disease, we strongly recommend screening for proteinuria at least every 6–12 months, OR when experiencing extra-renal flares.
+
+The Voting Panel stated that for recent onset, or recently active SLE, LN surveillance every 6 months is most appropriate, consistent with the 2023 ACR SLE quality measures.<sup>24</sup> Conversely, for those with longstanding and mild and inactive SLE, annual testing is adequate. This recommendation is strong, despite a lack of high-certainty evidence, because the risk of missing new onset LN requiring urgent treatment far outweighs the minimal risk of obtaining a urine sample.
+
+### Kidney biopsy
+
+GPS: Prompt percutaneous kidney biopsy should be performed in people with SLE when LN is suspected (unless contraindicated or not feasible), as histopathologic biopsy features will confirm the diagnosis, rule out mimicking diseases, and impact therapy decisions.
+
+Biopsy should be read by a nephropathologist using the International Society of Nephrology (ISN) and Renal Pathology Society (RPS) classification<sup>25</sup> and include LN class and activity/chronicity indices. Risk of major bleeding with kidney biopsy, ie, requiring a blood transfusion or embolization procedure, is very low (~1–2%).<sup>26–31</sup> For people with SLE, risk may be higher (up to 3%) in specific subgroups including those with thrombocytopenia, decreased kidney function, and antiphospholipid syndrome.<sup>26,32–35</sup> Patient representatives shared concerns about the invasive nature of biopsy and emphasized the importance of physicians discussing the procedure's benefits and risks.
+
+While we recommend prompt kidney biopsy with treatment based on histology, biopsy may not always be possible. In the absence of a kidney biopsy, those with nephritic features (eg, hematuria, hypertension, impaired kidney function) are usually best treated according to Class III/IV recommendations, and those with nephrotic features (eg, proteinuria, ≥3.5 g/g, hypoalbuminemia) according to Class V recommendations.
+
+In people with SLE who have proteinuria >0.5 g/g and/or impaired kidney function not otherwise explained, we conditionally recommend performing a percutaneous kidney biopsy.
+
+Kidney biopsy has value in people with SLE with isolated impaired kidney function that is not otherwise explained because histologic disease activity can occur without proteinuria.<sup>36–39</sup>
+
+For people with treated LN previously in remission who later present with suspected LN flare (increased proteinuria, hematuria, and/or worsening kidney function), OR for people with ≥6 months of appropriate treatment and ongoing or worsening proteinuria, hematuria, and/or decreased kidney function, we conditionally recommend repeat percutaneous kidney biopsy.
+
+Clinical judgment and patient preference are essential in deciding when to repeat kidney biopsy. With appropriate medication dosing and adherence, worsening kidney function or proteinuria should prompt consideration of repeat biopsy. Change in kidney histology is found in 40–50% of repeat biopsies.<sup>40–42</sup> While repeat biopsy for isolated significant/increasing hematuria can be considered when other etiologies are excluded, the value of biopsy in the setting of chronic low-level hematuria is uncertain. The Voting Panel did not issue a recommendation on per protocol (ie, scheduled) repeat kidney biopsies but considered this an important research item.
+
+### Treatment of LN
+
+GPS: Prompt glucocorticoid treatment should be administered for suspected LN to suppress acute inflammation while awaiting a kidney biopsy and the histopathology results.
+
+GPS: Dosage of LN medications should be adjusted in people with decreased glomerular filtration rate (GFR) at the initiation of therapy and periodically as indicated during the disease course (Supplementary Materials 7).
+
+GPS: Adjunctive treatment with systemic anticoagulation for people with LN and significant risk factors for thrombosis (e.g., low serum albumin in the context of severe proteinuria) should be discussed with nephrology.
+
+Nephrology guidelines recommend treating patients with a serum albumin concentration below 2.0–2.5 g/dl in the setting of nephrotic range proteinuria with full-dose anticoagulation to prevent clotting unless the risk of bleeding is high.<sup>43</sup>
+
+#### Class III/IV or Class V LN
+
+In people with LN who are not already on hydroxychloroquine (HCQ), we strongly recommend initiation and continuation of HCQ to manage and prevent extra-renal manifestations, unless contraindicated.
+
+This is a strong recommendation based on low certainty evidence due to the well-established role for HCQ in overall SLE management. HCQ reduces risk of mortality in people with SLE, including those with lupus nephritis.<sup>44–46</sup> Dose adjustment for low GFR should be considered because kidney disease is a risk factor for retinal toxicity<sup>46</sup> (Supplement Materials 7).
+
+In people with active, new onset or flare of LN with any elevation in proteinuria, including <0.5 g/g, we conditionally recommend the addition of renin-angiotensin-aldosterone system inhibitor (RAAS-I) therapy.
+
+This recommendation applies to any level of persistent proteinuria above the normal range and is based on studies showing the kidney protective effects of RAAS-I in proteinuric LN and advanced chronic kidney disease (CKD).<sup>47</sup> Additionally, a pediatric study demonstrated that addition of RAAS-I led to earlier glucocorticoid discontinuation.<sup>48</sup> Use may be limited by blood pressure or estimated glomerular filtration rate (eGFR).
+
+In people with active, new onset or flare of LN, we conditionally recommend pulse intravenous glucocorticoids (250–1000 mg methylprednisolone daily × 1–3 days) followed by oral glucocorticoid (≤0.5 mg/kg/day, maximum dose 40 mg/day) with taper to a target dose of ≤5 mg/day by 6 months.
+
+A recent systematic review and meta-analysis determined that pulse glucocorticoids followed by oral glucocorticoids (up to 40 mg/day) maximized complete renal response while minimizing toxicities.<sup>18,49–51</sup> A range of pulse therapy dosing is presented to accommodate individualized treatment approaches.<sup>52</sup> Lower doses have been utilized in some recent treatment trials,<sup>14</sup> and patients emphasized their preference for minimizing glucocorticoid dose. The tapering regimen in clinical practice should be individualized and based on monitoring of both renal and extra-renal disease activity. Data informing the optimal dosing of glucocorticoids for pure Class V LN are limited.
+
+In people with new onset or flare of LN who have achieved and sustained a complete renal response after treatment with any (triple or dual) immunosuppressive therapy, we conditionally recommend a total duration of immunosuppressive therapy of at least 3–5 years.
+
+The advent of triple therapies blurred the distinction between induction therapy and maintenance therapy. Traditionally, patients were initially treated with one drug plus glucocorticoid followed by a "less toxic" drug for maintenance. Induction implied remission was achieved; however, in the short exposure to induction therapy (usually 3–6 months), most patients did not achieve remission. Maintenance implied maintenance of remission; but for most patients, maintenance served the initial purpose of consolidation.<sup>53</sup>
+
+Current regimens aim to provide initial glucocorticoid and immunosuppressive therapies to rapidly reduce disease activity, with continuation of immunosuppressive therapies until disease is inactive, which often takes at least 12 months. Typically, some immunosuppressive therapy should be continued for at least 3–5 years of total treatment before considering withdrawal.<sup>54,55</sup> Support for a relatively long exposure to immunosuppression comes from repeat biopsy studies showing persistence of immunologic activity and immune complexes for several years after starting therapy; risk of LN flare is increased with withdrawal of immunosuppression while histologic activity remains.<sup>56</sup>
+
+Over time, immunosuppressive therapy dosage may be tapered in stable patients as determined by renal and extra-renal disease activity and medication tolerability. No evidence provides robust guidance regarding optimal tapering practice; these decisions are currently made based on clinical expertise and patient preference. Risk of nephrotoxicity may impact decisions regarding the total duration of therapy with CNIs. HCQ should be continued indefinitely if there are no contraindications.
+
+#### Class III/IV LN (with or without Class V LN)
+
+Class III/IV LN lesions, characterized by endocapillary hypercellularity, are highly inflammatory and destructive. When occurring concomitantly with Class V, the presence of Class III/IV lesions drives therapy choice. Until complete renal response (CRR) is achieved, patients should be closely monitored and have therapies adjusted accordingly based on individual risk factors including blood pressure, proteinuria, and kidney function (Figure 1).
+
+In people with active, new onset or flare of Class III/IV (±V) LN, we conditionally recommend therapy with a triple immunosuppressive regimen consisting of pulse intravenous glucocorticoids (250–1000 mg methylprednisolone daily × 1–3 days) followed by oral glucocorticoid (≤0.5 mg/kg/day, maximum dose 40 mg/day) taper plus:
+
+a. MPAA plus belimumab -or-
+b. MPAA plus CNI -or-
+c. Euro-Lupus Nephritis Trial (ELNT) low-dose CYC<sup>53</sup> plus belimumab (MPAA substituted for CYC after CYC course complete).
+
+Recent randomized controlled trials (RCTs) suggesting overall improved outcomes with triple versus dual therapies guided discussion and voting for this recommendation.<sup>13,14</sup> While the trials were randomized and controlled, the certainty of evidence was assessed as low-moderate. The recommendation for triple therapy is conditional, ie, sensitive to individual patient preferences and patient-clinician discussion. A sensitivity analysis excluding Voting Panel members who had relevant conflicts of interest for this recommendation (5 of 21 members) resulted in no change in direction or strength.
+
+Numerous factors will impact a decision regarding type of triple LN therapy. With eGFR ≤45, blood pressure >165/105, or significant chronicity on kidney biopsy, a belimumab regimen is preferred over a CNI regimen because of potential CNI-associated nephrotoxicity and hypertension.
+
+Randomized controlled trials demonstrated similar rates of response in people treated with MPAA and CYC-based regimens, however, the Voting Panel favored MPAA because of the better toxicity profile including lower risk of malignancy and lack of impact on fertility.<sup>57</sup> A CYC-based regimen might be favored in certain circumstances, however, including patient preference, medication non-adherence or intolerance, or the presence of rapidly progressive glomerulonephritis with numerous crescents and/or fibrinoid necrosis on biopsy and declining kidney function.
+
+Data in support of ELNT low-dose CYC plus belimumab is more limited because only 26% of Belimumab International Study in Lupus Nephritis (BLISS-LN) trial participants were treated with background ELNT CYC.<sup>58</sup> Subgroup analysis of participants on background ELNT CYC showed a numerically higher but not statistically significant rate of renal response with addition of belimumab versus placebo. In a post-hoc analysis, addition of belimumab to ELNT CYC resulted in fewer LN flares and a reduced rate of eGFR decline compared to placebo<sup>59</sup>; for this reason, this combination was included as a recommended triple therapy.
+
+The combination of ELNT CYC plus CNI has not been studied in RCTs; for this reason, it is not recommended here as triple therapy. However, this combination may be considered despite the lack of supporting data, especially if other therapy options are unavailable, ineffective, or not tolerated. Patient Panel members repeatedly emphasized the challenges of high pill burden, and preference for the route of medication administration (eg, parenteral or oral) may influence the choice of therapy.
+
+In people with active, new onset or flare of Class III/IV (±V) LN with proteinuria ≥3 g/g, we conditionally recommend a triple immunosuppressive regimen containing pulse intravenous glucocorticoids (250–1000 mg methylprednisolone daily × 1–3 days) followed by oral glucocorticoid (≤0.5 mg/kg/day, maximum dose 40 mg/day) taper, plus MPAA plus CNI over a regimen containing belimumab.
+
+This recommendation was based on observed rapid reduction of proteinuria with CNIs<sup>14</sup> and the limited efficacy with belimumab in people with baseline proteinuria ≥3 g/g.<sup>59</sup>
+
+In people with active, new onset or flare of Class III/IV (±V) LN with moderate to severe extra-renal manifestations, we conditionally recommend a triple immunosuppressive therapy that contains belimumab over a regimen containing a CNI.
+
+Belimumab is associated with reduction in disease activity and severe flares in nonrenal SLE<sup>54</sup>; in post-hoc analysis it appears especially beneficial for mucocutaneous and musculoskeletal manifestations.<sup>60</sup>
+
+In people with active, new onset or flare of Class III/IV (±V) LN on treatment with MPAA, we conditionally recommend a target MMF dose of 2–3 g/d (or equivalent).
+
+*(Figure 1 — flow diagram, "Recommendations for the treatment of class III, IV with or without class V lupus nephritis," is a graphical algorithm and could not be extracted as text from the source PDF; see original PDF page 10. Figure 1 caption, transcribed verbatim: "Recommendations for the treatment of class III, IV with or without class V lupus nephritis. * = Alternative triple therapy: glucocorticoids and Euro-Lupus Nephritis Trial low-dose cyclophosphamide and belimumab with mycophenolic acid analogs substituted for cyclophosphamide after the cyclophosphamide course is completed. Mycophenolic acid analogs regimens are preferred over cyclophosphamide regimens. † = Treatment should be escalated or changed earlier, even at ≤3 months, in patients with rapidly declining GFR or increasing proteinuria due to risk for potentially irreversible damage. ‡ = Rituximab, obinutuzumab, or others.")*
+
+The dose of MPAA should be tailored to the individual patient, balancing the considerations of tolerability, safety, and efficacy. For pediatric patients, the usual starting dose is 1.2–1.4 g/m<sup>2</sup>/d; mycophenolic acid levels may aid in tailoring dosage.
+
+In people with active, new onset or flare of Class III/IV (±V) LN receiving a CYC-based regimen, we conditionally recommend the ELNT low-dose CYC regimen over a high-dose monthly pulse IV CYC regimen; we strongly recommend the ELNT low-dose CYC regimen over a daily oral CYC regimen.
+
+An RCT and post-hoc analysis demonstrated that the ELNT regimen of CYC was as effective as intravenous monthly, high-dose CYC in achieving renal response.<sup>61,62</sup> The ELNT regimen is favored because of its better tolerability and toxicity profile, including a lower risk for infertility. Although pediatric data are limited to non-randomized, observational studies, the use of the ELNT regimen is preferred given the potential for multiple CYC courses over time.<sup>63</sup> The Voting Panel unanimously preferred an intravenous regimen over a daily oral CYC regimen because of the cumulative toxicities associated with oral CYC. It is important to provide fertility protective therapies to women and men of reproductive age when using a CYC-based regimen, particularly with high-dose pulse monthly IV CYC or >1 course of the ELNT CYC regimen.
+
+In people with new onset or flare of Class III/IV (±V) LN who have undergone triple immunosuppressive therapy (pulse intravenous glucocorticoids 250–1000 mg methylprednisolone daily × 1–3 days followed by oral glucocorticoid (≤0.5 mg/kg/day, maximum dose 40 mg/day) taper, plus either MPAA plus belimumab, MPAA plus CNI, or CYC plus belimumab) and achieved a complete renal response, we conditionally recommend continuing the same immunosuppressive regimen.
+
+In people with active, new onset or flare of Class III/IV (±V) LN who have undergone triple immunosuppressive therapy with pulse intravenous glucocorticoids (250–1000 mg methylprednisolone daily × 1–3 days) followed by oral glucocorticoid (≤0.5 mg/kg/day, maximum dose 40 mg/day) taper, plus either MPAA plus belimumab, MPAA plus CNI, or CYC plus belimumab) and achieved a partial renal response (PRR), we conditionally recommend individualizing therapy depending on clinical factors that include the trajectory of response.
+
+If the patient with PRR is improving with reduction in proteinuria and increasing/stabilization of eGFR, the Voting Panel concurred that continuation of the initial triple immunosuppressive regimen with continued glucocorticoid taper is reasonable. However, if the patient shows indications of worsening disease activity (increasing proteinuria, worsening eGFR), we suggest altering therapy. A repeat kidney biopsy may be helpful to clarify proteinuria etiology (ongoing activity versus fixed damage). A specific duration of therapy is not recommended due to variability in clinical presentations.
+
+In people with new onset or flare of Class III/IV (±V) LN who have undergone dual immunosuppressive therapy (glucocorticoids plus either CYC or MPAA) and achieved a complete renal response, we conditionally recommend continuing therapy with MPAA over switching to azathioprine (AZA).
+
+People planning pregnancy or intolerant of MPAA should be treated with AZA.
+
+In people with new onset or flare of Class III/IV (±V) LN who have undergone dual immunosuppressive therapy (glucocorticoids plus either CYC or MPAA) and achieved a partial renal response, we conditionally recommend escalating therapy to a triple immunosuppressive regimen.
+
