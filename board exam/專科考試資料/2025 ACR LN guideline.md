@@ -310,3 +310,146 @@ People planning pregnancy or intolerant of MPAA should be treated with AZA.
 
 In people with new onset or flare of Class III/IV (±V) LN who have undergone dual immunosuppressive therapy (glucocorticoids plus either CYC or MPAA) and achieved a partial renal response, we conditionally recommend escalating therapy to a triple immunosuppressive regimen.
 
+#### Class V LN
+
+Class V (membranous) LN accounts for 20% of cases and is characterized by the presence of global or segmental subepithelial immune complex deposits. Class V LN can occur in isolation or in combination with Class III/IV.<sup>64–68</sup> There is limited evidence for management of pure Class V.
+
+In people with active, newly diagnosed or flare of pure Class V lupus nephritis with proteinuria ≥1 g/g, we conditionally recommend treatment with a triple immunosuppressive regimen consisting of glucocorticoids (pulse intravenous glucocorticoids (250–1000 mg methylprednisolone daily × 1–3 days) followed by oral glucocorticoid (≤0.5 mg/kg/day, maximum dose 40 mg/day) taper, and MPAA plus CNI (over MPAA plus belimumab or CYC plus belimumab).
+
+Post-hoc analyses from clinical trials support that voclosporin, but not belimumab, added to MPAA and low-dose glucocorticoids achieve earlier reductions in proteinuria in pure class V LN.<sup>69</sup> Alternative regimens include initial therapy with glucocorticoids and MPAA, CNI, CYC, azathioprine, or anti-CD20 therapy<sup>65–68</sup> (Figure 2).
+
+The importance and optimal dosing of glucocorticoid for Class V LN is not certain, as suggested by the conditional nature of this recommendation. The Voting Panel opted to include pulse/oral glucocorticoid therapy with taper plus two immunosuppressive agents here based on improved outcomes in recent pivotal clinical trials of triple therapy<sup>13,14</sup> that included individuals with pure Class V. The certainty of the level of evidence was very low (due to indirectness). Glucocorticoid therapy, sometimes at very high dose, has been used consistently across prior trials that included participants with pure Class V in addition to Class III/IV LN. An RCT of pure Class V (single versus dual) therapies did not support benefit of glucocorticoid monotherapy<sup>64</sup> but showed the combination of prednisone plus CNI or CYC to be more effective than prednisone alone. While we may be able to use lower doses of glucocorticoids for pure Class V than for Class III/IV, we do not have high-level data to inform different dosing levels for Class V vs. III/IV. Clinician-patient discussion should guide therapy decisions, including the lack of high-quality data, the clinical presentation, and the patient's values and preferences.
+
+*(Figure 2 — flow diagram, "Recommendations for the treatment of pure class V lupus nephritis," is a graphical algorithm and could not be extracted as text from the source PDF; see original PDF page 12. Figure 2 caption, transcribed verbatim: "Recommendations for the treatment of pure class V lupus nephritis. † = Treatment should be escalated or changed earlier, even at ≤3 months, in patients with rapidly declining GFR or increasing proteinuria due to risk for potentially irreversible damage. ‡ = Rituximab, obinutuzumab or others. AZA, azathioprine; CNI, calcineurin inhibitors; GC, glucocorticoid; GFR, glomerular filtration rate; kg, kilogram; mg, milligram; MPAA, mycophenolic acid analogs; PRR, partial renal response.")*
+
+In people with active, newly diagnosed or flare of pure Class V lupus nephritis with proteinuria <1 g/g, we conditionally recommend treatment with glucocorticoid and/or immunosuppressant therapy (MPAA, AZA, or CNI) over no glucocorticoid or immunosuppressive therapy.
+
+The Voting Panel acknowledged the paucity of high-quality evidence for the treatment of Class V with low-level proteinuria because such patients were not included in clinical trials but expressed concern that low-grade proteinuria might progress to proteinuria >1 g/g that could be less responsive to treatment.
+
+### Inadequate renal response / refractory LN
+
+GPS: Medication dose and patient adherence should be assessed regularly throughout the course of treatment as an important first step in evaluating inadequate response or refractory LN, as insufficient treatment is a key cause of non-response.
+
+Discussion regarding barriers to adherence (e.g., cost, side effects) is an important first step; strategies to monitor adherence (e.g., medication levels) may also be helpful.<sup>70</sup>
+
+In people with any LN class with inadequate renal response (i.e., have not achieved at least a partial renal response by 6–12 months), we conditionally recommend escalation of treatment:
+
+- For initial dual therapy: escalate to triple therapy (glucocorticoids plus either MPAA plus belimumab, MPAA plus CNI, or ELNT CYC plus belimumab).
+- For initial triple therapy: change to an alternative (listed) triple therapy or consider addition of an anti-CD20 agent to MPAA or ELNT CYC.
+
+There are limited uncontrolled data<sup>71–75</sup> to guide therapy – including optimal timing – for inadequate renal response. Choice of therapy in the setting of inadequate response varies depending on several factors including the medication used initially, patient and clinician preference, and tolerability. Close monitoring is essential: treatment should be escalated or changed earlier, even at ≤3 months, in patients with rapidly declining GFR or increasing proteinuria due to risk of potentially irreversible damage.
+
+In people with any LN class with refractory disease (ie, failed two standard therapy courses), we conditionally recommend treatment escalation to a more intensive regimen, including the addition of anti-CD20 agents, combination therapy with three non-glucocorticoid immunosuppressive agents (ie, MPAA, belimumab and CNI), or referral for investigational therapy.
+
+When refractory LN is diagnosed, one may consider a kidney biopsy to assess the extent of chronic damage and determine whether escalating therapy is warranted. In cases of true refractory LN, meta-analyses suggest that 50–80% of patients convert to partial or complete responders with rituximab.<sup>76,77</sup> Other B cell targeted approaches,<sup>78–80</sup> as well as combination B cell therapies,<sup>81–83</sup> show utility in refractory LN and may offer future therapy options. (See Figure 3 for a Treatment Overview.)
+
+### Other lupus kidney disease
+
+GPS: Alternative etiologies of kidney dysfunction in people with SLE should be carefully excluded, including non-inflammatory etiologies such as hypertensive, diabetic, and medication-induced nephropathy.
+
+Less common manifestations of lupus kidney disease include thrombotic microangiopathy (TMA), Class II LN, and lupus podocytopathy. These were discussed by the Voting Panel but not formally voted upon given their lower incidence relative to Classes III/IV and V LN. The 2024 KDIGO clinical practice guideline for the treatment of lupus nephritis<sup>84</sup> provides details regarding clinical presentation and suggested management for these less common lupus kidney issues.
+
+#### TMA
+
+TMA is a histopathologic finding indicative of endothelial injury. Underlying causes include acute antiphospholipid antibody (aPL) nephropathy,<sup>85</sup> thrombotic thrombocytopenic purpura, complement-mediated TMA, and others. Because these conditions require different treatments, accurate diagnosis is important and often requires hematology consultation. While there was insufficient consensus to form a recommendation regarding aPL nephropathy or other TMAs in the context of LN, there have been reports of treatment with anticoagulation, plasma exchange, or C5 inhibitor therapy in this situation.<sup>86,87</sup>
+
+#### Class II LN
+
+Class II (mesangial) LN is characterized by expanded matrix with immune complexes confined primarily to the mesangium. Extensive podocyte effacement suggests lupus podocytopathy.<sup>88</sup> The Voting Panel did not reach a consensus to formulate a recommendation for treatment although RAAS-I therapy is usual; however, repeat biopsy to assess for class switch or lupus podocytopathy may be considered in the setting of increasing proteinuria noted on follow-up.
+
+#### Lupus podocytopathy
+
+Podocytopathy usually presents with nephrotic range proteinuria; electron microscopy shows diffuse podocyte foot process effacement without subepithelial or subendothelial deposition.<sup>89</sup> Glucocorticoid and other immunosuppressive treatments are common<sup>90</sup>; therapy is best managed in collaboration with nephrology colleagues.
+
+*(Figure 3 — flow diagram, "American College of Rheumatology 2024 Lupus Nephritis Guideline treatment overview," is a graphical algorithm and could not be extracted as text from the source PDF; see original PDF page 14. Figure 3 caption, transcribed verbatim: "American College of Rheumatology 2024 Lupus Nephritis Guideline treatment overview. * For ≥1 gm protein; for <1 gm, treat with GC and/or immunosuppression. † Discuss adjunctive treatment with systemic anticoagulation with nephrology for patients with LN and significant factors for thrombosis (eg, low serum albumin in context of severe proteinuria). ‡ Substitute MPAA once low-dose CYC cycle is completed. a: Recommended preferentially when significant extrarenal manifestations are present. b: Recommended preferentially when proteinuria is ≥3.0 gm. GC pulse/oral taper: pulse intravenous GCs (250–1,000 mg methylprednisolone daily for 1–3 days) followed by oral GC ≤0.5 mg/kg/day (maximum dose 40 mg/day) and taper. Low-dose CYC: as per Euro-Lupus Nephritis Trial protocol,<sup>61</sup> 500 mg IV CYC every 2 weeks for 6 doses. Dual therapy: GC plus/oral taper plus one immunosuppressive agent, usually MPAA or low-dose CYC. RAAS-I, renin-angiotensin-aldosterone system inhibitors; GC, glucocorticoid; MPAA, mycophenolic acid analogs (including mycophenolate mofetil [MMF]); BEL, belimumab; CNI, calcineurin inhibitor; CYC, cyclophosphamide.")*
+
+### Adjunctive / non-immunologic treatments and good practice guidance
+
+GPS: Adjunctive and non-immunologic therapies and practices should be added to appropriate immunosuppressive therapy to improve overall kidney health.
+
+In addition to non-immunosuppressive kidney therapies such as RAAS-I, management of cardiovascular health, bone health, infection risk, and reproductive concerns should be addressed as summarized in Table 4.
+
+- GPS: In children with childhood-onset SLE (cSLE) nephritis, glucocorticoid regimens should use pediatric-appropriate doses for children, as reduction of cumulative glucocorticoid dosing is critically important given the early age of cSLE onset and attendant comorbidities.
+- GPS: In children with cSLE nephritis, clinicians should monitor for delayed pubertal onset and decreased growth velocity that can result from disease activity and glucocorticoid treatment and consider referral to pediatric endocrinology if indicated.
+- GPS: For children with cSLE nephritis, a structured, intentional transition<sup>91–94</sup> from pediatric to adult rheumatology care is indicated to avoid poor outcomes during this vulnerable period.
+- GPS: For older people with LN, medication number, type, and dosage should be regularly assessed, given the risks of polypharmacy and age-related decline in GFR in this population.
+
+### Table 4. Good practice guidance: adjunctive therapies for patients with lupus nephritis
+
+| Category | Subcategory | Guidance |
+|---|---|---|
+| Kidney health: Non-pharmacologic | Diet | Limit sodium intake (suggest ≤2 g sodium/day). Avoid high protein intake if eGFR <60 (suggest <1 g/kg/day) |
+| Kidney health: Pharmacologic | RAAS-I | Recommended for all LN patients, if tolerated |
+| | SGLT2-I | Consider for stable LN patients with DM, CKD, moderate-high proteinuria, or heart failure (use with caution in patients on high-dose immunosuppression due to increased risk of urinary tract infection) |
+| Cardiovascular health | Lifestyle | Avoid smoking, exercise, optimize BMI |
+| | Blood pressure | Systolic BP <120 if tolerated |
+| | Lipid management | Dyslipidemia management per CVD risk reduction guidelines |
+| | CVD risk assessment | Estimate 10-year cardiovascular risk using a validated risk tool |
+| Bone health | Screening and treatment | See ACR Glucocorticoid-induced Osteoporosis Guideline<sup>125</sup> |
+| Infection | Screening | Screening for hepatitis B, hepatitis C, and tuberculosis |
+| | Vaccination | See ACR Vaccine Guideline<sup>126</sup> |
+| | Prophylactic therapies | Consider prophylaxis for PJP and hepatitis B when indicated |
+| Reproductive health | Contraception | See ACR Reproductive Health Guideline.<sup>127</sup> Use highly effective method (eg, IUD). If on MPAA, use IUD or two other forms |
+| | Pregnancy | See ACR Reproductive Health Guideline.<sup>127</sup> Contraindicated with active LN. Azathioprine and tacrolimus are pregnancy-compatible: use when LN is in remission but ongoing treatment is required |
+| | Fertility | See ACR Reproductive Health Guideline.<sup>127</sup> Gonadotropin releasing hormone agonist co-therapy recommended in females treated with CYC. Consider IVF for oocyte/embryo cryopreservation if stable disease still requiring ongoing teratogenic therapies and concern for age-related infertility |
+
+\* ACR, American College of Rheumatology; BMI, body mass index; BP, blood pressure; CKD, chronic kidney disease; CVD, cardiovascular disease; CYC, cyclophosphamide; DM, diabetes mellitis; eGFR, estimated glomerular filtration rate; IVF, in vitro fertilization; IUD, intrauterine device; LN, lupus nephritis; MPAA, mycophenolic acid analogs; PJP, pneumocystis jirovecii pneumonia; RAAS-I, renin-angiotensin-aldosterone system inhibitors; SGLT2-I, sodium-glucose cotransporter-2 inhibitors.
+
+### Monitoring LN activity
+
+Treatment trials in SLE measure proteinuria rather than albuminuria. The gold standard for assessing proteinuria, the 24-hour urine collection, is challenging to implement in clinical practice; random urine protein-to-creatinine ratios are usually adequate. The first void of the day sample<sup>95,96</sup> is the most accurate for the spot urine collection but may not be feasible. Unexpected results on random testing should be followed by a 24-hour collection, especially before any change in therapy.
+
+In people with LN who have not achieved CRR, we strongly recommend quantifying proteinuria at least every 3 months.
+
+In people with LN in sustained clinical renal remission, we strongly recommend quantifying proteinuria every 3–6 months.
+
+These recommendations are strong despite a lack of high-certainty evidence because in people undergoing treatment for LN who have not achieved complete renal response, quantifying proteinuria every three months may prompt adjustment of treatment regimen. In people with LN who have sustained complete renal response, quantifying proteinuria every 3–6 months will minimize the risk of missing an LN flare that would require more aggressive treatment. While we are certain about the beneficial effects of monitoring and screening for proteinuria in both diagnosis and prognosis, there is a lack of evidence regarding the optimal screening interval, and the overall certainty of the evidence is very low. The benefit of potentially preserving long-term kidney function far outweighs the minimal risk of obtaining a urine sample.
+
+GPS: For people with LN, serum complement and anti–double-stranded DNA (dsDNA) antibody should be measured at every clinic visit (but not more frequently than monthly).
+
+*(轉檔註：原文此句括號內含一段疑似殘留的期刊編輯校對註記，逐字轉錄如下，供讀者參考："dsDNAAU: Expanded version of dsDNA was added before acronym at first mention in manuscript." 此為原始 PDF 中即存在的文字，並非本次轉檔擷取錯誤，未予刪改。)*
+
+While hypocomplementemia and elevated anti-dsDNA antibodies have only modest sensitivity and specificity for LN activity, several studies<sup>97–99</sup> suggest they may herald new onset LN or LN flare. Changes in these levels should prompt careful clinical and laboratory assessment but should not necessarily trigger pre-emptive treatment in the absence of clinical manifestations, unless previous individual clinical experience suggests otherwise. Anti-C1q antibodies<sup>100</sup> correlate better with LN flares<sup>101,102</sup>; however, this antibody testing may not be universally available. Emerging biomarkers' utility will be reviewed for future guideline updates as these become validated.
+
+### Renal replacement therapies (dialysis and transplant)
+
+GPS: Decisions for initiation and type of dialysis and timing of kidney transplant require close collaboration with nephrology.
+
+Ten to twenty-two percent of people with LN will develop ESKD.<sup>2,3</sup> Treatment options include hemodialysis or peritoneal dialysis, or a kidney transplant. Individual patient characteristics and preferences should impact dialysis modality choice. People undergoing peritoneal dialysis have a higher risk of infections, especially peritonitis. Hemodialysis has inherent complications — bloodstream infections and thrombosis — related to vascular access. People with antiphospholipid antibodies are at higher risk of vascular access complications and allograft thrombosis.<sup>103,104</sup>
+
+In people with LN and ESKD, we strongly recommend kidney transplantation over dialysis without kidney transplantation.
+
+Transplantation significantly reduces mortality, cardiovascular disease events, infections, and risk of flares compared to dialysis.<sup>105</sup> The Patient Panel highlighted both the poor quality of life associated with dialysis and the challenges of accessing transplantation. People with ESKD due to LN are less likely to receive a kidney transplant compared to people with other glomerulonephritides.<sup>106</sup>
+
+In people with LN who have progressive loss of kidney function and are nearing ESKD (defined as an eGFR of 15 ml/min/1.73m<sup>2</sup>), we conditionally recommend preemptive kidney transplant over dialysis/no preemptive kidney transplant.<sup>107</sup>
+
+Preemptive kidney transplantation improves survival compared to non-preemptive approaches in people with CKD,<sup>108,109</sup> and an observational study suggested that preemptive kidney transplantation improves survival in people with LN compared to non-preemptive approaches.<sup>110</sup> The Voting Panel emphasized the benefits of avoiding dialysis morbidity but recognized transplant access limitations.
+
+In people with LN and ESKD, we conditionally recommend proceeding with kidney transplantation without requiring complete clinical or serologic remission of SLE, provided there is no other major organ involvement.
+
+Limited data indicate that lupus activity does not significantly affect allograft function.<sup>111</sup> The Voting Panel emphasized that transplant eligibility should not be based on serologic activity as it does not appear to have an impact on transplant outcome.<sup>112</sup> The recurrence of LN in the allograft is rare (10%) and often mild, with predominantly mesangial lesions.<sup>113</sup>
+
+In people with LN on current dialysis or after kidney transplantation, we strongly recommend regular follow up with rheumatology.
+
+Despite a low recurrence rate of LN in transplanted kidneys, regular rheumatology follow up is recommended even for people with SLE who have ESKD or are post kidney transplant. The recommendation is strong despite low certainty of evidence supporting the benefit of regular rheumatology follow up, due to the essential role of rheumatologists in managing the broader health issues associated with lupus. At least 50% of people with ESKD due to LN in the US remain on immunosuppression<sup>114</sup>; those who are co-managed with a rheumatologist (≥2 rheumatology visits per year) have higher survival rates.<sup>107</sup>
+
+## Discussion
+
+Lupus nephritis is among the most common severe manifestation of SLE. In this guideline, we propose treatment with triple therapy (glucocorticoids plus two immunosuppressive medications) as the most desirable therapy for LN, preferring MPAA regimens over CYC regimens. We also propose a lower dose glucocorticoid regimen (after initial intravenous pulse) to minimize toxicity, with a prednisone goal of ≤5 mg/day by 6 months of therapy. These recommendations are conditional and require discussion between clinicians and patients because multiple factors impact therapy choice.
+
+We do not specify a particular CNI because comparative effectiveness and safety studies are not available, and accessibility may dictate the choice of CNI. Ongoing monitoring is essential as long-term nephrotoxicity is an important concern with any CNI.
+
+These recommendations apply to adults and children with LN. The Guideline Team analyzed pediatric-specific LN data when available, as LN affects up to half of individuals with cSLE.<sup>115,116</sup> Since cSLE LN treatment includes higher cumulative doses of glucocorticoids and CYC,<sup>117</sup> these recommendations propose corticosteroid regimens that differ from other pediatric-specific options.<sup>118</sup> While efficacy evidence for this change is indirect, it acknowledges pediatric-specific concerns regarding glucocorticoid effects on growth and pubertal development. We also emphasize the necessity of structured transition to adult rheumatology and nephrology care.<sup>118–121</sup> Despite recent improvements in LN outcomes, youth of historically marginalized groups remain at higher risk for ESKD and dialysis.<sup>122,123</sup>
+
+Two major themes emerged from the Patient Panel discussion. First, shared decision-making is a dynamic, ongoing process influenced by the patient's values, individual disease course, stage of life, medication tolerance, efficacy, and side effects; as such, an individual patient's decisions regarding management evolve over time. Second, patients emphasized the importance for clinicians to recognize pill burden, discuss all medication options, and provide close monitoring with the shared goals of preservation of kidney function, overall health, and optimal quality of life.
+
+Current gaps in the LN literature identified through our systemic literature review and evidence analysis helped to identify important areas of study for a future research agenda (Supplementary Materials 8), including new agents and strategies to improve outcomes for people with LN. During this guideline's manuscript preparation, a positive phase 3 trial reported that addition of the humanized anti-CD20 therapy obinutuzumab to standard therapy (glucocorticoid and mycophenolate mofetil) led to a significantly greater likelihood of complete renal response at 76 weeks than did standard therapy alone, although infectious risk (particularly COVID-19) was higher.<sup>124</sup> Further studies on this and other agents may lead to more targeted and effective LN strategies and will be reflected in updated revisions of this guideline.
+
+With the development of this guideline, the ACR recognizes the key role of clinical rheumatologists in managing LN. Important goals of this guideline are to provide substance and direction for therapy decisions after clinician-patient discussions, and to encourage close working relationships between rheumatologists and nephrologists to enhance collaborative care.
+
+## Acknowledgments
+
+We thank the patients who (along with authors Christele Felix and Brandi Rollins) participated in the Patient Panel meeting: Hiya Bhavsar, Seneka Epasinghe, Monique C. Gore-Massy, Natacha Guerrero, Jolanda Jackson, Ksisha Johnson, Marimee Jules, Wambui Machua, Michael Okechuku, Nahirannette Pulido, Bené Williams, and Brian L. Ung. We thank the Lupus Foundation of America and its Research Accelerated by You (RAY) patient and caregiver registry for assistance with recruitment for the Patient Panel. We thank Ashira D. Blazer, MD, MSC, Titilola Falasinnu, PhD, and Julie Bolvig for their assistance with the literature review. We thank the ACR staff, including Regina Parker for assistance in coordinating the administrative aspects of the project and Cindy Force for assistance with manuscript preparation. We thank Kathryn Vela for her assistance in developing the literature search strategy, performing the initial literature search, and performing the update searches. We also thank Larry J. Prokop, MLIS, for his peer review of the literature search strategy. This article is simultaneously published in *Arthritis & Rheumatology* and *Arthritis Care & Research* by The American College of Rheumatology. The articles are identical, and either citation can be used when referencing one of the articles.
+
+## References
+
