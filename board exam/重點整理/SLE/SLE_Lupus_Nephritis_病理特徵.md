@@ -18,7 +18,11 @@
 
 ![LN pathology 1](../images/LN%20pathology%201.jpg)
 
+> **Figure 1** Examples of glomerular lesions for which recommendations were made in Table 1. Arrows point to typical examples. All sections are shown in the PAS staining. (a) Mesangial hypercellularity, (b) endocapillary hypercellularity, (c) cellular crescent, (d) fibrous crescent, (e) fibrocellular crescent, (f) adhesion. PAS, periodic acid–Schiff.
+
 ![LN pathology 2](../images/LN%20pathology%202.jpg)
+
+> **Figure 2** Drawings depicting the ultrastructural features of a single glomerular capillary affected by lupus glomerulonephritis: class I with mesangial immune deposits (black) but no mesangial cell (red) hypercellularity or influx of leukocytes; class II with mesangial immune deposits and mesangial cell hypercellularity but no influx of leukocytes; class III/IV (upper right) with mesangial and capillary influx of leukocytes; class III/IV (lower right) with subendothelial capillary wall immune deposits that can be seen by LM and mesangial but no capillary influx of leukocytes (dark green neutrophils and light green monocytes/macrophages); class III/IV + V with an influx of leukocytes and numerous subepithelial immune deposits in addition to subendothelial deposits; and class V with numerous subepithelial immune deposits but no influx of leukocytes (podocyte = outer green cell, endothelial cell = yellow cell, mesangial cell = red cell, neutrophil = green cell with segmented nucleus, monocyte/macrophage = light green cell). LM, light microscopy.
 
 ## 二、沉積部位與對應分類（Kelly Ch.081）
 
