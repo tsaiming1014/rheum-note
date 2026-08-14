@@ -260,6 +260,14 @@ Neuropsychiatric SLE 診斷困難，需排除 mimics（感染、惡性腫瘤等�
 - 若 aPL 陰性：可用抗血小板藥物
 - 發炎與血栓機轉可能難以區分或並存 → 可考慮免疫抑制+抗凝/抗血栓合併治療
 
+**依 manifestation 的用藥偏好**（guideline 補充細節）(Guideline補充)
+
+- Myelitis（脊髓炎）：優先選擇 pulse/高劑量 GC **+ IV CYC**，優於合併其他非 CYC 免疫抑制劑
+- Psychosis（精神病）：需合併抗精神病藥物 + GC/IV CYC/MPAA/anti-CD20（不可僅用抗精神病藥）
+- Seizure：抗癲癇藥 + GC/IV CYC/MPAA/AZA/anti-CD20；須先排除為既有腦部損傷（scarring）而非活動性發炎所致
+- **孤立性認知功能障礙**（經神經心理測驗證實、無其他發炎證據如 CSF/影像異常者）：**不建議**加用免疫抑制治療（含GC），因缺乏療效證據
+- 鑑別診斷：新發之視神經炎或橫貫性脊髓炎合併 SLE 時，須排除 **NMOSD/MOG antibody disease overlap**（測 aquaporin-4 抗體），依主要病因調整治療方向
+
 ### 血液系統疾病
 
 多數 peripheral cytopenia 輕微、不需特殊治療（僅需監測），須先排除藥物或其他次發性原因。
