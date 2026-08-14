@@ -407,7 +407,7 @@ These recommendations are strong despite a lack of high-certainty evidence becau
 
 GPS: For people with LN, serum complement and anti–double-stranded DNA (dsDNA) antibody should be measured at every clinic visit (but not more frequently than monthly).
 
-*(轉檔註：原文此句括號內含一段疑似殘留的期刊編輯校對註記，逐字轉錄如下，供讀者參考："dsDNAAU: Expanded version of dsDNA was added before acronym at first mention in manuscript." 此為原始 PDF 中即存在的文字，並非本次轉檔擷取錯誤，未予刪改。)*
+*(Transcription note: the source PDF contains what appears to be a leftover copy-editing/author query annotation immediately after "dsDNA" in this sentence, transcribed verbatim here for reference: "dsDNA AU: Expanded version of dsDNA was added before acronym at first mention in manuscript." This text is present in the original PDF itself — it is not a text-extraction artifact from this conversion, and has been left unaltered.)*
 
 While hypocomplementemia and elevated anti-dsDNA antibodies have only modest sensitivity and specificity for LN activity, several studies<sup>97–99</sup> suggest they may herald new onset LN or LN flare. Changes in these levels should prompt careful clinical and laboratory assessment but should not necessarily trigger pre-emptive treatment in the absence of clinical manifestations, unless previous individual clinical experience suggests otherwise. Anti-C1q antibodies<sup>100</sup> correlate better with LN flares<sup>101,102</sup>; however, this antibody testing may not be universally available. Emerging biomarkers' utility will be reviewed for future guideline updates as these become validated.
 
