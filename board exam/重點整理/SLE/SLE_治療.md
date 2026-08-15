@@ -218,6 +218,10 @@ SLE 治療的 **anchor drug**，幾乎所有病人皆建議使用（除非禁忌
 - **Baricitinib**（JAK1/JAK2抑制劑）：Phase 2試驗（皮膚關節疾病）顯示邊際顯著效果；但 SLE-BRAVE-I/II phase 3試驗結果不一致（I陽性、II陰性），GC 減量及 flare 風險等次要 endpoint 均未達標 → **開發已中止**
 - **Obinutuzumab**（第二型抗 CD20 單株抗體，糖工程化增強 FcγRIII 親和力）：NOBILITY trial (phase 2, 125位LN病人) 顯示於52及104週 complete renal response 顯著優於 placebo（35% vs 23%；41% vs 23%），無明顯安全疑慮，目前進行 phase 3試驗
 
+**2025 ACR 依器官表現治療總覽**（Mucocutaneous、Musculoskeletal、Serositis、Hematologic、Neuropsychiatric、Cardiac、Vasculitis 各表現的建議用藥；顏色代表建議強度）：
+
+![ACR treatment of SLE by organ system overview](../images/ACR%20SLE%20guideline.png)
+
 ## 依器官表現的治療
 
 ### 皮膚黏膜與關節疾病
