@@ -81,6 +81,14 @@ EULAR特別註明：0.5g/day門檻雖有爭議（部分病人低於此值仍有p
 
 ## 活動性 Class III/IV（±V）LN 治療
 
+**EULAR 治療演算法**（不特別分class，統一適用於active LN；含Initial/Subsequent用藥選項與治療目標）：
+
+![EULAR treatment of lupus nephritis algorithm](../images/EULAR%20LN%20guideline.png)
+
+**ACR 治療演算法**（Class III/IV±V專用，依風險因子分三路徑：肺腎外表現/eGFR≤45、無特殊風險因子、蛋白尿>3g/d）：
+
+![ACR Class III IV lupus nephritis algorithm](../images/ACR%20LN%20class34%20guideline.png)
+
 ### Glucocorticoid 方案
 
 | | ACR | EULAR |
@@ -133,6 +141,10 @@ EULAR特別註明：0.5g/day門檻雖有爭議（部分病人低於此值仍有p
 **Flare相關風險因子（EULAR Table 2）**：不遵從服藥、治療時間過短(<3年)、初始治療反應不完全、持續肺腎外/血清學活性、未使用HCQ、年輕(<30歲)/男性、複查切片仍有殘餘組織學活性(NIH AI≥2)。
 
 ## 純 Class V LN 治療
+
+**ACR 治療演算法**（依蛋白尿≥1g/d分流）：
+
+![ACR pure class V lupus nephritis algorithm](../images/ACR%20LN%20class5%20guideline.png)
 
 **ACR**（明確依蛋白尿量分層，維持獨立演算法）：
 
