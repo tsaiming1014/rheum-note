@@ -15,6 +15,14 @@
 
 多專科合作（風濕科+腎臟科）、shared decision-making、健康不平等因素，兩指引皆列為共同原則。
 
+**EULAR 2025 建議總覽：**
+
+![EULAR 2025 LN guideline overview](../images/EULAR%20LN%20guideline%202025.png)
+
+**ACR 2024/2025 治療總覽（含Class III/IV與純V對照、難治型處理流程）：**
+
+![ACR LN guideline treatment overview](../images/ACR%20LN%20guideline.png)
+
 ## 治療反應目標定義
 
 | 定義 | ACR | EULAR |
