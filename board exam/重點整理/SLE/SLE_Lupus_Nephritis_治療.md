@@ -104,7 +104,7 @@ EULAR特別註明：0.5g/day門檻雖有爭議（部分病人低於此值仍有p
 
 - **a) MPAA + belimumab**（或ACR: MPAA或低劑量CYC + belimumab；EULAR同）
 - **b) MPAA + CNI**（voclosporin或tacrolimus）
-- **c) MPAA + obinutuzumab**（**僅EULAR正式列入**；ACR指引定稿時REGENCY試驗剛發表，僅於Discussion提及，未正式列入建議表）
+- **c) MPAA + obinutuzumab**（**僅EULAR正式列入**；ACR指引定稿時REGENCY試驗剛發表，僅於Discussion提及，未正式列入建議表；REGENCY trial完整數據整理見 [SLE_Obinutuzumab_REGENCY_ALLEGORY.md](SLE_Obinutuzumab_REGENCY_ALLEGORY.md)）
 - ELNT低劑量CYC + belimumab（CYC療程完成後轉MPAA維持）
 
 **依風險因子選擇方案**（ACR有明確分級建議；EULAR列為Table 2「預後因子」供參考，未強制分流）：
