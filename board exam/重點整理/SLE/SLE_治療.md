@@ -182,6 +182,8 @@ SLE 治療的 **anchor drug**，幾乎所有病人皆建議使用（除非禁忌
 
 **Belimumab 與 Anifrolumab 之選擇**：兩份 guideline 皆明確聲明兩者**無階層之分**（未有head-to-head試驗比較），亦**不要求**先使用傳統免疫抑制劑失敗才能啟用生物製劑（雖多數臨床情境仍會先嘗試至少一種傳統免疫抑制劑）；belimumab 已有 >10 年 real-life 使用經驗，anifrolumab 相對較新 (Guideline補充)
 
+**Obinutuzumab**：Phase 3 ALLEGORY trial（2026）證實其對非腎臟活動性SLE有效（primary endpoint SRI-4於Wk52達76.7% vs placebo 53.5%），惟發表時間晚於本篇引用之ACR/EULAR guideline定稿，尚未反映在正式建議中。試驗完整整理見 [SLE_Obinutuzumab_REGENCY_ALLEGORY.md](SLE_Obinutuzumab_REGENCY_ALLEGORY.md)
+
 **Belimumab**
 
 - 抗 B lymphocyte stimulator (BLyS) 的全人單株抗體
