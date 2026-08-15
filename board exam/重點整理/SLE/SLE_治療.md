@@ -19,6 +19,10 @@ SLE 呈現 relapsing-remitting 病程，只有少數病人能達到長期病情�
 - 重度、主要器官侵犯 → 先密集免疫抑制誘導治療，之後轉為較低強度的維持治療以鞏固緩解、預防復發
 - 免疫抑制劑可幫助減少 GC 使用，降低 GC 相關毒性
 
+**2023 EULAR 治療總覽**（依嚴重度 Mild/Moderate/Severe 分層、依證據等級標色）：
+
+![EULAR treatment of non-renal SLE overview](../images/EULAR%20SLE%20guideline.png)
+
 ## 病人溝通與疾病監測原則 (Guideline補充)
 
 - **多專科合作與 shared decision-making**：SLE 需個別化治療，考量病人價值觀、偏好及治療/疾病對病人與社會的成本；建議儘可能由風濕科與相關專科（腎臟科、皮膚科等）協同照護
