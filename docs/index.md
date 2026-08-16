@@ -55,7 +55,7 @@
 | NSAIDs | [NSAIDs 口試完整答案](跨疾病主題/謝松洲_NSAIDs口試完整答案.md) |
 | Migratory Oral Ulcer | [反覆/游走性口腔潰瘍鑑別診斷](跨疾病主題/Migratory_oral_ulcer_鑑別診斷.md) |
 | Paradoxical Psoriasis | [矛盾性乾癬反應（含矛盾性濕疹）](跨疾病主題/Paradoxical_Psoriasis.md) |
-| Vaccination | [風濕病人疫苗接種建議](跨疾病主題/2022_ACR_疫苗接種指引_台灣對照版.md) / [2026 EULAR 原版筆記](跨疾病主題/2026_EULAR_疫苗接種建議.md) |
+| Vaccination | [風濕病人疫苗接種建議](跨疾病主題/2022_ACR_疫苗接種指引_台灣對照版.md) |
 | Herpes Zoster | [Herpes Zoster 帶狀疱疹整理（Shingrix vs Zostavax）](跨疾病主題/Herpes_Zoster_帶狀疱疹.md) |
 | HBV Reactivation | [免疫抑制劑與 HBV Reactivation 風險分級與處置（2025 EASL）](跨疾病主題/HBV_reactivation_immunosuppressant.md) |
 | PAH 右心導管判讀 | [PAH 右心導管(RHC)數值判讀](跨疾病主題/PAH_右心導管判讀.md) |

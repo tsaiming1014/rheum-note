@@ -93,4 +93,4 @@
 
 ---
 
-**參考資料**：Kelly's Textbook of Rheumatology Ch120 (Vaccination in Rheumatic Disease)、Ch065 (Janus Kinase and Other Intra-cellular Targets)；[2026 EULAR 疫苗接種建議](2026_EULAR_疫苗接種建議.md)；[JAK Inhibitor 藥物治療與臨床應用](JAK_Inhibitor_藥物治療與臨床應用.md)；[Biologics 大全](Biologics%20大全.md)；歷屆免專/風專考題（2019、2024、2025）
+**參考資料**：Kelly's Textbook of Rheumatology Ch120 (Vaccination in Rheumatic Disease)、Ch065 (Janus Kinase and Other Intra-cellular Targets)；[風濕病人疫苗接種建議](2022_ACR_疫苗接種指引_台灣對照版.md)；[JAK Inhibitor 藥物治療與臨床應用](JAK_Inhibitor_藥物治療與臨床應用.md)；[Biologics 大全](Biologics%20大全.md)；歷屆免專/風專考題（2019、2024、2025）
