@@ -39,6 +39,23 @@
 
 **何時開始**：傳統建議發作緩解後，但現在 4個 RCT 顯示**發作當下開始不會延長或加重 flare**，ACR 2020 條件建議可在 flare 中開始。
 
+### Asymptomatic Hyperuricemia（無症狀高尿酸血症）不需 ULT
+
+**核心原則**：大多數國家不建議對「UA 高但從未痛風發作」的病人使用 ULT。
+
+- ACR 2020 / EULAR 2016 的 ULT 適應症，前提都是**已確診 gout**（ACR 強烈建議三項皆針對已有 gout 之病人；EULAR 措辭為「every patient with a definite diagnosis of gout」）
+- 原因：多數高尿酸血症者終生不會發作 gout（"most people with hyperuricemia do not have gout"）
+  - 15年 cumulative incidence：baseline SUA <6 mg/dL 者僅 1.1%；≥10 mg/dL 者達 49%（濃度依賴，但仍非人人發作）
+- 目前證據不足以支持對無症狀高尿酸血症常規給藥預防未來發作
+
+**例外：非「治療無症狀高尿酸血症」，而是已確診 gout 病人的早期介入（EULAR）**
+
+若病人已確診 gout，屬於以下情況可考慮更早啟動 ULT（而非提前到還沒發作前）：
+
+- 年輕（<40 歲）
+- SUA 非常高（>8 mg/dL）
+- 有重大共病（心衰竭、冠心病、腎病）
+
 ### 治療目標（treat-to-target）
 
 - **< 6 mg/dL**（ACR、EULAR 均建議）
