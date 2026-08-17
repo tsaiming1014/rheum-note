@@ -2,6 +2,8 @@
 
 **來源：** 2025 EULAR (*Ann Rheum Dis* 2026;85:1010–1025) + Kelly's Textbook of Rheumatology Ch94
 
+![Behçet's Disease 治療流程圖](../../images/Behcet%20treatment.png)
+
 ---
 
 ## 治療總則（Overarching Principles）
@@ -166,8 +168,6 @@
 ---
 
 ## 治療流程圖
-
-![Behçet's Disease 治療流程圖](../../images/Behcet%20treatment.png)
 
 ### 皮膚黏膜 / 關節
 
