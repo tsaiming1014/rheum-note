@@ -31,7 +31,7 @@
 | | [VEXAS syndrome](Autoinflammatory/VEXAS_致病機轉臨床表現與診斷.md) | UBA1 gene mutation | - | - | [2026 ACR](Autoinflammatory/VEXAS_懷疑時機檢驗與治療_2026ACR.md) |
 | | [AOSD — 成人型 Still's 病](Autoinflammatory/AOSD_治療總整理_2024.md) | [Yamaguchi (1992)、Fautrel (2002)](Autoinflammatory/AOSD_治療總整理_2024.md) | (modified) Pouchot / systemic score、ferritin | - | [2024 EULAR/PReS](Autoinflammatory/AOSD_治療總整理_2024.md) |
 | | HLH / MAS | HLH-2004、2016 MAS-SLE criteria | HScore、ferritin | - | 2022 EULAR/ACR |
-| **感染相關** | 細菌：Septic arthritis、[Lyme disease](感染相關/Lyme_disease_關節表現與機轉.md) | 關節液培養（無分類標準） | 臨床、培養追蹤 | 治癒 / 微生物根除 | - |
+| **感染相關** | 細菌：[Bacterial (Gonococcal/Nongonococcal) Arthritis](感染相關/Bacterial_Arthritis_致病機轉與治療.md)、[Lyme disease](感染相關/Lyme_disease_關節表現與機轉.md) | 關節液培養（無分類標準） | 臨床、培養追蹤 | 治癒 / 微生物根除 | - |
 | | 病毒：[HIV](感染相關/HIV_風濕病表現.md)、[Chikungunya](感染相關/Chikungunya_關節表現與機轉.md) | - | 臨床 | - | - |
 | | 結核菌：[Tuberculous arthritis](感染相關/Tuberculous_arthritis_表現與機轉.md) | - | 臨床、培養追蹤 | 治癒 / 微生物根除 | - |
 | | 其他：- | - | - | - | - |
