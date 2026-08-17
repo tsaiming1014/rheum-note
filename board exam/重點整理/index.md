@@ -35,9 +35,9 @@
 | | 結核菌：[Tuberculous arthritis](感染相關/Tuberculous_arthritis_表現與機轉.md) | - | 臨床、培養追蹤 | 治癒 / 微生物根除 | - |
 | | 其他：- | - | - | - | - |
 | **肉芽腫性疾病** | [Sarcoidosis](Sarcoidosis/Sarcoidosis_完整整理.md) | 無 ACR/EULAR 標準（ATS/ERS/WASOG 三要件） | ACE、sIL-2R、Scadding stage | - | Corticosteroid → DMASD → TNFi（ERS guideline） |
-| | IgG4-Related Disease | - | - | - | - |
+| | IgG4-Related Disease | [2019 ACR/EULAR](IgG4/IgG4-RD_分類標準.md) | - | - | - |
 | **irAE**（Immune Checkpoint Inhibitor 相關） | [Checkpoint inhibitor 機轉整理](irAE/irAE_Checkpoint_inhibitor機轉整理.md) | - | - | - | - |
-| **兒童風濕病** | [JIA — 幼年型特發性關節炎](JIA/JIA_分類標準_ILAR.md) | [ILAR (1995)、2019 PRINTO](JIA/JIA_分類標準_ILAR.md) | JADAS-27/71、cJADAS | Wallace criteria（clinical inactive / remission on/off med） | [2019/2021 ACR](JIA/JIA_治療總整理.md) |
+| **兒童風濕病** | [JIA — 幼年型特發性關節炎](JIA/JIA_致病機轉.md) | [ILAR (1995)、2019 PRINTO](JIA/JIA_分類標準_ILAR.md) | JADAS-27/71、cJADAS | Wallace criteria（clinical inactive / remission on/off med） | [2019/2021 ACR](JIA/JIA_治療總整理.md) |
 | **過敏相關疾病** | Asthma — 氣喘 | [2026 GINA 診斷準則](Allergy/Asthma/Asthma_診斷.md) | ACT、ACQ、FeNO、肺功能 | - | [2026 GINA](Allergy/Asthma/Asthma_藥物治療整理.md) |
 | | 過敏性鼻炎 / 結膜炎 | ARIA 分類（間歇/持續、輕/中重度） | TNSS、VAS、RQLQ | - | ARIA 2019/2020 |
 | | Drug Allergy — 藥物過敏 | Gell & Coombs I–IV 型 | - | - | 2022 AAAAI / EAACI |
