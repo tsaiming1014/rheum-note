@@ -68,6 +68,22 @@ Aldolase、AST（SGOT）、ALT（SGPT）、LDH — 當 CK 正常但臨床仍懷�
 2. **EMG 針刺本身會造成局部組織偽影**，干擾切片病理判讀 → 建議 **EMG 做一側、切片取對側同名肌肉**（IBM 雖然常不對稱，仍可用此原則，前提是對側肌肉也有無力）
 3. 也可協助鑑別神經性疾病（如 ALS 的 fibrillation/fasciculation potentials、重症肌無力的 decremental response）
 
+**病人實際範例**：
+
+| | Case 1：Myositis（CK↑） | Case 2：Hypomyopathy（CK 正常） |
+|---|---|---|
+| 取樣部位 | 右側 Deltoid、Biceps、Rectus femoris（對稱性近端無力） | 右側 Biceps、Rectus femoris、TA |
+| Spontaneous activity | **有**：Deltoid、Rectus femoris 出現 fibrillation、positive sharp waves | **無**：三條肌肉皆未記錄到自發性電活性 |
+| MUAP 型態 | 短時程、低振幅、多相波（典型肌病性型態） | 小振幅、多相波，但呈**長時程（long duration）**——與典型急性肌病之短時程不同 |
+| Recruitment | Deltoid 呈現**募集減少**（reduced；報告特別註明此為值得留意的例外表現） | 三條肌肉皆呈現**早期募集**（early recruitment，典型肌病性表現） |
+| 判讀結論 | Myopathic change **合併活動性發炎證據**（因有 spontaneous activity） | Myopathic change，但**無**活動性發炎證據（無 spontaneous activity） |
+
+**重點整理**：
+
+- IIM 肌電圖**最具特徵性**的兩項發現：**Early recruitment**（提早募集）與 **Spontaneous activity**（fibrillation、positive sharp waves）；後者才是判讀「有活動性發炎證據（evidence of active inflammation）」的關鍵
+- **CK 正常**的 hypomyopathic／amyopathic IIM，肌肉受侵犯程度輕，EMG 常缺乏 spontaneous activity，**甚至可完全正常**——EMG 正常**不能排除** IIM，尤其在 amyopathic DM 病人
+- 募集型態並非固定不變：多數呈早期募集，但當肌纖維大量喪失（病程久、損傷重）時也可能轉為募集**減少**，此時判讀須留意與神經性疾病的鑑別
+
 ---
 
 ## 五、影像檢查
