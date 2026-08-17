@@ -5,7 +5,7 @@
 
 ---
 
-## 〇、2025 ASAS/SPARTAN Revised Classification Criteria for axSpA
+## 一、2025 ASAS/SPARTAN Revised Classification Criteria for axSpA
 
 ![2025 ASAS/SPARTAN revised criteria for AS](../../images/2025%20ASAS-SPARTAN%20revised%20criteria%20for%20AS.png)
 
