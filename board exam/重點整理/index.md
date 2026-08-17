@@ -28,6 +28,7 @@
 | | 其他血管炎（PAN、[IgA vasculitis](Vasculitis/其他血管炎/IgA_Vasculitis.md)） | 2022 ACR/EULAR (PAN)、EULAR/PRINTO/PRES (IgAV) | 臨床、BVAS | - | - |
 | **軟骨免疫疾病** | [Relapsing Polychondritis (RPC)](RPC/RPC_致病機轉與臨床.md) | McAdam (1976)、Damiani & Levine (1979) | RPDAI（Arnaud 2012） | - | [Kelly Ch106 治療整理](RPC/RPC_致病機轉與臨床.md#治療) |
 | **自體發炎疾病** | FMF / CAPS / 其他 | Tel Hashomer、Eurofever/PRINTO | AIDAI | - | 2024 EULAR/PReS（FMF）/ 2021 ACR/EULAR（CAPS、TRAPS、MKD、DIRA）|
+| | VEXAS syndrome | 基因診斷（體突變 UBA1，無正式 ACR/EULAR 分類標準） | 臨床＋CBC macrocytosis、骨髓 vacuolization | - | 2026 ACR Guidance Statement (Mekinian et al.) |
 | | [AOSD — 成人型 Still's 病](Autoinflammatory/AOSD_治療總整理_2024.md) | [Yamaguchi (1992)、Fautrel (2002)](Autoinflammatory/AOSD_治療總整理_2024.md) | (modified) Pouchot / systemic score、ferritin | - | [2024 EULAR/PReS](Autoinflammatory/AOSD_治療總整理_2024.md) |
 | | HLH / MAS | HLH-2004、2016 MAS-SLE criteria | HScore、ferritin | - | 2022 EULAR/ACR |
 | **感染相關** | 細菌：Septic arthritis、[Lyme disease](感染相關/Lyme_disease_關節表現與機轉.md) | 關節液培養（無分類標準） | 臨床、培養追蹤 | 治癒 / 微生物根除 | - |
