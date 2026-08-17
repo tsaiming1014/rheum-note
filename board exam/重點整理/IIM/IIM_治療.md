@@ -70,6 +70,18 @@
 - **JAK 抑制劑**：現有證據不足以正式建議使用，但已發表的病例系列結果令人期待，未來臨床試驗可能提供更強證據依據 — 與 Kelly 治療流程圖中列為升階選項的定位一致
 - 在英國，RTX 與 IVIG 僅能依 NHS England 委託規範使用，須於專科中心協同處方（此點為英國在地醫療體系規範，僅供參考）
 
+**Brepocitinib（TYK2–JAK1 抑制劑）— VALOR trial（Vleugels & Paik et al., NEJM 2026）**
+
+- 藥物機轉：首個 first-in-class 口服 selective TYK2–JAK1 抑制劑，阻斷 type I/II interferon、IL-6、IL-12、IL-23 等 DM 致病細胞激素訊息傳遞
+- 試驗設計：Phase 3、多中心（90 site/20 國）、雙盲、安慰劑對照 RCT，共 241 位成人 DM 病人（2017 EULAR/ACR 分類標準，需同時有活動性肌肉疾病 MMT-8 80–142 分＋活動性皮膚疾病 CDASI-A ≥6 分），且對至少一種傳統治療（全身性 GC、傳統 DMARD 或 IVIG）反應不佳（難治型族群）
+- 1:1:1 隨機分至 brepocitinib 30 mg、15 mg、安慰劑，每日一次口服，共 52 週；背景治療（1 種抗瘧藥/1 種 DMARD）維持穩定，GC 依 protocol 於 week 12 開始減量，week 36 前須減至 ≤5 mg/day
+- Primary endpoint：Total Improvement Score（TIS，複合肌炎活性指標，0–100 分）於 week 52
+- 主要結果：30 mg 組 TIS 46.5 vs 安慰劑 31.2（差異 15.3，95% CI 6.7–24.0，**P<0.001**）；15 mg 組未達統計顯著，故後續不再檢定 15 mg 組
+- 30 mg 組於**全部 9 項次要指標**皆優於安慰劑，包括皮膚疾病活性（CDASI-A）、GC 減量成功率（week 48–52 時 ≤2.5 mg/day 者 54% vs 27%；減至 0 mg 者 42% vs 23%）、功能失能改善（HAQ-DI），療效最早於 **week 4** 即可觀察到
+- Moderate response（TIS≥40）：68% vs 44%；Major response（TIS≥60）：46% vs 26%
+- 安全性：整體不良事件發生率三組相近；**嚴重感染在 30 mg 組較高**（10% vs 15 mg 組 2% vs 安慰劑組 1%），多可經處置緩解並完成療程；試驗期間**無死亡**；癌症、血栓栓塞、心血管事件、病毒再活化事件反而多集中於安慰劑組（可能反映疾病本身及長期 GC 使用之基礎風險）
+- 結論：Brepocitinib 30 mg（非 15 mg）對難治型 DM 病人在複合肌炎指標、皮膚疾病嚴重度、GC 減量、功能失能皆有顯著效益，但感染風險需留意；為 JAK/TYK2 抑制劑家族中**首個達成 phase 3 primary endpoint** 的藥物
+
 ### 4. IBM 特殊考量
 
 - IBM 對 GC 通常無反應；偶有病例報告「穩定」數月，但可能只是反映疾病自然病程
