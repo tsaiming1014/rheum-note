@@ -206,6 +206,24 @@ mNY 須等 X 光出現薦腸關節炎（常延遲數年）才能分類，會漏�
 
 ## 五、各亞型流行病學重點
 
+**四型 SpA 臨床特徵總覽（Clinical Features of Various Forms of Spondyloarthritis）**
+
+![SpA 四亞型臨床特徵對照](../../images/SpA%20comparison.png)
+
+| Feature | PsA | AS | ReA | IBD-associated |
+|---|---|---|---|---|
+| 發病年齡 (yr) | 36 | 20 | 30 | 30 |
+| 男:女 | 1:1 | 3:1 | 3:1 | 2:1 |
+| 周邊關節受侵犯 (%) | 96 | 30 | 90 | 30 |
+| 軸向關節受侵犯 (%) | 50 | 100 | 100 | 30 |
+| 指炎 (dactylitis) | Common | Absent | Uncommon | Absent |
+| 附著點炎 (enthesitis) | Common | Common | Uncommon | Uncommon |
+| 乾癬 (%) | 100 | 10 | 10 | 10 |
+| 甲床病變 | 87% | Uncommon | Uncommon | Uncommon |
+| HLA-B27 (%) | 40–50 | 90 | 70 | 30 |
+
+> 對照本筆記「四、HLA-B27 關鍵數字」：此表 AS 的 B27 90%、PsA 20%（原文寫周邊型），兩者取數略有出入（本表 PsA 為 40–50%，可能未分軸向/周邊亞型），僅供交叉比對參考。
+
 **SpA 全球盛行率 ~0.55%**（最低：東南亞 0.20%；最高：北極圈社群 1.61%）
 
 ### axSpA
