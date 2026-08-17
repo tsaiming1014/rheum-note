@@ -16,7 +16,7 @@
 | | [APS — 抗磷脂症候群](APS/APS_致病機轉.md) | [2023 ACR/EULAR（舊 2006 Sydney）](APS/APS_臨床表現與診斷.md) | aGAPSS | - | [2019 EULAR](APS/APS_治療.md) |
 | **脊椎關節炎** | [AS — 僵直性脊椎炎](SpA/AS/AS_致病機轉.md) | [2009 ASAS axSpA](SpA/AS/SpA_分類標準與流行病學.md) | [BASDAI、ASDAS](SpA/AS/AS_疾病活性與評估工具.md) | [ASDAS inactive disease <1.3、ASAS partial remission](SpA/AS/AS_疾病活性與評估工具.md) | [2026 ACR / 2022 ASAS-EULAR](SpA/AS/AS_治療總整理_2026.md) / 2025 BSR |
 | | [PsA — 乾癬性關節炎](SpA/PsA/PsA_致病機轉.md) | [2006 CASPAR](SpA/PsA/PsA_分類標準.md) | [DAPSA、MDA](SpA/PsA/PsA_活性評估與remission.md) | [DAPSA remission ≤4、VLDA、MDA](SpA/PsA/PsA_活性評估與remission.md) | [2023 EULAR / 2021 GRAPPA](SpA/PsA/PsA_治療_Kelly_EULAR2023.md) |
-| | [其他 SpA（ReA、IBD-A）](SpA/其他SpA/其他SpA_致病機轉_ReA_IBD.md) | [2011 ASAS peripheral SpA](SpA/AS/SpA_分類標準與流行病學.md) | 臨床、CRP | - | - |
+| | [其他 SpA（ReA、IBD-A）](SpA/其他SpA/其他SpA_致病機轉_ReA_IBD.md) | [2011 ASAS peripheral SpA](SpA/AS/SpA_分類標準與流行病學.md) | 臨床、CRP | - | [ReA治療](SpA/其他SpA/ReA_臨床表現與治療.md) / [IBD-arthritis治療](SpA/其他SpA/IBD-arthritis_臨床表現與治療.md) |
 | **晶體沉積疾病** | [Gout — 痛風](Crystal/Gout_致病機轉.md) | [2015 ACR/EULAR](Crystal/Gout_分類標準與診斷.md) | 血清尿酸、發作頻率 | 2016 remission 定義（尿酸 <6、無發作等） | [2020 ACR / 2016 EULAR](Crystal/Gout_治療.md) / 2017 BSR |
 | | [CPPD](Crystal/CPPD_分類與診斷.md) / [BCP](Crystal/BCP_基礎鈣磷酸鹽結晶疾病.md) — 鈣晶體沉積 | [2023 ACR/EULAR；Ryan & McCarty](Crystal/CPPD_分類與診斷.md) | 臨床 | - | - |
 | **退化性疾病** | [OA — 骨關節炎](OA/OA_Leptin與Adipokine致病機轉.md) | 1986/1991 ACR、KL grade | WOMAC、KL 分級 | - | 2019 ACR / 2019 OARSI |
