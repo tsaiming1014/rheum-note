@@ -172,6 +172,13 @@
 
 ## 9. Minor Salivary Gland Biopsy 陽性定義
 
+![Labial salivary gland biopsy showing focal lymphocytic sialadenitis](../images/SjD%20lip%20pathology%20slide.jpg)
+
+> 圖：Labial salivary gland（LSG，唇部唾液腺）切片，H&E 染色，呈現 focal lymphocytic sialadenitis（FLS，局灶性淋巴球性唾液腺炎）。
+> A. 一個 LSG 中可見一個淋巴球聚集灶，大小恰達納入 focus score 計算的最小門檻（> 50 個細胞）（原始放大倍率 ×100）。
+> B. 一個 LSG 中可見 4 個大小不一的淋巴球病灶（foci）；病灶旁緊鄰外觀正常的 acini，為 FLS 的特徵性表現；整份檢體的 focus score 為 3 foci / 4 mm²（原始放大倍率 ×16）。
+> C. FLS 合併兩個明顯的淋巴球生發中心（germinal center）及 ductal hyperplasia 併淋巴球浸潤（原始放大倍率 ×40）。
+
 - **Focus score ≥ 1 focus / 4 mm²**
 - 1 focus = ≥ 50 個淋巴球聚集，鄰近正常腺泡組織
 - 病灶型態為**局灶性（focal）**聚集，多以小導管（intralobular duct）或小血管為中心（periductal/perivascular），需與瀰漫性、非特異性慢性唾液腺炎（non-specific chronic sialadenitis）區分——後者浸潤瀰漫、無明顯聚集邊界，即使有淋巴球浸潤也不計入 focus score
