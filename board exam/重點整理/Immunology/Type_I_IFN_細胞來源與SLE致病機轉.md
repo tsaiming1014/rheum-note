@@ -133,13 +133,13 @@ STAT1 ＋ STAT2 磷酸化
 
 這是 SLE pathogenesis 的核心機轉，也是近年最重要的治療標的（anifrolumab 已上市）。以下依「上游刺激 → pDC 活化 → 下游放大」的順序整理。
 
-### 3-1. 上游：為什麼會有持續的 nucleic acid 刺激？
+### 4-1. 上游：為什麼會有持續的 nucleic acid 刺激？
 
 SLE 病人的 apoptotic cell debris 清除有缺陷（尤其 **complement C1q、C2、C4 缺乏**是單基因 SLE 中風險最高的族群），導致核酸相關的自身抗原（DNA、RNA、核蛋白如 Ro/La/Sm/RNP）持續存在，並與對應的自體抗體結合形成 **nucleic acid–containing immune complex**。
 
 **C1q 的雙重角色**特別值得記：C1q 除了幫助清除 apoptotic debris，還會把這些 immune complex **導向 monocyte 而非 pDC** 處理；C1q 缺乏時，immune complex 轉而優先進入 pDC，直接放大 IFN-α 的產生。
 
-### 3-2. pDC 活化：TLR7/TLR9 pathway（TLR-dependent，主要路徑）
+### 4-2. pDC 活化：TLR7/TLR9 pathway（TLR-dependent，主要路徑）
 
 - Immune complex 透過 pDC 表面的 **Fc receptor** 被內吞，進入 endosome。
 - Endosomal **TLR7**（辨識 ssRNA，如 anti-RNP/Sm 抗體結合的 U1 RNA）與 **TLR9**（辨識 unmethylated CpG DNA）被活化，經 TIR domain 招募 adaptor **MyD88**。
@@ -157,7 +157,7 @@ SLE 病人的 apoptotic cell debris 清除有缺陷（尤其 **complement C1q、
 - TLR7 位於 **X 染色體**，且部分逃脫 X-inactivation（biallelic expression），被認為是 **SLE 女性好發**的機轉之一。
 - TLR9 的角色較特殊：小鼠模型顯示 TLR9-deficient 反而疾病更嚴重，暗示 TLR9 activation 可能有 protective 的一面（與 TLR7 相反）。
 
-### 3-3. TLR-independent 路徑：cytosolic sensor（cGAS-STING、RIG-I/MDA5-MAVS）
+### 4-3. TLR-independent 路徑：cytosolic sensor（cGAS-STING、RIG-I/MDA5-MAVS）
 
 除了 endosomal TLR，胞漿中的核酸感應系統也參與：
 
@@ -166,7 +166,7 @@ SLE 病人的 apoptotic cell debris 清除有缺陷（尤其 **complement C1q、
 
 這條路徑的觸發物尚未完全定義，但被認為是 pDC 路徑之外，額外放大 IFN 產生的機制。
 
-### 3-4. 放大迴路：不只 pDC 會產生 type I IFN
+### 4-4. 放大迴路：不只 pDC 會產生 type I IFN
 
 近年研究強調這是**多細胞參與的放大迴路**，不只 pDC：
 
@@ -198,7 +198,7 @@ pDC TLR7/TLR9 活化 → IFN-α 大量分泌 ──┐
 內皮損傷 + 血栓傾向 + B 細胞活化 → 自體抗體
 ```
 
-### 3-5. 下游效應：IFN 如何驅動疾病
+### 4-5. 下游效應：IFN 如何驅動疾病
 
 ![Janeway Fig. 15.22 — IFN-α 誘導 BAFF 驅動 SLE 自體抗體產生](../images/Janeway_Fig15-22_IFN_BAFF_SLE.jpg)
 
@@ -226,7 +226,7 @@ BAFF 作用在 B cell 表面受體 → 提升 autoreactive B cell 存活率
 3. **T 細胞**：促進 T peripheral helper (Tph) 等異常 T 細胞族群，協助 B 細胞分化。
 4. 整體形成「nucleic acid IC → pDC/其他細胞產生 IFN → 促進更多自體抗體與細胞死亡（NETosis/apoptosis）→ 更多核酸抗原 → 更多 IC」的**自我放大迴路（amplification loop）**。
 
-### 3-6. 治療意義
+### 4-6. 治療意義
 
 此機轉直接催生了 **anifrolumab**（anti-IFNAR1 單株抗體，阻斷所有 type I IFN 訊號），已核准用於 SLE；也是 belimumab（anti-BLyS，作用在下游 B 細胞分化）合理性的機轉基礎。
 
