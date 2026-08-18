@@ -148,8 +148,29 @@ SLE 病人的 apoptotic cell debris 清除有缺陷（尤其 **complement C1q、
 
 ### 3-5. 下游效應：IFN 如何驅動疾病
 
+![Janeway Fig. 15.22 — IFN-α 誘導 BAFF 驅動 SLE 自體抗體產生](../images/Janeway_Fig15-22_IFN_BAFF_SLE.jpg)
+
+Janeway（Fig. 15.22）用這張圖總結 type I IFN 從 pDC 產生後，進一步作用在哪些細胞、如何放大成疾病的完整鏈條：
+
+```
+nucleic acid immune complex（ssRNA/dsDNA）→ pDC 表面 FcγRIIA 內吞
+        → endosome 活化 TLR7/TLR9 → 產生 IFN-α
+                ↓
+IFN-α 作用在 monocyte / dendritic cell（經 IFNAR 訊號）
+                ↓
+誘導 monocyte、DC 大量分泌 BAFF（B-cell activating factor）
+                ↓
+BAFF 作用在 B cell 表面受體 → 提升 autoreactive B cell 存活率
+                ↓
+自體抗體（anti-dsDNA 等）↑ → immune complex 沉積於腎絲球、關節等小血管壁
+                ↓
+補體活化＋吞噬細胞經 Fc receptor 活化 → 組織傷害
+```
+
+🔴 這條路徑明確指出 IFN-α 誘導 BAFF 的細胞是 **monocyte 與 dendritic cell**，B cell 本身不是直接被 IFN 誘導分化，而是下游被 BAFF 作用而存活/擴增——這是「IFN 作用在什麼細胞、如何致病」這題最具體的答案。
+
 1. **IFN signature**：周邊血細胞廣泛表現 type I IFN-inducible gene，是 SLE 最具代表性的分子特徵，也用於臨床試驗分層。
-2. **促進 B 細胞分化為自體抗體產生細胞**：IFN 與 BLyS/BAFF、IL-21 協同，驅動 age-associated B cell (ABC) 分化為 plasmablast/plasma cell，產生 anti-dsDNA 等自體抗體。
+2. **促進 B 細胞分化為自體抗體產生細胞**：IFN 作用在 monocyte/DC 誘導 BAFF（見上圖），BAFF 再與 IL-21 協同，驅動 age-associated B cell (ABC) 分化為 plasmablast/plasma cell，產生 anti-dsDNA 等自體抗體。
 3. **T 細胞**：促進 T peripheral helper (Tph) 等異常 T 細胞族群，協助 B 細胞分化。
 4. 整體形成「nucleic acid IC → pDC/其他細胞產生 IFN → 促進更多自體抗體與細胞死亡（NETosis/apoptosis）→ 更多核酸抗原 → 更多 IC」的**自我放大迴路（amplification loop）**。
 
