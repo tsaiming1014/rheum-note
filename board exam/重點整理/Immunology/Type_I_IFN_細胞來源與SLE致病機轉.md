@@ -93,7 +93,39 @@ TLR3 + dsRNA → TRIF → TRAF3 → TBK1/IKKε → IRF3 磷酸化
 
 在 SLE 情境下，除了 pDC，放大迴路還涉及其他 IFN 來源：neutrophil（NETosis）、platelet（CD40L 刺激 pDC）、M1 macrophage、keratinocyte（分泌 IFN-κ）——詳見下方第 3-4 節。
 
-## 3. pDC 與 SLE 的 Type I IFN Pathway
+## 3. IFN 作用機轉：受體訊息傳遞與對「一般細胞」的效應
+
+pDC／cDC1 產生 IFN-α/β 之後，並不是只作用在少數免疫細胞——因為**幾乎所有有核細胞都表現 IFNAR**，這是 IFN 效應範圍如此廣、也是 SLE「IFN signature」能在周邊血幾乎任何白血球族群都測到的根本原因。
+
+### 3-1 受體與訊息傳遞：IFNAR → JAK/STAT → ISGF3 🔴
+
+```
+IFN-α/β 結合共同受體 IFNAR（IFNAR1+IFNAR2）
+        ↓
+Tyk2（接 IFNAR1）＋ Jak1（接 IFNAR2）磷酸化
+        ↓
+STAT1 ＋ STAT2 磷酸化
+        ↓
+與 IRF9 組成 ISGF3 複合體
+        ↓
+進核結合 ISRE（interferon-stimulated response element）
+        ↓
+轉錄數百個 ISG（interferon-stimulated gene）
+```
+
+### 3-2 對一般細胞的效應（生理層面，非侷限於免疫細胞）🔴
+
+| 效應 | 機轉／代表分子 | 意義 |
+|---|---|---|
+| **抗病毒狀態** | **OAS**（合成 2′,5′-oligoadenylate → 活化 RNase 降解病毒 RNA）、**PKR**（磷酸化 eIF2α → 抑制轉譯）、**Mx proteins**（GTPase，抑制病毒複製）、**IFIT**（阻斷 eIF3，抑制轉譯起始）、**IFITM**（阻擋病毒膜與 lysosome/endosome 融合） | 讓周邊未感染細胞提前進入「防禦狀態」，抑制病毒複製 |
+| **上調 MHC class I** | 幾乎所有細胞類型 | 雙重意義：一方面增加對 NK cell 攻擊的抵抗力，另一方面被感染細胞 MHC I 上調反而更容易被 **CD8 CTL** 辨認殺死 |
+| **活化 NK cell** | 直接活化 | 增強 NK 對受感染細胞的毒殺能力 |
+| **誘導 chemokine** | **CXCL9、CXCL10、CXCL11** | 招募淋巴細胞到感染／發炎部位 |
+| **細胞內在的正回饋（自我放大）**🔴 | IFN-β 誘導細胞更容易表現 **RIG-I、MDA-5、IRF7、STING** | 這些本身也是 ISG，被誘導後使細胞對病毒核酸更敏感、更容易再產生 IFN-α，形成**細胞內在**的放大迴路（與下方 3-4 節 pDC/NET 的**細胞間**放大迴路是兩個不同層次） |
+
+🔴 一句話銜接：正常生理下，這套機制是全身性的抗病毒防禦網；但在 SLE，因為刺激源（自身核酸）持續存在、不會像病毒感染一樣清除，這套原本用來抗病毒的廣泛效應被**慢性、全身性地誘發**，於是轉為致病機轉（見下第 4 節）。
+
+## 4. pDC 與 SLE 的 Type I IFN Pathway
 
 ![IFN in SLE](../images/IFN%20in%20SLE.png)
 
