@@ -91,7 +91,7 @@ TLR3 + dsRNA → TRIF → TRAF3 → TBK1/IKKε → IRF3 磷酸化
 | 巨噬細胞、腸道上皮細胞 | 同上 TLR-3/TRIF/IRF3，或胞質 RLR/cGAS-STING | 一般細胞的補充來源 |
 | 幾乎所有有核細胞 | 胞質 RIG-I/MDA5→MAVS 或 cGAS→STING | 病毒感染時的普遍反應，非專職但普遍存在 |
 
-在 SLE 情境下，除了 pDC，放大迴路還涉及其他 IFN 來源：neutrophil（NETosis）、platelet（CD40L 刺激 pDC）、M1 macrophage、keratinocyte（分泌 IFN-κ）——詳見下方第 3-4 節。
+在 SLE 情境下，除了 pDC，放大迴路還涉及其他 IFN 來源：neutrophil（NETosis）、platelet（CD40L 刺激 pDC）、M1 macrophage、keratinocyte（分泌 IFN-κ）——詳見下方第 4-4 節。
 
 ## 3. IFN 作用機轉：受體訊息傳遞與對「一般細胞」的效應
 
@@ -121,7 +121,7 @@ STAT1 ＋ STAT2 磷酸化
 | **上調 MHC class I** | 幾乎所有細胞類型 | 雙重意義：一方面增加對 NK cell 攻擊的抵抗力，另一方面被感染細胞 MHC I 上調反而更容易被 **CD8 CTL** 辨認殺死 |
 | **活化 NK cell** | 直接活化 | 增強 NK 對受感染細胞的毒殺能力 |
 | **誘導 chemokine** | **CXCL9、CXCL10、CXCL11** | 招募淋巴細胞到感染／發炎部位 |
-| **細胞內在的正回饋（自我放大）**🔴 | IFN-β 誘導細胞更容易表現 **RIG-I、MDA-5、IRF7、STING** | 這些本身也是 ISG，被誘導後使細胞對病毒核酸更敏感、更容易再產生 IFN-α，形成**細胞內在**的放大迴路（與下方 3-4 節 pDC/NET 的**細胞間**放大迴路是兩個不同層次） |
+| **細胞內在的正回饋（自我放大）**🔴 | IFN-β 誘導細胞更容易表現 **RIG-I、MDA-5、IRF7、STING** | 這些本身也是 ISG，被誘導後使細胞對病毒核酸更敏感、更容易再產生 IFN-α，形成**細胞內在**的放大迴路（與下方 4-4 節 pDC/NET 的**細胞間**放大迴路是兩個不同層次） |
 
 🔴 一句話銜接：正常生理下，這套機制是全身性的抗病毒防禦網；但在 SLE，因為刺激源（自身核酸）持續存在、不會像病毒感染一樣清除，這套原本用來抗病毒的廣泛效應被**慢性、全身性地誘發**，於是轉為致病機轉（見下第 4 節）。
 
