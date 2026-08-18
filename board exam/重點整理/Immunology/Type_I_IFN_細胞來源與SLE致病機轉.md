@@ -140,11 +140,31 @@ SLE 病人的 apoptotic cell debris 清除有缺陷（尤其 **complement C1q、
 
 | 細胞 | 角色 |
 |---|---|
-| **Neutrophil / NET (NETosis)** | 中性球釋出含 DNA、histone、LL-37、elastase 的 NETs，其中核酸成分可再刺激 pDC 產生更多 IFN，形成正回饋；NET 也是自身抗原來源、並造成血管損傷/血栓 |
+| **骨髓 → LDG (Low Density Granulocyte)**🔴 | IFN-α **作用於骨髓**，促使不成熟嗜中性球提早釋放入血，形成 LDG；LDG 具**自發性 NETosis** 傾向，是下方 NET 正回饋迴路的源頭。詳見 [NETosis與LDG.md](NETosis與LDG.md) |
+| **Neutrophil / NET (NETosis)** | LDG／中性球釋出含 DNA、**LL-37**、citrullinated histone、elastase 的 NETs；**LL-37 與 DNA 結合可抵抗 DNase I 降解**，使 NET-DNA 複合體持續進入 pDC endosome 活化 TLR7/9 → 產生更多 IFN-α，形成正回饋；NET 也是自身抗原來源，並直接損傷血管內皮、促進血栓（immunothrombosis） |
 | **Platelet** | 活化的 platelet 透過 CD40L–CD40 直接刺激 pDC 產生 IFN |
 | **M1 macrophage** | 表現強烈的 IFN-stimulated gene，與疾病活性、flare 相關 |
 | **Keratinocyte** | 皮膚角質細胞分泌 IFN-κ，與皮膚型狼瘡的發炎細胞招募有關 |
 | **Monocyte** | 除了對 IFN 反應強（高 ISG 表現），本身也產生 BLyS/BAFF、IL-12、TNF，並被認為在 **lupus nephritis** 中扮演重要角色（patrolling monocyte 浸潤腎臟） |
+
+**IFN ⇄ NETosis 正回饋迴路**（整合骨髓/LDG 路徑，完整版見 [NETosis與LDG.md](NETosis與LDG.md) 第七節）：
+
+```
+遺傳易感性 + 環境觸發（感染/UV）
+        ↓
+初期 Type I IFN 產生（pDC 被 DAMP 活化）
+        ↓
+IFN-α 作用於骨髓
+        ↓
+不成熟嗜中性球提早入血 → LDG 增加
+        ↓
+LDG 自發 NETosis → NET: DNA + LL-37 複合體 → 抵抗 DNase I 降解
+        ↓
+pDC TLR7/TLR9 活化 → IFN-α 大量分泌 ──┐
+        ↑______________________________┘（正回饋，回到「作用於骨髓」）
+        ↓（同時）
+內皮損傷 + 血栓傾向 + B 細胞活化 → 自體抗體
+```
 
 ### 3-5. 下游效應：IFN 如何驅動疾病
 
@@ -180,5 +200,5 @@ BAFF 作用在 B cell 表面受體 → 提升 autoreactive B cell 存活率
 
 ## 參考資料
 
-- *Janeway's Immunobiology* 第10版 Ch01（cell origins）、Ch03 Section 3-7（TLR → MyD88/TRIF → NF-κB vs IRF3/IRF7 分岔機轉）、Ch09 Section 9-6、9-7（DC subsets）
+- *Janeway's Immunobiology* 第10版 Ch01（cell origins）、Ch03 Section 3-7（TLR → MyD88/TRIF → NF-κB vs IRF3/IRF7 分岔機轉）、Ch09 Section 9-6、9-7（DC subsets）、Ch15 Fig. 15.22（IFN-α → BAFF → SLE 自體抗體機轉）
 - *Kelly's Textbook of Rheumatology* Ch080（Etiology and Pathogenesis of Systemic Lupus Erythematosus）
