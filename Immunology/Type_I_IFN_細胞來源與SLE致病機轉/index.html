@@ -6845,8 +6845,12 @@
 </thead>
 <tbody>
 <tr>
+<td><strong>骨髓 → LDG (Low Density Granulocyte)</strong>🔴</td>
+<td>IFN-α <strong>作用於骨髓</strong>，促使不成熟嗜中性球提早釋放入血，形成 LDG；LDG 具<strong>自發性 NETosis</strong> 傾向，是下方 NET 正回饋迴路的源頭。詳見 <a href="../NETosis%E8%88%87LDG/">NETosis與LDG.md</a></td>
+</tr>
+<tr>
 <td><strong>Neutrophil / NET (NETosis)</strong></td>
-<td>中性球釋出含 DNA、histone、LL-37、elastase 的 NETs，其中核酸成分可再刺激 pDC 產生更多 IFN，形成正回饋；NET 也是自身抗原來源、並造成血管損傷/血栓</td>
+<td>LDG／中性球釋出含 DNA、<strong>LL-37</strong>、citrullinated histone、elastase 的 NETs；<strong>LL-37 與 DNA 結合可抵抗 DNase I 降解</strong>，使 NET-DNA 複合體持續進入 pDC endosome 活化 TLR7/9 → 產生更多 IFN-α，形成正回饋；NET 也是自身抗原來源，並直接損傷血管內皮、促進血栓（immunothrombosis）</td>
 </tr>
 <tr>
 <td><strong>Platelet</strong></td>
@@ -6866,6 +6870,22 @@
 </tr>
 </tbody>
 </table>
+<p><strong>IFN ⇄ NETosis 正回饋迴路</strong>（整合骨髓/LDG 路徑，完整版見 <a href="../NETosis%E8%88%87LDG/">NETosis與LDG.md</a> 第七節）：</p>
+<pre><code>遺傳易感性 + 環境觸發（感染/UV）
+        ↓
+初期 Type I IFN 產生（pDC 被 DAMP 活化）
+        ↓
+IFN-α 作用於骨髓
+        ↓
+不成熟嗜中性球提早入血 → LDG 增加
+        ↓
+LDG 自發 NETosis → NET: DNA + LL-37 複合體 → 抵抗 DNase I 降解
+        ↓
+pDC TLR7/TLR9 活化 → IFN-α 大量分泌 ──┐
+        ↑______________________________┘（正回饋，回到「作用於骨髓」）
+        ↓（同時）
+內皮損傷 + 血栓傾向 + B 細胞活化 → 自體抗體
+</code></pre>
 <h3 id="3-5-ifn">3-5. 下游效應：IFN 如何驅動疾病</h3>
 <p><img alt="Janeway Fig. 15.22 — IFN-α 誘導 BAFF 驅動 SLE 自體抗體產生" src="../../images/Janeway_Fig15-22_IFN_BAFF_SLE.jpg" /></p>
 <p>Janeway（Fig. 15.22）用這張圖總結 type I IFN 從 pDC 產生後，進一步作用在哪些細胞、如何放大成疾病的完整鏈條：</p>
@@ -6893,7 +6913,7 @@ BAFF 作用在 B cell 表面受體 → 提升 autoreactive B cell 存活率
 <p>此機轉直接催生了 <strong>anifrolumab</strong>（anti-IFNAR1 單株抗體，阻斷所有 type I IFN 訊號），已核准用於 SLE；也是 belimumab（anti-BLyS，作用在下游 B 細胞分化）合理性的機轉基礎。</p>
 <h2 id="_4">參考資料</h2>
 <ul>
-<li><em>Janeway's Immunobiology</em> 第10版 Ch01（cell origins）、Ch03 Section 3-7（TLR → MyD88/TRIF → NF-κB vs IRF3/IRF7 分岔機轉）、Ch09 Section 9-6、9-7（DC subsets）</li>
+<li><em>Janeway's Immunobiology</em> 第10版 Ch01（cell origins）、Ch03 Section 3-7（TLR → MyD88/TRIF → NF-κB vs IRF3/IRF7 分岔機轉）、Ch09 Section 9-6、9-7（DC subsets）、Ch15 Fig. 15.22（IFN-α → BAFF → SLE 自體抗體機轉）</li>
 <li><em>Kelly's Textbook of Rheumatology</em> Ch080（Etiology and Pathogenesis of Systemic Lupus Erythematosus）</li>
 </ul>
 
