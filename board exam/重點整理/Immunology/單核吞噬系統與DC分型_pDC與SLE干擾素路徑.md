@@ -80,6 +80,19 @@ TLR3 + dsRNA → TRIF → TRAF3 → TBK1/IKKε → IRF3 磷酸化
 
 **臨床鉤子（與 MyD88/TLR7/9 路線的鑑別考點）**：**TLR3（或其上游 UNC93B1）loss-of-function mutation** 與**反覆單純疱疹病毒腦炎（HSE, herpes simplex encephalitis）**相關——儘管 HSV 是 DNA 病毒。這類病人對其他病毒的免疫力大致正常（其他病毒感應器可代償），顯示 **TLR3 路徑在中樞神經系統的局部抗病毒防禦中特別關鍵**，可與「MyD88/IRAK4 缺乏 → 反覆化膿菌感染、發燒反應減弱」互為鑑別選項。
 
+### 2-3 Type I IFN（IFN-α/β）產生細胞總覽（速記表）🔴
+
+原則：幾乎所有細胞受病毒感染、活化 RLR（RIG-I/MDA5）或 cGAS-STING 後都能產生 type I IFN，但有兩種細胞特別專精：
+
+| 細胞 | 路徑 | 特點 |
+|---|---|---|
+| **pDC（plasmacytoid DC）**🔴 | TLR-7/9（endosome）→ MyD88 → **IRF7** | 「專業 IFN 生產細胞」（過去稱 interferon-producing cell, IPC）。因**組成性高量表現 IRF7**，產量可達其他細胞的 **1000 倍**，是 type I IFN 的主力，也是 SLE「干擾素印記」的分子根源 |
+| **cDC1** | TLR-3（endosome，偵測 dsRNA）→ TRIF → **IRF3** | 與 pDC 走完全不同 adaptor/IRF；cDC2 不表現 TLR-3 |
+| 巨噬細胞、腸道上皮細胞 | 同上 TLR-3/TRIF/IRF3，或胞質 RLR/cGAS-STING | 一般細胞的補充來源 |
+| 幾乎所有有核細胞 | 胞質 RIG-I/MDA5→MAVS 或 cGAS→STING | 病毒感染時的普遍反應，非專職但普遍存在 |
+
+在 SLE 情境下，除了 pDC，放大迴路還涉及其他 IFN 來源：neutrophil（NETosis）、platelet（CD40L 刺激 pDC）、M1 macrophage、keratinocyte（分泌 IFN-κ）——詳見下方第 3-4 節。
+
 ## 3. pDC 與 SLE 的 Type I IFN Pathway
 
 ![IFN in SLE](../images/IFN%20in%20SLE.png)
