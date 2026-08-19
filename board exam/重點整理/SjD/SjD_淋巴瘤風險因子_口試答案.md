@@ -28,6 +28,20 @@ Primary Sjögren's syndrome 病人發生淋巴瘤，最常見型態是 **MALT ly
 
 「**腫、腫、腫、紫**（腮腺腫、淋巴結腫、脾腫、紫斑）+ **補體低、冷凝蛋白、單株蛋白、白血球低** + **ESSDAI 高**」
 
+## 肺部特異性 risk factor：LIP
+
+在上面三大類之外，還有一個比較進階、常被忽略的 risk factor：**LIP（Lymphocytic Interstitial Pneumonia）**。
+
+LIP 是 Sjögren's 相關淋巴增生疾病譜（lymphoproliferative spectrum）中的一個中間站：從良性的 reactive lymphoid hyperplasia，經過 LIP，最終可能演變成 pulmonary MALT lymphoma。
+
+重點：
+
+- LIP 組織學上常需要跟 low-grade pulmonary MALT lymphoma 做鑑別診斷，兩者有時難以區分甚至並存
+- 部分診斷為 LIP 的病例做 clonality study 會發現 clonal B cell restriction，代表已經在往 monoclonal（惡性）方向轉變
+- 臨床意義：LIP 病人建議長期追蹤肺部影像，因為有進展成 pulmonary lymphoma 的風險
+
+這個 risk factor 比較偏肺部/組織學層面，不在 Theander/Baimpa/Kelley's 那組經典臨床＋抽血口訣裡，但口試若被追問「還有沒有其他risk factor」時可以加碼講出來，展現對疾病譜的完整理解。
+
 ## 出處對照
 
 這份清單整合了兩組不同來源的經典風險因子，考試/口試不管引用哪個角度都能接得上：
