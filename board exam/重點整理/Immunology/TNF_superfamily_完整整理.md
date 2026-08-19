@@ -173,7 +173,7 @@ FasL 結合 Fas → 受體三聚化 → death domain 招募 **FADD**（Fas-assoc
 
 **記憶點**：BAFF 結合三受體、APRIL 只結合 TACI/BCMA；BAFF-R 決定未成熟 B 細胞存活的「選汰關卡」；belimumab 標靶 BAFF、用於 SLE；TACI/BAFF-R 基因缺陷 → CVID。
 
-（出處：Kelly Ch013 B Cells；Janeway Ch13 Failures of Host Defense Mechanisms）
+（出處：Kelly Ch013 B Cells；Janeway Ch13 Failures of Host Defense Mechanisms、AppendixII CD Antigens、AppendixIII Cytokines and Their Receptors）
 
 ### 4.3 CD40L / CD40 — T-B 細胞協同刺激軸
 

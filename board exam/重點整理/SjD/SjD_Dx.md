@@ -1,4 +1,4 @@
-# Sjögren's Syndrome (SjS) 臨床重點整理
+# SjD 2016 ACR/EULAR
 
 ## 1. Schirmer Test 判讀
 
@@ -84,7 +84,7 @@
 
 ---
 
-## 5. 2017 ACR/EULAR Criteria 乾眼評估：OSS 計分
+## 5. 2016 ACR/EULAR Criteria 乾眼評估：OSS 計分
 
 ### 染色劑與評估部位
 
@@ -188,7 +188,7 @@
 
 ---
 
-## 10. 2017 ACR/EULAR SjS Classification Criteria 總表
+## 10. 2016 ACR/EULAR SjS Classification Criteria 總表
 
 | 項目 | 分數 |
 |------|------|
