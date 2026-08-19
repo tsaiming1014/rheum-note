@@ -78,3 +78,15 @@
   - Flare burden、類固醇使用量與毒性皆顯著下降；安全性與安慰劑相當
   - 結果於 2026/06 EULAR congress 發表，同步刊登 NEJM
 - Zenas BioPharma 已於 **2026/05 向 FDA 遞交 BLA**，尚未核准上市
+
+**BTK inhibitor（口服，機轉上為第三種策略）**：
+
+- 機轉與 B cell depletion（rituximab、inebilizumab）、FcγRIIb 抑制性阻斷（obexelimab）皆不同：BTK 是 B cell receptor（BCR）訊號傳導路徑的關鍵激酶，也表現於部分 myeloid cell；BTK inhibitor**不清除 B cell**，而是抑制 BCR 活化下游訊號，為**口服**劑型。
+- **Rilzabrutinib**（Sanofi）：
+  - Phase 2a open-label 52 週試驗（含曾對 rituximab 失敗/不耐受之世代）：治療結束時 **70.4%** 病人達到 flare-free 且完全停用類固醇/免疫抑制劑
+  - 2026/03 獲日本厚生勞働省核准 IgG4-RD **孤兒藥資格**
+  - 已進入 **Phase III RILIEF trial**，尚未核准上市
+- **Zanubrutinib**（原核准用於 CLL/MCL/Waldenström 等血液腫瘤）：
+  - Phase 2 proof-of-concept trial（10 位病人，lacrimal/submandibular gland 侵犯、對 glucocorticoid 反應不佳/不耐受/復發者），**單獨使用、不併用 glucocorticoid induction**
+  - Week 24：lacrimal gland 體積縮小 45.4%、submandibular gland 縮小 30.0%（皆 p<0.001），serum IgG4 平均下降 417 mg/dL
+  - 2026/07 發表於 *Annals of the Rheumatic Diseases*，尚未核准用於 IgG4-RD
