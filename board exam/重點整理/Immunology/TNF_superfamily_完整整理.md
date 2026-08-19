@@ -147,6 +147,15 @@ FasL 結合 Fas → 受體三聚化 → death domain 招募 **FADD**（Fas-assoc
 | BAFF（B cell Activating Factor，又稱 BLyS） | BAFF-R、TACI、BCMA（三個都能結合） |
 | APRIL（A PRoliferation-Inducing Ligand） | 只結合 TACI、BCMA（不結合 BAFF-R） |
 
+**細胞來源**：BAFF 與 APRIL 主要由參與先天免疫反應的細胞分泌，而非 B 細胞或 T 細胞本身：
+
+- **BAFF**：主要來自單核球（monocytes）、巨噬細胞、樹突細胞（DCs）——包括黏膜組織的 DC，以及基質細胞（stromal cells）
+- **APRIL**：主要來自單核球、巨噬細胞、DCs，以及活化的 T 細胞（activated T cells）
+
+兩者皆可以膜結合蛋白（membrane-bound）或可溶性三聚體（soluble trimer）兩種形式存在，膜結合型態可被蛋白酶切割釋放成可溶性型態。
+
+**記憶點補充**：BAFF/APRIL 的來源以骨髓樣細胞（myeloid：monocyte、macrophage、DC）為主軸，這點解釋了為什麼這條軸被歸類為「先天免疫連結適應性 B 細胞存活」的橋樑——不是 B 細胞自己分泌存活因子給自己，而是骨髓樣細胞依環境訊號（如 IFN、TLR 活化）調控 BAFF/APRIL 產量，間接決定周邊 B 細胞庫的存活選汰壓力。
+
 **三個受體在 B 細胞發育不同階段表現、功能不同**：
 
 - **BAFF-R**：從 T2（transitional stage 2）B 細胞開始表現，缺乏於 pro-B/pre-B。BAFF 結合 BAFF-R 提供未成熟 B 細胞存活與活化訊號，決定 B 細胞能否通過 transitional stage、正式進入周邊 B 細胞庫的關鍵檢查點
