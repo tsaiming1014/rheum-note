@@ -105,6 +105,18 @@ B cell 若 1–2 天內未遇到對的 Tfh，會變成 anergic，壽命從 ~40 �
 
 **Btk 缺陷 = X-linked agammaglobulinemia**（B cell 發育與功能完全喪失）。
 
+### 4.6 BTK Inhibitor：治療標靶
+
+Btk 是 BCR signaling 下游三分支的關鍵瓶頸（bottleneck），因此是重要的治療標靶：
+
+- **作用位置**：卡在 SLP-65(BLNK) → **Btk 磷酸化並活化 PLC-γ** 這一步，抑制後 Ca²⁺/NFAT、Ras-MAPK/AP-1、PKC/NFκB 三條下游分支同時被截斷，效果比單獨抑制某一轉錄因子更全面
+- **藥物舉例**：
+  - B cell malignancy：ibrutinib、acalabrutinib、zanubrutinib（CLL、mantle cell lymphoma）
+  - 自體免疫疾病：evobrutinib、fenebrutinib、remibrutinib 等 next-gen BTK inhibitor（ITP、pemphigus 已核准或研究中，SLE、Sjögren's、MS 等臨床試驗中）
+- Btk 也表現在 myeloid cell（macrophage、mast cell）的 Fc receptor signaling 路徑，故 BTK inhibitor 除壓制 B cell 活化外，也會影響部分先天免疫細胞的活化
+
+> 此段屬藥理延伸知識，非 Ch7 原文內容，僅供臨床應用參考，最新藥物核准狀態與試驗結果建議另外查證。
+
 ## 五、BCR vs TCR 訊號傳導對照
 
 | 步驟 | TCR | BCR |
