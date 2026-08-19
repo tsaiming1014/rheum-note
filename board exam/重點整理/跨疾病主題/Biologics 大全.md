@@ -122,7 +122,7 @@
 > - **Rituximab（RTX）**：Chimeric mouse-human IgG1，屬 **Type I anti-CD20**。結合後會使CD20重新分布聚集到細胞膜lipid raft，主要透過**complement-dependent cytotoxicity（CDC）**清除B cell，另有ADCC及部分apoptosis參與。
 > - **Obinutuzumab（OBI）**：Humanized、醣基工程改造（glycoengineered，Fc端**afucosylated**）之IgG1，屬 **Type II anti-CD20**。結合模式不會使CD20重新分布到lipid raft，CDC能力較弱，但因醣基工程大幅提升對效應細胞FcγRIII之親和力，**ADCC/ADCP能力遠強於RTX**，並透過homotypic adhesion誘導**direct（non-classical、caspase-independent）細胞死亡**。整體B cell清除效果**較RTX更徹底**。
 >
-> 另三種策略：**Belimumab**中和可溶性BLyS（BAFF）配體，阻斷B cell存活訊號（非清除性）；**Ianalumab**標靶**BAFF-R（受體）**，機轉為雙重——同時阻斷BAFF-R存活訊號**並**透過ADCC清除B cell（結合了「阻斷」與「清除」兩種策略）；**Inebilizumab**標靶**CD19**（表現範圍比CD20更廣，涵蓋部分plasmablast），清除深度較anti-CD20更廣。
+> 另四種策略：**Belimumab**中和可溶性BLyS（BAFF）配體，阻斷B cell存活訊號（非清除性）；**Ianalumab**標靶**BAFF-R（受體）**，機轉為雙重——同時阻斷BAFF-R存活訊號**並**透過ADCC清除B cell（結合了「阻斷」與「清除」兩種策略）；**Inebilizumab**標靶**CD19**（表現範圍比CD20更廣，涵蓋部分plasmablast），清除深度較anti-CD20更廣；**Obexelimab**為bispecific，同時結合**CD19與抑制性受體FcγRIIb**，交聯後傳遞抑制訊號而**不清除B cell**（非depleting、可逆性抑制），是此類中唯一「抑制而非清除」的雙標的藥物。
 
 | Group | 學名 | 中文名 | 商品名 | 藥商 | 用量 | 途徑 | 副作用 | 特色 | 藥價(售價) | Indication |
 |---|---|---|---|---|---|---|---|---|---|---|
