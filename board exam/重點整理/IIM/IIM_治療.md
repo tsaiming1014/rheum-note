@@ -147,6 +147,31 @@
   a. 誘導治療可考慮高劑量類固醇（2, C, 96%）
   b. 可考慮於類固醇之外併用 **ciclosporin 或 tacrolimus**（2, C, 96%）
   c. 可考慮**及早**使用 cyclophosphamide 或 rituximab，甚至作為誘導療程之一部分（2, C, 96%）
+
+**Triple therapy 實證支持（Japan protocol, Tsuji et al. 2020）**
+
+![Anti-MDA5 RP-ILD triple therapy](../images/MDA5%20RPILD%20triple%20therapy.png)
+
+- 文獻：Tsuji H, et al. "Multicenter Prospective Study of the Efficacy and Safety of Combined Immunosuppressive Therapy With High-Dose Glucocorticoid, Tacrolimus, and Cyclophosphamide..." Arthritis Rheumatol. 2020;72(3):488-498. doi:10.1002/art.41165
+- 試驗設計：日本多中心**前瞻性**研究，將新提出的三合一免疫抑制方案（prospective regimen group）與過去**回溯性歷史對照組**（採傳統 stepwise 升階治療：high-dose GC + IS 逐步加藥）比較
+- **"Triple" therapy 組成 = High-dose steroid + Cyclophosphamide + CNI（CsA 或 TAC）**：
+  - Prednisolone：1 mg/kg/day，使用 4 週後逐漸減量
+  - IV cyclophosphamide（IVCY）：500–1000 mg/m²，每 2 週一次共 6 次；之後每 4–8 週一次，總計 10–15 次
+  - Tacrolimus：調整劑量使 trough level（給藥後 12 小時）達 10–12 ng/mL
+  - 可視病情追加其他治療（additional therapy allowed）
+  - 療程規劃以 0、8、16、24 週為時間軸，同步逐步減量 GC
+- 主要結果：prospective regimen group 存活率明顯優於歷史對照組（stepwise 升階治療組）——prospective 組存活率維持在 **0.89～0.85**，對照組則降至約 **0.33**；另比較「不含 plasmapheresis 之方案」也同樣顯著優於兩組歷史對照
+- 意義：此研究是「三合一療法（high-dose GC + CYC + CNI）」作為 anti-MDA5 RP-ILD **早期誘導治療**的重要實證依據，較傳統逐步升階治療顯著改善存活率，也是 2022 BSR guideline 中「RP-ILD 可及早合併 ciclosporin/tacrolimus、及早使用 cyclophosphamide」建議的主要實證來源之一
+
+**Unmet needs：Triple therapy 之外的 add-on／replace 選項**
+
+- 即使給予 triple therapy，仍有病人反應不佳或病情惡化，臨床上持續討論可能的 add-on 或 replace 選項（timing 與角色尚無定論）：
+  - **MMF**（Mycophenolate mofetil）
+  - **Plasma exchange**（血漿置換）
+  - **JAK inhibitor**（Tofacitinib、Baricitinib）— 加入時機（誘導期即合併 vs. 反應不佳後才加）仍待釐清
+  - **Rituximab**
+- 此為目前 anti-MDA5 RP-ILD 治療的 unmet needs，尚無足夠證據建議何時 add-on、何時取代三合一方案中的藥物
+
 - **慢性 IIM 相關 ILD 治療**：
   a. 可考慮使用類固醇 ± 單一 DMARD（azathioprine、ciclosporin、tacrolimus、mycophenolate）（2, C, 100%）
   b. 治療反應不佳者可考慮 rituximab 或 cyclophosphamide（2, C, 100%）

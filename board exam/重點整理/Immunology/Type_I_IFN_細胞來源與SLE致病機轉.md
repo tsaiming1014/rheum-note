@@ -232,5 +232,5 @@ BAFF 作用在 B cell 表面受體 → 提升 autoreactive B cell 存活率
 
 ## 參考資料
 
-- *Janeway's Immunobiology* 第10版 Ch01（cell origins）、Ch03 Section 3-7（TLR → MyD88/TRIF → NF-κB vs IRF3/IRF7 分岔機轉）、Ch09 Section 9-6、9-7（DC subsets）、Ch15 Fig. 15.22（IFN-α → BAFF → SLE 自體抗體機轉）
+- *Janeway's Immunobiology* 第10版 Ch01（cell origins）、Ch03 Section 3-7（TLR → MyD88/TRIF → NF-κB vs IRF3/IRF7 分岔機轉）、Ch03 Section 3-22（IFNAR → JAK/STAT → ISGF3、ISG 效應）、Ch09 Section 9-6、9-7（DC subsets）、Ch15 Fig. 15.22（IFN-α → BAFF → SLE 自體抗體機轉）
 - *Kelly's Textbook of Rheumatology* Ch080（Etiology and Pathogenesis of Systemic Lupus Erythematosus）

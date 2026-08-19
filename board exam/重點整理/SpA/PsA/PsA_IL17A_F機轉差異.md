@@ -31,6 +31,60 @@ IL-17 家族共 6 個成員，但真正促發炎、與風濕病最相關的是 *
 
 ---
 
+## IL-17 整體致病機轉總覽（背景知識）
+
+![IL-17 來源、目標細胞與下游疾病總覽](../../images/IL17%20mechanism.jpg)
+
+這張圖把 IL-17 的致病邏輯畫成「多來源 → 廣泛作用 → 疾病分化」的三層漏斗，是後面 IL-17A/F 分工、Bimekizumab 機轉的整體背景。
+
+### 1. 來源細胞：IL-17 不是 Th17 專利
+
+除了 Th17，圖中列出的來源細胞涵蓋了 adaptive 與 innate/innate-like 兩大類：
+
+| 類別 | 細胞 | 備註 |
+|------|------|------|
+| Adaptive | Th17、Tc17（CD8 版本）、CD8 T cells | 抗原依賴，需 TCR活化 |
+| Innate-like | γδ T cells、iNKT/NK cells、MAIT（見下方章節四） | 不需 MHC 呈現抗原，感染早期即可快速反應 |
+| Innate | ILC3、Neutrophil、Mast cell | Neutrophil、Mast cell 本身既是 IL-17 的下游反應者，也能自己分泌 IL-17，形成自我放大迴路 |
+
+**意義**：這解釋了為什麼抗 IL-17（如 Bimekizumab）常常比只鎖定某一種 T 細胞的療法效果更全面——因為上游來源本來就是多路匯流，不是單一細胞群可以完全代表的。
+
+### 2. 目標細胞與下游產物：受體廣泛表現，各組織各自放大
+
+IL-17RA/RC 廣泛表現在非造血系的組織常駐細胞上，每種目標細胞被 IL-17 活化後產生的下游分子略有不同，但重複出現的核心分子是 **IL-6、IL-8（chemokine）、MMPs**：
+
+| 目標細胞 | IL-17 誘導產物 | 臨床意義 |
+|---|---|---|
+| Keratinocyte | IL-1, IL-6, IL-8, IL-17C, LL-37, AMPs, chemokines | 抗菌胜肽 + 招募 neutrophil → 乾癬角質層發炎 |
+| Fibroblast | IL-1, IL-6, IL-8, G-CSF, GM-CSF, chemokines, **RANKL**, MMPs | 骨侵蝕與軟骨破壞的關鍵來源 |
+| Endothelial cell | GM-CSF, IL-6, IL-8, adhesion molecules, MMPs, coagulation | 白血球外滲 + **凝血活化**（對應下方 Behçet disease/thrombosis） |
+| Macrophage/Monocyte/DC | IL-1, IL-6, TNF, MMPs, chemokines, angiogenic factors | 血管新生、發炎放大 |
+| Neutrophil | IL-1, IL-6, TNF, chemokines, MMPs | 自我放大迴路（neutrophil 本身也是 IL-17 來源） |
+| Chondrocyte | NO, MMPs | 直接破壞軟骨基質 |
+| Osteoclast | Chemokines, RANKL, MMPs, osteoclastogenesis | 蝕骨活化 |
+| Osteoblast | MMPs, RANKL | 骨代謝失衡 |
+| Synoviocyte | IL-6, IL-8, GRO-α(CXCL1), GM-CSF, chemokines | 滑膜發炎放大 |
+
+### 3. 下游結果與疾病分化：同一訊號、不同組織 = 不同疾病
+
+慢性發炎持續、免疫細胞持續被招募後，依受影響的組織不同，分化成不同臨床疾病：
+
+| 病理機轉 | 對應疾病 |
+|---|---|
+| Neurodegeneration | MS |
+| Damage of GI tract | IBD |
+| Keratinocyte hyperproliferation | Psoriasis |
+| Thrombosis | Behçet disease |
+| Cartilage damage | SLE、RA |
+| Bone erosion | RA |
+| Tissue damage | Periodontitis |
+
+### 一句話總結
+
+**多種 adaptive/innate 細胞匯流產生 IL-17 → 作用在幾乎所有組織常駐細胞（不限免疫細胞）→ 各組織誘導出以 IL-6/chemokine/MMP/RANKL 為核心的下游放大迴路 → 依受累組織位置分化成 PsO、PsA、axSpA、RA、Behçet、MS、IBD 等看似獨立、實則共享同一上游訊號的疾病** ——這也是本筆記後續要談的 IL-17A（關節/急性）與 IL-17F（皮膚/慢性）分工，以及 Bimekizumab 雙重阻斷策略的整體背景。
+
+---
+
 ## 一、IL-17F 與 IL-17A 的差異
 
 ### 基本結構

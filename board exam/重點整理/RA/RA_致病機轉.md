@@ -19,6 +19,10 @@
 | **HLA-DR Shared Epitope（SE）** | peptide-binding groove（位點 11、13）高效率呈現 citrullinated peptide 給 T cells；autoreactive T cells 在胸腺未被刪除 | 主要與 ACPA 陽性 RA 相關；gene dosage effect（2 個 SE allele → OR 11–13）|
 | **PTPN22（1858 C/T）** | R620W 突變 → gain of function → 降低 TCR 訊號閾值；亦干擾 PAD4 的調控，促進 NETosis | OR ~2；與 RF 無關；PTPN22 + SE + anti-CCP 組合特異性接近 100% |
 | **PADI4** | susceptible haplotype → mRNA 穩定性增加 → PADI4 蛋白量上升 → 更多 citrullination | 主要在亞洲族群；與 anti-PAD4 抗體相關 |
+| **TRAF1-C5**（TNF signaling） | TRAF1 參與 TNF receptor 下游訊息傳導；為 GWAS 中最早被重複驗證的 RA susceptibility loci之一 | 與 anti-CCP(+) RA 相關 |
+| **TNFAIP3（A20）** / **TNIP1**（TNF/NF-κB signaling） | A20 為 NF-κB/TNF 訊息的 negative regulator，變異使發炎訊息煞車機制減弱；TNIP1 與 A20 協同調控 | 與 RA、SLE 等多種自體免疫病皆相關，非 RA 專一 |
+
+> **注意**：以上是 **TNF/NF-κB signaling pathway 上的調控基因**變異，並非 TNF cytokine 基因本身的多型性。TNF 基因 promoter polymorphism（如 TNF-308 G/A）過去雖有 case-control 研究探討與 RA 易感性/嚴重度的關聯，但在大型 GWAS 中未被穩定驗證為主要 susceptibility locus，證據強度遠不如 HLA-SE、PTPN22、PADI4。這也說明了為何 anti-TNF biologics 對 RA 治療如此有效——此 pathway 本身即與致病機轉密切相關。
 
 ### 環境因素
 
