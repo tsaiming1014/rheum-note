@@ -131,7 +131,50 @@
 
 ---
 
-## 二、Outcome — 預後（Kelly）
+## 二、Warfarin 藥物交互作用（DDI）速記
+
+> APS 長期 VKA 治療者常合併其他藥物（尤其 SLE-associated APS），治療窗窄，DDI 需特別注意。
+
+### 藥物動力學交互作用（影響 CYP2C9 代謝 → 改變 INR）
+
+Warfarin（活性 S-form）主要由 **CYP2C9** 代謝，其次 CYP1A2、CYP3A4。
+
+**使 INR 上升（增加出血風險）**
+
+| 藥物類別 | 代表藥物 |
+|---|---|
+| 抗生素 | Metronidazole、Fluconazole、Cotrimoxazole (TMP-SMX)、Macrolides（Erythromycin、Clarithromycin）、Ciprofloxacin |
+| 抗黴菌藥 | Fluconazole、Voriconazole（強效抑制劑） |
+| 心血管藥 | Amiodarone（強效、作用時間長）、Fibrates、Statins（尤其 Fluvastatin、Rosuvastatin） |
+| 其他 | Cimetidine、Omeprazole（弱）、Allopurinol、Tramadol、Acetaminophen（高劑量/長期使用） |
+| 中草藥 | 銀杏（Ginkgo）、當歸 |
+
+**使 INR 下降（增加血栓風險）**
+
+| 藥物類別 | 代表藥物 |
+|---|---|
+| 抗癲癇藥 | Carbamazepine、Phenytoin、Phenobarbital |
+| 抗結核藥 | Rifampin（強效誘導劑） |
+| 其他 | Cholestyramine（減少腸道吸收）、St. John's Wort（貫葉連翹） |
+
+### 藥效學交互作用（不影響 INR，但加成出血風險）
+
+- **NSAIDs**（含 COX-2 selective 如 Celecoxib）：抑制血小板功能＋傷胃黏膜，**風濕科病人最常見的合併用藥風險**，能避免併用就避免，可改用 acetaminophen 或加 PPI
+- **Aspirin / 其他抗血小板藥**（Clopidogrel）：出血風險顯著增加；APS 常需 warfarin + LDA dual therapy（見上方抗凝決策速記表），需權衡出血風險
+- **SSRIs**（如 Sertraline、Fluoxetine）：抑制血小板 serotonin 攝取，增加出血
+- **Corticosteroids**（高劑量）：可能增加出血風險，機轉不完全清楚
+- **廣效抗生素**：破壞腸道菌叢 → 減少 vitamin K 合成 → 加成 INR 上升（額外機轉，非單純 CYP 抑制）
+
+### APS/SLE 臨床常見情境提醒
+
+- **Methotrexate**：與 warfarin 併用可能增加 INR（機轉不明，可能與 protein binding 置換有關），需密切監測
+- **Rifampin**：會大幅降低 warfarin 效果，需大幅調高劑量並密切追蹤 INR
+- **LA（Lupus anticoagulant）陽性者**：LA 本身會干擾 INR 檢測，必要時改用 **anti-factor Xa** 監測抗凝強度（見上方 Arterial 段落註記）
+- 飲食中 **Vitamin K 攝取量變化**（綠色蔬菜）也是常被忽略但影響 INR 很大的因素
+
+---
+
+## 三、Outcome — 預後（Kelly）
 
 - **不良預後因子**：pulmonary hypertension、神經侵犯、myocardial ischemia、nephropathy、四肢壞疽、CAPS。
 - **Primary APS 長期功能差**：10 年時 1/3 永久器官損害，1/5 無法執行日常活動。
