@@ -304,6 +304,9 @@ SLE 的核心問題主要發生在**周邊耐受性**：第四、五節持續存
 | Antiphospholipid Ab | 21% | 中 | APS、血栓、流產 |
 | Anti-Ribosomal P | 10% | 中 | CNS lupus |
 
+![Autoantibodies and Clinical Significance in SLE](../images/SLE%20Ab.png)
+> 圖片來源：Kelly's Textbook Table 81.8。注意此表 anti-dsDNA prevalence 標為 60%，與上表（70%）數字不同，反映不同文獻/assay 方法的差異；臨床上 dsDNA 陰性不能排除 SLE 診斷（詳見表格右欄 clinical associations）。
+
 ### 抗體出現時序（重要！）
 
 ```
