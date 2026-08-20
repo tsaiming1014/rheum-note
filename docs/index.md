@@ -74,8 +74,7 @@
 
 | 主題 | 連結 |
 |------|------|
-| T Cell Activation | [T cell activation — TCR 訊息傳遞機轉](Immunology/T_cell_activation_TCR訊息傳遞.md) |
-| B Cell Activation | [B cell activation — 完整整理（TD/TI 活化、GC、BCR signaling、BCR vs TCR）](Immunology/B_cell_activation.md) |
+| T/B Cell Activation | [T cell activation — TCR 訊息傳遞機轉](Immunology/T_cell_activation_TCR訊息傳遞.md)、[B cell activation — 完整整理（TD/TI 活化、GC、BCR signaling、BCR vs TCR）](Immunology/B_cell_activation.md) |
 | JAK-STAT | [JAK-STAT 訊息傳遞機轉](Immunology/JAK-STAT_訊息傳遞機轉.md) |
 | 補體系統 | [補體系統 — 臨床檢驗與各疾病變化](Immunology/Complement_疾病與檢驗.md) |
 | NETosis / LDG | [NETosis 與 LDG](Immunology/NETosis與LDG.md) |
