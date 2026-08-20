@@ -20,6 +20,9 @@
 | **晶體沉積疾病** | [Gout — 痛風](Crystal/Gout_致病機轉.md) | [2015 ACR/EULAR](Crystal/Gout_分類標準與診斷.md) | 血清尿酸、發作頻率 | 2016 remission 定義（尿酸 <6、無發作等） | [2020 ACR / 2016 EULAR](Crystal/Gout_治療.md) / 2017 BSR |
 | | [CPPD](Crystal/CPPD_分類與診斷.md) / [BCP](Crystal/BCP_基礎鈣磷酸鹽結晶疾病.md) — 鈣晶體沉積 | [2023 ACR/EULAR；Ryan & McCarty](Crystal/CPPD_分類與診斷.md) | 臨床 | - | - |
 | **退化性疾病** | [OA — 骨關節炎](OA/OA_Leptin與Adipokine致病機轉.md) | 1986/1991 ACR、KL grade | WOMAC、KL 分級 | - | 2019 ACR / 2019 OARSI |
+| **增生性骨病** | [DISH — 瀰漫性特發性骨骼肥厚症](增生性骨病/DISH_瀰漫性特發性骨骼肥厚症.md) | 1976 放射學標準（胸椎右側流暢型骨贅≥4節） | - | - | - |
+| | [HOA — 肥厚性骨關節病變](增生性骨病/HOA_Hypertrophic_Osteoarthropathy.md) | Clubbing + Periostosis + Joint effusion | - | - | - |
+| | [SAPHO Syndrome](增生性骨病/SAPHO_Syndrome.md) | 無正式分類標準 | - | - | - |
 | **代謝性骨病** | [Osteoporosis — 骨質疏鬆症](Osteoporosis/Kelly_Ch4_骨生物學與骨重塑.md) | WHO T-score ≤ -2.5 / 脆弱性骨折 | [Bone turnover markers](Osteoporosis/Bone_Turnover_Markers.md)、FRAX、DXA | - | - |
 | **非發炎性疼痛** | [Fibromyalgia — 纖維肌痛症](Fibromyalgia/Fibromyalgia_致病機轉與治療.md) | [2016 ACR（修訂 2010/2011；WPI+SSS）](Fibromyalgia/Fibromyalgia_分類與診斷標準.md) | FIQR、WPI+SSS | - | [2016 EULAR](Fibromyalgia/Fibromyalgia_致病機轉與治療.md) |
 | **血管炎** | [AAV（GPA / MPA / EGPA）](Vasculitis/AAV/AAV_三大疾病完整比較.md) | [2022 ACR/EULAR](Vasculitis/AAV/AAV_分類診斷的來龍去脈與2022標準.md) | [BVAS、VDI](Vasculitis/AAV/AAV_BVAS活性評估.md) | BVAS = 0（區分 on/off therapy） | [2021 ACR / 2022 EULAR](Vasculitis/AAV/AAV_治療.md) / 2025 BSR |
@@ -62,7 +65,6 @@
 | PAH 右心導管判讀 | [PAH 右心導管(RHC)數值判讀](跨疾病主題/PAH_右心導管判讀.md) |
 | Synovium | [滑膜組織重點整理](跨疾病主題/Synovium_滑膜組織重點整理.md) |
 | 關節液分析 | [關節液外觀與鑑別診斷（CVC）](Crystal/關節液外觀與鑑別診斷.md) |
-| HOA | [Hypertrophic Osteoarthropathy 重點整理](跨疾病主題/HOA_Hypertrophic_Osteoarthropathy.md) |
 | 老鼠動物模型 | [風濕免疫疾病老鼠動物模型整理](跨疾病主題/風濕免疫疾病_老鼠動物模型整理.md) |
 | 過敏原免疫治療（AIT） | [SCIT / SLIT / OIT 完整比較](Allergy/過敏原免疫治療_AIT比較.md) |
 | CTD-ILD | CTD 相關間質性肺病 |
