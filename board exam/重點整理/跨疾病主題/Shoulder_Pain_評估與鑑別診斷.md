@@ -79,3 +79,79 @@
 
 ### 7. 神經學檢查
 - 若病史提到 neck pain、radicular arm pain 或 neurologic symptoms，需加做上肢神經學檢查：肌肉萎縮視診、muscle tone、reflexes、dermatomal sensation、strength
+
+## 進階鑑別問答整理
+
+### Q1. Subacromial pain 與 Adhesive capsulitis 怎麼分？
+
+**核心判讀邏輯：Passive ROM 是否受限**
+
+| | Subacromial pain | Adhesive capsulitis |
+|---|---|---|
+| 病灶位置 | Subacromial space（rotator cuff、bursa、tendon） | Glenohumeral joint 本身（joint capsule 沾黏、增厚） |
+| Active ROM | 受限／疼痛，尤其 overhead | 受限 |
+| **Passive ROM** | **保留**（檢查者被動抬病人手臂可接近正常角度） | **同樣受限**（不是病人不敢動，是真的抬不上去） |
+| 特徵性表現 | **Painful arc**（abduction 約 60°–120° 間最痛，超過該角度反而不痛） | **Global 受限**——外展、前舉、內外轉每個方向都卡住 |
+| 好發年齡 | >40 歲 | 40–65 歲，女性略多，糖尿病患者風險增加 |
+| 疼痛部位 | 上臂外側，接近 deltoid insertion（較局限） | 瀰漫性肩痛（較彌散） |
+| 疼痛型態 | 動作誘發為主；患側躺臥時夜間痛 | **休息、夜間也劇痛**，不只是動作誘發 |
+
+**臨床陷阱**：文章明確提醒，病程**早期**若 passive movement 尚未受限，subacromial pain 有時無法與 adhesive capsulitis（或 glenohumeral OA）區分，須靠病程演變（stiffness 逐漸加重、passive ROM 逐漸受限）才會浮現。
+
+**一句話記憶**：Subacromial pain 是「動到某角度會痛、但別人幫你抬得起來」；Adhesive capsulitis 是「不管自己動還是別人幫忙動，全部方向都僵硬抬不起來」。
+
+### Q2. Milwaukee shoulder syndrome 與 Charcot (neuropathic) arthropathy 怎麼分？
+
+兩者都會造成嚴重關節破壞，但機轉完全不同：
+
+| | Milwaukee shoulder syndrome | Charcot (neuropathic) arthropathy |
+|---|---|---|
+| 致病機轉 | Basic calcium phosphate（BCP，主要是 hydroxyapatite）crystal-induced destructive arthropathy | 喪失本體感覺／痛覺後，反覆微創傷累積，缺乏保護性疼痛反射導致關節被動壞 |
+| 好發族群 | **女性 >70 歲** | Age >50 y，有明確神經學病因：糖尿病周邊神經病變、syringomyelia（經典侵犯肩關節）、其他 neuropathy |
+| 疼痛與破壞程度落差 | 破壞可很嚴重，但疼痛相對不成比例地輕，腫脹更顯著 | **Minimal pain**——嚴重破壞卻幾乎不痛，因痛覺傳入路徑已壞，這正是造成破壞的原因 |
+| 關節腫脹／積液 | **大量 joint effusion**，典型為 blood-tinged，常兩側都有 | 腫脹來自關節結構崩塌、不穩定，非以發炎性積液為主 |
+| 影像特徵 | **顯著 osteolysis**（尤其 proximal humerus），常合併大範圍 rotator cuff tear | 嚴重破壞＋不穩定，classic 三重奏：destruction、density（增生硬化）、debris |
+| 穩定度 | 相對次要 | **Instability** 是關鍵特徵，關節鬆散易脫位 |
+| 確診方式 | 關節液找 BCP crystals（需 alizarin red S 染色） | 主要靠病史找出背後 neuropathy 病因＋影像 |
+
+**一句話記憶**：Milwaukee shoulder = 老太太＋肩膀腫得誇張＋X 光骨頭被吃掉但沒那麼痛，找 BCP crystal；Charcot shoulder = 先問「有沒有糖尿病或 syringomyelia？」，關節壞到不成形、鬆脫不穩，病人卻說不太痛。
+
+### Q3. Superior labrum pathology 與 Subacromial pain 怎麼分？
+
+兩者常在同一個 overhead athlete 身上重疊出現：
+
+| | Superior labrum pathology（如 SLAP tear） | Subacromial pain |
+|---|---|---|
+| 好發族群 | Age ≥30 y，**overhead 運動員**（棒球投手、游泳、網球） | Age >40 y，一般族群即可 |
+| 疼痛部位 | **前肩、bicipital groove**（因 long head of biceps tendon anchor 在 superior labrum 上） | **上臂外側，接近 deltoid insertion** |
+| 病程／誘發機轉 | Activity-related，**traumatic**（常有明確過肩動作誘發） | Gradual 或 acute，不一定有明確創傷 |
+| 特徵性症狀 | **Clicking 或 popping**（機械性卡感／彈響） | **Painful arc** |
+| 理學檢查誘發 | **Resisted flexion 或 supination 誘發痛**（考 biceps-labrum complex） | Painful arc with abduction；resisted testing 主要測 rotator cuff strength |
+| Passive ROM | 通常保留，但可能因碎片卡住而有 mechanical catching | 保留 |
+
+**一句話記憶**：Superior labrum pathology = 年輕、愛過肩運動的人，肩膀「前面」痛，動作中會「喀」一聲卡到，resisted flexion／supination 誘發；Subacromial pain = 年紀較大，肩膀「外側」痛，特徵是 painful arc，沒有明顯卡感。
+
+**補充**：Labrum pathology 常用 O'Brien test（active compression test）輔助，但和 Neer/Hawkins-Kennedy／Speed test 一樣 interrater reliability 偏低，確診仍需 MR arthrogram（X 光看不出來）。
+
+### Q4. 超音波能鑑別 Table 1 的疾病嗎？
+
+文章原文對超音波的定位（Imaging 段落）：
+
+> "Ultrasonography and MRI have comparable diagnostic accuracy for **full-thickness tears**〔rotator cuff〕. Ultrasonography is less costly and often more accessible but is **highly operator dependent** and **does not adequately visualize fatty atrophy or certain intra-articular structures, such as joint cartilage**. MRI is therefore preferred when detailed soft-tissue assessment is needed."
+
+套用到 Table 1 各疾病：
+
+| 疾病 | US 鑑別能力 | 說明 |
+|---|---|---|
+| Subacromial pain（rotator cuff tear、tendinopathy、impingement、bursitis） | ★★★★★ 很適合 | Full-thickness tear 準確度與 MRI 相當；可看 tendinopathy、bursal effusion；可做 dynamic scan 看 impingement |
+| Proximal long head biceps tendinopathy/rupture | ★★★★☆ 適合 | 位置表淺，容易看到 tendon sheath effusion、tendinopathy、rupture 時不連續 |
+| Calcific tendinitis | ★★★★★ 很適合，甚至優於 X 光 | 可見 hyperechoic deposit 合併 acoustic shadowing，並可導引 barbotage 治療 |
+| Adhesive capsulitis | ★★☆☆☆ 有限 | 可能看到 capsule／coracohumeral ligament 增厚，但診斷主要仍靠臨床（passive ROM 受限） |
+| Glenohumeral OA | ★★☆☆☆ 有限 | 看不到關節軟骨全貌與骨贅程度，X 光才是首選 |
+| Acromioclavicular OA | ★★★★☆ 適合 | 位置表淺，可看關節間隙增寬、骨贅、積液，並可導引注射 |
+| Superior labrum pathology | ★☆☆☆☆ 不適合 | Labrum 位置深，US 幾乎看不到，需 MR arthrogram |
+| Milwaukee shoulder syndrome | ★★★☆☆ 部分有幫助 | 可看大量 effusion、合併 cuff tear，但確診仍需關節液找 BCP crystal |
+| Charcot arthropathy | ★★☆☆☆ 有限 | 可看軟組織腫脹、積液，骨頭破壞全貌需 X 光或 CT |
+| Nonshoulder causes（cervical radiculopathy、TOS、ACS、Pancoast） | 不適用 | 需其他影像（MRI spine、心臟 workup、胸部影像等） |
+
+**一句話記憶**：超音波在 **subacromial pain（尤其 rotator cuff tear）和 calcific tendinitis** 幾乎是主場；對於 **glenohumeral 關節內部病灶**（labrum、cartilage、adhesive capsulitis 的 capsule、Charcot 的骨破壞範圍）力有未逮。文章建議順序：先 X 光排除 OA／腫瘤／cuff arthropathy → 仍不確定且需詳細軟組織評估時才上 MRI。
