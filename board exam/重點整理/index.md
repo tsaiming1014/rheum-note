@@ -64,6 +64,7 @@
 | HBV Reactivation | [免疫抑制劑與 HBV Reactivation 風險分級與處置（2025 EASL）](跨疾病主題/HBV_reactivation_immunosuppressant.md) |
 | PAH 右心導管判讀 | [PAH 右心導管(RHC)數值判讀](跨疾病主題/PAH_右心導管判讀.md) |
 | Synovium | [滑膜組織重點整理](跨疾病主題/Synovium_滑膜組織重點整理.md) |
+| Shoulder Pain | [肩膀疼痛評估與鑑別診斷](跨疾病主題/Shoulder_Pain_評估與鑑別診斷.md) |
 | 關節液分析 | [關節液外觀與鑑別診斷（CVC）](Crystal/關節液外觀與鑑別診斷.md) |
 | 老鼠動物模型 | [風濕免疫疾病老鼠動物模型整理](跨疾病主題/風濕免疫疾病_老鼠動物模型整理.md) |
 | 過敏原免疫治療（AIT） | [SCIT / SLIT / OIT 完整比較](Allergy/過敏原免疫治療_AIT比較.md) |
