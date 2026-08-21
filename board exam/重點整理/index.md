@@ -126,7 +126,7 @@
 | 器官系統 | 疾病 |
 |------|------|
 | 腎臟 | [RPGN](考試準備/RPGN_重點整理.md)<br>Scleroderma renal crisis (SRC) |
-| 肺部 | RP-ILD<br>DAH（diffuse alveolar hemorrhage） |
+| 肺部 | RP-ILD<br>[DAH](考試準備/DAH_重點整理.md)（diffuse alveolar hemorrhage） |
 | 心臟 | Cardiac tamponade（SLE/RA pericarditis）<br>Aortic dissection/rupture（GCA、Takayasu、Behçet、relapsing polychondritis） |
 | 血液/微血管 | [TMA, TTP, aHUS](考試準備/TMA_重點整理.md)<br>Catastrophic APS（CAPS）<br>HLH/MAS (AOSD, SLE) |
 | 神經 | PRES (SLE)<br>CNS vasculitis / lupus cerebritis with status epilepticus |
