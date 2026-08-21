@@ -55,6 +55,10 @@
 | **SPARCC enthesitis** | 16 點 | 含下肢，較廣 |
 | **MEI**（Mander/Newcastle）| 較多點 | 較舊 |
 
+![LEI/MASES/SPARCC enthesitis 評估點位圖](../../images/enthesitis%20evaluation.jpg)
+
+> 圖：三種附著點炎評估工具的實際解剖點位對照。**LEI（6點）**：雙側 lateral epicondyle humerus、medial condyle femur、Achilles tendon。**MASES（13點）**：雙側 1st/7th costochondral、ASIS、PSIS、加上第5腰椎棘突。**SPARCC（18點，計分16）**：雙側 supraspinatus insertion、medial epicondyle humerus、greater trochanter、quadriceps insertion、patellar tendon insertion、plantar fascia insertion。
+
 ### 指炎（dactylitis）
 
 | 工具 | 重點 |
