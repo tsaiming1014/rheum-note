@@ -19,7 +19,7 @@
 | | [其他 SpA（ReA、IBD-A）](SpA/其他SpA/其他SpA_致病機轉_ReA_IBD.md) | [2011 ASAS peripheral SpA](SpA/AS/SpA_分類標準與流行病學.md) | 臨床、CRP | - | [ReA治療](SpA/其他SpA/ReA_臨床表現與治療.md) / [IBD-arthritis治療](SpA/其他SpA/IBD-arthritis_臨床表現與治療.md) |
 | **晶體沉積疾病** | [Gout — 痛風](Crystal/Gout_致病機轉.md) | [2015 ACR/EULAR](Crystal/Gout_分類標準與診斷.md) | 血清尿酸、發作頻率 | 2016 remission 定義（尿酸 <6、無發作等） | [2020 ACR / 2016 EULAR](Crystal/Gout_治療.md) / 2017 BSR |
 | | [CPPD](Crystal/CPPD_分類與診斷.md) / [BCP](Crystal/BCP_基礎鈣磷酸鹽結晶疾病.md) — 鈣晶體沉積 | [2023 ACR/EULAR；Ryan & McCarty](Crystal/CPPD_分類與診斷.md) | 臨床 | - | - |
-| **退化性疾病** | [OA — 骨關節炎](OA/OA_Leptin與Adipokine致病機轉.md) | 1986/1991 ACR、KL grade | WOMAC、KL 分級 | - | 2019 ACR / 2019 OARSI |
+| **退化性疾病** | [OA — 骨關節炎](OA/OA_Leptin與Adipokine致病機轉.md) | 1986/1991 ACR、KL grade | WOMAC、KL 分級 | - | [2019 ACR / 2019 OARSI](OA/OA_治療總整理.md) |
 | **增生性骨病** | [DISH — 瀰漫性特發性骨骼肥厚症](增生性骨病/DISH_瀰漫性特發性骨骼肥厚症.md) | 1976 放射學標準（胸椎右側流暢型骨贅≥4節） | - | - | - |
 | | [HOA — 肥厚性骨關節病變](增生性骨病/HOA_Hypertrophic_Osteoarthropathy.md) | Clubbing + Periostosis + Joint effusion | - | - | - |
 | | [SAPHO Syndrome](增生性骨病/SAPHO_Syndrome.md) | 無正式分類標準 | - | - | - |
