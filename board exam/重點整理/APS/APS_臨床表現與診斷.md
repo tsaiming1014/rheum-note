@@ -91,19 +91,56 @@ CAPS（多器官血栓，數天內發生）
 
 ### 5. CAPS（Catastrophic APS）
 
-- 發生率 <1% APS 患者，但**死亡率高**
-- 特徵：**數天內**出現多器官血栓（腎、肺、腦、心、皮膚最常見）
-- 常伴隨 TMA（血小板低下 + schistocytes）
-- 誘發因素：感染、手術、藥物、**停用抗凝藥**
-- 急性腎上腺功能不全 = CAPS 的高度提示表現
+**流行病學與定義**
 
-**CAPS 鑑別診斷**：
+- 發生率 <1% APS 患者，但死亡率高
+- 特徵：**數天內（通常 <1 週）** 同時或先後出現 **≥3 個器官** 的血栓，常合併微血管病變（有無 systemic TMA 皆可）
+
+**好發器官（220 例 CAPS 病人回顧，依受累比例）**
+
+| 器官 | 受累比例 |
+|------|---------|
+| 腎臟 | 70% |
+| 肺 | 66% |
+| 腦 | 60% |
+| 心臟 | 52% |
+| 皮膚 | 47% |
+
+**病理機轉**
+
+- 組織切片特徵：**非發炎性小血管阻塞**（noninflammatory vascular occlusion），與真正的 vasculitis 不同
+- **補體活化**是關鍵機轉之一：部分 CAPS 病人可找到**補體調節基因（alternative pathway 相關）的 germline 突變**，使補體調控失能、放大血栓/發炎反應——這也是 eculizumab（terminal complement inhibitor）用於難治型 CAPS 的機轉基礎
+- 常合併 **systemic TMA**（血小板低下 + schistocytes），可與 sepsis、TTP 等重疊，增加診斷困難度
+
+**誘發因素（Precipitating factors）**
+
+- 感染
+- 手術（大或小手術皆可）
+- 藥物
+- **停用抗凝藥**
+- 產科：aPL 陽性孕婦合併 **HELLP 症候群**時（尤其有血栓病史者），須警覺是否為演變中的 CAPS
+
+**臨床提示**
+
+- **急性腎上腺功能不全**（腎上腺出血/梗塞）常為 CAPS 的**初始表現**，是高度提示徵象
+- **重要陷阱**：約**近半數**發生 CAPS 的病人**先前並無 aPL 陽性病史**——不能因為病人沒有已知 APS 病史就排除 CAPS
+
+**CAPS 的鑑別診斷（mimics）**
 
 - Sepsis + DIC
 - TTP / HUS
 - Heparin-induced thrombocytopenia（HIT）
-- 心房黏液瘤栓塞
-- 動脈粥樣硬化斑塊栓塞
+- 瀰漫性栓塞來源：心房黏液瘤、心房內血栓、動脈粥樣硬化斑塊
+
+> 上述疾病常與 CAPS 重疊並存，診斷極具挑戰，須高度懷疑並及早積極治療；分類標準見下方「CAPS Classification Criteria」。
+
+**預後**
+
+- 即使積極治療，死亡率仍 **>30%**，主要死因為腦血管、心臟、感染相關併發症
+- 早期辨識與及時治療可改善存活
+- 復發率高達 **1/3**；減少誘發因子（避免停抗凝、控制感染、避免 estrogen 避孕藥）有助降低復發
+
+> 治療細節（第一線三聯療法：glucocorticoid + heparin + plasma exchange/IVIG；難治型加 rituximab 或 eculizumab）詳見 [APS_治療.md](APS_治療.md)
 
 ---
 
