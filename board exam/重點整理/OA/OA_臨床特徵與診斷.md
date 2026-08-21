@@ -112,6 +112,9 @@
 **傳統X光**：關節間隙狹窄、骨贅、subchondral bone硬化與囊腫
 
 **Kellgren-Lawrence (KL) 分級**（研究最常用，考試重點）：
+
+![KL grade](../images/KL%20grade.png)
+
 - KL 0：無骨贅、無關節間隙狹窄
 - KL 1：疑似骨贅（不足以確診）
 - KL 2：確定骨贅、無關節間隙狹窄——**一般認為KL≥2即符合OA診斷**
