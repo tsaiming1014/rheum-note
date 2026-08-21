@@ -196,9 +196,40 @@
 
 ## 六、實驗中新藥（尚未上市）
 
+### Anti-NGF（如 Tanezumab）— 機轉與試驗結果
+
+**機轉：NGF–TrkA Signaling**
+
+- NGF（Nerve Growth Factor）是調控感覺／交感神經生長與存活的 neurotrophin，也是疼痛訊號的關鍵分子，與高親和力受體 **TrkA** 結合
+- OA 關節中，NGF 由 chondrocytes、synovial fibroblasts、macrophages、mast cells 分泌；**滑液 NGF 濃度在 OA 關節顯著高於非 OA 關節**，且與較差的膝關節功能相關；有症狀的 OA 膝關節 NGF 又比無症狀者更高
+- 致痛機轉分兩層：
+  1. **立即敏感化**：TrkA 活化會 transactivate TRPV1 及其他離子通道（voltage-gated Na⁺/Ca²⁺ channel、mechanosensitive channel、acid-sensing ion channel），使 nociceptor 立刻過度興奮；此歷程仰賴機械敏感通道 **Piezo2**
+  2. **長期效應（retrograde transport）**：NGF-TrkA complex 被 nociceptor 內化後逆行運輸至 dorsal root ganglion (DRG) 細胞體，上調 neuropeptide、離子通道（如 Nav1.8）、**BDNF** 基因表現，促進神經新生／sprouting 與持續性敏感化
+- NGF 也會促使感覺神經**長入原本無神經支配的區域**（osteochondral junction、subchondral bone marrow lesion），是目前解釋 OA 疼痛神經可塑性最主要的機轉
+- Macrophage、mast cell 分泌 NGF 也透過 TrkA 增加 nociceptor 興奮性，形成 **neuroimmune crosstalk**
+
+**藥物治療與療效**
+
+- Anti-NGF 單株抗體（如 tanezumab）為 NGF-neutralizing antibody，中和 NGF、阻斷 TrkA 活化以止痛
+- 作用侷限在血腦屏障之外（周邊），其止痛效果也被視為**周邊敏感化在關節炎疼痛中重要性**的證據
+- 已於人類臨床試驗、獸醫臨床應用、動物模型中證實**能有效降低 OA 疼痛，止痛效果佳**
+
+**安全性疑慮：Rapidly Progressive Osteoarthritis (RPOA)**
+
+- 最受矚目的不良反應：治療後關節結構**快速惡化**
+- 關鍵點：**結構惡化程度與止痛效果不成比例**，無法單純用「止痛後過度使用關節、失去保護性疼痛」解釋
+- 機轉假說：NGF-neutralizing antibody 可能對 chondrocyte 或 subchondral bone cell 有**直接作用**（神經細胞與這些細胞可能共享部分訊息傳遞路徑）
+- 值得注意：**關節內類固醇注射、NSAIDs 也有實證顯示與類似關節結構性損傷相關**，並非 anti-NGF 獨有的問題
+
+**目前發展現況**
+
+- 儘管止痛療效佳，但因 RPOA 風險，且臨床試驗中的**風險降低策略未能充分成功控制此風險**
+- **多數藥廠已暫停這類藥物（如 tanezumab）的開發**，目前尚無 anti-NGF 藥物核准用於 OA 治療
+
+### 其他開發中療法
+
 | 藥物/標的 | 重點 |
 |---|---|
-| Anti-NGF（如 tanezumab，binds TrkA/p75） | 止痛效果佳，但因罕見 rapidly progressive OA 風險，多數廠商已暫停開發 |
 | TRPV1 antagonist／transcapsaicin | 針對痛覺敏感化的關節內注射新型製劑，測試中 |
 | 其他發炎標的（GM-CSF、IL-10、IFN-β、NFκB、p38 MAPK、VAP-1） | 測試中，尚無定論 |
 | **Sprifermin**（重組 FGF-18） | 關節內注射可增加軟骨厚度，效果維持至 5 年，但**症狀改善未同步出現**；高風險次族群 post-hoc 分析顯示症狀＋結構皆有效益 |
