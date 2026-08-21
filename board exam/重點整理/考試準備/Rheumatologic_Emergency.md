@@ -4,7 +4,7 @@
 
 ## 腎臟
 
-- RPGN
+- [RPGN](RPGN_重點整理.md)
 - Scleroderma renal crisis — SSc 特有，急性腎衰合併惡性高血壓，ACEi 是唯一有效治療（不可先降血壓忽略病因）
 
 ## 肺部
