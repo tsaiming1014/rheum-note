@@ -128,7 +128,7 @@
 | 腎臟 | [RPGN](考試準備/RPGN_重點整理.md)<br>Scleroderma renal crisis — SSc 特有，急性腎衰合併惡性高血壓，ACEi 是唯一有效治療（不可先降血壓忽略病因） |
 | 肺部 | RP-ILD<br>DAH（diffuse alveolar hemorrhage） |
 | 心臟 | Cardiac tamponade（SLE/RA pericarditis 進展）<br>Aortic dissection/rupture（GCA、Takayasu、Behçet、relapsing polychondritis 主動脈根部受侵犯） |
-| 血液/微血管 | TMA, TTP, aHUS<br>Catastrophic APS（CAPS）— 多重器官同時血栓，死亡率極高<br>HLH/MAS — AOSD、SLE 常見誘發 |
+| 血液/微血管 | [TMA, TTP, aHUS](考試準備/TMA_重點整理.md)<br>Catastrophic APS（CAPS）— 多重器官同時血栓，死亡率極高<br>HLH/MAS — AOSD、SLE 常見誘發 |
 | 神經 | PRES<br>CNS vasculitis / lupus cerebritis with status epilepticus |
 | 眼睛 | GCA → AION<br>Necrotizing scleritis / peripheral ulcerative keratitis（PUK, "corneal melt"）— RA、GPA |
 | 腸胃 | Mesenteric vasculitis with ischemic bowel（PAN、SLE、Behçet）<br>Intestinal perforation（Behçet 腸型潰瘍） |
