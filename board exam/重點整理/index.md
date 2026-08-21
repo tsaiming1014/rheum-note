@@ -128,8 +128,8 @@
 | 腎臟 | [RPGN](考試準備/RPGN_重點整理.md)<br>Scleroderma renal crisis (SRC) |
 | 肺部 | RP-ILD<br>[DAH](考試準備/DAH_重點整理.md)（diffuse alveolar hemorrhage） |
 | 心臟 | Cardiac tamponade（SLE/RA pericarditis）<br>Aortic dissection/rupture（GCA、Takayasu、Behçet、relapsing polychondritis） |
-| 血液/微血管 | [TMA, TTP, aHUS](考試準備/TMA_重點整理.md)<br>Catastrophic APS（CAPS）<br>[HLH/MAS](Autoinflammatory/MAS_HLH.md)（AOSD、SLE） |
-| 神經 | PRES (SLE)<br>CNS vasculitis / lupus cerebritis with status epilepticus |
+| 血液/微血管 | [TMA, TTP, aHUS](考試準備/TMA_重點整理.md)<br>[Catastrophic APS（CAPS）](APS/APS_臨床表現與診斷.md)<br>[HLH/MAS](Autoinflammatory/MAS_HLH.md)（AOSD、SLE） |
+| 神經 | [PRES (SLE)](考試準備/PRES_重點整理.md)<br>CNS vasculitis / lupus cerebritis with status epilepticus |
 | 眼睛 | AION (GCA)<br>Necrotizing scleritis / peripheral ulcerative keratitis（PUK）— RA、GPA |
 | 腸胃 | Mesenteric vasculitis with ischemic bowel（PAN、SLE、Behçet）<br>Intestinal perforation（Behçet） |
 | 藥物相關 | MTX、Azathioprine toxicity<br>Allopurinol DRESS/SJS-TEN |
