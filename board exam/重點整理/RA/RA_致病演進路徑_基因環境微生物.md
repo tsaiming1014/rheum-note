@@ -6,24 +6,35 @@
 
 ## 第一層：遺傳易感性（先天設定風險上限）
 
-- **HLA-DR（最強，佔遺傳影響約 40%）**
-  - *Shared Epitope*（SE）：HLA-DRB1 \*0401/0404/0101 等的第 70–74 位 QKRAA 序列
-  - SE 的 position 11（Leu/Val）使 **citrullinated peptides 與抗原結合槽的親和力大幅提升**，比未修飾的原始蛋白高出甚多
-  - 結果：DCs 能有效呈現 citrullinated peptides 給 T cells，且因 T cell 在胸腺發育時未接觸過這些修飾蛋白，autoreactive T cells 不被清除
-  - 有 SE + 吸菸者，罹患 RA 風險增加 **20–40 倍**（synergistic）
+**HLA-DR（Shared Epitope, SE）— 最強，佔遺傳影響約 40%**
 
-- **PADI4（citrullination 酵素）**
-  - 某 PADI4 haplotype 使 mRNA 更穩定、PADI4 蛋白量增加 → 蛋白質 citrullination 更多
-  - 主要在亞洲族群中有約 2 倍風險
+- 是什麼：HLA-DRB1 等位基因家族中的一群（\*0401、\*0404、\*0101 等），雖血清型不同，但在 DRβ1 鏈**第 70–74 位**共享高度相似序列（常見為 QKRAA），故稱 Shared Epitope
+- 功能改變：此序列位於抗原結合溝中，**position 11（Leu/Val）**使結合槽對**帶負電的胜肽**親和力大幅提升；citrullination 會讓蛋白質局部帶負電，因此 SE 對 **citrullinated peptides** 的結合力遠高於未修飾的原始蛋白
+- 致病後果：DCs 能有效呈現 citrullinated peptides 給 CD4+ T cells；因胸腺發育時 T cell 從未接觸過這類轉譯後修飾胜肽，**autoreactive T cells 不被負選殖清除**，進而幫助 B cells 產生 ACPA（anti-CCP）
+- 環境交互作用：SE + 吸菸風險為 **synergistic（20–40 倍）**，而非相加——吸菸增加 citrullinated antigen 供給量（抗原端），恰與 SE 的呈現效率提升（呈現端）相輔相成
 
-- **PTPN22**
-  - 編碼磷酸酶，調控 TCR 信號（Lck, ZAP70）
-  - R620W 突變為「gain of function」，**降低 TCR 信號門檻**，允許更多自反應性 T cells 逃過胸腺負選擇
-  - 此突變也讓 PTPN22 無法抑制 PAD4，間接增強 citrullination 與 NETosis
+**PTPN22 — TCR 訊號門檻的守門員失靈**
 
-- **其他 >100 個 SNPs**（個別貢獻小）
-  - TRAF1-C5、STAT4、TNFAIP3、IL2/21、CD40、Fc receptors、CTLA4 等
-  - 三組合（HLA-DR + PTPN22 + TRAF1-C5）可使風險增加 **45 倍**（但此組合<1% 患者才有）
+- 是什麼：編碼一個磷酸酶，正常功能是**抑制** TCR 訊號傳導（去磷酸化 Lck、ZAP70）
+- 功能改變：R620W 為 **gain-of-function** 突變，使這個煞車功能過度活躍，把 TCR 活化門檻壓得更低
+- 致病後果：
+  - 讓原本該在胸腺被淘汰的 autoreactive T cells，因 TCR 訊號被人為壓低而逃過負選殖存活下來
+  - 同時使 PTPN22 喪失對 **PAD4** 的抑制能力，間接**增強 citrullination 與 NETosis**，等於同時餵養 SE 路徑所需的抗原來源
+- 記憶技巧：PTPN22 是唯一同時影響「T cell 逃脫負選殖」與「citrullination 增強」兩條路徑的基因，是連接 SE 與 PADI4 之間的橋樑
+
+**TRAF1-C5 — TNF 訊號的煞車失靈**
+
+- 是什麼：染色體 9q33-34 上的基因座，包含 **TRAF1**（TNF Receptor-Associated Factor 1）與 **C5**（補體第五成分）兩個相鄰基因，因 GWAS 訊號無法完全區分而合稱
+- 功能改變：TRAF1 是 TNF receptor 下游訊號傳導分子，但因缺乏 RING domain，主要扮演**負向調控者**，抑制過度的 TNF-NF-κB 訊號；RA 相關變異降低此煞車功能
+- 致病後果：TNF 訊號被過度放大，促進滑膜發炎細胞存活、抑制細胞凋亡，加重慢性滑膜炎
+- 加乘效應：HLA-DR + PTPN22 + TRAF1-C5 三者同時具備時，風險可增加約 **45 倍**（此組合 <1% 患者具備，屬極端案例）
+
+**其他次要基因**
+
+- **PADI4**（citrullination 酵素）：某 haplotype 使 mRNA 更穩定、蛋白量增加 → citrullination 更多；主要在亞洲族群有約 2 倍風險
+- **其他 >100 個 SNPs**（個別貢獻小）：STAT4、TNFAIP3、IL2/21、CD40、Fc receptors、CTLA4 等
+
+**一句話總結因果鏈：** SE（呈現 citrullinated peptide 效率↑）+ PTPN22（T cell 逃脫負選殖 + citrullination↑）→ 自體反應性 T/B cell 活化 → ACPA 產生 → TRAF1-C5（TNF 煞車失靈）將局部發炎放大成慢性滑膜炎
 
 ---
 
