@@ -202,3 +202,72 @@ Mucocutaneous involvement 在 SLE 中非常常見（頻率 80–90%）。依 his
   - **Colchicine**：可造成 myopathy 或 neuromyopathy，**CPK 上升**，biopsy 呈 vacuolar myopathy。
   - 其他需鑑別病因：thyroid disease、電解質異常、infectious myositis。
   - 也需考慮 **MCTD**（myositis 可為其重要特徵）。
+
+---
+
+## Kidney Involvement
+
+> 病理分類（ISN/RPS classification）詳見 [SLE_Lupus_Nephritis_病理特徵.md](SLE_Lupus_Nephritis_病理特徵.md)；治療詳見 [SLE_Lupus_Nephritis_治療.md](SLE_Lupus_Nephritis_治療.md)
+
+### 1. 概論（General Considerations）
+
+- Kidney involvement 是 SLE 常見且重要的 morbidity/mortality 原因。
+- **Biopsy 上有病理證據的 kidney involvement 可達 90%**，但**臨床顯著的 nephritis 僅約 50%**發生。
+- 臨床表現變異極大：從 asymptomatic hematuria/proteinuria，到 frank nephrotic syndrome，到 rapidly progressive glomerulonephritis 併腎功能喪失。
+- 多數在**發病後 5 年內**出現，但也有報告在**診斷 SLE 後 15 年**才出現 lupus nephritis 的個案——故需**持續定期篩檢**。
+- 篩檢重點：
+  - 詢問 new-onset polyuria、nocturia、foamy urine。
+  - 檢查 hypertension、下肢水腫。
+  - 定期監測 proteinuria/hematuria 及 serum creatinine 變化。
+  - **Active SLE 病人建議每 3 個月篩檢一次**。
+
+### 2. Kidney Involvement 的型態
+
+SLE 腎臟侵犯可分為四大類：
+
+1. **Immune complex–mediated glomerulonephritis**（最常見型態）
+2. **Lupus podocytopathy**
+3. **Tubulointerstitial disease**
+4. **Vascular disease**
+
+**Glomerulonephritis**
+
+- 特徵為 immune complex deposition + inflammatory cell infiltration into glomerulus。
+- Glomerular injury 的型態主要取決於 **immune complex 沉積的位置**。
+
+**Lupus Podocytopathy**
+
+- 近年新認識的 lupus nephritis 亞型。
+- 特徵：**diffuse podocyte foot process effacement**，但**無** capillary wall immune deposit、**無** glomerular proliferation。
+
+**Tubulointerstitial Disease**
+
+- 可與 immune complex–mediated GN 同時或獨立發生。
+- 見於高達 **66%** 的 SLE renal biopsy。
+- 特徵：inflammatory cell infiltrate、tubular damage、interstitial fibrosis。
+- **重要**：tubulointerstitial disease 的存在是**長期腎臟預後不良的強力預測因子**。
+
+**Vascular Disease**
+
+腎臟血管病變包含四類：
+
+| 類型 | 定義 | 重點 |
+|---|---|---|
+| **Lupus vasculopathy** | Glomerular capillary/arteriolar lumen 內有 **Ig + complement-containing thrombi**（無血管壁發炎） | 與 inflammatory vascular wall change 不同 |
+| **TMA**（thrombotic microangiopathy） | Glomerular capillary/arteriolar lumen 內 **fibrin thrombi** | 可能與 **aPL antibody** 相關，發現 TMA 應考慮 **APS nephropathy**；148 位 biopsy-proven lupus nephritis 病人中頻率為 **24%**，多數為 renal-limited TMA（排除 TTP-HUS、malignant hypertension、aPL 等其他病因後）；合併 lupus nephritis + TMA 者有**更高 proteinuria、更高 creatinine、更差腎臟預後** |
+| **True vasculitis** | Leukocyte infiltration + fibrinoid necrosis of arterial wall | **極為罕見** |
+| **Nonspecific sclerotic vascular lesion** | Fibrous intimal thickening | 常見；與**腎臟存活率下降**相關 |
+
+- 一研究（341 位 lupus nephritis 病人）：**82%** 有 renal vascular lesion，其中 **vascular immune deposit 最常見（74%）**。
+
+### 3. 非 Lupus 相關的腎臟病灶
+
+SLE 病人也可能合併與 lupus 無關的腎臟異常，需在鑑別診斷中考慮：
+
+- Focal segmental glomerulosclerosis（FSGS）
+- Hypertensive nephrosclerosis
+- Diabetic nephropathy
+- Thin basement membrane disease
+- **藥物相關腎病變**（SLE 病人常使用潛在腎毒性藥物，需列入考慮）
+
+**➡ Kidney biopsy 對於區分上述各種病因、並指導後續治療決策是關鍵。**

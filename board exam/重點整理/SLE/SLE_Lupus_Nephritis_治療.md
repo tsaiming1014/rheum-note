@@ -2,7 +2,7 @@
 
 > 來源：以 **2025 ACR LN Guideline**、**2025 EULAR LN Guideline (kidney involvement update)** 為主，輔以 Kelly's Textbook of Rheumatology Ch.82 補充機轉/藥理細節（標註「Kelly補充」處）
 >
-> 病理特徵請見另一篇筆記 [SLE_Lupus_Nephritis_病理特徵.md](SLE_Lupus_Nephritis_病理特徵.md)；一般（非腎臟）SLE治療請見 [SLE_治療.md](SLE_治療.md)
+> 病理特徵請見另一篇筆記 [SLE_Lupus_Nephritis_病理特徵.md](SLE_Lupus_Nephritis_病理特徵.md)；一般（非腎臟）SLE治療請見 [SLE_治療.md](SLE_治療.md)；臨床表現總覽請見 [SLE_Clinical_Manifestation.md — Kidney Involvement](SLE_Clinical_Manifestation.md#kidney-involvement)
 >
 > 兩指引詳細比較見文末「附錄：ACR vs EULAR 差異速查」
 
