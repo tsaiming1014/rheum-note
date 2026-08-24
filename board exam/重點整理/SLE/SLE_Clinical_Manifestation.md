@@ -849,3 +849,62 @@ SLE 治療常用的兩類藥物皆會影響眼睛：
 - **Glucocorticoids**：posterior subcapsular cataract、眼壓上升、central serous maculopathy。
 - **抗瘧藥物（Hydroxychloroquine、Chloroquine）**：**Maculopathy** 罕見但嚴重。
   - **劑量安全範圍**（降低視網膜毒性風險）：**Chloroquine** 每日劑量 **<2.3 mg/kg**（實際體重）；**Hydroxychloroquine** 每日劑量 **≤5 mg/kg**（實際體重）。
+
+---
+
+## Hematologic Involvement
+
+Hematologic involvement 常見，**三大血球系統皆可受影響**。
+
+- 評估時務必考慮**藥物造成的骨髓抑制**：methotrexate、azathioprine、MMF、cyclophosphamide。
+- **Glucocorticoid** 是造成 **lymphopenia** 與 **neutrophilia 導致的 leukocytosis** 的常見原因（需與疾病本身區分）。
+
+### 1. Anemia
+
+**Anemia of Chronic Disease (ACD)** — 最常見型態
+
+- Normochromic、normocytic、hypoproliferative anemia。
+- 特徵：**低 serum iron、低 transferrin、正常至升高的 ferritin**。
+- 可與其他病因造成的貧血並存；**需與缺鐵性貧血鑑別**（SLE 病人也常見）。
+
+**Autoimmune Hemolytic Anemia (AIHA)**
+
+- 懷疑時機（實驗室異常組合）：**unconjugated bilirubin↑、LDH↑、reticulocyte count↑、haptoglobin↓**。
+- **Direct Coombs test 通常陽性**，多由 **warm-reacting IgG anti-erythrocyte antibody** 介導。
+- Peripheral smear：**spherocytosis**。
+- 部分報告顯示與 **anti-cardiolipin antibody** 相關。
+- **Direct Coombs 陽性可不伴溶血**（僅代表抗體存在，非診斷 AIHA 的充分條件）。
+- **AIHA 可作為 SLE 的首發表現**，甚至可早於完整 SLE 診斷**數年**出現。
+
+**MAHA + Thrombocytopenia → 需考慮 Thrombotic Microangiopathy (TMA)**
+
+- **MAHA**：peripheral smear 見 **schistocyte**。
+- 合併 thrombocytopenia 時應考慮 TMA syndrome，主要兩型：
+
+| | **TTP** | **CM-TMA**（complement-mediated TMA） |
+|---|---|---|
+| 病因 | **ADAMTS13** 基因變異或 anti-ADAMTS13 autoantibody | Complement regulatory gene 變異，或 anti-complement regulatory protein antibody（如 anti-factor H）→ alternative pathway 過度活化 |
+| 組成 | MAHA + thrombocytopenia + 發燒 + 神經症狀 + 腎臟侵犯 | 類似，但 **acute kidney injury 為常見特徵**（與 TTP 的鑑別點） |
+| SLE 關聯 | 可伴隨 SLE | 需在**病重、合併 MAHA + thrombocytopenia + AKI** 的 SLE 病人中考慮 |
+| Kidney biopsy | — | 顯示 TMA，**常合併 class III/IV lupus nephritis** |
+| 誘發因子 | — | **懷孕與產後期是公認的誘發因子** |
+
+- **重要**：因 MAHA、thrombocytopenia、神經症狀、腎臟侵犯也可見於 **catastrophic APS**，評估時**務必檢測 aPL antibody**。
+- 其他貧血病因：bone marrow failure、腎功能不全、pure red cell aplasia、藥物造成的骨髓毒性。
+
+### 2. Leukopenia
+
+- 約 **50%** SLE 病人有 leukopenia，可源自 lymphopenia 和/或 neutropenia。
+- 一研究（158 位新診斷、臨床活動性 SLE 病人）：**75%** lymphocyte count <1500/μL，最終 **93%** 病人出現 lymphopenia。
+- 部分病人的 **lymphocytotoxic antibody** 與 lymphopenia 及疾病惡化相關。
+- Lymphopenia 也可能是 glucocorticoid 或其他免疫抑制劑的副作用（**需鑑別是疾病本身還是藥物所致**）。
+- Neutropenia 可源自免疫介導破壞或骨髓抑制；**SLE 造成的嚴重 neutropenia（<1000/μL）少見**。
+
+### 3. Thrombocytopenia
+
+- 高達 **50%** 病人有輕度 thrombocytopenia，但也可發生嚴重 thrombocytopenia。
+- 可為**免疫介導的血小板破壞**（類似 ITP），主要標的抗原為 **platelet IIb/IIIa**。
+- 也可由**消耗性過程**造成：thrombotic microangiopathy syndrome 或脾腫大。
+- 部分病人血清中可測得 **anti-thrombopoietin antibody**，與較低血小板數相關。
+- **慢性、低度的 thrombocytopenia 是 APS 的特徵性表現**。
+- 與 AIHA 類似，**孤立性 ITP 可能早於完整 SLE 診斷數年出現**。
