@@ -271,3 +271,69 @@ SLE 病人也可能合併與 lupus 無關的腎臟異常，需在鑑別診斷中
 - **藥物相關腎病變**（SLE 病人常使用潛在腎毒性藥物，需列入考慮）
 
 **➡ Kidney biopsy 對於區分上述各種病因、並指導後續治療決策是關鍵。**
+
+### 4. Laboratory Evaluation（實驗室檢查與 Biopsy）
+
+**Urinalysis**
+
+- Urinalysis with microscopy 是篩檢與追蹤 lupus nephritis 的必要工具。
+- 可見：hematuria、pyuria、dysmorphic RBC、**RBC casts**、WBC casts。
+  - **RBC casts 對 GN 診斷高度specific，但不 sensitive**。
+  - Early-morning urine（濃縮、偏酸）最適合偵測 RBC casts。
+  - WBC/RBC/WBC casts 可能提示 tubulointerstitial involvement。
+- **Hematuria 但無 proteinuria**：需考慮 urolithiasis、月經污染，或膀胱病變（尤其曾使用 cyclophosphamide 者要考慮 **transitional cell carcinoma**）。
+- **Proteinuria 測量**：
+  - 是 glomerular damage 的敏感指標，且 proteinuria 程度可強力預測 GFR 下降。
+  - 正常每日蛋白排出 <150 mg。
+  - Gold standard：24 小時尿蛋白收集，但操作不便、易誤收集。
+  - **Spot urine protein-to-creatinine ratio** 較方便，但在 0.5–3.0 範圍（多數 lupus nephritis flare 落在此範圍）與 timed collection 相關性較差，仍具篩檢與區分 nephrotic/nonnephrotic 用途。
+  - **Urine dipstick 不可用於定量**（受尿液濃度影響）。
+  - 多數專家仍建議以 12 或 24 小時 protein:creatinine ratio 為 gold standard。
+
+**Measurement of Kidney Function**
+
+- **Serum creatinine**：易測量但對早期 GFR 下降**不敏感**（GFR 下降時，proximal tubule 增加 creatinine 分泌可代償）。
+- ACE inhibitor、NSAID 等造成的血流動力學改變也可能造成 creatinine 變化，並非真正腎病進展。
+- 建議**追蹤 creatinine 趨勢**而非單一數值。
+- 常用 GFR 估算公式：**MDRD**、**CKD-EPI**（CKD-EPI 在較高 GFR 時較準確）。
+- **重點**：追蹤腎功能「隨時間的變化」比單一絕對數值更重要。
+
+**Kidney Biopsy**
+
+適應症（EULAR/ERA-EDTA guideline）：SLE 病人有以下任一表現即應切片：
+
+- Glomerular hematuria 和/或 cellular casts
+- Proteinuria >0.5 g/24hr
+- 無法解釋的 GFR 下降
+
+切片前建議先做 **ultrasonography**：評估腎臟大小結構、排除 renal vein thrombosis；腎臟 <75% 正常大小為切片相對禁忌。
+
+ISN/RPS classification（六類）詳細病理特徵已整理於 [SLE_Lupus_Nephritis_病理特徵.md](SLE_Lupus_Nephritis_病理特徵.md)，此處補充該篇未提到的重點：
+
+- Class III/IV 舊稱 "proliferative"，現改稱 **"hypercellular"**；舊的 segmental/global 分法已從分類標準**移除**，activity(A)/chronicity(C)/mixed 也已被 **modified NIH activity/chronicity scoring system** 取代。
+- **Class V（Membranous）鑑別 lupus vs. primary membranous 的免疫組織化學標記**：
+  - Lupus membranous：**exostosin 1/2 陽性**（約 30% 病人陽性；exostosin +/− 代表兩種不同表現型）。
+  - Primary membranous：**PLA2R（muscle-type phospholipase A2 receptor）、THSD7A** 陽性。
+- ISN/RPS 分類**完全依據 glomerular pathology**；tubulointerstitial 與 vascular disease 需另外註記於診斷欄，不影響 class 判定。
+- Immunofluorescence 典型為 **"full-house" pattern**：IgG、IgM、IgA、C3、C1q 皆陽性。
+- EM 可見 **tubuloreticular inclusion bodies**（強烈提示 lupus nephritis），但因其與 **IFN-α 升高**相關，需排除 chronic viral infection（HBV、HCV、HIV）。
+
+**臨床與病理的落差**
+
+- Urinary parameter（hematuria、proteinuria 程度）**無法準確預測**腎臟病理程度：嚴重 class IV 也可能 hematuria 陰性；class V 的 proteinuria 可能只是 modest。
+- 一研究：即使 SCr 正常、proteinuria 已壓制到 <500mg/day，**>50% 病人 biopsy 仍有 activity**；反之 60% 持續低度 proteinuria 者 biopsy 卻無 activity。
+
+**Repeat Biopsy 的適應症**
+
+- 治療反應不佳、原本反應良好卻突然惡化、或判斷殘餘 proteinuria 是 active disease 還是 chronic damage（可協助決定是否減量/停用維持治療）。
+- 一前瞻性世代研究（76 位 LN 病人）：maintenance phase 達 complete renal response 者，若 repeat biopsy 顯示 **activity index = 0**（中位數 induction 後 42 個月），減停免疫抑制劑後 flare rate 僅 **9%**（追蹤中位數 92 個月）——雖無對照組，此 flare rate 明顯低於當代 LN cohort。
+- Repeat biopsy 也可偵測 **class transformation**（發生率 15–50%），可自發或因治療所致。
+
+### 5. Outcome（預後）
+
+- Class I/II：預後極佳，**不需**針對腎病的特異性治療。
+- Class III/IV：若不使用免疫抑制治療，長期預後差。
+- Class V：長期腎臟預後較 III/IV 好，但**nephrotic syndrome 相關併發症**（心血管疾病、血栓栓塞、高脂血症）風險較高。
+- 系統性回顧（187 篇成人 LN 研究）：**15 年 ESKD 累積風險** class IV **44%** vs. class V **20%**。
+- ESKD 風險自 1970s 至 1990s 中期顯著下降，**之後已達平原（plateau）**——原因待研究（可能是現有藥物療效已達極限，或病人用藥可近性問題）。
+- 種族差異：**African American、Hispanic/Latino** 腎臟預後普遍較 White、Chinese population 差，可能與基因及社經因素共同相關。
