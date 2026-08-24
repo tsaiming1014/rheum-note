@@ -750,3 +750,102 @@ CNS 表現機轉可分兩大類（可合併發生），**自體抗體是兩者�
 - **17%** 為 biopsy-proven **small-fiber neuropathy**（新興認識的亞型，**未被 1999 年 ACR NPSLE case definition 納入**）：侵犯無髓鞘 C fiber，表現為 burning pain、paresthesia；**NCS 正常**；診斷靠皮膚切片顯示 intraepidermal nerve fiber density 下降。
 - 也可發生嚴重的 **large-fiber vasculitic neuropathy**（導致 mononeuritis multiplex）、autonomic neuropathy、cranial neuropathy、inflammatory demyelinating polyneuropathy，及類似 myasthenia gravis 的神經肌肉接合處異常。
 - **遇到 SLE 病人合併周邊神經病變，務必排除非 SLE 病因**：感染（HIV、梅毒、Lyme disease、痲瘋）、malignancy、內分泌疾病（DM、甲低）、毒素（酒精、重金屬）、維生素缺乏（B12、B1等）、藥物（**hydroxychloroquine、colchicine、維生素 B6 過量**）。
+
+---
+
+## Gastrointestinal Involvement
+
+SLE 可侵犯 GI 系統任何部位。
+
+### 1. Dysphagia
+
+- 高達 **13%** 病人有 dysphagia，可由 esophageal dysmotility、heartburn，或合併 secondary Sjögren's syndrome 造成唾液分泌減少所致。
+- Manometry 研究顯示近端與遠端食道運動皆可異常。
+- **關鍵鑑別點：與 scleroderma 不同，SLE 很少侵犯 lower esophageal sphincter**。
+- 可能機轉：肌肉萎縮、食道肌肉發炎、Auerbach plexus 的缺血或血管炎性損傷。
+
+### 2. Abdominal Pain
+
+- 高達 **40%** 病人有 abdominal pain（可伴噁心嘔吐），病因可為 SLE 本身、藥物副作用，或非 SLE 病因（如感染）。
+- **重要**：評估腹痛時務必排除非 SLE 病因；使用 glucocorticoid/免疫抑制劑的病人，**急腹症徵象（如 rebound tenderness）可能被掩蓋**，導致診斷延遲是常見問題。
+- SLE 相關腹痛病因：peritonitis、pancreatitis、mesenteric vasculitis、intestinal pseudoobstruction。
+- Autopsy 研究顯示高達 **72%** 病人有腹膜發炎證據，但**臨床上 ascites 少見**。
+- 若 SLE 病人合併腹痛 + ascites，應做 **paracentesis 排除感染**；ascites 也可見於 nephrotic syndrome、心衰竭、constrictive pericarditis。
+- Peritonitis 也可能發生於 mesenteric ischemia、bowel infarction、pancreatitis 的情況下——**腹部影像檢查是初步評估的重要一環**。
+
+### 3. Pancreatitis
+
+- SLE 造成的 pancreatitis **不常見**，通常與其他器官的 active SLE 併存。
+- **注意**：血清 amylase 上升可能造成誤導——SLE 病人即使無 pancreatitis 也可能 amylase 升高。
+- 雖然 glucocorticoid 與 azathioprine 在非 SLE 病人中與 pancreatitis 發生相關，但**在 SLE 病人中這些藥物似乎不是主要致病因素**。
+- 需排除非 SLE 病因：膽道疾病、飲酒、高三酸甘油脂血症。
+
+### 4. Mesenteric Vasculitis
+
+- SLE **極罕見**的表現。
+- 症狀範圍廣：從 cramping、bloating、anorexia，到急性腹症合併腹瀉、GI 出血。
+- **臨床表現取決於受侵犯的腸壁層次**：
+  - Mucosa 血管受累 → ulceration、hemorrhage
+  - Muscular layer 血管受累 → bowel dilatation 或 pseudoobstruction
+- 準確診斷與及時治療至關重要，以預防**腸壞死、穿孔、敗血症**等災難性併發症。
+- **影像檢查**：
+  - Abdominal radiography：bowel loop 擴張、腸壁增厚及 thumbprinting、腹內游離氣體。
+  - Ultrasonography：可顯示腸壁水腫增厚。
+  - **Abdominal CT 被認為是早期診斷 mesenteric ischemia 最有用的影像工具**：可見 mesenteric vessel 呈 palisade pattern 供應擴張腸袢、ascites、腸壁增厚合併 **double-halo sign**。
+  - Gastroscopy/colonoscopy 有時可見缺血、潰瘍病灶。
+- **重要**：Lupus mesenteric vasculitis 典型侵犯**腸黏膜下的小血管（arteriole、venule）**，故 **mesenteric angiography 通常無法確診**；但 angiography 仍有助排除大血管病因造成的 mesenteric ischemia（如 polyarteritis nodosa、atherosclerosis，或 APS 造成的血栓）。
+
+### 5. Liver 異常
+
+- 高達 **60%** 病人病程中曾出現肝功能異常，但**臨床顯著的肝病作為 SLE 直接表現者罕見**。
+- 因此發現肝病時應優先尋找**非 SLE 病因**：
+  - 藥物：NSAIDs、methotrexate、azathioprine。
+  - Hepatic steatosis（肥胖、糖尿病、類固醇治療所致）。
+  - 感染：viral hepatitis、CMV、EBV，皆需排除。
+- 排除藥物與感染後，持續肝功能異常應進一步做腹部超音波，必要時肝切片。
+- **Lupus hepatitis 被認為是與 autoimmune hepatitis 不同的獨立疾病實體**：
+
+| 特徵 | Lupus Hepatitis | Autoimmune Hepatitis |
+|---|---|---|
+| 病理 | **Lobular inflammation**，lymphoid infiltrate **稀少** | **Periportal (interface) inflammation**，dense lymphoid infiltrate |
+| ANA | 兩者皆常見 | 兩者皆常見 |
+| Anti-smooth muscle、anti-LKM antibody | 較少見 | **較常見** |
+
+- 罕見：**nodular regenerative hyperplasia** 併發 SLE——造成肝臟瀰漫性結節但纖維化少，可導致 portal hypertension；部分病人與 **aPL antibody** 相關。
+- 血管性肝病變（**Budd-Chiari syndrome**、hepatic veno-occlusive disease、hepatic infarction）也有報告，**尤其與 aPL antibody 相關**。
+
+### 6. 其他罕見 GI 表現
+
+**Intestinal Pseudoobstruction (IPO)**
+
+- 因 visceral smooth muscle 或腸神經系統功能障礙導致腸道蠕動下降。
+- **小腸較大腸常受侵犯**。
+- 症狀：腹痛、噁心、嘔吐、腹脹。
+- **常合併** ureterohydronephrosis、interstitial cystitis，或膽道/胰管擴張。
+- 可能演變為慢性，並伴隨反覆 flare。
+
+**Protein-Losing Enteropathy**
+
+- 表現：腹痛、明顯 pitting edema、腹瀉，伴隨 hypoalbuminemia。
+- 需排除其他造成 hypoalbuminemia 的病因（肝病、腎病造成的 nephrotic syndrome）。
+
+---
+
+## Ocular Involvement
+
+SLE 可以多種方式影響眼睛：
+
+- **最常見的眼部表現**：**keratoconjunctivitis sicca**（乾眼症），可合併或不合併 secondary Sjögren's syndrome。
+- **視網膜異常**（ophthalmoscopy 可見）：retinal hemorrhage、vasculitic-appearing lesion、**cotton wool spot**、hard exudate。
+  - SLE retinopathy 被認為是 **immune complex–mediated vasculopathy** 和/或 microthrombotic event 所致。
+  - **重要關聯**：視網膜異常的出現與 **lupus nephritis、CNS lupus、aPL antibody** 相關。
+- **Episcleritis、scleritis** 可發生於 SLE；**uveitis 極為罕見**。
+- **Discoid lupus** 可侵犯下眼瞼與結膜。
+
+**藥物相關眼部併發症**
+
+SLE 治療常用的兩類藥物皆會影響眼睛：
+
+- **Glucocorticoids**：posterior subcapsular cataract、眼壓上升、central serous maculopathy。
+- **抗瘧藥物（Hydroxychloroquine、Chloroquine）**：**Maculopathy** 罕見但嚴重。
+  - **劑量安全範圍**（降低視網膜毒性風險）：**Chloroquine** 每日劑量 **<2.3 mg/kg**（實際體重）；**Hydroxychloroquine** 每日劑量 **≤5 mg/kg**（實際體重）。
