@@ -1,6 +1,8 @@
 # PRES（Posterior Reversible Encephalopathy Syndrome）與 SLE
 
 > 參考：Kelly's Textbook of Rheumatology Ch081；PubMed/PMC 文獻（見文末）
+>
+> NPSLE 總覽（19 種症候群分類、致病機轉、其他鑑別診斷）請見 [SLE_Clinical_Manifestation.md — Neuropsychiatric Involvement](../SLE/SLE_Clinical_Manifestation.md#neuropsychiatric-involvement)
 
 ---
 
