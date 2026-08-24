@@ -30,7 +30,7 @@
 | | [Behçet 病](Vasculitis/Behcet/Behcet_致病機轉.md) | ISG 1990、ICBD 2014 | BDCAF | - | [2025 EULAR](Vasculitis/Behcet/Behcet_治療總整理_2025.md) |
 | | 其他血管炎（PAN、[IgA vasculitis](Vasculitis/其他血管炎/IgA_Vasculitis.md)） | 2022 ACR/EULAR (PAN)、EULAR/PRINTO/PRES (IgAV) | 臨床、BVAS | - | - |
 | **軟骨免疫疾病** | [Relapsing Polychondritis (RPC)](RPC/RPC_致病機轉與臨床.md) | McAdam (1976)、Damiani & Levine (1979) | RPDAI（Arnaud 2012） | - | [Kelly Ch106 治療整理](RPC/RPC_致病機轉與臨床.md#治療) |
-| **自體發炎疾病** | [FMF / CAPS / 其他](../board exam/重點整理/Autoinflammatory/FMF_CAPS_其他_致病機轉與臨床表現.md) | Tel Hashomer、Eurofever/PRINTO | AIDAI | - | [2024 EULAR/PReS（FMF）/ 2021 ACR/EULAR（CAPS、TRAPS、MKD、DIRA）](../board exam/重點整理/Autoinflammatory/FMF_CAPS_其他_致病機轉與臨床表現.md#治療) |
+| **自體發炎疾病** | [FMF / CAPS / 其他](Autoinflammatory/FMF_CAPS_其他_致病機轉與臨床表現.md) | Tel Hashomer、Eurofever/PRINTO | AIDAI | - | [2024 EULAR/PReS（FMF）/ 2021 ACR/EULAR（CAPS、TRAPS、MKD、DIRA）](Autoinflammatory/FMF_CAPS_其他_致病機轉與臨床表現.md#治療) |
 | | [VEXAS syndrome](Autoinflammatory/VEXAS_致病機轉臨床表現與診斷.md) | UBA1 gene mutation | - | - | [2026 ACR](Autoinflammatory/VEXAS_懷疑時機檢驗與治療_2026ACR.md) |
 | | [AOSD — 成人型 Still's 病](Autoinflammatory/AOSD_治療總整理_2024.md) | [Yamaguchi (1992)、Fautrel (2002)](Autoinflammatory/AOSD_治療總整理_2024.md) | (modified) Pouchot / systemic score、ferritin | - | [2024 EULAR/PReS](Autoinflammatory/AOSD_治療總整理_2024.md) |
 | | [HLH / MAS](Autoinflammatory/MAS_HLH.md) | HLH-2004、MAS-2016、HScore、MS score | [HScore、ferritin 等 biomarkers](Autoinflammatory/MAS_HLH.md) | - | [2022 EULAR/ACR](Autoinflammatory/MAS_HLH.md) |
