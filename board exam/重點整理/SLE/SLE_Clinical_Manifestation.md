@@ -968,6 +968,17 @@ Hematologic involvement 常見，**三大血球系統皆可受影響**。
     - **Ribonuclease-sensitive** → 稱為 **RNP**
     - **Ribonuclease-resistant** → 稱為 **Sm**（因首位檢出病人姓 Smith 而得名）
   - **關鍵鑑別**：與 anti-Sm 不同，**anti-RNP 對 SLE 不具特異性**；高效價 anti-RNP 有助支持 **MCTD** 診斷。
+
+  > **補充：什麼是 ENA？**
+  >
+  > **ENA（Extractable Nuclear Antigen）**是操作型定義的一組抗原：早期血清實驗室發現 DNA、histone 需要用較強的萃取條件（如酸）才能分離，而**另一群核蛋白用一般 saline buffer 就能萃取出來**，故統稱為「extractable」nuclear antigen，以區別於「non-extractable」的 DNA/histone。
+  >
+  > 臨床送檢的 **ENA panel** 通常涵蓋：**Sm、U1-RNP、Ro/SS-A、La/SS-B、Scl-70（topoisomerase I）、Jo-1**（依實驗室不同，有些也納入 centromere、ribosomal P）。
+  >
+  > 這些抗原絕大多數本質上是 **ribonucleoprotein**（蛋白質 + 小分子 RNA 複合體），Sm 與 RNP 其實是**同一類 snRNP 複合體上的不同蛋白次單元**：Sm 是 spliceosome（U1/U2/U4/U5/U6 snRNP）共有的核心蛋白骨架，RNP 則主要指 U1-snRNP 上的 70K/A/C 蛋白——這也是為什麼 anti-Sm、anti-RNP 常同時出現，但兩者對 SLE 的特異性截然不同。
+  >
+  > **檢驗流程上的位置**：ENA 不是第一線篩檢，而是 **ANA 陽性後的下一步**——ANA（HEp-2 IF）陽性、且螢光型態呈 **speckled pattern** 時，會進一步送 ENA panel（現多用 ELISA 或 multiplex bead assay，如 Luminex，取代早期的 Ouchterlony double immunodiffusion 沉澱線法），找出究竟是哪一個特定核抗原陽性，才能決定臨床意義（SLE？MCTD？Sjögren's？systemic sclerosis？）。簡言之：**ANA 回答「有沒有」抗核抗體，ENA panel 回答「打的是哪一個核抗原」**，後者才是提供疾病特異性的關鍵。
+
 - **Anti-Ro/La（SS-A/SS-B）**：
   - Ro 抗原包含兩個分子量的蛋白：**Ro52**（細胞質）與 **Ro60**（細胞核）。
   - 雖然對 SLE 敏感度、特異度皆不足，但與特定臨床症候群密切相關——最經典的例子是 **>90% neonatal lupus 病例 anti-Ro 陽性**；anti-Ro 也常見於 **SCLE** 病人。
