@@ -42,9 +42,11 @@
 
 ### Hyperthyroidism（Graves' disease）
 
-- **Pretibial myxedema**：脛前結節（≥1cm），玻尿酸沉積，粉紫色、無痛。
-- **Thyroid acropachy**：杵狀指 + 掌骨骨膜炎 + 指端軟組織腫脹，**治療後不一定會恢復**（與其他 Graves 症狀不同，其他多可隨治療改善）。
-- 骨鬆/骨質缺乏為常見且嚴重併發症，控制 TSH 可改善 BMD。
+- **Pretibial myxedema**：脛前結節（≥1cm），玻尿酸沉積，粉紫色、無痛。**⚠️ 這是皮膚表現（GAG 沉積在真皮層），不是骨頭變化**——考試常考「甲狀腺異常在骨頭上看得到什麼」時容易誤答成 pretibial myxedema，正確答案應是下一項的 thyroid acropachy。
+- **Thyroid acropachy**：杵狀指 + **掌骨骨膜炎（periostitis around metacarpal joints，骨膜下新骨形成）** + 指端軟組織腫脹——**這才是真正影像上看得到的骨頭變化**；**治療後不一定會恢復**（與其他 Graves 症狀不同，其他多可隨治療改善）。
+- 骨鬆/骨質缺乏為常見且嚴重併發症（甲亢加速骨轉換，骨吸收 > 骨生成），控制 TSH 可改善 BMD。
+- Graves' disease 病人也可合併 proximal muscle weakness、**shoulder adhesive capsulitis**、肌肉量減少、體重下降；多數症狀隨治療改善。
+- （補充，非 Kelly127 原文）**Thyrotoxic periodic paralysis**：好發於亞洲男性，甲亢誘發低血鉀造成週期性肌肉癱瘓，為甲亢相關神經肌肉表現中常考的鑑別點。
 
 ### Hypothyroidism（多為 Hashimoto's thyroiditis）
 
@@ -58,6 +60,9 @@
   - Hypomagnesemia
   - **Hypothyroidism**
   - Gout、Neuropathic joint、Aging、Amyloidosis、Trauma/surgery
+
+- **⭐考試重點：CTS 是甲低（而非甲亢）的經典感覺異常表現**——機轉為 glycosaminoglycan 堆積於腕隧道周圍軟組織壓迫正中神經；一篇納入 4908 例 CTS 病人的系統性回顧顯示合併甲低的 pooled OR 為 1.4（95% CI 1.0–2.0）。CTS 可為 hypothyroidism 的初始表現。
+- （補充，非 Kelly127 原文）**深部肌腱反射遲緩（"hung-up reflex"，反射放鬆期延遲）**為甲低肌病變的經典徵象，常與近端肌無力、CK 上升一起考。
 
 - **肌病變**：近端無力、CPK 上升、type II fiber atrophy + type I fiber 增加。**Hoffman's syndrome**：成人 hypothyroid myopathy 合併肌肉「假性肥大」；**Kocher–Debré–Semelaigne syndrome**：嬰兒型（cretinism）之類似假性肌肥大。
 - CTS 可為 hypothyroidism 的初始表現（glycosaminoglycan 堆積壓迫正中神經）。
