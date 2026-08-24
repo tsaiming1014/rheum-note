@@ -908,3 +908,85 @@ Hematologic involvement 常見，**三大血球系統皆可受影響**。
 - 部分病人血清中可測得 **anti-thrombopoietin antibody**，與較低血小板數相關。
 - **慢性、低度的 thrombocytopenia 是 APS 的特徵性表現**。
 - 與 AIHA 類似，**孤立性 ITP 可能早於完整 SLE 診斷數年出現**。
+
+---
+
+## Lymphadenopathy and Splenomegaly
+
+**Lymphadenopathy**
+
+- 常與 **active SLE** 相關，特徵為腫大、質軟、**無壓痛**的淋巴結。
+- 可為 focal 或 generalized；好發 cervical、axillary、inguinal 區域。
+- 病理：reactive hyperplasia，合併不同程度的 coagulative necrosis。
+- **Hematoxylin body 的存在對 SLE 具特異性**。
+- 也曾報告有 **Castleman's disease** 的組織學特徵。
+- 鑑別診斷：感染、lymphoproliferative process；有時需淋巴結切片確診。
+- **Kikuchi-Fujimoto disease**（cervical lymphadenopathy + 發燒 + 體重減輕）可能 mimic SLE，需列入鑑別。
+
+**Splenomegaly**
+
+- 可見於 SLE 病人，可能合併 hepatomegaly。
+- 病理特徵：periarterial fibrosis（**"onion-skin" lesion**）。
+- 也有 splenic atrophy 及 functional asplenism 的報告。
+
+---
+
+## Serologic Tests
+
+### 總論
+
+- SLE 是**典型的全身性體液性自體免疫疾病**，可產生種類廣泛的自體抗體，提供重要診斷資訊（Table 81.8）。
+- Antigen array 技術研究顯示 SLE 病人體內可測得 **>100 種**不同自體抗體。
+
+### ANA（標誌性血清學特徵）
+
+- **Gold standard 檢測方法**：indirect immunofluorescence，使用 **HEp-2 cell line**。
+  - 以此方法檢測，ANA **敏感度極高**——**>95%** SLE 病人陽性。
+  - 病程中及治療後，部分病人 ANA **可能轉為陰性**。
+- 部分實驗室因自動化/成本考量改用 **ELISA 或 multiplex assay**：**準確度較差，偽陰性率較高**。
+- **不同 immunofluorescence 套組間的表現特性也有差異**，導致 ANA 陰性率不一。
+- ANA 陽性也可見於許多其他自體免疫病（RA、scleroderma、polymyositis、autoimmune thyroiditis），且**低效價（<1:80）在無自體免疫病的族群（尤其老年人）也常見**——故**單純 ANA 陽性不足以確診 SLE**。
+- 反之，**ANA 陰性有助於排除 SLE**——以 immunofluorescence 法檢測，**ANA-negative SLE 極為罕見**；此類少數病例通常可用其他抗體（如 anti-Ro/SS-A）確認 lupus-associated autoantibody 的存在。
+
+### Table 81.8：自體抗體與臨床意義
+
+| 自體抗體 | SLE 盛行率 | 臨床關聯 |
+|---|---|---|
+| **Anti-dsDNA** | 50–60% | **對 SLE 特異性 95%**；效價隨疾病活性波動；與 **glomerulonephritis** 相關 |
+| **Anti-Smith (Sm)** | 20–30% | **對 SLE 特異性 99%**；與 anti-U1RNP antibody 相關 |
+| **Anti-U1RNP** | 30% | 與 **MCTD** 相關；glomerulonephritis 發生率較低 |
+| **Anti-Ro/SS-A** | 30% | 與 **Sjögren's syndrome、photosensitivity、SCLE、neonatal lupus、congenital heart block** 相關 |
+| **Anti-La/SS-B** | 20% | 與 Sjögren's syndrome、SCLE、neonatal lupus、congenital heart block 相關，常合併 anti-Ro/SS-A |
+| **Anti-histone** | 70% | 也與 **drug-induced lupus** 相關 |
+| **Antiphospholipid** | 30% | 與動靜脈血栓、妊娠併發症相關 |
+
+### 抗原特異性抗體的診斷意義
+
+- **Anti-dsDNA**：僅見於 **50–60%** SLE 病人，故陰性**不能排除** SLE；但陽性對 SLE **高度特異**，有助確診。
+- **Anti-Sm**：特異性更高，但陽性率更低（約 30%）。
+  - Sm 抗原屬於 **extractable nuclear antigen（ENA）** 的一種——ENA 依對 ribonuclease 的敏感性分為兩群：
+    - **Ribonuclease-sensitive** → 稱為 **RNP**
+    - **Ribonuclease-resistant** → 稱為 **Sm**（因首位檢出病人姓 Smith 而得名）
+  - **關鍵鑑別**：與 anti-Sm 不同，**anti-RNP 對 SLE 不具特異性**；高效價 anti-RNP 有助支持 **MCTD** 診斷。
+- **Anti-Ro/La（SS-A/SS-B）**：
+  - Ro 抗原包含兩個分子量的蛋白：**Ro52**（細胞質）與 **Ro60**（細胞核）。
+  - 雖然對 SLE 敏感度、特異度皆不足，但與特定臨床症候群密切相關——最經典的例子是 **>90% neonatal lupus 病例 anti-Ro 陽性**；anti-Ro 也常見於 **SCLE** 病人。
+- 其他自體抗體：
+  - 針對血球成分的抗體可造成 hemolytic anemia、neutropenia、thrombocytopenia。
+  - 針對 phospholipid 及 phospholipid binding protein 的抗體，可見於合併或不合併 APS 的 SLE 病人。
+  - **RF（anti-IgG）** 可見於 **15–20%** SLE 病人（無論是否有關節疾病）；**ACPA** 也可能出現。
+
+### 補體（Complement）
+
+- Immune complex disease 造成的補體消耗，可導致 SLE 病人 **hypocomplementemia**。
+- 因 hypocomplementemia 在其他風濕病中少見，其存在對 SLE 診斷有支持價值，且**通常提示疾病活動中**。
+- **重要陷阱**：部分 SLE 病人可能有**先天性補體缺乏**（C1q、C2、C4）——故單一補體成分低下**不一定**代表消耗性下降；建議**同時測量多個補體成分（如 C3 與 C4）**再下結論。
+
+### 血清學檢查在評估疾病活性上的爭議
+
+- 在排除先天性補體缺乏的前提下，**hypocomplementemia 是疾病活動的可靠指標**，但**補體正常不能排除疾病活動**。
+- Anti-dsDNA 效價與疾病活性的相關性**因人而異**（部分病人相關，部分不相關）。
+- 一研究：對臨床穩定但血清學上活躍（anti-dsDNA、C3a、C3、C4、CH50 每月監測異常）的病人，隨機分派 corticosteroid 或安慰劑，測試「治療血清學活躍疾病」是否能預防即將發生的臨床 flare——**結果並不明確**：
+  - 部分血清學活躍病人仍發生 flare，部分似乎因治療而避免。
+  - 多數對照組病人血清學惡化**並未接續**臨床 flare；而多數實際發生的 flare **並非**由血清學惡化所預示。
+- **結論**：**沒有任何血清學指標可以取代對個別病人疾病模式的了解**——需個別判斷該病人臨床表現與血清學變化間是否存在關聯。
