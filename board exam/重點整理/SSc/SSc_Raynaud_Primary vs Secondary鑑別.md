@@ -1,3 +1,5 @@
+![Approach to RP](../images/Approach%20to%20RP.png)
+
 # Raynaud Phenomenon：Primary vs Secondary 鑑別
 
 ## 考古題範例（2024 風專筆試 Q38）
