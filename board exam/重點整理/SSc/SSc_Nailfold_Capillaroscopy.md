@@ -83,6 +83,8 @@ Nailfold videocapillaroscopy (NVC) 的黃金標準為 **200× 放大倍率**的�
 - LeRoy & Medsger 1992：primary RP 準則含正常 NVC + ANA 陰性（titer <1:100），對 primary vs secondary 分類準確率達 89%（240 名病人回溯驗證）
 - LeRoy & Medsger 2001（early SSc）：RP + SSc-specific antibody + scleroderma-type NVC change。20年前瞻性研究顯示：三者都陽性者，5年內 65.9% 確診 SSc，20年內近 80%；而 NVC 正常且抗體陰性者僅 1.3%在5年內發展成 SSc
 - **VEDOSS**（very early diagnosis of SSc, 2011）：加入 puffy fingers 條件，分 level 1（ANA+ + puffy fingers）與 level 2（SSc-specific Ab 和/或異常 NVC）。5年追蹤顯示 SSc-specific Ab + puffy fingers 者 94.1% 進展為符合 2013 ACR/EULAR SSc 分類標準
+
+![VEDOSS](../images/VEDOSS.png)
 - 2013 ACR/EULAR SSc 分類標準也將上述 early SSc 項目與 VEDOSS 概念納入計分項目
 
 ### 2. SSc 病程中的預後預測價值
