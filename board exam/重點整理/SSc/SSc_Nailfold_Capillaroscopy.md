@@ -37,6 +37,8 @@ Nailfold videocapillaroscopy (NVC) 的黃金標準為 **200× 放大倍率**的�
 
 根據 **EULAR Study Group on Microcirculation in Rheumatic Diseases** 與 **SCTC (Scleroderma Clinical Trials Consortium)** 共識架構，評估四項參數：
 
+![NCV image](../images/NCV%20image.png)
+
 | 參數 | 定義 | 正常 | Non-specific abnormality | Scleroderma-specific abnormality |
 |---|---|---|---|---|
 | **Density（密度）** | 每 linear mm 遠端排的微血管數 | 7–12 條（平均約7條/mm cutoff） | 局部密度降低 | 明顯瀰漫性 density 下降（avascular area） |
@@ -58,6 +60,8 @@ Nailfold videocapillaroscopy (NVC) 的黃金標準為 **200× 放大倍率**的�
 | Late | 明顯下降 | **無**（此期不再出現 giant） | 有 |
 
 三型通常依疾病進展**循序**出現（early → active → late），反映微血管進行性 obliteration 的過程。
+
+![NCV category](../images/NCV%20category.png)
 
 **Fast Track algorithm**（適合非專家快速判讀，內外部驗證信效度良好）：
 
