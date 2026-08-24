@@ -2,6 +2,7 @@
 
 > 臨床表現總覽（發生率、腎炎型態、篩檢建議）請見 [SLE_Clinical_Manifestation.md — Kidney Involvement](SLE_Clinical_Manifestation.md#kidney-involvement)；治療請見 [SLE_Lupus_Nephritis_治療.md](SLE_Lupus_Nephritis_治療.md)
 
+
 ## 一、ISN/RPS 組織分類（重要！）
 
 | Class | 名稱 | 組織特徵 | IC 位置 | 臨床表現 | 預後 |
