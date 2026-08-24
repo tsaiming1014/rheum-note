@@ -337,3 +337,106 @@ ISN/RPS classification（六類）詳細病理特徵已整理於 [SLE_Lupus_Neph
 - 系統性回顧（187 篇成人 LN 研究）：**15 年 ESKD 累積風險** class IV **44%** vs. class V **20%**。
 - ESKD 風險自 1970s 至 1990s 中期顯著下降，**之後已達平原（plateau）**——原因待研究（可能是現有藥物療效已達極限，或病人用藥可近性問題）。
 - 種族差異：**African American、Hispanic/Latino** 腎臟預後普遍較 White、Chinese population 差，可能與基因及社經因素共同相關。
+
+---
+
+## Pleuropulmonary Involvement
+
+### 總覽表（Table 81.6）
+
+| 表現 | 關鍵特徵 |
+|---|---|
+| **Pleuritis** | 可有/無 effusion；可與血清 CRP 升高相關 |
+| **Pleural effusion** | 可無症狀；通常 small、bilateral、exudative；drug-induced lupus 常見表現；需排除感染、malignancy、心衰竭 |
+| **Acute pneumonitis** | 嚴重呼吸道疾病，伴 fever、cough、肺浸潤、hypoxemia；可合併 pleural effusion；**死亡率高**；需 bronchoscopy + BAL 排除感染 |
+| **Chronic interstitial lung disease** | 可接續 acute pneumonitis 或隱襲發生；表現 dyspnea on exertion、pleuritic chest pain、nonproductive cough；HRCT 較 CXR 敏感；需排除感染、肺水腫、malignancy |
+| **Diffuse alveolar hemorrhage** | Dyspnea + cough + alveolar infiltrate + Hb 下降；hemoptysis 可不出現；**DLCO 通常升高**；需 bronchoscopy+BAL 確診並排除感染；**死亡率高** |
+| **Pulmonary hypertension** | Dyspnea on exertion、fatigue、chest pain、nonproductive cough；需 right heart catheterization 確診；需排除次發性病因（含 thromboembolic disease） |
+| **Shrinking lung syndrome** | Dyspnea、肺容積下降、橫膈上抬，但**無肺實質病變** |
+
+### 1. Pleuritis
+
+- 高達 **50%** SLE 病人會發生 pleuritis。
+- 臨床明顯的 pleural effusion 通常為 **small、bilateral、exudative**。
+- 常表現 pleuritic chest pain，但也可能**無症狀**、僅在其他目的的胸部 X 光偶然發現。
+- Massive effusion 需 pleurocentesis/pleurodesis 者少見但曾有報告。
+- **Pleuritis 的出現通常對應其他器官系統的 active SLE**。
+- Thoracoscopic 檢查曾發現 visceral pleura nodule，IF 上可見 Ig 沉積。
+- 鑑別診斷：感染、malignancy、心衰竭；**pleural effusion 也是 drug-induced lupus 的常見表現**。
+- 無感染狀況下，**血清 CRP 升高**與 pleuritis 及其他 serositis 的存在相關性良好。
+
+### 2. Lupus Pneumonitis（Acute）
+
+- **少見**但屬嚴重、急性的呼吸道疾病：fever、cough、肺浸潤、hypoxemia。
+- CXR 常見 **bilateral, lower-lobe, acinar infiltrate**，常合併 pleural effusion。
+- 病理為非特異性：diffuse alveolar damage、發炎細胞浸潤、hyaline membrane、alveolar hemorrhage。
+- IF 可見 alveolar septa 有 **granular IgG + C3** 沉積。
+- 因臨床與病理表現皆非特異，**務必仔細排除感染**：
+  - 血液/痰培養無法確診時，**bronchoscopy + BAL** 有助偵測病原體。
+  - HRCT 上 **"tree-in-bud" pattern** 提示 atypical pneumonia。
+  - 評估期間常同時經驗性治療感染與 lupus pneumonitis。
+- **預後差**：一系列 12 位病人研究，死亡率 **50%**（死因包含 respiratory failure、opportunistic infection、thromboembolic events）；存活者中 3 位進展為 chronic interstitial pneumonitis。
+
+### 3. Chronic Interstitial Lung Disease (ILD)
+
+- SLE 中**少見**（在 systemic sclerosis、RA、PM/DM 更常見）。
+- 可接續 acute pneumonitis 發生，也可隱襲發生。
+- 症狀類似 idiopathic ILD：dyspnea on exertion、pleuritic chest pain、慢性 nonproductive cough。
+- 診斷多依臨床-影像學表現；**lung biopsy 非常規檢查**。
+- CXR 早期可能正常，後期見 reticular opacity；PFT 呈 **restrictive pattern**（TLC↓、DLCO↓）。
+- **HRCT 較 CXR 敏感**，並可區分可逆病灶（ground-glass opacity）與不可逆 fibrosis。
+- 最常見病理型態：**NSIP**、**UIP**。
+- 診斷前需排除感染、肺水腫、malignancy。
+
+### 4. Diffuse Alveolar Hemorrhage (DAH)
+
+- **危及生命**，發生率 **<2%**。
+- 急性/亞急性 dyspnea + cough，合併新出現 alveolar infiltrate 及 **Hb 下降**。
+- **Hemoptysis 不一定出現**（與其他病因造成的 DAH 類似）。
+- 多數病人病重無法做正規 PFT；**DLCO 通常升高**（因肺泡內 extravascular hemoglobin）。
+- **Bronchoscopy + BAL** 重要：可排除感染並確診——特徵為可見 airway 內出血、serosanguineous BAL fluid 持續灌洗不清澈；BAL 液可見 hemosiderin-laden macrophage。
+- 病理型態多樣：bland pulmonary hemorrhage、capillaritis、diffuse alveolar damage、small arteriole/muscular pulmonary artery vasculitis。
+- 通常發生於血清學與臨床皆 active 的 SLE，**最常併發 lupus nephritis**；但也可能是 SLE 的**首發表現**。
+- 常需 mechanical ventilation，感染併發症常見。
+- 即使積極治療，**死亡率仍達 50%**。
+
+### 5. Pulmonary Hypertension (PH)
+
+- SLE **少見但極嚴重**的併發症。
+- **定義**：mean PA pressure >20 mmHg **且** PVR ≥3 Wood units。
+- **PAH**（PH 的亞型）定義為：正常 pulmonary capillary wedge pressure + 升高的 pulmonary vascular resistance（於 right heart catheterization 上）。
+- 症狀：dyspnea on exertion、fatigue、chest pain、nonproductive cough。
+- 理學檢查：P2 亢進、left parasternal lift、volume overload 徵象。
+- CXR/HRCT 用於排除 lupus pneumonitis；CXR 可見 cardiomegaly、pulmonary artery segment 突出；EKG 常見 right-axis deviation；PFT 見 DLCO↓。
+- **Echocardiography 為適當的篩檢工具**，但**確診需 right heart catheterization**。
+- 與 ILD 相似，**PAH 更常見於 scleroderma 與 MCTD**。
+- **確診 PH 後需評估次發性病因**：
+  - V/Q scan 或 helical CT 排除 chronic thromboembolic disease。
+  - Echo 排除左心衰竭、心內分流。
+  - Sleep study 排除 OSA。
+  - 需評估是否合併 ILD。
+- 部分研究顯示 PAH 與 **Raynaud's phenomenon** 較相關。
+- Autopsy 顯示 SLE-PAH 致病機轉為 multifactorial（primary vascular + inflammatory/immune-mediated）：血管病灶內可見 macrophage、lymphocyte，pulmonary artery wall 有 IgG + complement 沉積。
+- **關鍵病理鑑別**：SLE-PAH 特徵為 **intimal fibrosis**，而 idiopathic PAH 特徵為 **plexiform lesion**。
+
+### 6. 其他
+
+**Shrinking Lung Syndrome**
+
+- 少數 SLE 病人出現；當病人有無法解釋的 dyspnea + pleuritic chest pain 時應列入考慮。
+- 特徵：肺容積下降、橫膈上抬、restrictive ventilatory defect，但**肺實質正常**。
+- **屬 diagnosis of exclusion**（需先排除 alveolar、interstitial、pulmonary vascular disease）。
+- 診斷中位時間：SLE 診斷後 **4–6.5 年**。
+- 病因未明，可能機轉：diaphragmatic myopathy、胸壁擴張異常、phrenic neuropathy、pleural inflammation/fibrosis。
+- **預後良好**，progressive respiratory failure 少見。
+
+**Small Airway Disease**
+
+- 有症狀的 bronchiolar disease 少見，但 PFT 異常可見於高達 **2/3** SLE 病人。
+- 一非吸菸病人研究：**24%** PFT 符合 small airway disease。
+- Bronchiolitis obliterans organizing pneumonia（BOOP）罕見個案報告。
+
+**Acute Reversible Hypoxemia**
+
+- 見於 active SLE 病人：hypoxemia + 異常 A-a gradient，但**無肺實質病變**。
+- 可能機轉：complement activation 造成 pulmonary vascular endothelial injury 及 leukoagglutination。
