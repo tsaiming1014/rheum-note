@@ -440,3 +440,158 @@ ISN/RPS classification（六類）詳細病理特徵已整理於 [SLE_Lupus_Neph
 
 - 見於 active SLE 病人：hypoxemia + 異常 A-a gradient，但**無肺實質病變**。
 - 可能機轉：complement activation 造成 pulmonary vascular endothelial injury 及 leukoagglutination。
+
+---
+
+## Cardiovascular Involvement
+
+Cardiovascular disease 是 SLE 常見併發症，可侵犯 pericardium、myocardium、瓣膜、冠狀動脈。
+
+### 1. Pericarditis
+
+- **心臟最常見的 SLE 表現**：可有/無 effusion，病程中發生率 **>50%**。
+- 傾向**復發性**，可伴 low-grade fever。
+- Pericardial effusion 通常 **small、無症狀**，多為做其他檢查時的 echocardiography 意外發現。
+- Necropsy 研究顯示：**病理上的 pericarditis 遠比臨床有症狀的疾病常見**。
+- 典型症狀性 pericarditis：sharp precordial chest pain，**坐直前傾時緩解**；可伴 dyspnea、palpitation。
+- 聽診：pericardial rub、tachycardia。EKG：**diffuse ST segment elevation**。
+- 與 pleuritis 相似，**pericarditis 通常對應其他器官系統的 active SLE**。
+- 少見但曾報告：large effusion 併 tamponade physiology；purulent effusion 需 pericardiocentesis（罕見）。
+- 鑑別診斷（precordial chest pain）：costochondritis、GERD、PE、心肌缺血、pleuritis、pneumonitis、PH。
+
+### 2. Myocarditis
+
+- **少見**；應懷疑於：chest pain、無法解釋的心衰竭/心臟腫大、無法解釋的 tachycardia、無法解釋的 EKG 異常 等組合表現。
+- **Troponin、pro-BNP 常升高**。
+- Echocardiography 可確認 systolic/diastolic dysfunction 或 global hypokinesis。
+- **Cardiac MRI** 對偵測發炎組織變化高度敏感，有助診斷。
+- Endomyocardial biopsy 可確診並排除其他病因，尤其 **hydroxychloroquine toxicity**：
+  - **關鍵鑑別點**：HCQ toxicity 的病理特徵為 **myocyte vacuolization**，**無** active myocarditis。
+  - SLE myocarditis 病理：perivascular + interstitial mononuclear cell infiltration，有時合併 fibrosis/scarring。
+
+### 3. Valvular Abnormalities
+
+- TEE 研究：SLE 病人 valvular abnormality 盛行率 **61%** vs. control **9%**；vegetation 43% vs. 0%。
+- **Valvular thickening**（好發 mitral、aortic valve）最常見，**50%**；valvular regurgitation **25%**；stenosis **4%**。
+- 該研究中，valvular disease 的出現與進展**與 SLE 疾病活性或治療無關**。
+- 追蹤最長 5 年：部分病灶消退、部分新發。
+- 合併 valvular disease 者，複合事件（stroke、周邊栓塞、CHF、感染性心內膜炎、需換瓣、死亡）發生率 **22%** vs. 無 valvular disease 者 **15%**。
+
+#### Libman-Sacks Endocarditis (LSE)
+
+**是什麼**
+
+- **非感染性疣狀心內膜炎（nonbacterial thrombotic / verrucous endocarditis）**，是 SLE 特有的心臟瓣膜病變，病理上公認的 SLE 特徵性瓣膜病灶。
+- 疣狀贅生物（verrucae）由**纖維素、血小板、免疫複合體**組成，pea-sized、扁平或隆起、granular。
+- 好發於 **mitral valve 後葉的心室面**（二尖瓣最常見 > 主動脈瓣 > 三尖瓣），常延伸至鄰近 left-ventricular mural endocardium，可致 leaflet/chordae 與心室內膜黏連 → valvular regurgitation。
+- **雙面都可能有病灶**（有別於 rheumatic fever 只在接合線）；四個瓣膜皆可受侵犯，但近期研究顯示**左側瓣膜較常見**。
+- 常**臨床無症狀**（病灶多位於瓣葉下表面，周圍被 fibrous tissue 包圍），故多**靠 echo 偶然發現**。
+- 病理兩型：
+  1. **Active lesion**：fibrin clumps + lymphocyte/plasma cell 浸潤。
+  2. **Healed lesion**：dense vascularized fibrous tissue ± calcification。
+  - 兩者可並存。
+- **關鍵鑑別點**：verrucae 通常**不含 polymorphonuclear cell**——若出現 PMN，需考慮 **infectious endocarditis**。
+- Immunopathology：瓣膜基部、瓣葉、verruca 本身皆可見 granular Ig + complement 沉積。
+- 與 **APS（antiphospholipid syndrome）** 強烈相關：1656 位病人研究顯示，aPL(+) 病人的 valvular heart disease 風險為 aPL(−) 病人的 **3 倍**；風險最高者為 **lupus anticoagulant** 或 **IgG anticardiolipin antibody** 陽性者。
+
+**臨床提示（何時懷疑）**
+
+| 情況 | 說明 |
+|------|------|
+| SLE 患者合併 **aPL 抗體陽性** | 最重要的危險因子 |
+| 新發心雜音 | 特別是 MR、AR；心雜音也可能單純來自 high-flow state（發燒、貧血） |
+| 不明原因栓塞事件 | 腦中風、TIA、周邊動脈栓塞 |
+| 發燒 + 排除感染性 endocarditis | 要想到 LSE |
+
+**診斷工具**
+
+1. **Echocardiography（核心工具）**
+
+| | TEE | TTE |
+|--|-----|-----|
+| 敏感度 | **高（偵測 LSE 首選）** | 較低，易漏診 |
+| 特性 | 可看到 < 5mm 的贅生物 | — |
+| 時機 | 新雜音評估若 TTE 無法確診，或懷疑 thromboembolic event 時使用 | 新雜音評估的**第一線檢查** |
+
+- LSE 的 echo 特徵：瓣膜**中至尖端**的不規則回音增強（irregular echodensity）；贅生物多在瓣膜的**心房面或心室面**，而非接合線；瓣膜功能不全以 regurgitation 較 stenosis 常見。
+- Thromboembolic event 雖被認為是 LSE 的罕見併發症，但一研究顯示 TTE 上的 valvular heart disease 與 MRI 上的 cerebral infarct 相關。
+
+2. **與感染性 Endocarditis 鑑別**
+
+| 特徵 | Libman-Sacks | Infective Endocarditis |
+|------|-------------|----------------------|
+| 發燒 | 低熱 or 無 | 通常明顯 |
+| 血液培養 | **陰性** | 陽性 |
+| 贅生物活動度 | 低（附著緊）| 高（脆且易脫落）|
+| 部位 | 雙面、多瓣 | 單瓣為主 |
+| ESR/CRP | 可升高 | 明顯升高 |
+| 相關抗體 | **anti-dsDNA、aPL** 陽性 | 無特異 |
+
+> **重點：** SLE 患者發燒有心臟雜音時，必須先做血液培養 x3 套排除感染性 endocarditis
+
+3. **血清學輔助**
+   - **aPL 抗體**（lupus anticoagulant、anti-cardiolipin IgG/IgM、anti-β2GPI）
+   - anti-dsDNA、補體（C3、C4）低下 → 提示 SLE 活動
+   - CRP：IE 會很高，LSE 通常正常或微升
+
+**治療**
+
+原則：治療原發病 + 預防栓塞
+
+1. **控制 SLE 活動性（最根本）**
+
+| 藥物 | 角色 |
+|------|------|
+| **Hydroxychloroquine（HCQ）** | 所有 SLE 均建議，有抗血栓效果 |
+| **Glucocorticoids** | 急性活動期 |
+| Immunosuppressants（MMF、Azathioprine）| 維持緩解 |
+
+> HCQ 除了抗 TLR 外，還有抗血小板聚集作用，對 LSE/APS 有獨立保護效果
+
+2. **抗凝治療（依 APS 狀態決定）**
+
+| 情況 | 治療 |
+|------|------|
+| **LSE + APS + 栓塞事件（secondary APS）** | 長期 **Warfarin（target INR 2-3）** |
+| **LSE + APS，無栓塞史** | 低劑量 **Aspirin（75-100 mg/day）**，加上 HCQ |
+| **LSE，無 aPL** | 依瓣膜病變嚴重度決定，無強制抗凝 |
+| **APS + 動脈栓塞（stroke）** | INR target 可到 **3.0**，部分指引建議 aspirin 合用 |
+
+> **注意：** DOACs（如 rivaroxaban）在 APS 相對禁忌（TRAPS trial 顯示較高栓塞風險），尤其三重陽性 aPL 患者應避免
+
+3. **手術**（少數情況）
+   - **瓣膜功能嚴重受損** → 外科修補或置換
+   - **多次栓塞事件無法以藥物控制**
+   - 注意：人工瓣膜後仍需積極抗凝
+
+**預後與監測**
+
+- LSE 多數**無症狀**，靠 echo 發現。
+- 主要風險：**栓塞（腦中風最嚴重）> 心衰竭**。
+- 建議定期 **echo 追蹤**（特別是 aPL 陽性者）。
+- 若 SLE 控制佳，部分贅生物可縮小或消失。
+
+> **一句話總結：LSE = SLE + APS 的心臟表現；診斷靠 TEE + 血清 aPL；治療以控制 SLE + HCQ 為核心，有栓塞史者長期 Warfarin 抗凝。**
+
+**新雜音的臨床評估流程**：先做 **TTE**；若 TTE 無法確診或懷疑 thromboembolic event，改做 **TEE**（TEE 對偵測 Libman-Sacks endocarditis 較優於 TTE）。
+
+### 4. Coronary Artery Disease
+
+- SLE 病人 intramural 與 extramural coronary artery disease 皆增加。
+- Necropsy 研究：small intramural coronary artery 出現 fibrous intimal proliferation，並被 hyaline material 阻塞——**病灶型態與 SLE 腎臟、CNS 病灶類似**。
+- 大條 epicardial coronary artery 阻塞可能來自 arterial embolus、in situ thrombosis、vasculitis 或 atherosclerosis；**真正的 coronary artery vasculitis 極為罕見**。
+- **Atherosclerosis 是長期 SLE 的公認併發症**：
+  - Autopsy 研究：**25–40%** SLE 病人有 atherosclerosis。
+  - 流行病學研究：**年輕女性 SLE 病人的 MI 風險為年齡配對對照組的 50 倍**。
+  - Multicenter inception cohort：**男性**、**SLE 診斷時年齡較大**與 atherosclerotic disease 顯著相關。
+  - **重要更新**：傳統認為 atherosclerosis/MI 是長期 SLE 的併發症，但加拿大 population-based cohort 顯示：**新診斷 SLE 病人第一年內 MI 風險就已上升**（HR 5.63, 95% CI 4.02–7.87）。
+- 傳統危險因子（高血壓、glucocorticoid 暴露）雖在 SLE 病人較常見，但**無法完全解釋** atherosclerosis 風險增加——推測與傳統心血管危險因子、免疫介導因子、SLE 用藥交互作用有關。
+- **Proinflammatory HDL（piHDL）**：發炎狀態下 HDL 可由抗發炎轉為促發炎。
+  - SLE 女性 piHDL 盛行率 **45%** vs. RA 女性 **20%** vs. 對照組 **4%**。
+  - piHDL 與 subclinical atherosclerosis 程度正相關。
+- **PREDICTS panel**（210 位 SLE 女性前瞻性研究發展）：
+  - 四個新型 biomarker：**piHDL function、leptin、soluble TWEAK、homocysteine**。
+  - 兩個傳統危險因子：**年齡 ≥48 歲、糖尿病病史**。
+  - 高分者的 carotid plaque（基準值與進展）勝算比高達 **28 倍**。
+  - 此風險評估工具如何實際應用於臨床（協助篩選高風險病人進行預防性治療）仍待確立。
+- **臨床應用**：SLE 病人若有 chest pain/shortness of breath，須將 CAD 列入考慮，**低閾值安排 cardiac stress test**，必要時心導管檢查；也應評估 **aPL antibody**（coronary artery thrombosis 可能是 APS 表現之一）；並積極處理可改變的危險因子（肥胖、吸菸、高血壓、高脂血症）。
