@@ -2384,6 +2384,15 @@
   
 </li>
         
+          <li class="md-nav__item">
+  <a href="#3-3-mhc-class-i-nk-cell" class="md-nav__link">
+    <span class="md-ellipsis">
+      3-3 常見疑問：MHC class I 上調不會降低 NK cell 毒殺能力嗎？🔴
+    </span>
+  </a>
+  
+</li>
+        
       </ul>
     </nav>
   
@@ -7117,6 +7126,15 @@
   
 </li>
         
+          <li class="md-nav__item">
+  <a href="#3-3-mhc-class-i-nk-cell" class="md-nav__link">
+    <span class="md-ellipsis">
+      3-3 常見疑問：MHC class I 上調不會降低 NK cell 毒殺能力嗎？🔴
+    </span>
+  </a>
+  
+</li>
+        
       </ul>
     </nav>
   
@@ -7443,6 +7461,19 @@ STAT1 ＋ STAT2 磷酸化
 </tr>
 </tbody>
 </table>
+<h3 id="3-3-mhc-class-i-nk-cell">3-3 常見疑問：MHC class I 上調不會降低 NK cell 毒殺能力嗎？🔴</h3>
+<p>NK cell 是否毒殺一顆目標細胞，取決於 <strong>activating receptor</strong> 與<strong>辨識 MHC class I 的 inhibitory receptor（KIR-L、CD94/NKG2A 等，走 ITIM）</strong>兩者訊號的相對強弱——MHC I 越多，inhibitory 訊號越強，這顆細胞越不容易被殺，這點沒有錯。但這不代表「type I IFN 全面上調 MHC I」會讓 NK cell 整體失去戰力，因為 IFN 同時做了<strong>兩件作用對象不同的事</strong>：</p>
+<ul>
+<li><strong>對「目標細胞」端</strong>：誘導 MHC I 上調 → 保護這顆（通常是未感染或已呈現抗原的）健康細胞不被 NK 誤殺</li>
+<li><strong>對「NK cell」本身</strong>：IFN-α/β <strong>直接活化 NK cell</strong>（與目標細胞的 MHC I 表現量無關），殺傷力可提升 <strong>20–100 倍</strong>（Janeway Ch03, 3-24），加上巨噬細胞/DC 分泌的 IL-12/IL-18 協同活化</li>
+</ul>
+<p>Janeway 原文（Ch03, Section 3-26）明確點出這個雙軌設計：「Interferons induce expression of MHC class I molecules and protect uninfected host cells from being killed by NK cells, <strong>while also activating NK cells to kill virus-infected cells</strong>.」</p>
+<p><strong>這解釋了病毒的兩難（trade-off dilemma）</strong>：</p>
+<ul>
+<li>若被感染細胞乖乖跟著上調 MHC I（未演化出下調能力）→ 雖躲過 NK，但 MHC I 呈現病毒抗原，反而更容易被 <strong>CD8 CTL</strong> 辨認殺死（見上表「上調 MHC class I」列的雙重意義）</li>
+<li>若病毒<strong>主動下調 MHC I</strong> 來躲避 CTL（如 HSV、CMV、HIV Nef 等常見免疫逃逸策略）→ 這顆細胞的 MHC I 遠低於周圍被 IFN 誘導上調的健康細胞 → inhibitory 訊號大減（<strong>missing self</strong>）→ 加上此時 NK cell 已被 IFN 活化、活化閾值降低 → 更容易被辨認殺死</li>
+</ul>
+<p>一句話：type I IFN 不只是「調高保護門檻」，同時「調低 NK 活化閾值」，兩者同步發生，讓病毒無論選擇維持或下調 MHC I 都難逃——維持則死於 CTL，下調則死於（已活化的）NK。</p>
 <p>🔴 一句話銜接：正常生理下，這套機制是全身性的抗病毒防禦網；但在 SLE，因為刺激源（自身核酸）持續存在、不會像病毒感染一樣清除，這套原本用來抗病毒的廣泛效應被<strong>慢性、全身性地誘發</strong>，於是轉為致病機轉（見下第 4 節）。</p>
 <h2 id="4-pdc-sle-type-i-ifn-pathway">4. pDC 與 SLE 的 Type I IFN Pathway</h2>
 <p><img alt="IFN in SLE" src="../../images/IFN%20in%20SLE.png" /></p>
@@ -7561,7 +7592,7 @@ BAFF 作用在 B cell 表面受體 → 提升 autoreactive B cell 存活率
 <p>此機轉直接催生了 <strong>anifrolumab</strong>（anti-IFNAR1 單株抗體，阻斷所有 type I IFN 訊號），已核准用於 SLE；也是 belimumab（anti-BLyS，作用在下游 B 細胞分化）合理性的機轉基礎。</p>
 <h2 id="_4">參考資料</h2>
 <ul>
-<li><em>Janeway's Immunobiology</em> 第10版 Ch01（cell origins）、Ch03 Section 3-7（TLR → MyD88/TRIF → NF-κB vs IRF3/IRF7 分岔機轉）、Ch03 Section 3-22（IFNAR → JAK/STAT → ISGF3、ISG 效應）、Ch09 Section 9-6、9-7（DC subsets）、Ch15 Fig. 15.22（IFN-α → BAFF → SLE 自體抗體機轉）</li>
+<li><em>Janeway's Immunobiology</em> 第10版 Ch01（cell origins）、Ch03 Section 3-7（TLR → MyD88/TRIF → NF-κB vs IRF3/IRF7 分岔機轉）、Ch03 Section 3-22（IFNAR → JAK/STAT → ISGF3、ISG 效應）、Ch03 Section 3-24～3-26（NK cell 活化、activating/inhibitory receptor 平衡、MHC I 與 missing self）、Ch09 Section 9-6、9-7（DC subsets）、Ch15 Fig. 15.22（IFN-α → BAFF → SLE 自體抗體機轉）</li>
 <li><em>Kelly's Textbook of Rheumatology</em> Ch080（Etiology and Pathogenesis of Systemic Lupus Erythematosus）</li>
 </ul>
 
