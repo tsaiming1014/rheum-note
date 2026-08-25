@@ -37,6 +37,17 @@
 - HIV arthritis：好發 sub-Saharan Africa，通常 <6 週自限，好發下肢（膝、踝、MTP），少數病人病程較長合併關節破壞
 - HIV reactive arthritis：**HLA-B27 陽性者，愛滋病病程進展較慢**（HLA-B27 對 HIV 有保護性），治療上 **indomethacin 有抑制 HIV 複製的獨特作用**；sulfasalazine、hydroxychloroquine 也有降低 HIV viral load 的額外效果；TNFi、IL-17Ai（secukinumab, ixekizumab）、JAKi 皆有實證支持有效且安全（CD4>200、viral load<60,000 時使用）
 
+<table>
+<tr>
+<td width="50%"><img src="../images/circinate%20balanitis.png" alt="Circinate balanitis" width="100%"></td>
+<td width="50%"><img src="../images/Keratoderma%20blennorrhagicum.png" alt="Keratoderma blennorrhagicum" width="100%"></td>
+</tr>
+<tr>
+<td align="center">Circinate balanitis</td>
+<td align="center">Keratoderma blennorrhagicum</td>
+</tr>
+</table>
+
 ### Psoriasis / PsA
 
 HIV 病人皮膚表現常廣泛嚴重，關節炎則多關節、下肢為主、進行性；ART 有效治療皮膚與關節；需與 cutaneous T cell lymphoma 鑑別。

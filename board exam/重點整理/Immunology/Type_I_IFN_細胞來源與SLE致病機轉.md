@@ -123,6 +123,22 @@ STAT1 ＋ STAT2 磷酸化
 | **誘導 chemokine** | **CXCL9、CXCL10、CXCL11** | 招募淋巴細胞到感染／發炎部位 |
 | **細胞內在的正回饋（自我放大）**🔴 | IFN-β 誘導細胞更容易表現 **RIG-I、MDA-5、IRF7、STING** | 這些本身也是 ISG，被誘導後使細胞對病毒核酸更敏感、更容易再產生 IFN-α，形成**細胞內在**的放大迴路（與下方 4-4 節 pDC/NET 的**細胞間**放大迴路是兩個不同層次） |
 
+### 3-3 常見疑問：MHC class I 上調不會降低 NK cell 毒殺能力嗎？🔴
+
+NK cell 是否毒殺一顆目標細胞，取決於 **activating receptor** 與**辨識 MHC class I 的 inhibitory receptor（KIR-L、CD94/NKG2A 等，走 ITIM）**兩者訊號的相對強弱——MHC I 越多，inhibitory 訊號越強，這顆細胞越不容易被殺，這點沒有錯。但這不代表「type I IFN 全面上調 MHC I」會讓 NK cell 整體失去戰力，因為 IFN 同時做了**兩件作用對象不同的事**：
+
+- **對「目標細胞」端**：誘導 MHC I 上調 → 保護這顆（通常是未感染或已呈現抗原的）健康細胞不被 NK 誤殺
+- **對「NK cell」本身**：IFN-α/β **直接活化 NK cell**（與目標細胞的 MHC I 表現量無關），殺傷力可提升 **20–100 倍**（Janeway Ch03, 3-24），加上巨噬細胞/DC 分泌的 IL-12/IL-18 協同活化
+
+Janeway 原文（Ch03, Section 3-26）明確點出這個雙軌設計：「Interferons induce expression of MHC class I molecules and protect uninfected host cells from being killed by NK cells, **while also activating NK cells to kill virus-infected cells**.」
+
+**這解釋了病毒的兩難（trade-off dilemma）**：
+
+- 若被感染細胞乖乖跟著上調 MHC I（未演化出下調能力）→ 雖躲過 NK，但 MHC I 呈現病毒抗原，反而更容易被 **CD8 CTL** 辨認殺死（見上表「上調 MHC class I」列的雙重意義）
+- 若病毒**主動下調 MHC I** 來躲避 CTL（如 HSV、CMV、HIV Nef 等常見免疫逃逸策略）→ 這顆細胞的 MHC I 遠低於周圍被 IFN 誘導上調的健康細胞 → inhibitory 訊號大減（**missing self**）→ 加上此時 NK cell 已被 IFN 活化、活化閾值降低 → 更容易被辨認殺死
+
+一句話：type I IFN 不只是「調高保護門檻」，同時「調低 NK 活化閾值」，兩者同步發生，讓病毒無論選擇維持或下調 MHC I 都難逃——維持則死於 CTL，下調則死於（已活化的）NK。
+
 🔴 一句話銜接：正常生理下，這套機制是全身性的抗病毒防禦網；但在 SLE，因為刺激源（自身核酸）持續存在、不會像病毒感染一樣清除，這套原本用來抗病毒的廣泛效應被**慢性、全身性地誘發**，於是轉為致病機轉（見下第 4 節）。
 
 ## 4. pDC 與 SLE 的 Type I IFN Pathway
@@ -232,5 +248,5 @@ BAFF 作用在 B cell 表面受體 → 提升 autoreactive B cell 存活率
 
 ## 參考資料
 
-- *Janeway's Immunobiology* 第10版 Ch01（cell origins）、Ch03 Section 3-7（TLR → MyD88/TRIF → NF-κB vs IRF3/IRF7 分岔機轉）、Ch03 Section 3-22（IFNAR → JAK/STAT → ISGF3、ISG 效應）、Ch09 Section 9-6、9-7（DC subsets）、Ch15 Fig. 15.22（IFN-α → BAFF → SLE 自體抗體機轉）
+- *Janeway's Immunobiology* 第10版 Ch01（cell origins）、Ch03 Section 3-7（TLR → MyD88/TRIF → NF-κB vs IRF3/IRF7 分岔機轉）、Ch03 Section 3-22（IFNAR → JAK/STAT → ISGF3、ISG 效應）、Ch03 Section 3-24～3-26（NK cell 活化、activating/inhibitory receptor 平衡、MHC I 與 missing self）、Ch09 Section 9-6、9-7（DC subsets）、Ch15 Fig. 15.22（IFN-α → BAFF → SLE 自體抗體機轉）
 - *Kelly's Textbook of Rheumatology* Ch080（Etiology and Pathogenesis of Systemic Lupus Erythematosus）
