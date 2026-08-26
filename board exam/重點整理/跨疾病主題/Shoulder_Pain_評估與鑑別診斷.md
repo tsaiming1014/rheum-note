@@ -227,29 +227,6 @@
 | Subscapularis | Liftoff test | 手放在下背，抗阻力內轉、將手抬離背部；抬不起來 = 陽性 |
 | Biceps | Speed's test | 肩前屈、肘伸直，施加向下阻力；bicipital groove 誘發痛 = 陽性 |
 
-### SERI 測試組合（預測 rotator cuff tear 最具實證力的臨床組合）
-
-出自 200 名病人的系統性研究（23 種常用肩部測試中篩出）：
-
-1. **S**upraspinatus weakness（empty-can 無力）
-2. **E**xternal rotation weakness（同上表 resisted ER 陽性）
-3. **R**otation impingement — internal：手臂外展 90°，水平內收跨過身體中線後做內轉，誘發痛
-4. **I**mpingement — external：手臂外展 90° 做外轉；或經典 impingement sign（被動 forward flexion + 同時下壓肩胛骨，使 greater tuberosity 撞擊 anterior acromion）
-
-**SERI 陽性項目數 + 年齡 → RCT 機率**（Fig. 46.8，Murrell & Walton, *Lancet* 2001）：
-
-| 陽性項目數 | 年齡 | RCT 機率（age-adjusted） |
-|---|---|---|
-| 3 項全中 | 任何年齡 | 0.98 |
-| 任 2 項 | >60 歲 | 0.98 |
-| 任 2 項 | <60 歲 | 0.64 |
-| 任 1 項 | >70 歲 | 0.76 |
-| 任 1 項 | 40–69 歲 | 0.45 |
-| 任 1 項 | <40 歲 | 0.12 |
-| 0 項 | 任何年齡 | 0.05 |
-
-> **SERI 組合的預測力可媲美 MRI／超音波**，是 Kelly 特別強調的臨床工具——單一 impingement sign 敏感但不特異，合併判讀才有鑑別力。
-
 ### 特殊測試敏感度／特異度總表（Table 46.2，Jain et al. 彙整）
 
 | 部位 | 測試 | Sensitivity (%) | Specificity (%) |
