@@ -160,6 +160,54 @@
 
 > 來源：Kelly's Textbook of Rheumatology, Ch46 Shoulder Pain
 
+### SERI 四項測試操作細節
+
+**1. Supraspinatus weakness — Empty-can test**
+
+- 病人雙臂外展至 90°，掌心朝下（forward flexion 位置，肩胛骨平面）。
+- 接著請病人內轉手臂，讓拇指朝下（如同要把罐子裡的液體倒空的姿勢）。
+- 檢查者對雙臂施加向下的力，請病人抵抗。
+- 雙側比較：患側明顯無力（相對健側）= 陽性，提示 supraspinatus 病灶（overuse、tendinopathy 或 tear）。
+
+**2. External rotation weakness**
+
+- 病人肘關節屈曲 90°，上臂貼於身體側邊（內收位）。
+- 檢查者需固定病人的肘部（避免用肩膀代償）。
+- 檢查者施加阻力，請病人向外轉動前臂（外轉）。
+- 患側無力或誘發疼痛 = 陽性，提示 infraspinatus 或 teres minor 病灶。
+
+**3. Internal rotation impingement**
+
+- 手臂外展至 90°。
+- 水平內收，帶到身體前方（跨過身體中線）。
+- 在此姿勢下做內轉。
+- 目的是讓 rotator cuff 及 bursa 在此角度下被夾擠於 acromion 下方，誘發疼痛 = 陽性。
+
+**4. External impingement（Impingement）**
+
+這裡包含兩種操作方式，書中都算入 SERI 的 impingement 項目：
+
+- (a) 外展外轉型：手臂外展 90°，做外轉（不跨過中線）。
+- (b) 經典 impingement sign（Fig. 46.4B）：
+  - 檢查者被動將病人手臂做 forward flexion 上舉。
+  - 同時用另一手下壓肩胛骨（depress scapula）。
+  - 此動作會使 greater tuberosity 撞向 anterior acromion。
+  - 誘發疼痛 = 陽性。
+
+**SERI 陽性項目數 + 年齡 → RCT 機率**（Fig. 46.8，Murrell & Walton, *Lancet* 2001）：
+
+| 陽性項目數 | 年齡 | RCT 機率（age-adjusted） |
+|---|---|---|
+| 3 項全中 | 任何年齡 | 0.98 |
+| 任 2 項 | >60 歲 | 0.98 |
+| 任 2 項 | <60 歲 | 0.64 |
+| 任 1 項 | >70 歲 | 0.76 |
+| 任 1 項 | 40–69 歲 | 0.45 |
+| 任 1 項 | <40 歲 | 0.12 |
+| 0 項 | 任何年齡 | 0.05 |
+
+> **SERI 組合的預測力可媲美 MRI／超音波**，是 Kelly 特別強調的臨床工具——單一 impingement sign 敏感但不特異，合併判讀才有鑑別力。
+
 ### AC 關節專屬測試（一般 impingement sign 無法區分 AC 病灶時使用）
 
 | 測試 | 操作方式 | 陽性判讀 |
