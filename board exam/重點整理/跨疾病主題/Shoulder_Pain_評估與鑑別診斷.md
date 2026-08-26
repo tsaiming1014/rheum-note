@@ -155,3 +155,65 @@
 | Nonshoulder causes（cervical radiculopathy、TOS、ACS、Pancoast） | 不適用 | 需其他影像（MRI spine、心臟 workup、胸部影像等） |
 
 **一句話記憶**：超音波在 **subacromial pain（尤其 rotator cuff tear）和 calcific tendinitis** 幾乎是主場；對於 **glenohumeral 關節內部病灶**（labrum、cartilage、adhesive capsulitis 的 capsule、Charcot 的骨破壞範圍）力有未逮。文章建議順序：先 X 光排除 OA／腫瘤／cuff arthropathy → 仍不確定且需詳細軟組織評估時才上 MRI。
+
+## Kelly Ch46 補充：特殊測試詳解與 SERI 預測組合
+
+> 來源：Kelly's Textbook of Rheumatology, Ch46 Shoulder Pain
+
+### AC 關節專屬測試（一般 impingement sign 無法區分 AC 病灶時使用）
+
+| 測試 | 操作方式 | 陽性判讀 |
+|---|---|---|
+| **Paxinos sign** | 拇指頂 posterolateral acromion，食指/中指壓 lateral third of clavicle，兩者反向施力（acromion 往前上、clavicle 往下） | AC 關節內疼痛加劇；搭配 bone scan 陽性，診斷幾乎可確定 |
+| **Modified cross-arm sign** | 肘伸直、肩內轉，前屈 90°、內收 15°（O'Brien's position），病人向外推 45° 方向抵抗阻力 | AC 關節痛；合併標準 X 光時 sensitivity 98%、specificity 90% |
+| **O'Brien's sign** | 肩前屈 90°、內收 10°。① 手掌**完全 pronate**（拇指朝下）抵抗向下施力；② 手掌**完全 supinate** 重複同動作 | 兩次都痛且位置在**肩上方** → AC 關節病灶；**supinate 後痛明顯減輕**、原本痛在**深部** → SLAP lesion |
+
+> AC 關節壓痛可能單純是無症狀的 AC arthrosis（40 歲以上很常見），須靠上述測試搭配病史區分是否為造成症狀的病灶。超音波可見 AC 關節腫脹合併 meniscus 脫出（"muffin top sign"）。
+
+### Rotator cuff 四條肌肉徒手肌力測試操作細節
+
+| 肌肉 | 測試 | 操作方式 |
+|---|---|---|
+| Supraspinatus | Empty-can test | 雙臂外展 90°、掌心向下，再內轉使拇指朝下（倒空罐子姿勢），檢查者下壓、病人抵抗 |
+| Infraspinatus + Teres minor | Resisted ER | 肘屈 90° 貼身，檢查者固定病人肘部，施加阻力請病人外轉前臂 |
+| Subscapularis | Liftoff test | 手放在下背，抗阻力內轉、將手抬離背部；抬不起來 = 陽性 |
+| Biceps | Speed's test | 肩前屈、肘伸直，施加向下阻力；bicipital groove 誘發痛 = 陽性 |
+
+### SERI 測試組合（預測 rotator cuff tear 最具實證力的臨床組合）
+
+出自 200 名病人的系統性研究（23 種常用肩部測試中篩出）：
+
+1. **S**upraspinatus weakness（empty-can 無力）
+2. **E**xternal rotation weakness（同上表 resisted ER 陽性）
+3. **R**otation impingement — internal：手臂外展 90°，水平內收跨過身體中線後做內轉，誘發痛
+4. **I**mpingement — external：手臂外展 90° 做外轉；或經典 impingement sign（被動 forward flexion + 同時下壓肩胛骨，使 greater tuberosity 撞擊 anterior acromion）
+
+**SERI 陽性項目數 + 年齡 → RCT 機率**（Fig. 46.8，Murrell & Walton, *Lancet* 2001）：
+
+| 陽性項目數 | 年齡 | RCT 機率（age-adjusted） |
+|---|---|---|
+| 3 項全中 | 任何年齡 | 0.98 |
+| 任 2 項 | >60 歲 | 0.98 |
+| 任 2 項 | <60 歲 | 0.64 |
+| 任 1 項 | >70 歲 | 0.76 |
+| 任 1 項 | 40–69 歲 | 0.45 |
+| 任 1 項 | <40 歲 | 0.12 |
+| 0 項 | 任何年齡 | 0.05 |
+
+> **SERI 組合的預測力可媲美 MRI／超音波**，是 Kelly 特別強調的臨床工具——單一 impingement sign 敏感但不特異，合併判讀才有鑑別力。
+
+### 特殊測試敏感度／特異度總表（Table 46.2，Jain et al. 彙整）
+
+| 部位 | 測試 | Sensitivity (%) | Specificity (%) |
+|---|---|---|---|
+| Subscapularis | Lift-off test（及 lag sign） | 17–100 | 60–98 |
+| Subscapularis | Belly press test | 40–43 | 93–98 |
+| Subscapularis | Belly off sign | 14–86 | 91–95 |
+| Subscapularis | Bear hug test | 60 | 92 |
+| Supra/Infraspinatus | External rotation lag sign | 46–98 | 72–98 |
+| Supra/Infraspinatus | Jobe's test | 53–89 | 65–82 |
+| Supra/Infraspinatus | Drop arm test | 10–73 | 77–98 |
+| Teres minor | Hornblower's sign | 100 | 93 |
+| Biceps tendon | Speed's test | 53 | 67 |
+| Impingement | Neer's sign | 68–89 | 49–98 |
+| Impingement | Hawkins's sign | 72–92 | 44–78 |
