@@ -3,7 +3,7 @@
 ## 1. Schirmer Test 判讀
 
 - 正常：≥ 10 mm / 5 分鐘
-- 陽性（criteria 切點）：**< 5 mm / 5 分鐘**（至少一眼）
+- 陽性（criteria 切點）：**≤ 5 mm / 5 分鐘**（至少一眼）
 - Borderline：5–10 mm
 - 此患者：右眼 3 mm（陽性）、左眼 7 mm（borderline）→ 整體支持乾眼症
 
