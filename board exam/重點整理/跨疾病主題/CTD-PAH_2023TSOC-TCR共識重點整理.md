@@ -168,6 +168,8 @@
 - Intermediate-high/High → combination therapy ± prostacyclin
 - 3–6個月後依風險重新評估、調整（switch/add-on/maintain），高風險持續惡化則考慮肺移植
 
+![風險分層導向治療流程（COMPERA/SPAHR 4-strata）](../images/CTDPAH%20treatment%20algorithm%20COMPERA.png)
+
 ---
 
 ## 6. 藥物治療
