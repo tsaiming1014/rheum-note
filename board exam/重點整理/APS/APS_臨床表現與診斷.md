@@ -87,6 +87,21 @@ CAPS（多器官血栓，數天內發生）
 > <10 週的單次流產特異性低，常見原因是染色體異常，非 APS 首要診斷  
 > PROMISSE 研究：**LA 陽性**是 >12 週後不良妊娠結果的最強預測因子
 
+#### 為什麼 severe pre-eclampsia／placental insufficiency 切在 <34 週？
+
+Early-onset（<34週）與 late-onset（≥34週）pre-eclampsia 是產科學公認的兩種不同 phenotype，<34 週並非隨意設定，而是刻意挑選「機轉最貼近 APS」的時間帶：
+
+| | Early-onset（<34週）| Late-onset（≥34週）|
+|--|--|--|
+| 主要機轉 | Defective trophoblast invasion／abnormal placentation → uteroplacental vascular insufficiency | 較偏向 maternal constitutional/metabolic factors（肥胖、慢性高血壓體質等）|
+| 常合併 | Uterine artery Doppler 異常、IUGR、羊水過少（severe features）| 母體因素為主，胎盤病變相對輕 |
+| 與胎盤血管血栓機轉的關聯 | 高，與 APS 致病機轉重疊 | 低 |
+| 一般產科人群盛行率 | 較低 | 較高（多數 pre-eclampsia 屬此型）|
+
+- APS 的致病機轉（uteroplacental vasculopathy、in situ thrombosis、trophoblast dysfunction）與 early-onset severe pre-eclampsia/placental insufficiency 高度重疊
+- 若不設時間切點，會把大量與 aPL 無關、盛行率高的一般 late pre-eclampsia 也納入診斷條件，大幅降低分類標準的 specificity
+- <34 週是分類標準刻意設計的閾值，目的是提升「研究收案」的特異性，**不代表 34 週後的 severe pre-eclampsia 絕對與 APS 無關**
+
 ---
 
 ### 5. CAPS（Catastrophic APS）
