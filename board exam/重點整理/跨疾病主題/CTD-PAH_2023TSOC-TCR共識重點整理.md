@@ -138,6 +138,11 @@
 
 **整體篩檢流程圖**：Echo疑似PH → 排除left heart/lung disease → V/Q scan排除CTEPH → RHC確診（mPAP≥25mmHg, PAWP≤15mmHg, PVR>3 Wood units）→ 依病因分類（CTD／drugs-toxins／HIV／idiopathic-hereditary PAH-PVOD等）
 
+> ⚠️ **注意：此流程圖數字是舊標準，不是考試正確答案！**
+> 上面 Figure 6 的 mPAP≥25mmHg／PVR>3 Wood units，是原文直接沿用 **2018 TSOC guideline（Huang WC, et al. *J Formos Med Assoc* 2019;118:1584-1609）** 舊圖，該圖當時採用的是**2015 ESC/ERS舊版血流動力學定義**。
+> **目前（2018 WSPH會議下修後，2022 ESC/ERS採納至今）的正式PAH診斷標準是：mPAP > 20 mmHg + PVR > 2 Wood units**（見本筆記[第1節背景概念](#1-背景概念)，同一篇原文內文也是採用此新標準）。
+> 這是原始論文本身新舊圖表不一致所致，**答題請一律使用 mPAP>20mmHg、PVR>2WU**。
+
 ---
 
 ## 5. 風險分層工具
