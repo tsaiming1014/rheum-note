@@ -146,6 +146,8 @@ Aldolase、AST（SGOT）、ALT（SGPT）、LDH — 當 CK 正常但臨床仍懷�
 | **IBM** | 病理近似 PM（含 endomysial 侵入），另加：**Rimmed vacuoles（鑲邊空泡）**、細胞質/細胞核內含物、**類澱粉沉積（amyloid deposits）**；COX 陰性纖維增加（非 IBM 特異）；**電子顯微鏡**下可見 **15–21 nm 細胞質/細胞核內管狀絲狀體（tubulofilaments）**，此為 DM/PM 所沒有的特徵 |
 | **IMNM** | 以**肌纖維壞死為主**，發炎細胞浸潤**稀少或缺席**；MHC class I 上調；**肌膜 C5b-9 補體沉積**（詳見分類標準.md） |
 
+![IIM 各亞型肌肉病理比較](../images/IIM%20comparison.png)
+
 **重要陷阱**：部分病人切片同時找不到 rimmed vacuoles 與 tubulofilamentous inclusions（IBM 兩項特徵性表現），此時診斷需仰賴典型臨床特徵；**對免疫抑制治療無反應**可進一步支持 IBM 診斷（而非誤判為治療反應不佳的 PM）。
 
 ---
