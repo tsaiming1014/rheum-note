@@ -6926,16 +6926,27 @@
 <p>選擇打 cytokine 還是 receptor，取決於該系統的 ligand-receptor 配對關係。</p>
 <p><strong>原則一：一對多（多個 ligand 共用一個 receptor）→ 打 receptor 較有效率</strong></p>
 <p>Anifrolumab：anti-type I IFN receptor（IFNAR1），而非個別 IFN 分子。Type I IFN 家族龐大（IFN-α 有 13 種以上 subtype，另有 IFN-β、IFN-ε、IFN-κ、IFN-ω），全部共用 IFNAR1/IFNAR2 receptor complex。打 receptor 可一次阻斷所有 subtype 的訊息傳遞，比逐一中和每個 cytokine 更完整。FDA 2021 核准用於中重度 SLE（TULIP 系列試驗）。</p>
-<p><strong>原則二：Receptor 有 membrane-bound 與 soluble 兩種形式 → 打 receptor 可同時擋兩條路</strong></p>
+<p><strong>原則二：Cytokine 濃度易劇烈波動時 → 打 receptor 對訊息阻斷更穩定</strong></p>
 <p>Tocilizumab / Sarilumab：anti-IL-6 receptor（IL-6R），而非 IL-6 本身（anti-IL-6 cytokine 的藥是 siltuximab）。IL-6 訊息傳遞有兩種模式：</p>
 <ul>
 <li>Classic signaling：IL-6 結合 membrane-bound IL-6R（肝細胞、白血球，急性期反應相關）</li>
 <li>Trans-signaling：IL-6 先結合 soluble IL-6R (sIL-6R)，複合體再活化幾乎所有細胞都有的 gp130（與慢性發炎、關節破壞較相關）</li>
 </ul>
-<p>Tocilizumab 同時中和 membrane-bound 和 soluble 兩種 IL-6R，等於同時擋掉 classic 和 trans-signaling，因此打 IL-6R 比單純中和 IL-6 更能針對發炎反應的全貌。</p>
+<p>理論上 anti-IL-6（中和游離 ligand）與 anti-IL-6R（阻斷 membrane-bound + soluble 兩種 receptor）都能同時擋掉 classic 和 trans-signaling，因為兩條路徑共用同一個上游 ligand。真正讓 anti-receptor 策略較被偏好的原因是藥物動力學上的<strong>可飽和性（saturability）</strong>：</p>
+<ul>
+<li>IL-6 是發炎急性期會劇烈波動、大量生成的 cytokine，anti-cytokine 抗體必須以莫耳數超過（molar excess）持續變動甚至暴增的游離 IL-6，才能維持完全中和；若上游生成量突然暴衝，固定劑量的抗體可能來不及蓋過，導致中和不完全。</li>
+<li>Receptor（不論 membrane-bound 或 soluble）的量相對穩定、有限，是較「可飽和」的標靶。只要藥物劑量足以飽和這個相對固定的 receptor pool，就能持續阻斷下游訊息傳遞，較不受上游 ligand 濃度暴衝影響。</li>
+</ul>
 <p><strong>原則三：一個 cytokine 對應多個 receptor，且各 receptor 下游效果不同 → 打 cytokine 通常較全面</strong></p>
 <p>Adalimumab：anti-TNF-α，中和 soluble 和 membrane-bound TNF。TNF 有兩個 receptor：TNFR1（p55，主導促發炎/凋亡）、TNFR2（p75，較偏免疫調節/組織修復/Treg）。目前沒有廣泛使用的 TNFR1-selective 藥物，anti-TNF mAb 直接中和 cytokine，等於同時阻斷兩條路徑。</p>
-<p>對照：Etanercept 是 soluble TNFR2-Fc fusion protein（decoy receptor），同時中和 TNF-α 和 lymphotoxin-α，這也是 etanercept 在 uveitis、IBD 效果不如 adalimumab 的原因之一（缺乏誘導 membrane TNF reverse signaling 的能力）。</p>
+<p><strong>對照：Etanercept 效果不如 adalimumab/infliximab 的機轉</strong></p>
+<p>Etanercept 是 soluble TNFR2-Fc fusion protein（decoy receptor），同時中和 TNF-α 和 lymphotoxin-α（LT-α，因為 LT-α 本來就是天然 TNFR2 的 ligand 之一，這點 adalimumab/infliximab 完全不擋）。儘管 etanercept 涵蓋的 ligand 種類其實更廣，臨床上在 uveitis、Crohn's disease/IBD 效果仍不如 adalimumab、infliximab（Crohn's 試驗甚至直接失敗，Sandborn et al. 2001），關鍵不在「擋了幾種分子」，而在跟 membrane-bound TNF 的結合方式與後續效應不同：</p>
+<ul>
+<li><strong>結合動力學（binding kinetics）</strong>：Adalimumab/infliximab 是 bivalent IgG 抗體，對 TNF 親和力高、解離速率（off-rate）慢，能交聯多個 TNF trimer 形成穩定的大型免疫複合體；etanercept 本質上是模擬天然 receptor 去競爭 ligand，結合快速可逆、解離速率快很多。</li>
+<li><strong>Reverse signaling / 誘導凋亡能力</strong>：membrane-bound TNF 本身也是一種「receptor」，被高親和力、穩定交聯的抗體結合時會把訊號往細胞內傳（outside-to-in reverse signaling），誘導表現 TNF 的活化巨噬細胞/T 細胞走向 apoptosis，這對清除腸道、眼睛內肉芽腫性發炎浸潤（granulomatous inflammation，Crohn's 與許多 uveitis 的病理核心）特別重要。Etanercept 因結合快速可逆、不易形成穩定交聯複合體，誘導這種 reverse signaling/凋亡的能力弱很多，等於暫時擋住 TNF 卻沒清除持續製造 TNF 的發炎細胞。</li>
+<li><strong>Fc-mediated 清除效率</strong>：穩定的大型抗體-TNF 免疫複合體較容易活化補體（CDC）並被 Fc receptor 介導吞噬清除，etanercept 快速解離的交互作用較難達到同等效果。</li>
+</ul>
+<p>（次要因素：etanercept 半衰期較短（~4 天 vs adalimumab ~2 週），需一週兩次注射，但多數學者認為這只是加分項，不是 Crohn's 治療失敗的主因——即使調高劑量頻率，etanercept 在 IBD 的試驗依然失敗。）</p>
 <p>一句話總結：多 ligand 共用一個 receptor（打 receptor，如 anifrolumab）；receptor 本身有 soluble/membrane 兩型（打 receptor 可同時擋兩條路，如 tocilizumab）；一個 cytokine 對應多個功能不同的 receptor（打 cytokine 才能同時擋所有下游訊息，如 adalimumab）。</p>
 <hr />
 <h2 id="biologic">二、Biologic 在體內的代謝機轉</h2>
