@@ -63,6 +63,7 @@
 | Herpes Zoster | [Herpes Zoster 帶狀疱疹整理（Shingrix vs Zostavax）](跨疾病主題/Herpes_Zoster_帶狀疱疹.md) |
 | HBV Reactivation | [免疫抑制劑與 HBV Reactivation 風險分級與處置（2025 EASL）](跨疾病主題/HBV_reactivation_immunosuppressant.md) |
 | PAH 右心導管判讀 | [PAH 右心導管(RHC)數值判讀](跨疾病主題/PAH_右心導管判讀.md) |
+| CTD-PAH | [2023 TSOC/TCR CTD-PAH共識重點整理](跨疾病主題/CTD-PAH_2023TSOC-TCR共識重點整理.md) |
 | Synovium | [滑膜組織重點整理](跨疾病主題/Synovium_滑膜組織重點整理.md) |
 | Shoulder Pain | [肩膀疼痛評估與鑑別診斷](跨疾病主題/Shoulder_Pain_評估與鑑別診斷.md) |
 | Osteonecrosis | [骨壞死重點整理](跨疾病主題/Osteonecrosis_骨壞死.md) |
