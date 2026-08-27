@@ -19,6 +19,18 @@
 
 註：GAVE, Gastric antral vascular ectasia；GI, gastrointestinal；GPI, glycoprotein I；ILD, interstitial lung disease；PAH, pulmonary arterial hypertension；RNP, ribonucleoprotein particle；SLE, systemic lupus erythematosus；AC, Anti-cell（ICAP nomenclature）。
 
+## 視覺化補充：Diffuse / Limited / Overlapping 分佈圖
+
+![SSc autoantibodies](../images/SSc%20autoantibodies.png)
+
+> 出處：AutoimmuRev 2013（非 Kelly 原文，為補充教學圖）
+
+此圖依 **Diffuse／Limited／Overlapping** 三型分類自體抗體，與上方主表的 Subtype 欄位可互相對照：
+
+- **Diffuse 廣泛型**：Scl-70、RNA polymerase III、Fibrillarin (U3-RNP)
+- **Limited 局限型**：Centromere (CENP)、Anti-Th（即 Th/To）、PM-Scl
+- **Overlapping 重疊型**：U1-RNP、PM-Scl（PM-Scl 同時橫跨 Limited 與 Overlap，圖中以黃色圓圈標示重疊定位）
+
 ## ANA Pattern 欄位重要註記
 
 **⚠️ 重要臨床意義：**
