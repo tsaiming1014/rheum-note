@@ -6,6 +6,13 @@
 
 **PAH定義**（WSPH專家共識）：mPAP > 20 mmHg，PAWP ≤ 15 mmHg，PVR > 2 Wood units。CTD-PAH屬於 **Group 1 PH**。
 
+**WSPH五大分類（PH classification）**：
+
+![PH五大分類（NEJM review）](../images/CTDPAH%20category.png)
+
+> 圖片來源為NEJM review，各組定義與hemodynamic profile一覽：Group 1 PAH（含CTD-associated PAH）、Group 2 PH due to left-sided heart disease、Group 3 PH due to lung disease/hypoxia、Group 4 PH due to pulmonary-artery obstructions（CTEPH等）、Group 5 PH with multifactorial or unclear mechanisms。
+> 注意：此圖對Group 1 PAH的hemodynamic profile標示PVR **≥3 WU**，與本篇TSOC/TCR共識內文引用2022 ESC/ERS的PVR **>2 WU** 略有差異（不同文獻對「pre-capillary PH」一般閾值 vs.「PAH」臨床診斷閾值的取用不盡相同），**答題仍以本篇共識內文之mPAP>20mmHg、PVR>2WU為準**。
+
 **機轉**：endothelial dysfunction、genetic aberrations、refractory vasoconstriction、excess proliferation合併vascular cell apoptosis受損。
 
 **地域差異（重要）**：
