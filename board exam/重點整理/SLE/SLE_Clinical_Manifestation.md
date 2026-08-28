@@ -99,6 +99,26 @@ Mucocutaneous involvement 在 SLE 中非常常見（頻率 80–90%）。依 his
 - Livedo reticularis vs. livedo racemosa：後者為 irregular reticular pattern with "broken circles"，**永遠是 pathologic**；兩者皆與 **APS** 高度相關。
 - Atrophie blanche（stellate white plaque + central atrophy + peripheral hyperpigmentation）也與 APS 相關。
 
+**Urticarial Vasculitis**
+
+- 病灶外觀類似 urticaria，但**單一病灶持續 >24 小時**，組織病理可見 **leukocytoclastic vasculitis**。
+- 常伴隨 **burning 感**（而非典型的 pruritus）、**purpura**，消退後留下 **residual hyperpigmentation**。
+- 可見於 SLE，**血清補體低下（hypocomplementemia）時尤其常見**。
+
+| 特徵 | Urticarial Vasculitis | 一般 Urticaria |
+|---|---|---|
+| 單一病灶持續時間 | **>24 小時**（常 24–72 小時） | 通常 <24 小時 |
+| 消退後 | 常留下 **residual purpura / hyperpigmentation** | 不留痕跡 |
+| 症狀性質 | 常為 **burning/painful**，非典型癢感 | 典型 pruritic |
+| 組織病理 | **Leukocytoclastic vasculitis**（小血管炎） | 無血管炎 |
+| 可合併表現 | Arthralgia、腹痛、低補體 | — |
+
+- 依補體是否低下分兩型：
+  - **Normocomplementemic**：較侷限於皮膚，較少合併全身性疾病。
+  - **Hypocomplementemic（HUVS）**：較常合併全身性自體免疫疾病（含 SLE），與 **anti-C1q antibody** 高度相關；部分病人本身即符合 SLE classification criteria，或病程中逐漸演變為 SLE。
+
+![Urticarial vasculitis](../images/Urticarial%20vasculitis%20image.png)
+
 ### 5. Photosensitivity
 
 - Photoprovocation testing：UVA/UVB/visible light 可誘發異常皮膚反應於 >90% lupus 病人。
