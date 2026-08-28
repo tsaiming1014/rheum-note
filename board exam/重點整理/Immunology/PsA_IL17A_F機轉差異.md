@@ -1,6 +1,6 @@
 # IL-17A 與 IL-17F 機轉差異與 Bimekizumab
 
-![IL-17 家族成員與其治療標的](../../images/IL17%20target.png)
+![IL-17 家族成員與其治療標的](../images/IL17%20target.png)
 
 ## 三句話版本
 
@@ -33,7 +33,7 @@ IL-17 家族共 6 個成員，但真正促發炎、與風濕病最相關的是 *
 
 ## IL-17 整體致病機轉總覽（背景知識）
 
-![IL-17 來源、目標細胞與下游疾病總覽](../../images/IL17%20mechanism.jpg)
+![IL-17 來源、目標細胞與下游疾病總覽](../images/IL17%20mechanism.jpg)
 
 這張圖把 IL-17 的致病邏輯畫成「多來源 → 廣泛作用 → 疾病分化」的三層漏斗，是後面 IL-17A/F 分工、Bimekizumab 機轉的整體背景。
 
@@ -140,7 +140,7 @@ IL-17RA/RC 廣泛表現在非造血系的組織常駐細胞上，每種目標細
 
 Th17 細胞具有一條 **由 IL-17A 自身觸發的 autocrine 負回饋迴路**，平時把 IL-17F、GM-CSF 壓制著。這是「為什麼單抑 IL-17A 會放出 IL-17F」的第二條、且更直接的分子機轉。
 
-![IL-17A blockade 解除 IL-24 抑制、放大 IL-17F 與 GM-CSF](../../images/IL17A%20blockade%20increase%20IL17F%20GMCSF%20expression.png)
+![IL-17A blockade 解除 IL-24 抑制、放大 IL-17F 與 GM-CSF](../images/IL17A%20blockade%20increase%20IL17F%20GMCSF%20expression.png)
 
 **(A) 正常 autocrine 負回饋：**
 
@@ -228,7 +228,7 @@ IL-17F 的 IL-23 獨立性甚至比 IL-17A 更強，由 innate/innate-like cells
 
 BE MOBILE pooled 分析顯示 **BKZ 對 uveitis 具保護效果**（發生率顯著低於 placebo，有 uveitis 病史的高風險族群差異尤其明顯），長期 EAIR 維持低檔 **1.2/100 PYs**。原文用語為「**may confer protective effects**（可能具保護效果）」，非確定性預防。
 
-![BE MOBILE 1/2 雙盲期 uveitis 發生率：BKZ 顯著低於 placebo](../../images/BMK%20uveitis.png)
+![BE MOBILE 1/2 雙盲期 uveitis 發生率：BKZ 顯著低於 placebo](../images/BMK%20uveitis.png)
 
 對照：ixekizumab（COAST）2.8/100 PYs、placebo 組（certolizumab、etanercept 試驗）7.2～19.3/100 PYs。
 

@@ -42,7 +42,7 @@ adalimumab、etanercept、infliximab、golimumab、certolizumab。對關節療�
 
 secukinumab、ixekizumab（anti-IL-17A），對關節與皮膚均佳。⚠️ **IBD 患者避用**（IL-17 於 IBD 試驗失敗/惡化，有誘發 case report）。
 
-**(2023 EULAR)** **Bimekizumab（IL-17A/F）已核准用於 PsA**（Kelly 仍列為 future therapy）；安全性上 IL-17A、尤其 **IL-17A/F 易黏膜皮膚 candidiasis**。（→ [IL-17A 與 IL-17F 機轉差異與 Bimekizumab](PsA_IL17A_F機轉差異.md)）
+**(2023 EULAR)** **Bimekizumab（IL-17A/F）已核准用於 PsA**（Kelly 仍列為 future therapy）；安全性上 IL-17A、尤其 **IL-17A/F 易黏膜皮膚 candidiasis**。（→ [IL-17A 與 IL-17F 機轉差異與 Bimekizumab](../../Immunology/PsA_IL17A_F機轉差異.md)）
 
 ### IL-23 / IL-12-23 blockers
 
