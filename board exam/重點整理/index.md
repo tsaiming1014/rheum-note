@@ -28,7 +28,7 @@
 | **血管炎** | [AAV（GPA / MPA / EGPA）](Vasculitis/AAV/AAV_三大疾病完整比較.md) | [2022 ACR/EULAR](Vasculitis/AAV/AAV_分類診斷的來龍去脈與2022標準.md) | [BVAS、VDI](Vasculitis/AAV/AAV_BVAS活性評估.md) | BVAS = 0（區分 on/off therapy） | [2021 ACR / 2022 EULAR](Vasculitis/AAV/AAV_治療.md) / 2025 BSR |
 | | [大血管炎（GCA / PMR / Takayasu）](Vasculitis/Large%20vessel/LVV_分類標準與臨床特徵.md) | [2022 ACR/EULAR](Vasculitis/Large%20vessel/LVV_分類標準與臨床特徵.md) | ITAS2010、臨床+CRP | - | [2021 ACR/VF](Vasculitis/Large%20vessel/LVV_GCA_TAK_治療.md) |
 | | [Behçet 病](Vasculitis/Behcet/Behcet_致病機轉.md) | ISG 1990、ICBD 2014 | BDCAF | - | [2025 EULAR](Vasculitis/Behcet/Behcet_治療總整理_2025.md) |
-| | 其他血管炎（PAN、[IgA vasculitis](Vasculitis/其他血管炎/IgA_Vasculitis.md)） | 2022 ACR/EULAR (PAN)、EULAR/PRINTO/PRES (IgAV) | 臨床、BVAS | - | - |
+| | 其他血管炎（PAN、[IgA vasculitis](Vasculitis/其他血管炎/IgA_Vasculitis.md)、[Cryoglobulinemia / IgG4-RD vasculitis / UV / EED / RV 等 IC-mediated vasculitis](Vasculitis/其他血管炎/IC-mediated_小血管炎_總整理.md)） | 2022 ACR/EULAR (PAN)、EULAR/PRINTO/PRES (IgAV) | 臨床、BVAS | - | [Kelly Ch92 治療總表](Vasculitis/其他血管炎/IC-mediated_小血管炎_總整理.md) |
 | **軟骨免疫疾病** | [Relapsing Polychondritis (RPC)](RPC/RPC_致病機轉與臨床.md) | McAdam (1976)、Damiani & Levine (1979) | RPDAI（Arnaud 2012） | - | [Kelly Ch106 治療整理](RPC/RPC_致病機轉與臨床.md#治療) |
 | **自體發炎疾病** | [FMF / CAPS / 其他](Autoinflammatory/FMF_CAPS_其他_致病機轉與臨床表現.md) | Tel Hashomer、Eurofever/PRINTO | AIDAI | - | [2024 EULAR/PReS（FMF）/ 2021 ACR/EULAR（CAPS、TRAPS、MKD、DIRA）](Autoinflammatory/FMF_CAPS_其他_致病機轉與臨床表現.md#治療) |
 | | [VEXAS syndrome](Autoinflammatory/VEXAS_致病機轉臨床表現與診斷.md) | UBA1 gene mutation | - | - | [2026 ACR](Autoinflammatory/VEXAS_懷疑時機檢驗與治療_2026ACR.md) |
