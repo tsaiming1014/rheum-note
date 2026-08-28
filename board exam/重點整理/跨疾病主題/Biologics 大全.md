@@ -49,7 +49,7 @@
 
 ## 3. IL-17 inhibitors
 
-> **機轉**：IL-17A/F 促使synoviocyte、keratinocyte增生、neutrophil migration，並經RANKL造成病理性骨吸收。**阻斷IL-17對RA無效**（但對PsA、AS有效，重要對比）。多數藥物中和 **IL-17A ligand**；Brodalumab例外，只結合 **IL-17RA**（不結合IL-17RC）——因IL-17受體皆為異二聚體且共用RA次單元（A/F→RA+RC；C→RA+RE；IL-25→RA+RB），鎖住RA可連帶阻斷這些ligand，範圍更廣。**Uveitis考點**：Secukinumab/Ixekizumab/Brodalumab（皆主要阻斷IL-17A）可能增加uveitis風險；唯獨 **Bimekizumab（雙阻斷A+F）對uveitis反而有保護效果**（詳見 [PsA_IL17A_F機轉差異](../SpA/PsA/PsA_IL17A_F機轉差異.md)）。
+> **機轉**：IL-17A/F 促使synoviocyte、keratinocyte增生、neutrophil migration，並經RANKL造成病理性骨吸收。**阻斷IL-17對RA無效**（但對PsA、AS有效，重要對比）。多數藥物中和 **IL-17A ligand**；Brodalumab例外，只結合 **IL-17RA**（不結合IL-17RC）——因IL-17受體皆為異二聚體且共用RA次單元（A/F→RA+RC；C→RA+RE；IL-25→RA+RB），鎖住RA可連帶阻斷這些ligand，範圍更廣。**Uveitis考點**：Secukinumab/Ixekizumab/Brodalumab（皆主要阻斷IL-17A）可能增加uveitis風險；唯獨 **Bimekizumab（雙阻斷A+F）對uveitis反而有保護效果**（詳見 [PsA_IL17A_F機轉差異](../Immunology/PsA_IL17A_F機轉差異.md)）。
 
 | Group | 學名 | 中文名 | 商品名 | 藥商 | 用量 | 途徑 | 副作用 | 特色 | 藥價(售價) | Indication |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 
 ## 4. IL-23 / IL-12-23 inhibitors
 
-> **機轉**：IL-12誘導naïve T cell分化為Th1（IFN-γ）；IL-23（協同IL-6/lymphotoxin/IL-1）誘導Th17（IL-17、IL-22、TNF）。IL-23/IL-17軸是psoriasis及PsA（enthesitis、dactylitis、arthritis）核心致病路徑。**重要考點**：IL-23阻斷**對axSpA中軸發炎無效**（與IL-17i、TNFi不同）——中軸端IL-17F主要由innate cell以IL-23-independent方式產生，IL-23只負責「啟動」非「維持」（詳見 [PsA_IL17A_F機轉差異](../SpA/PsA/PsA_IL17A_F機轉差異.md)）。
+> **機轉**：IL-12誘導naïve T cell分化為Th1（IFN-γ）；IL-23（協同IL-6/lymphotoxin/IL-1）誘導Th17（IL-17、IL-22、TNF）。IL-23/IL-17軸是psoriasis及PsA（enthesitis、dactylitis、arthritis）核心致病路徑。**重要考點**：IL-23阻斷**對axSpA中軸發炎無效**（與IL-17i、TNFi不同）——中軸端IL-17F主要由innate cell以IL-23-independent方式產生，IL-23只負責「啟動」非「維持」（詳見 [PsA_IL17A_F機轉差異](../Immunology/PsA_IL17A_F機轉差異.md)）。
 
 | Group | 學名 | 中文名 | 商品名 | 藥商 | 用量 | 途徑 | 副作用 | 特色 | 藥價(售價) | Indication |
 |---|---|---|---|---|---|---|---|---|---|---|

@@ -92,6 +92,7 @@
 | 骨代謝機轉 | [RANKL-RANK-OPG 與 Wnt/DKK1 考試速記](Immunology/RANKL-RANK-OPG與Wnt-DKK1_骨代謝考試速記.md) |
 | CAR-T | [CAR-T 設計與各代差異](Immunology/CAR-T_設計與各代差異.md) |
 | Type I IFN、Monocyte/Macrophage/DC 分型 | [Type I Interferon：細胞來源與 SLE Pathogenesis](Immunology/Type_I_IFN_細胞來源與SLE致病機轉.md) |
+| IL-17A/F | [IL-17A 與 IL-17F 機轉差異與 Bimekizumab](Immunology/PsA_IL17A_F機轉差異.md) |
 
 ---
 
