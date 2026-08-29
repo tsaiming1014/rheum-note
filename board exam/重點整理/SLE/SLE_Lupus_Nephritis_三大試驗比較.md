@@ -55,6 +55,7 @@
 - 亞洲族群次分析療效表現較好，但未達統計顯著
 - **UPCR>3的高蛋白尿族群療效較差**
 - **純Class V病人療效不佳**
+- 常被引用的「belimumab對肺腎外(extra-renal)表現效果佳」**並非BLISS-LN本身的發現**，而是延伸自**BLISS-52 / BLISS-76**（belimumab原始的一般SLE Phase 3試驗，收案時排除severe active LN/CNS lupus）——這兩試驗的organ-domain (BILAG-based) post-hoc分析顯示belimumab效果最明顯在**mucocutaneous**與**musculoskeletal** domain；guideline「中重度肺腎外表現優先選belimumab方案」的建議是跨試驗extrapolation的結果，非BLISS-LN內部證實的次族群效果
 
 **AURORA-1（Voclosporin）**
 
