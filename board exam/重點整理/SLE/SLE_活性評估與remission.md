@@ -162,6 +162,30 @@
 
 > 治療目標即是**減少 flare**——達 LLDAS 或 remission 可顯著降低 flare 與器官損傷累積。
 
+### BILAG-2004 Flare 定義
+
+BILAG 以器官別 A–E 評分的**變化**（而非單一總分）來定義 flare：
+
+**BILAG Index 官方表格（四級）**
+
+| Flare 分級 | 判定內容 |
+|------------|----------|
+| Severe Flare | 任一系統因新發或惡化項目產生 **A score** |
+| Moderate Flare | 因新發或惡化項目產生 **≥2 個 B score** |
+| Mild Flare | 因新發或惡化項目產生**單一 B score**，或 **≥3 個 C score** |
+| No Flare | 未符合上述任何條件 |
+
+**常見簡化二分法（major / minor flare）**
+
+| Flare 分級 | 判定內容 |
+|------------|----------|
+| Major flare（重大） | 任一系統**新出現 A 級**，或**由 B 升至 A**——代表需要高劑量免疫抑制治療 |
+| Minor flare（輕微） | 任一系統**新出現 B 級**，或**由 C 升至 B**——代表需要中等程度治療 |
+
+> 兩種定義概念一致：**新增/升級的 A ≈ severe/major flare；新增/升級的 B ≈ moderate/minor flare**，差別在分級粒度（四級 vs 二級）及是否納入 C score 累積（官方四級表需 ≥3 個 C 才算 mild）。
+
+> 對比 SFI：**SFI** 以單一 SLEDAI/PGA 分數變化＋特定臨床項目判定；**BILAG flare** 直接沿用器官別 A–E 級別的變化，兩者概念不同、臨床試驗中常並列使用（如 SRI-4 用 SLEDAI+BILAG，BICLA 以 BILAG 改善為核心）。
+
 ---
 
 ## 五、Treat-to-Target：LLDAS 與 DORIS Remission
