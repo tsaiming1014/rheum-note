@@ -117,6 +117,21 @@
 | **荷爾蒙** | 早發初經（≤10歲）、OCP、HRT | 改變 estrogen/androgen 平衡 |
 | **睡眠不足** | <7小時 | 與親屬轉化為 SLE 相關 |
 
+### 3-1 EBV 分子擬態（Molecular Mimicry）機轉與證據
+
+EBV 是 SLE 環境觸發因子中，分子擬態證據鏈最完整的例子，證明過程分為以下層次：
+
+| 層次 | 方法 | 發現 |
+|------|------|------|
+| 序列同源性 | 胺基酸序列比對 | EBNA-1 35–58 胺基酸片段與 Sm B/B′ 的 PPPGMRPP epitope 高度相似；EBNA-1 亦與 Ro60 部分 epitope 相似 |
+| 交叉反應抗體 | 動物免疫（兔/鼠）+ ELISA/Western blot | 以 EBNA-1 胜肽免疫動物，誘發的抗體可交叉辨認 Sm B′、Ro60 |
+| Epitope spreading | 動物長期追蹤 | 動物抗體反應由 EBNA-1/PPPGMRPP 逐漸擴展到 Sm、RNP 其他 epitope，順序與人類 SLE 病程一致 |
+| 時序性人類證據 | 回溯性血清庫（美軍血清庫；Harley/James, Oklahoma）| Anti-EBNA 抗體出現在先，anti-Sm/anti-dsDNA 隨後才出現，支持因果關係而非單純相關 |
+| 流行病學支持 | 血清陽性率、病毒負荷比較 | SLE 患者 EBV 血清陽性率近 100%（一般人群 ~90%）；周邊血 EBV DNA viral load 顯著較高 |
+| T 細胞層次 | T 細胞交叉反應實驗 | EBNA-1 專一 T 細胞可辨認自體胜肽，顯示 T 細胞（非僅 B 細胞）也參與分子擬態 |
+
+> 證據強度重點：序列相似性只是假說起點；真正把 molecular mimicry 從「相關」推進到「致病機轉」的關鍵，是（a）動物實驗誘導出交叉反應抗體並發生 epitope spreading，以及（b）人類回溯性血清庫證明時序上病毒抗體先於自體抗體出現，而非只是同時發生。
+
 ---
 
 ## 四、核心樞紐——廢棄物「做得多、清得少」
