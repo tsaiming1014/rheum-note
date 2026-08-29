@@ -107,6 +107,8 @@ EULAR特別註明：0.5g/day門檻雖有爭議（部分病人低於此值仍有p
 - **c) MPAA + obinutuzumab**（**僅EULAR正式列入**；ACR指引定稿時REGENCY試驗剛發表，僅於Discussion提及，未正式列入建議表；REGENCY trial完整數據整理見 [SLE_Obinutuzumab_REGENCY_ALLEGORY.md](SLE_Obinutuzumab_REGENCY_ALLEGORY.md)）
 - ELNT低劑量CYC + belimumab（CYC療程完成後轉MPAA維持）
 
+> 三個關鍵合併治療試驗（BLISS-LN、AURORA-1、REGENCY）之收案條件、endpoint定義、次族群表現差異整理見 [SLE_Lupus_Nephritis_三大試驗比較.md](SLE_Lupus_Nephritis_三大試驗比較.md)
+
 **依風險因子選擇方案**（ACR有明確分級建議；EULAR列為Table 2「預後因子」供參考，未強制分流）：
 
 - **蛋白尿≥3g/g**：優先 MPAA+CNI，優於belimumab方案（CNI起效較快、belimumab在高蛋白尿族群療效較弱）
