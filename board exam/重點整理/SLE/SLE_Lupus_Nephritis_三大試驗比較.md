@@ -82,3 +82,5 @@
 1. Furie R, Rovin BH, Houssiau F, et al. Two-Year, Randomized, Controlled Trial of Belimumab in Lupus Nephritis. N Engl J Med. 2020;383:1117-1128.
 2. Rovin BH, Teng YKO, Ginzler EM, et al. Efficacy and safety of voclosporin versus placebo for lupus nephritis (AURORA 1): a double-blind, randomised, multicentre, placebo-controlled, phase 3 trial. Lancet. 2021;397:2070-2080.
 3. Furie RA, Rovin BH, Garg JP, et al. Obinutuzumab for Proliferative Lupus Nephritis. N Engl J Med. 2025;392:1471-83.
+4. Navarra SV, Guzmán RM, Gallacher AE, et al. Efficacy and safety of belimumab in patients with active systemic lupus erythematosus: a randomised, placebo-controlled, phase 3 trial (BLISS-52). Lancet. 2011;377:721-731.
+5. Furie R, Petri M, Zamani O, et al. A phase III, randomized, placebo-controlled study of belimumab in subjects with systemic lupus erythematosus (BLISS-76). Arthritis Rheum. 2011;63:3918-3930.
