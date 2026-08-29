@@ -12,7 +12,7 @@
 | **Tuberculous arthritis（周邊關節結核）** | 通常單一關節，慢性病程，好發**承重大關節（髖、膝最常見）** |
 | **Poncet's disease** | 屬於**反應性關節炎**，是身體其他部位有 TB 感染時誘發的關節炎，關節本身沒有結核菌感染，機轉類似其他反應性關節炎 |
 | Tuberculous osteomyelitis | 骨髓炎型態 |
-| Tuberculous tenosynovitis/bursitis | 可見經典的 **"rice bodies"（米粒體）**於肌腱鞘內 |
+| Tuberculous tenosynovitis/bursitis | 可見經典的 **"rice bodies"（米粒體）**於肌腱鞘內；但 rice bodies 並不限於此型態，關節腔內（synovitis）本身也可以出現，詳見下方「Rice Bodies」章節 |
 
 ## 臨床表現
 
