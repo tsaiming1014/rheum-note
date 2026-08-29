@@ -142,6 +142,20 @@ EULAR特別註明：0.5g/day門檻雖有爭議（部分病人低於此值仍有p
 
 **Flare相關風險因子（EULAR Table 2）**：不遵從服藥、治療時間過短(<3年)、初始治療反應不完全、持續肺腎外/血清學活性、未使用HCQ、年輕(<30歲)/男性、複查切片仍有殘餘組織學活性(NIH AI≥2)。
 
+**實證佐證**
+
+**WIN-Lupus trial（停用維持治療的flare風險）**：Proliferative LN於induction+maintenance治療2–3年（MMF/AZA）後達穩定疾病≥1年（CR: UPCR≤0.2；PR: UPCR≤0.5或穩定且歸因於慢性損傷；併用prednisolone≤10mg/d、HCQ≥2個月），比較繼續IST (immunosuppressive therapy) vs 停藥（3個月內漸減停用）。24個月時腎臟relapse rate：IST continuation 5/40 (12.5%) vs discontinuation 12/44 (27.3%)，停藥組風險約為繼續組的2倍（p=0.079，未達統計顯著但趨勢一致），提示停藥決策需審慎評估flare風險。
+
+![WIN-Lupus trial：停用維持治療的腎臟flare風險約為繼續治療的2倍](../images/WIN-LUPUS.png)
+
+**Sustained remission持續時間與長期腎功能保護**：長期世代追蹤顯示，達成sustained clinical remission (sCR)並持續**≥3年**者，其IKF (impaired kidney function)-free survival明顯優於sCR僅0–2年者；sCR滿3年與4年以上兩組存活曲線相近且平坦，為指引「反應後總療程3–5年」「sustained CRR滿3年後可考慮停藥」建議提供長期實證基礎。
+
+![Remission duration ≥3年可預防LN病人日後的eGFR decline](../images/LN%20remission%20duration.png)
+
+> WIN-Lupus：Jourde-Chiche N, et al. Ann Rheum Dis. 2022;81:1420-1427.
+>
+> Remission duration study：Ann Rheum Dis. 2025;84:594-600.
+
 ## 純 Class V LN 治療
 
 **ACR 治療演算法**（依蛋白尿≥1g/d分流）：
