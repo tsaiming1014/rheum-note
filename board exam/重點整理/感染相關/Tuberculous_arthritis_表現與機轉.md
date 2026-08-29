@@ -40,6 +40,18 @@
 - **滑膜切片**（找乾酪樣肉芽腫）診斷率通常優於單純關節液檢查
 - 需同時評估是否合併肺結核（但骨骼肌肉結核病人診斷當下，肺部不一定有活動性病灶，可能是潛伏結核的再活化）
 
+## Rice Bodies（米粒體）
+
+- **定義**：關節腔或腱鞘滑液囊內大量、游離、光滑的米粒狀小體。肉眼呈**白色-淺褐色、有光澤的圓形結構**；顯微鏡下為**少細胞的卵圓形纖維蛋白（fibrin）聚集物，內含散在壞死及退化的發炎細胞**。
+- **成因**：目前認為源自**滑膜絨毛因缺血而脫落**後形成的碎屑，屬於 loose body 的一種型態。
+- **常見於兩大類疾病**：
+  - **風濕性疾病**（尤其 RA）
+  - **Mycobacterial infection（TB arthritis / tenosynovitis）**——並非侷限於肌腱鞘（tenosynovitis），**關節腔內（synovitis）本身也可以出現**
+- **臨床/操作上的意義**：因為 rice bodies 屬於較大的滑液內 debris，做 arthrocentesis 抽吸關節液時，可能造成**針頭突然阻塞、抽吸中斷**，需重新調整針頭位置與角度才能繼續。
+- 這也是為什麼 **TB tenosynovitis of the wrist/flexor tendon** 是經典的臨床聯想題——腕隧道症候群（carpal tunnel syndrome）合併慢性肌腱鞘腫脹，要考慮 TB tenosynovitis 合併 rice bodies。
+
+*來源：Kelly's Textbook of Rheumatology, Ch.53 Synovial Fluid Analyses...; Ch.129 Tumors and Tumor-like Lesions of Joints*
+
 ## 與化膿性關節炎鑑別重點
 
 | | 化膿性關節炎 | 結核性關節炎 |
