@@ -92,3 +92,28 @@ SI joint 分成兩個 compartment，發炎病灶的命名取決於發炎落在�
 
 - **SI joint 發炎**：SPARCC（Spondyloarthritis Research Consortium of Canada）、Berlin score — 兩者對變化高度敏感；SPARCC 另有 SSS（結構損傷進展評估），可在治療 3 個月即區分有效與安慰劑。
 - **脊椎發炎**：Berlin、SPARCC、Canada–Denmark — 後者同時評估椎體與後外側結構（costovertebral、facet、棘突/橫突）的發炎與損傷，常用於臨床試驗。
+
+## 九、SI joint X 光分級系統（(Modified) New York Radiographic Grading）
+
+X 光分級是**傳統、歷史性的薦腸關節炎影像分類法**，源自 1966 New York criteria，1984 modified New York criteria 沿用至今，是 mNY 診斷標準中「放射學」項目的判讀依據（見 [SpA_分類標準與流行病學.md](SpA_分類標準與流行病學.md)）。
+
+| Grade | 定義 | 影像特徵 |
+|---|---|---|
+| **0** | 正常 | 關節間隙、骨緣皆正常 |
+| **I** | 可疑（suspicious） | 關節緣模糊（blurring），但無明確侵蝕或硬化，不足以確診 |
+| **II** | 輕微異常（minimal） | 局部小範圍的 erosion 或 sclerosis，關節間隙寬度**未改變** |
+| **III** | 中度／明顯異常（moderate/advanced） | 明確的 erosion **和／或** sclerosis，**併有以下至少一項**：關節間隙增寬、變窄，或**部分（partial）ankylosis** |
+| **IV** | 嚴重異常 | **完全 ankylosis**（關節完全融合） |
+
+**mNY 診斷用放射學切點**：
+
+- **雙側 grade ≥2**，或
+- **單側 grade 3–4**
+
+即符合 mNY 影像學標準（再加上 ≥1 項臨床標準即可診斷 AS）。
+
+**判讀重點與限制**：
+
+- Grade II 的關鍵是「erosion/sclerosis 已出現，但關節間隙仍正常」；一旦間隙**增寬、變窄或出現 ankylosis**，即使只是 partial，也要升到 Grade III。
+- CT 為偵測 X 光下 erosion / sclerosis 的 gold standard（優於一般 X 光），但 mNY 標準本身仍以**傳統 X 光**分級為準。
+- **主要限制**：判讀主觀、interobserver variability 高；早期（nonradiographic）病灶對 X 光不敏感，常需數年才會出現可判讀的結構變化 — 這正是 MRI（見上方章節）與 ASAS 影像臂（X 光**或** MRI 皆可）被納入 axSpA 分類標準的原因。
