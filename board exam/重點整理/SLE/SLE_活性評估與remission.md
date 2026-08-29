@@ -134,10 +134,31 @@
 
 ## 四、Flare（復發）定義
 
-以 **SELENA-SLEDAI Flare Index (SFI)** 為例：
+採用 **SELENA-SLEDAI Flare Index (SFI)**，分為 Mild/Moderate 與 Severe 兩級，符合下列任一項即成立：
 
-- **Mild/Moderate flare**：SLEDAI 上升、新症狀但未達 severe；如新發皮疹/關節炎、發燒，或調升 prednisone（但 ≤0.5 mg/kg/day）。
-- **Severe flare**：SLEDAI 上升 **> 12**；新發重大器官侵犯（CNS、腎炎、血管炎等）；需 **prednisone > 0.5 mg/kg/day**、住院、或新增免疫抑制/生物製劑；PGA 升至 **> 2.5**。
+**Mild/Moderate Flare**（符合 1 項以上）
+
+| 項目 | 判定內容 |
+|------|----------|
+| SELENA-SLEDAI 分數變化 | 上升 3–12 分 |
+| 新發／惡化症狀 | Discoid、光敏感或其他可歸因於 lupus 的皮疹（含 lupus profundus、cutaneous vasculitis、bullous lupus）；鼻咽潰瘍、肋膜炎、心包炎、關節炎，或無法以感染解釋的發燒 |
+| Prednisone 劑量調整 | 增加，但**不超過 0.5 mg/kg/day** |
+| 新增藥物 | 因 SLE activity 加用 NSAID 或 hydroxychloroquine |
+| PGA 變化 | 上升 **≥1.0**，但**不超過 2.5** |
+
+**Severe Flare**（符合 1 項以上）
+
+| 項目 | 判定內容 |
+|------|----------|
+| SELENA-SLEDAI 分數變化 | 上升至 **>12 分** |
+| 新發／惡化重大症狀 | CNS involvement、vasculitis、nephritis、myositis、thrombocytopenia（platelet **<6 萬**）、或 hemolytic anemia（Hb **<7 g/dL**，於 2 週內發生）；或需將 corticosteroid 劑量**加倍至 >0.5 mg/kg/day**、或需**住院** |
+| Prednisone 劑量調整 | 增加**超過 0.5 mg/kg/day**，或**新啟用** cyclophosphamide、azathioprine、mycophenolate mofetil、methotrexate |
+| 住院 | 因 SLE activity 住院 |
+| PGA 變化 | 上升至 **>2.5** |
+
+> **註**：單獨的 anti-dsDNA、C3 數值變化，或在**無臨床表現**下單純調升 SLE 治療藥物，**不算 flare**。
+
+> 一句話：Mild/Moderate 抓「輕度惡化 + 溫和升藥」；Severe 抓「重大器官侵犯 + 大幅升藥／住院」，分界大致以 **SLEDAI >12、pred >0.5 mg/kg/day、PGA >2.5** 為門檻。
 
 > 治療目標即是**減少 flare**——達 LLDAS 或 remission 可顯著降低 flare 與器官損傷累積。
 
