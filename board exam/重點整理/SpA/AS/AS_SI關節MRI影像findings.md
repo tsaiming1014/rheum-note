@@ -97,6 +97,8 @@ SI joint 分成兩個 compartment，發炎病灶的命名取決於發炎落在�
 
 X 光分級是**傳統、歷史性的薦腸關節炎影像分類法**，源自 1966 New York criteria，1984 modified New York criteria 沿用至今，是 mNY 診斷標準中「放射學」項目的判讀依據（見 [SpA_分類標準與流行病學.md](SpA_分類標準與流行病學.md)）。
 
+![SI joint X光分級 Grade 0–IV](../../images/SI%20joint%20X%20ray.png)
+
 | Grade | 定義 | 影像特徵 |
 |---|---|---|
 | **0** | 正常 | 關節間隙、骨緣皆正常 |
