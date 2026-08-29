@@ -2,7 +2,41 @@
 
 > 臨床表現總覽（發生率、腎炎型態、篩檢建議）請見 [SLE_Clinical_Manifestation.md — Kidney Involvement](SLE_Clinical_Manifestation.md#kidney-involvement)；治療請見 [SLE_Lupus_Nephritis_治療.md](SLE_Lupus_Nephritis_治療.md)
 
-## 一、ISN/RPS 組織分類（重要！）
+## 一、口試問答版（快速應答稿）
+
+答題架構：**LM → IF/EM → 臨床對應**
+
+**Class I — Minimal Mesangial**
+
+LM正常，看不到mesangial hypercellularity。但IF/EM可見mesangial immune deposits。重點：**LM(-)、IF/EM(+)**。臨床上無症狀，預後極佳。與Class II鑑別：有無mesangial hypercellularity。
+
+**Class II — Mesangial Proliferative**
+
+在Class I基礎上多了mesangial hypercellularity，無subendothelial deposits。IF/EM沉積仍侷限於mesangium。臨床：輕微血尿/蛋白尿，預後佳。
+
+**Class III — Focal**
+
+<50% glomeruli受累。病灶處有endocapillary hypercellularity，可合併節段性fibrinoid necrosis、cellular crescent。關鍵：subendothelial immune deposits（與Class IV共同特徵）。臨床：血尿+蛋白尿，活動性高者可有腎功能惡化。與Class IV本質相同（同屬subendothelial disease），差別只在受累比例，可視為同一疾病光譜的輕重之分。
+
+**Class IV — Diffuse**
+
+≥50% glomeruli受累，預後最差。**Wire loop**（大量subendothelial deposits造成毛細血管壁增厚）為代表性病灶，常合併cellular crescent、fibrinoid necrosis。IF/EM：subendothelial deposits，範圍較III廣泛。臨床：典型nephritic syndrome + 腎功能快速惡化。IV-S（segmental，單一glomerulus中<50% lobule受累）vs IV-G（global，≥50%）。
+
+**Class V — Membranous**
+
+沉積位置不同於III/IV：**subepithelial**。LM：瀰漫性capillary wall thickening，無明顯增生。IF/EM：granular subepithelial deposits，銀染可見spike formation。臨床：以nephrotic syndrome（大量蛋白尿）為主，非血尿/腎功能惡化為主。可合併III或IV（寫作III+V、IV+V），治療強度依增生性腎炎（III/IV）處理。
+
+**Class VI — Advanced Sclerotic**
+
+>90% glomeruli呈global sclerosis，無殘餘活動性病灶。已不可逆，免疫抑制治療效果有限，多已進展至腎衰竭。
+
+**口試地雷區**
+
+- **Wire loop vs Membranous病灶**：位置相反。Wire loop = subendothelial（III/IV）；Membranous病灶 = subepithelial（V）。
+- **Cellular vs Fibrous crescent**：意義相反。Cellular crescent = 活動性、可逆，計入activity index（加權×2）；Fibrous crescent = 不可逆纖維化，計入chronicity index。
+- **Tubuloreticular inclusions**：內皮細胞胞漿內胞器樣結構，非免疫複合體本身，與IFN-α相關，須排除HBV/HCV/HIV等慢性病毒感染。
+
+## 二、ISN/RPS 組織分類（重要！）
 
 | Class | 名稱 | 組織特徵 | IC 位置 | 臨床表現 | 預後 |
 |-------|------|---------|---------|---------|------|
@@ -26,7 +60,7 @@
 
 > **Figure 2** Drawings depicting the ultrastructural features of a single glomerular capillary affected by lupus glomerulonephritis: class I with mesangial immune deposits (black) but no mesangial cell (red) hypercellularity or influx of leukocytes; class II with mesangial immune deposits and mesangial cell hypercellularity but no influx of leukocytes; class III/IV (upper right) with mesangial and capillary influx of leukocytes; class III/IV (lower right) with subendothelial capillary wall immune deposits that can be seen by LM and mesangial but no capillary influx of leukocytes (dark green neutrophils and light green monocytes/macrophages); class III/IV + V with an influx of leukocytes and numerous subepithelial immune deposits in addition to subendothelial deposits; and class V with numerous subepithelial immune deposits but no influx of leukocytes (podocyte = outer green cell, endothelial cell = yellow cell, mesangial cell = red cell, neutrophil = green cell with segmented nucleus, monocyte/macrophage = light green cell). LM, light microscopy.
 
-## 二、沉積部位與對應分類（Kelly Ch.081）
+## 三、沉積部位與對應分類（Kelly Ch.081）
 
 > "Thick **subendothelial** immune deposits form classic 'wire loop' lesions." — Kelly Ch.081
 
@@ -44,7 +78,7 @@
 | Hyaline thrombi | 微血管/小動脈管腔內（免疫複合體堆積，呈玻璃樣） | Class III/IV 活動性指標 |
 | Tubuloreticular inclusions | 內皮細胞「胞漿內」（非免疫複合體本身） | 提示 IFN signature，非特異性但支持狼瘡診斷；需排除 HBV/HCV/HIV 等慢性病毒感染 |
 
-## 三、Activity Index vs Chronicity Index（病理預後因子）
+## 四、Activity Index vs Chronicity Index（病理預後因子）
 
 Lupus nephritis（尤其 Class III/IV 增生性腎炎）的病理報告會分別評估 **activity index（活動性指數，可逆）**與 **chronicity index（慢性化指數，不可逆）**，兩者病理意義與治療意涵相反：
 
@@ -58,7 +92,7 @@ Lupus nephritis（尤其 Class III/IV 增生性腎炎）的病理報告會分別
 
 **臨床意義：** Activity index 高代表疾病活動度高，積極免疫抑制治療仍有機會逆轉腎功能；Chronicity index 高則代表已有不可逆的結構性損傷，即使積極治療也難以恢復，兩者合併評估可協助判斷治療強度與預後。
 
-## 四、Activity/Chronicity Index 計分方式（Revised NIH Scoring System，Bajema et al. 2018）
+## 五、Activity/Chronicity Index 計分方式（Revised NIH Scoring System，Bajema et al. 2018）
 
 > ⚠️ 此節內容為廣泛採用的病理學公認計分系統（非直接引用自 Kelly 原文，Kelly 僅提及「modified NIH activity and chronicity scoring system」此名稱，未列出完整計分細項）
 
@@ -86,7 +120,7 @@ Lupus nephritis（尤其 Class III/IV 增生性腎炎）的病理報告會分別
 
 **加權原因：** Fibrinoid necrosis 與 cellular crescents 因與**快速惡化型腎絲球腎炎（RPGN）及較差短期預後**關聯性最強，故給予 2 倍權重，凸顯其臨床嚴重度。
 
-## 五、常見混淆點
+## 六、常見混淆點
 
 1. **Wire loop（subendothelial）vs Membranous 病灶（subepithelial）**：部位相反，容易考混。
 2. **Cellular crescents（活動性，計入 activity index，×2 加權）vs Fibrous crescents（慢性化，計入 chronicity index）**：意義相反，前者代表疾病仍在活動、可逆，後者代表已纖維化、不可逆。
