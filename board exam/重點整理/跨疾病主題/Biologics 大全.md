@@ -102,7 +102,7 @@
 | Pan-JAK（体外JAK1/2/3/TYK2皆抑制） | Peficitinib | 施覓福 膜衣錠 50毫克 | **Smyraf FC tab 50 mg** | Astellas Pharma | <details><summary>用量</summary>150mg QD or 100mg QD</details> | PO | Class-wide黑框警語 | 吸收快（Tmax 1–1.8h）；主要亞洲市場 | 287.1 | RA（主要日本、台灣） |
 | JAK 1 selective | Abrocitinib | 喜繽果 膜衣錠 200毫克 | **Cibinqo FC tab 200 mg** | Pfizer | <details><summary>用量</summary>AD: 100mg QD 或 200mg QD</details> | PO | Class-wide黑框警語 | 適應症為AD，非風濕病用藥 | 878.9 | AD |
 | **TYK2 inhibitor（allosteric）** | Deucravacitinib | | **Sotyktu 6mg tab** | Bristol Myers Squibb | <details><summary>用量</summary>PsO/PsA: 6mg QD</details> | PO | 鼻咽炎、cold sore（HSV）、輕度LFT上升；**未納入黑框警語** | 首個TYK2 inhibitor；核准PsO+PsA；SLE phase II正向 | | PsO、PsA |
-| **JAK1/TYK2 dual（investigational）** | Brepocitinib | — | — | Priovant/Roivant | <details><summary>用量</summary>Dermatomyositis: 30mg QD（VALOR劑量）</details> | PO | 資料有限 | **2026 NEJM VALOR試驗**（DM）正向；**尚未核准上市** | | 尚未核准（研究中：Dermatomyositis） |
+| **JAK1/TYK2 dual（allosteric TYK2 + ATP-competitive JAK1）** | Brepocitinib | | **Lisraya tab 30 mg** | Priovant Therapeutics | <details><summary>用量</summary>Dermatomyositis: 30mg QD</details> | PO | 常見：上呼吸道感染、頭痛、疲勞、泌尿道感染、噁心；黑框警語：嚴重感染、全因死亡率增加、惡性腫瘤（cancer）、MACE、thrombosis | 2026/8/27 FDA核准，首個口服DM治療藥物；核准依據為2026 NEJM VALOR試驗（30mg組week 52 TIS較placebo多改善15.3分，P<0.001） | | DM |
 
 **藥物補充說明**：
 
@@ -113,7 +113,7 @@
 - **Peficitinib**：主要於日本、台灣等亞洲市場使用，西方國家未上市。
 - **Abrocitinib**：雖核准適應症為AD而非RA/PsA，仿單仍載述黑框警語；與upadacitinib同為AD常用JAK1 selective選項。
 - **Deucravacitinib**：常見副作用另含痤瘡；未納入黑框警語，僅載述其他JAK inhibitor有MACE/惡性腫瘤/VTE風險之聲明。2022年FDA核准PsO，2026年進一步核准PsA；因機轉不同、不受黑框警語限制，可能成為取代部分JAK1/2/3用途的重要選項；SLE phase II試驗SRI4於week 32達標。
-- **Brepocitinib**：2026年3月NEJM發表Phase 3 VALOR試驗（refractory dermatomyositis，241例）：30mg組於week 52 Total Improvement Score較placebo多改善15.3分（P<0.001），並達成類固醇減量效果，9個關鍵次要指標皆達標；機轉為同時阻斷JAK1與TYK2、抑制type I IFN訊號（DM致病機轉相關）；FDA已授予優先審查，PDUFA目標2026 Q3。
+- **Brepocitinib**：2026年3月NEJM發表Phase 3 VALOR試驗（refractory dermatomyositis，241例）：30mg組於week 52 Total Improvement Score較placebo多改善15.3分（P<0.001），並達成類固醇減量效果，9個關鍵次要指標皆達標；機轉為同時阻斷JAK1與TYK2、抑制type I IFN訊號（DM致病機轉相關）；FDA已授予優先審查，PDUFA目標2026 Q3。**2026/8/27 FDA正式核准（商品名Lisraya），為首個核准治療dermatomyositis之口服藥物**。
 
 ---
 
