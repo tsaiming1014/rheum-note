@@ -73,7 +73,7 @@
 | 老鼠動物模型 | [風濕免疫疾病老鼠動物模型整理](跨疾病主題/風濕免疫疾病_老鼠動物模型整理.md) |
 | 內分泌代謝疾病相關關節炎 | [內分泌代謝疾病相關關節炎（Kelly Ch127）](跨疾病主題/內分泌代謝疾病相關關節炎_Kelly127.md) |
 | 過敏原免疫治療（AIT） | [SCIT / SLIT / OIT 完整比較](Allergy/過敏原免疫治療_AIT比較.md) |
-| CTD-ILD | CTD 相關間質性肺病 |
+| CTD-ILD | [CTD-ILD 治療實證整理（EULAR 2025 ILD session）](跨疾病主題/CTD-ILD_治療實證整理_EULAR2025.md) |
 | Pregnancy in rheumatic disease | 風濕病與妊娠（2022 BSR Part 1 & 2） |
 
 ---
