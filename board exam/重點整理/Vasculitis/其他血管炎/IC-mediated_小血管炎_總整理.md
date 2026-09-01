@@ -74,6 +74,8 @@ IC-mediated 小血管炎的主要疾病群：
 
 **診斷流程重點**：病史（新藥物、近期感染、C型肝炎風險因子、CTD）+ 理學檢查排除皮膚外侵犯 + 抽血（CBC、biochemistry、ANA/ENA、ANCA、RF、C3/C4、cryoglobulins、hepatitis serology、SPEP/UPEP）+ 尿液分析 + 胸部X光 + **皮膚切片（組織學＋DIF）為確診關鍵**。
 
+![Dx for IC mediated SVV](../../images/Dx%20for%20IC%20mediated%20SVV.png)
+
 ---
 
 ## 1. Hypersensitivity Vasculitis（= Cutaneous Leukocytoclastic Angiitis, CLA）
