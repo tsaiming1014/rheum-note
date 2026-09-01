@@ -76,12 +76,14 @@
 | Human mAb against IL-12/23（p40共用次單元） | Ustekinumab | 喜達諾 靜脈注射液 130毫克/26毫升 | **Stelara conc for soln for inj 130 mg/26 ml** | | <details><summary>用量</summary>PsO/PsA: loading 45mg（>100kg用90mg）SC at 0, 4 wk, maintain 45mg（或90mg）SC Q12W<br>Crohn's/UC: IV體重計算之loading dose，之後 SC Q8W</details> | SC（IBD需先IV loading） | 整體耐受性佳；注射部位反應少 | 適應症最廣；**臨床經驗**：已較少作第一線（新藥頭對頭較優） | 45942.6 | PsO、PsA、Crohn's、UC（含小兒PsO） |
 | Human mAb against IL-23（p19次單元） | Guselkumab | 特諾雅 注射液 100毫克/毫升 | **Tremfya soln for inj 100 mg/1 ml/PEN** | | <details><summary>用量</summary>Loading: 100mg SC at 0, 4 wk<br>Maintain: 100mg SC Q8W</details> | SC | 罕見LFT上升、neutropenia | 皮膚起效快；PsA效果持續達52週；亦用IBD | 67502.6 | PsO、PsA、UC |
 | Human mAb against IL-23（p19次單元） | Risankizumab | 喜開悅 注射劑 150毫克/毫升 | **Skyrizi inj 150 mg/1ml/PEN** | Abbvie | <details><summary>用量</summary>PsO/PsA: loading 150mg SC at 0, 4 wk, maintain 150mg SC Q12W<br>Crohn's: IV loading at 0, 4, 8 wk, 之後 SC Q8W起</details> | SC（IBD需先IV loading） | 同guselkumab | 核准含PsA；亦用IBD；Crohn's頭對頭優於ustekinumab | 97026.6 | PsO、PsA、Crohn's、UC |
+| Human mAb against IL-23（p19次單元） | Tildrakizumab | （不確定，待補） | **Ilumetri inj 100 mg/1 ml** | Sun Pharma（原MSD開發） | <details><summary>用量</summary>Loading: 100mg SC at 0, 4 wk<br>Maintain: 100mg SC Q12W</details> | SC | 上呼吸道感染、注射部位反應 | 半衰期較長，Q12W維持劑量與risankizumab相近；**僅核准PsO，未核准PsA** | （不確定，待補） | PsO |
 
 **藥物補充說明**：
 
 - **Ustekinumab**：此類中適應症最廣（兒童+成人PsO/PsA、Crohn's、UC；SLE phase II數據positive）；不同適應症給藥途徑不同（關節/皮膚走SC，IBD需先IV loading）；抑制IL-12/23會恢復被抑制之CYP450活性，併用warfarin、cyclosporine需監測。與新一代p19標靶藥物（guselkumab、risankizumab）頭對頭試驗相比效果較弱，現在臨床上已較少作為第一線選擇。
 - **Guselkumab**：對PsO起效快、皮膚清除率高；對PsA關節端起效較慢但療效可持續達52週；有初步證據可能改善中軸影像變化（SI joint imaging追蹤中，屬探索性，非正式適應症）；頭對頭試驗優於ustekinumab。
 - **Risankizumab**：核准適應症含PsA（非僅PsO），療效與guselkumab同等級（皆為p19標靶）；與guselkumab、tildrakizumab同屬第二代anti-IL-23（較ustekinumab更專一）；Crohn's頭對頭試驗（SEQUENCE）優於ustekinumab。
+- **Tildrakizumab**：與guselkumab、risankizumab同屬第二代anti-IL-23（p19標靶），但適應症僅限PsO，未核准PsA或IBD；半衰期長，維持劑量Q12W（與risankizumab相近）。
 
 ---
 
