@@ -55,9 +55,11 @@ IC-mediated 小血管炎的主要疾病群：
 - 最佳切片時機：病灶出現後 **24–48 小時**。
 - 非潰瘍部位取樣；若為潰瘍病灶（通常提示中型血管炎），應取**潰瘍邊緣**切片。
 - 細胞浸潤通常混合嗜中性球與淋巴球，多數病例以其中一種為主。淋巴球為主的浸潤可見於新病灶（<12 小時）或舊病灶（>48 小時），與血管炎類型無關。
-- 核心病理特徵：**發炎浸潤破壞血管壁結構**（血管內與周圍）。
-- **Leukocytoclasis**：嗜中性球去顆粒化，產生核塵（nuclear dust）。
-- 可見內皮腫脹增生；紅血球滲出可見但非診斷必要條件。
+- **Fibrinoid necrosis**：血管壁纖維蛋白樣壞死（免疫複合體沉積活化補體造成的血管壁破壞）。
+- **Neutrophil infiltration**：嗜中性球浸潤血管壁內與周圍。
+- **Leukocytoclasis**：嗜中性球去顆粒化崩解，產生核塵（nuclear dust），這是「leukocytoclastic」命名的由來。
+- 常合併 **RBC extravasation**（紅血球滲出，對應臨床上的 palpable purpura）。
+- 可見**內皮腫脹**（endothelial swelling）。
 
 ### Direct Immunofluorescence (DIF)
 
