@@ -192,6 +192,26 @@ IC-mediated 小血管炎的主要疾病群：
 - COPD 與心臟瓣膜異常皆與 HUVS 相關，可能需個別治療。
 - 預後與合併疾病相關（SLE、COPD、angioedema、瓣膜異常皆可能影響生活品質與存活）；部分 HUV/HUVS 病例經免疫抑制後可完全緩解。
 
+### 臨床案例
+
+![HUV clinical image](../../images/HUV%20image.png)
+
+> A 33-year-old man with systemic lupus erythematosus presented with a 1-week history of pruritic, burning plaques. Examination showed pink, edematous plaques on the hands, elbows, knees, and feet. Laboratory testing showed elevated antinuclear and anti–double-stranded DNA antibody levels and low complement levels. Skin biopsy showed leukocytoclastic vasculitis. Treatment with oral and topical glucocorticoids was started. One week later, the lesions evolved into fixed, urticarial, annular, and targetoid plaques with rims of purpura on the thighs, chest, abdomen, and back. Which of the following is the most likely diagnosis?
+>
+> A. Chronic spontaneous urticaria
+> B. Erythema multiforme
+> C. Secondary syphilis
+> D. Subacute cutaneous lupus erythematosus
+> E. Urticarial vasculitis
+
+**答案：E. Urticarial vasculitis**
+
+- 病灶**固定超過 24 小時不退**（一般蕁麻疹 24 小時內會完全消退）、消退後留下**紫斑／色素沉澱**、皮膚切片證實 **leukocytoclastic vasculitis**——三者合一是 urticarial vasculitis 的診斷核心，可藉此排除 chronic spontaneous urticaria（不會出現 LCV，病灶也不會固定超過 24 小時）。
+- 病人本身為 SLE、ANA／anti-dsDNA 陽性、低補體，符合本節「HUV 與 SLE 有重疊特徵」的描述，此案例即典型的 **hypocomplementemic urticarial vasculitis (HUV)**。
+- Erythema multiforme 病理是 interface dermatitis（角質細胞壞死、淋巴球浸潤），並非 vasculitis，與切片結果不符，可排除。
+- Secondary syphilis 雖可呈現多形性皮疹，但不會表現此處描述的 LCV 合併紫斑邊緣的 targetoid plaques。
+- SCLE 病理同樣是 interface dermatitis，不會有 leukocytoclastic vasculitis 的切片發現，可排除。
+
 ---
 
 ## 5. Erythema Elevatum Diutinum (EED)
