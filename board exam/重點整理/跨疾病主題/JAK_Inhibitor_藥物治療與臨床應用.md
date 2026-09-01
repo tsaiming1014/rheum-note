@@ -78,7 +78,7 @@
 
 **Polyarticular JIA**：Tofacitinib 2020核准（flare rate 29% vs 53%, HR 0.46）。
 
-**其他**：Tofacitinib於早期硬皮症、難治型皮肌炎小型試驗顯示初步效益；brepocitinib（JAK1/TYK2抑制劑）正於難治型皮肌炎試驗中。
+**其他**：Tofacitinib於早期硬皮症、難治型皮肌炎小型試驗顯示初步效益；brepocitinib（JAK1/TYK2抑制劑，商品名Lisraya）**已於2026/8/27獲FDA核准用於治療dermatomyositis**（首個口服DM藥物）。
 
 ## 五、其他胞內標靶藥物
 

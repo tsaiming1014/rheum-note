@@ -94,6 +94,7 @@
 - Moderate response（TIS≥40）：68% vs 44%；Major response（TIS≥60）：46% vs 26%
 - 安全性：整體不良事件發生率三組相近；**嚴重感染在 30 mg 組較高**（10% vs 15 mg 組 2% vs 安慰劑組 1%），多可經處置緩解並完成療程；試驗期間**無死亡**；癌症、血栓栓塞、心血管事件、病毒再活化事件反而多集中於安慰劑組（可能反映疾病本身及長期 GC 使用之基礎風險）
 - 結論：Brepocitinib 30 mg（非 15 mg）對難治型 DM 病人在複合肌炎指標、皮膚疾病嚴重度、GC 減量、功能失能皆有顯著效益，但感染風險需留意；為 JAK/TYK2 抑制劑家族中**首個達成 phase 3 primary endpoint** 的藥物
+- **2026/8/27 FDA已核准brepocitinib（商品名Lisraya）用於治療成人dermatomyositis**，為首個口服DM核准藥物。
 
 ### 4. IBM 特殊考量
 
