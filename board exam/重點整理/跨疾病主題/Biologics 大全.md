@@ -188,7 +188,25 @@
 
 ---
 
-## 9. csDMARDs / 免疫抑制劑
+## 9. Complement pathway inhibitors
+
+> **機轉**：C5 convertase（classical/lectin 路徑 C4b2a3b，或 alternative 路徑 C3bBb3b）將 C5 裂解為 **C5a**（強效anaphylatoxin，結合myeloid cell表面 **C5aR1/CD88**，驅動neutrophil趨化、活化、呼吸爆發——是ANCA誘發neutrophil活化的關鍵下游路徑）與 **C5b**（啟動C5b-6789n組裝成 **membrane attack complex, MAC**，造成標的細胞溶解；PNH病人因GPI-anchor缺陷、CD55/CD59等補體調控蛋白缺乏，紅血球對MAC攻擊格外敏感）。**重要考點（機轉範圍差異，與第6類RTX/OBI、第7類Mepolizumab/Benralizumab邏輯相同）**：**Eculizumab、Ravulizumab** 結合C5本身、阻止其被裂解，因此**同時阻斷C5a生成與MAC形成**（上游、範圍廣，故對PNH溶血、aHUS TMA皆有效，但也因MAC功能喪失而顯著增加encapsulated bacteria感染風險）；**Avacopan** 則是口服小分子，僅拮抗 **C5aR1受體**，**只阻斷C5a訊號、不影響C5b-9/MAC形成**（範圍較窄、機轉更專一），故對AAV中neutrophil活化路徑有效，理論上腦膜炎球菌感染風險較低（但仍有其他安全性疑慮，見下方Avacopan補充）。
+
+| Group | 學名 | 中文名 | 商品名 | 藥商 | 用量 | 途徑 | 副作用 | 特色 | 藥價(售價) | Indication |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Humanized mAb against complement C5（阻斷C5裂解，同時阻斷C5a+MAC） | Eculizumab | 舒立瑞 | **Soliris conc for soln for infu 300 mg/30 ml** | Alexion (AstraZeneca) | <details><summary>用量</summary>PNH: 600mg IV QW×4wk, 900mg IV at wk5, maintain 900mg IV Q2W<br>aHUS: 900mg IV QW×4wk, 1200mg IV at wk5, maintain 1200mg IV Q2W</details> | IV | **黑框警語：Neisseria meningitidis侵襲性感染**（用藥前≥2週需接種腦膜炎球菌疫苗，並發給病人安全卡）；頭痛；輸注反應 | 首個核准之anti-C5 mAb；台灣健保給付PNH、aHUS；風濕科off-label用於catastrophic APS (CAPS)、complement-mediated TMA | 待查 | PNH、aHUS |
+| Humanized mAb against complement C5（eculizumab結構改造，延長半衰期） | Ravulizumab | 妥立瑞（又譯優力適） | **Ultomiris conc for soln for infu 100 mg/mL** | Alexion (AstraZeneca) | <details><summary>用量</summary>依體重loading後改Q8W維持（≥40kg者，如60–100kg: loading 2700mg, maintain 3300mg Q8W）；<20kg者改Q4W</details> | IV | 同eculizumab：**黑框警語：Neisseria meningitidis侵襲性感染**（需疫苗接種） | 唯一Q8W維持劑量（間隔為eculizumab的4倍），大幅減少輸注次數；台灣健保給付PNH、aHUS | 待查 | PNH、aHUS |
+| Oral small molecule, selective C5aR1 (CD88) antagonist（僅阻斷C5a-receptor訊號，不影響MAC） | Avacopan | 阿伐可泮（暫譯） | **Tavneos cap 10 mg** | ChemoCentryx/Amgen | <details><summary>用量</summary>30mg PO BID</details> | PO | **肝毒性**（2026年FDA安全性警訊：嚴重藥物性肝損傷，含vanishing bile duct syndrome致死病例）；感染風險；頭痛、噁心 | 唯一口服C5aR1 antagonist；ADVOCATE試驗證實可大幅減少glucocorticoid累積劑量（steroid-sparing）；**台灣未核准上市、無合法輸入紀錄**；**2026年重大安全性爭議中（詳見補充）** | （台灣未上市） | AAV（GPA/MPA，佐劑併用glucocorticoid）— 台灣尚未核准 |
+
+**藥物補充說明**：
+
+- **Eculizumab**：黑框警語源於**終端補體（MAC）阻斷會削弱對encapsulated bacteria（尤其Neisseria meningitidis）的殺菌能力**，用藥前必須完成腦膜炎球菌疫苗接種（若情況緊急需提前用藥，須併用抗生素預防至疫苗產生保護力），並可能需接種肺炎鏈球菌、Hib疫苗。停藥後溶血/TMA可能反彈（rebound），需密切監測。風濕科相關：CAPS、SLE相關TMA、免疫治療誘發TMA等complement-mediated TMA的off-label使用場景。
+- **Ravulizumab**：與eculizumab為同一標靶（C5），但透過pH依賴性FcRn結合位點工程改造，延長血中半衰期，使維持劑量可拉長至Q8W（eculizumab為Q2W），大幅降低病人輸注負擔；黑框警語、疫苗接種要求與eculizumab相同。
+- **Avacopan（2026年重大安全性事件，考試/臨床皆需留意）**：日本自2022年6月核准上市後，累計8,503名AAV病人使用中通報**20例死亡**，多與**vanishing bile duct syndrome（膽管消失症候群）**相關之嚴重肝損傷有關，日本原廠Kissei已暫停新病人處方；美國FDA於2026年3月發布藥物安全性警訊（累計76例嚴重藥物性肝損傷通報），並於**2026年1月要求Amgen自願下市**，Amgen拒絕，FDA遂於**2026年4月正式提出撤照程序**（主張原始藥證申請含不實重大事實陳述），EMA審查亦同步進行中，目前藥物尚未正式下市。台灣食藥署已公開聲明**台灣未核准Avacopan、無合法輸入紀錄**，臨床上不會遇到經合法管道使用此藥的病人；仍應認識其機轉（AAV中singularly阻斷C5aR1、不影響MAC）與ADVOCATE試驗的steroid-sparing意義，但需同步認知其目前的肝毒性安全性爭議。
+
+---
+
+## 10. csDMARDs / 免疫抑制劑
 
 > **機轉**：
 >
