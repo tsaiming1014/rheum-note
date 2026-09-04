@@ -146,3 +146,42 @@ Kelly 原文：乾癬皮膚以**表皮增生、真皮乳突層單核球、角質
 - 嚴重乾癬（PASI >20）
 - Nail、scalp、inverse psoriasis
 - 肥胖、uveitis
+
+---
+
+### 七、PsO → PsA 篩檢工具（皮膚科轉介評估）
+
+臨床上皮膚科診間評估 PsO 病人是否已發展出 PsA、需不需要轉介風濕科，常用以下三種自填問卷：
+
+#### 1. PEST（Psoriasis Epidemiology Screening Tool）
+
+- 最簡短、臨床最常用，共 5 題（是/否）：
+  1. 有沒有關節腫脹過？
+  2. 醫師有沒有跟你說過你有關節炎？
+  3. 指甲有沒有出現凹陷或脫落（nail pitting）？
+  4. 腳跟有沒有痛過（enthesitis）？
+  5. 有沒有整根手指/腳趾腫得像香腸（dactylitis）？
+- **Cutoff：≥3 分（陽性）→ 建議轉介風濕科評估**
+- 特異度較高，敏感度中等，設計給皮膚科醫師快速使用
+
+#### 2. PASE（Psoriatic Arthritis Screening and Evaluation）
+
+- 患者自填問卷，共 **15 題**，分兩大類：症狀（symptoms）與功能／日常生活影響（function）
+- 用 Likert scale 計分，較 PEST 詳細、費時
+- 敏感度較高但特異度較低（偽陽性較多）
+
+#### 3. ToPAS（Toronto Psoriatic Arthritis Screen，及改版 ToPAS II）
+
+- 含**圖示**（關節腫脹部位圖、指甲病灶圖、背痛部位圖），視覺化程度最高
+- ToPAS II 改善了原版敏感度不足的問題
+- 多用於研究情境，臨床使用率不如 PEST 普及
+
+#### 比較
+
+| 工具 | 題數 | 特色 | 臨床使用度 |
+|---|---|---|---|
+| PEST | 5題 | 最簡短、cutoff ≥3分 | 最常用 |
+| PASE | 15題 | 含症狀+功能兩面向 | 中等 |
+| ToPAS(II) | 較多、含圖示 | 視覺化評估 | 較少（偏研究用） |
+
+> 💡 這些工具敏感度都不算頂尖，即使問卷陰性，只要臨床懷疑（如頑固型甲床病灶、不明原因下背痛），仍應轉介風濕科（GRAPPA 建議）。
