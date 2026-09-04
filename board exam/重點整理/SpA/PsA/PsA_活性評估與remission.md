@@ -38,6 +38,10 @@
 | **NAPSI** | Nail Psoriasis Severity Index | 每片指甲分 4 象限，評**甲床**（onycholysis、油滴、甲下角化）與**甲基質**（pitting、白甲、脆裂）病變 |
 | **mNAPSI** | modified NAPSI | 簡化版，臨床/試驗較常用 |
 
+![NAPSI 評分示意圖](../../images/NAPSI.png)
+
+> 圖：NAPSI 將每片指甲劃分為 4 象限，分別評估甲基質病變（pitting、白甲、紅斑點、脆裂）與甲床病變（onycholysis、油滴徵、甲下角化、出血點），每象限有病變即計 1 分。
+
 ### 頭皮
 
 | 工具 | 全名 | 重點 |
