@@ -37,10 +37,24 @@
   - **Sulfasalazine/MTX/cyclosporine 為第一線**，**leflunomide 為第二線**——第一線無效需先用 leflunomide 治療3個月無效，才可申請 TNFi 或 secukinumab/ixekizumab/tofacitinib/upadacitinib/brodalumab/bimekizumab 作為**第三線**治療
 - **Ustekinumab/guselkumab/risankizumab** 限**曾用過 TNFi、secukinumab、ixekizumab、tofacitinib、upadacitinib、brodalumab、bimekizumab 無效或無法耐受**者使用（第二線用藥邏輯），申請時需附前述藥物之 PsARC 評估結果及 HBsAg/Anti-HCV 資料
 
-### 療效評估與續用（詳見前則 PsARC 說明）
+### 療效評估與續用：PsARC（Psoriatic Arthritis Response Criteria）
+
+**PsARC 是 PsA 治療反應的複合指標**，1990年代由 Clegg 等人於 sulfasalazine 臨床試驗中提出，現為台灣健保 PsA 生物製劑續用療效評估標準。**只評估周邊關節+整體評估，不含皮膚、附著點炎、指炎**，是比較單純的複合指標（對照 DAPSA、PASDAS 等 domain-based 指標）。
+
+**四個組成項目**：
+
+| # | 項目 | 改善定義 | 惡化定義 |
+|---|---|---|---|
+| 1 | 疼痛關節總數（TJC）| 減少 **≥30%** | 增加 ≥30% |
+| 2 | 腫脹關節總數（SJC）| 減少 **≥30%** | 增加 ≥30% |
+| 3 | 醫師整體評估（0–5分）| 減少 **≥1分** | 增加 ≥1分 |
+| 4 | 病患整體評估（0–5分）| 減少 **≥1分** | 增加 ≥1分 |
+
+**判定為「有反應」的條件**：四項中**至少2項改善**，且其中**一項須為關節數**（不能只靠兩項整體評估過關），其餘項目**不得有任一項惡化**。
+
+**評估時程**：
 
 - **首次評估**：12週（ustekinumab/guselkumab/risankizumab 為 **24週**）
-- **PsARC**：四項（TJC、SJC、醫師整體評估、病患整體評估）中≥2項改善（其一須為關節數），且無任一項惡化
 - **續用評估頻率**：每12週（guselkumab每16週、risankizumab每24週）
 
 ### 排除使用情形
