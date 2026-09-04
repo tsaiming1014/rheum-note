@@ -176,7 +176,7 @@
 
 ## 8. Others
 
-> **機轉**：此類機轉異質性高。**Abatacept**是CTLA4-Ig融合蛋白，阻斷CD28與CD80/86的T細胞共同刺激訊號。**Anifrolumab**阻斷IFNAR1，抑制type I IFN訊號。**IVIG**機轉多重（Fc受體飽和、抗獨特型抗體中和等）。新增兩個機轉：**Nipocalimab**阻斷**FcRn**（neonatal Fc receptor），加速致病性IgG自體抗體的分解代謝——不是B cell療法，而是直接降低循環IgG濃度（不論其來源）。**Dazodalibep**是非抗體之融合蛋白，阻斷**CD40L（CD154）-CD40**這條T-B共同刺激軸，概念上與Abatacept類似（都是切斷T-B co-stimulation），但標靶的是不同軸線（CD40-CD40L，而非CD28-CD80/86）。
+> **機轉**：此類機轉異質性高。**Abatacept**是CTLA4-Ig融合蛋白，阻斷CD28與CD80/86的T細胞共同刺激訊號。**Anifrolumab**阻斷IFNAR1，抑制type I IFN訊號。**IVIG**機轉多重（Fc受體飽和、抗獨特型抗體中和等）。新增兩個機轉：**Nipocalimab**阻斷**FcRn**（neonatal Fc receptor），加速致病性IgG自體抗體的分解代謝——不是B cell療法，而是直接降低循環IgG濃度（不論其來源）。**Dazodalibep**是非抗體之融合蛋白，阻斷**CD40L（CD154）-CD40**這條T-B共同刺激軸，概念上與Abatacept類似（都是切斷T-B co-stimulation），但標靶的是不同軸線（CD40-CD40L，而非CD28-CD80/86）。**Spesolimab**阻斷**IL-36 receptor（IL-36R）**，抑制IL-36α/β/γ訊號，是唯一針對GPP（全身型急性膿疱性乾癬）急性發作核准的單株抗體。
 
 | Group | 學名 | 中文名 | 商品名 | 藥商 | 用量 | 途徑 | 副作用 | 特色 | 藥價(售價) | Indication |
 |---|---|---|---|---|---|---|---|---|---|---|
