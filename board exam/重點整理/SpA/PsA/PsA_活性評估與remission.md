@@ -89,7 +89,7 @@
 
 > 比較研究（TNFi 治療資料）：**PASDAS 與 GRACE** 在區分「治療 vs 安慰劑」效果上**優於** CPDAI、DAPSA、DAS28。
 >
-> 另有舊版反應標準 **PsARC**（Psoriatic Arthritis Response Criteria），早期試驗常用。
+> 另有舊版反應標準 [**PsARC**（Psoriatic Arthritis Response Criteria）](PsA_PsO_健保生物製劑申請.md)，早期試驗常用，也是台灣健保生物製劑續用療效評估標準。
 
 ### DAPSA 分級（臨床常用，數字需熟記）
 
