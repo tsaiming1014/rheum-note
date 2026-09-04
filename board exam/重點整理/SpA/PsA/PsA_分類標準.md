@@ -43,13 +43,17 @@
 
 ## 三、PsA 臨床亞型（Moll & Wright 1973，5 型）
 
-最常被引用的分型（但關節侵犯型態**會隨時間改變、非固定**）：
+最常被引用的分型（但關節侵犯型態**會隨時間改變、非固定**，同一病人可能從一型演變成另一型）：
 
-1. 不對稱**寡關節炎**（asymmetric oligoarthritis）
-2. 對稱**多關節炎**（symmetric polyarthritis，似 RA）
-3. 以 **DIP**（遠端指間關節）為主
-4. 以**脊椎關節炎**為主（predominant spondyloarthritis）
-5. **損毀型**關節炎（arthritis mutilans）
+| # | 型態 | 特徵 |
+|---|---|---|
+| 1 | 不對稱**寡關節炎**（asymmetric oligoarthritis）| 侵犯 <5 個關節，**不對稱**分布；大小關節皆可（膝、踝或手足小關節），常合併 dactylitis。原始文獻認為是最典型表現型 |
+| 2 | 對稱**多關節炎**（symmetric polyarthritis）| 侵犯 ≥5 個關節，**對稱**分布，臨床上常與 **RA 難以區分**（但 RF 多為陰性）|
+| 3 | 以 **DIP**（遠端指間關節）為主 | 以手指/腳趾**最遠端關節**為主要侵犯部位，常合併**同側指甲病變**——因 DIP 關節囊與甲床解剖上相連，enthesitis 波及甲基質 |
+| 4 | 以**脊椎關節炎**為主（predominant spondyloarthritis）| 以**薦髂關節炎 + 脊椎侵犯（syndesmophyte）**為主，可合併周邊關節炎，與 HLA-B27 相關；周邊關節炎嚴重度是脊椎侵犯的風險因子 |
+| 5 | **損毀型**關節炎（arthritis mutilans）| 最嚴重、**破壞性**型態，罕見。臨床：**手指縮短、telescoping finger（望遠鏡指，main en lorgnette）、flail joint**（非脫臼造成）；影像：關節兩側**全關節面侵蝕**、**pencil-in-cup**，**osteolysis 為定義性特徵**（GRAPPA 共識）|
+
+> Dactylitis（香腸指）不屬於這五型之一，但可合併出現於任一型，尤以 oligoarticular 型常見。
 
 ### CASPAR 世代的實際比例（≠ Moll & Wright 原始描述）
 
