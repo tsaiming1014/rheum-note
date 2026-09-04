@@ -185,6 +185,17 @@
 | Pooled IgG（多重機轉） | IVIG | 國血製劑益康　人類免疫球蛋白　靜脈注射劑　60毫克　50毫升 | **HM Immunoglobulin inj 60mg/ml 50ml** | | | IV | 頭痛、無菌性腦膜炎、血栓風險（尤其高劑量快速輸注） | 多重機轉（Fc受體飽和、抗獨特型抗體中和等），非單一標靶藥物 | 5940 | 多重（原發性免疫缺乏、ITP、Kawasaki disease、GBS、皮肌炎等，依適應症而異） |
 | Anti-FcRn mAb（加速致病性IgG分解代謝，非B cell標靶） | Nipocalimab | （台灣未上市） | Imaavy（nipocalimab-aahu） | Johnson & Johnson | <details><summary>用量</summary>30mg/kg IV loading，之後15mg/kg IV Q2W</details> | IV | 感染風險（因IgG整體濃度下降）；頭痛 | 直接加速致病性IgG清除、不論其抗原特異性，非B cell療法；**2025年FDA核准gMG**（AChR+或MuSK+抗體陽性，12歲以上）；風濕科適應症（Sjögren's、RA等）仍在研究中 | | gMG（2025 FDA核准）；風濕科適應症（Sjögren's、RA等）研究中 |
 | CD40L (CD154) antagonist fusion protein（非抗體，阻斷CD40-CD40L T-B co-stimulation） | Dazodalibep | （尚未核准上市） | HZN-1116（investigational） | Amgen | <details><summary>用量</summary>1500mg IV，Q2W×3劑後改Q4W×4劑（phase 2劑量，phase 3劑量待公布）</details> | IV | 資料仍有限（phase 2/3試驗中耐受性良好） | 唯一**非抗體**的CD40L融合蛋白抑制劑；機轉概念類似abatacept但標靶CD40-CD40L軸而非CD28-CD80/86；Sjögren's disease phase 3試驗進行中（HZNP-DAZ-301/303），phase 2已顯示改善疾病活性 | | 尚未核准（研究中：Sjögren's disease） |
+| Humanized mAb against IL-36 receptor（阻斷IL-36α/β/γ訊號） | Spesolimab | （中文名待查） | **Spevigo conc for soln for infu 450 mg/7.5 ml** | Boehringer Ingelheim | <details><summary>用量</summary>900mg IV single dose；若1週後急性發作症狀持續（GPPGA總分≥2且膿疱單項≥2），可再追加900mg IV</details> | IV | Infusion reaction；感染風險；asthenia/fatigue；搔癢；噁心 | 首個核准用於GPP急性發作之anti-IL-36R單株抗體；台灣健保限確診IL36RN突變者使用 | 待查 | 全身型急性膿疱性乾癬（GPP）急性發作 |
+
+**健保給付重點（Spesolimab，8.2.4.6.2，113/7/1）**：
+
+- 限**皮膚科專科醫師及風濕免疫科專科醫師**使用。
+- 需確診為**具有IL36RN突變**之全身型急性膿疱性乾癬，且符合以下所有條件：
+  - 中重度之GPP（GPPGA總分≥3且GPPGA膿疱項目分數≥2）。
+  - 伴有膿疱之紅腫部位侵犯體表面積>10%。
+- 需經**事前審查核准**後使用，申請時需檢附**所有病灶照片**及**IL36RN檢測報告**，以一次給予900毫克為原則。
+- 若初始劑量1週後急性發作症狀持續（GPPGA總分≥2且膿疱單項≥2），可再追加一劑900毫克。
+- 需符合全民健康保險藥品給付規定通則十二。
 
 ---
 
