@@ -31,6 +31,12 @@
 | **(s)PGA** | (static) Physician Global Assessment | 醫師整體分級 |
 | **DLQI** | Dermatology Life Quality Index | 皮膚相關**生活品質** |
 
+![PASI 分區與嚴重度評分](../../images/PASI%20image.png)
+
+![PASI 計算範例](../../images/PASI.jpg)
+
+> 圖：PASI 將全身分為頭頸（10%）、上肢（20%）、軀幹（30%）、下肢（40%）四區，各區依紅斑、厚度（浸潤）、脫屑三項各評 0–4 分相加，再乘以該區受侵犯面積等級（0–6）與區域權重，四區加總即為 PASI 總分（0–72）。
+
 ### 指甲
 
 | 工具 | 全名 | 重點 |
