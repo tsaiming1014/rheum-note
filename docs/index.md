@@ -127,6 +127,7 @@
 | 主題 | 連結 |
 |------|------|
 | Rheumatologic Emergency | [依器官系統分類整理](考試準備/Rheumatologic_Emergency.md) |
+| PsA | [口試歷年考題（2019–2025）](SpA/PsA/PsA口試歷年考題.md) |
 
 #### Rheumatologic Emergency — 依器官系統分類
 
