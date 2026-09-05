@@ -1,7 +1,6 @@
-﻿![SSc pathogenesis](../images/SSc%20pathogenesis.png)
+﻿# Systemic Sclerosis (SSc) 致病機轉完整筆記
 
-# Systemic Sclerosis (SSc) 致病機轉完整筆記
-
+![SSc pathogenesis](../images/SSc%20pathogenesis.png)
 ---
 
 ## 核心概念：三大病理過程
