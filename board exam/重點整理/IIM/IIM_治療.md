@@ -1,4 +1,4 @@
-# IIM 治療總整理
+# IIM 治療
 
 > 資料來源：Kelly's Textbook of Rheumatology Ch.86（原始骨幹內容）；**2022 BSR guideline**（Oldroyd et al., Rheumatology 2022;61:1760–1768，British Society for Rheumatology guideline on management of paediatric, adolescent and adult patients with IIM）之建議標示 **(2022 BSR)**，格式為（推薦強度 1=強/2=條件性, 證據等級 A–D, 共識度 SoA%）。分類標準、MSA/MAA 抗體詳見 [IIM_分類標準.md](IIM_分類標準.md)；診斷檢查詳見 [IIM_診斷工具.md](IIM_診斷工具.md)；活性與療效評估量表詳見 [IIM_疾病活性與療效評估.md](IIM_疾病活性與療效評估.md)。
 >
