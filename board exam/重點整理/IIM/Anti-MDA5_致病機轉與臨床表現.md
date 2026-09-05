@@ -13,7 +13,71 @@ MDA5（melanoma differentiation-associated protein 5，又稱 IFIH1）不是抗�
 
 在 anti-MDA5 疾病中，這個感應器蛋白自己變成了自體抗原。
 
-## 2. 致病機轉的三個環節
+## 2. 臨床表現總覽（依系統分類）
+
+### 皮膚
+
+- **Clinically amyopathic dermatomyositis (CADM) / hypomyopathic DM** 為典型表現型——皮膚病灶常比肌肉症狀更早出現、更顯著
+- **Palmar papules（掌側丘疹）/ inverse Gottron's papules**（好發於掌側，與典型 Gottron's papules 好發於 MCP/PIP 背側相反，是 MDA5 較特異的皮膚表現），常合併 **sleeve sign**（前臂伸側線狀紅斑，因常穿長袖遮蓋而得名）
+
+  ![MDA5 Sleeve Sign and Inverse Gottron's Papules](../images/MDA5%20Sleeve%20Sign%20and%20Inverse%20Gottron’s%20Papules.jpg)
+
+- **皮膚潰瘍（cutaneous ulceration）**：好發於肘、指關節伸側、Gottron's papules 處，可深至壞死
+- **指端缺血/梗塞（digital ischemia/infarct）**、甲周紅斑（periungual erythema）、微血管出血
+- Mechanic's hands（雖較典型見於 anti-synthetase syndrome，MDA5 亦可出現）
+- 口腔潰瘍（oral ulcers，尤其硬顎）
+- Panniculitis（脂膜炎）
+- 瀰漫性掉髮（diffuse alopecia）
+- 典型 DM 皮疹（heliotrope rash、Gottron's papules）也可出現，但常不如上述特殊表現典型
+
+### 肺部（最致命的器官侵犯）
+
+- **Rapidly progressive ILD (RP-ILD)**：數週內快速惡化，是 anti-MDA5 DM 最主要死因，尤其東亞族群（日、中、韓）發生率與死亡率皆高
+- 並非所有陽性病人都會進展成 RP-ILD，也可表現為慢性/亞急性 ILD，甚至肺部完全正常（見 2024 免專筆試第 44 題病例：anti-MDA5+++ 但病程兩年、HRCT 與肺功能皆正常）
+- Pneumomediastinum（縱膈氣腫）：少見但已有病例報告，常與嚴重皮膚潰瘍/肺實質破壞相關
+- 影像/生理：HRCT 可呈現 organizing pneumonia (OP)、nonspecific interstitial pneumonia (NSIP) 或 diffuse alveolar damage (DAD) 型態；肺功能為 restrictive pattern，DLCO 顯著下降
+
+### 肌肉
+
+- 特徵是肌肉症狀輕微或缺席（amyopathic/hypomyopathic），與 anti-Jo-1、anti-SRP 等常伴隨明顯無力的 MSA 不同
+- CK 常正常或僅輕微上升——**不可因 CK 正常/肌肉症狀輕微而排除診斷**
+
+### 關節
+
+- 對稱性小關節關節炎/關節痛，可類似 RA 表現，尤其合併 anti-Ro52 時
+
+### 其他全身性表現
+
+- 發燒、體重減輕
+
+### 實驗室特徵
+
+- **Ferritin 顯著上升**：與疾病嚴重度、RP-ILD 發生及死亡率高度相關，是最重要的 biomarker，可用於監測治療反應
+- 淋巴球低下（lymphopenia）：與預後不良相關
+- KL-6、SP-D 上升：反映肺泡上皮損傷程度，可輔助監測 ILD 病程
+- CRP/ESR、LDH 可上升
+- CK 常正常/輕微上升（與典型 IIM 不同，是重要鑑別點）
+- ANA：因 MDA5 為細胞質抗原，常規 IIF ANA 可能陰性或僅呈現 cytoplasmic pattern，需靠 myositis-specific antibody panel（line blot/ELISA）才能驗出 anti-MDA5
+
+### 預後不良預測因子（RP-ILD 死亡率相關）
+
+- Ferritin 顯著升高（尤其 >1600 ng/mL）
+- 低淋巴球數
+- 診斷時低 SpO2 / 高 A-a gradient
+- LDH 顯著升高
+- 東亞人種
+- 皮膚潰瘍/panniculitis 嚴重程度
+
+### 好發族群
+
+- 東亞人（日本、中國、韓國）發生率與 RP-ILD 比例明顯高於西方族群
+- 女性略多見（與多數 DM 相同）
+
+> 危險因子與最新治療證據詳見 [IIM-ILD_口試.md](IIM-ILD_口試.md)；與其他 MSA 的分類對照詳見 [IIM_分類標準.md](IIM_分類標準.md)。
+
+---
+
+## 3. 致病機轉的三個環節
 
 ### 2-1. 病毒觸發、感應器過度活化
 
