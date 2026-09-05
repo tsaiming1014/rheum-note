@@ -79,7 +79,7 @@ MDA5（melanoma differentiation-associated protein 5，又稱 IFIH1）不是抗�
 
 ## 3. 致病機轉的三個環節
 
-### 2-1. 病毒觸發、感應器過度活化
+### 3-1. 病毒觸發、感應器過度活化
 
 腸病毒、流感等呼吸道/腸胃道病毒感染被認為是誘發因子；COVID-19 感染與（少數案例）疫苗接種後也有 anti-MDA5 myositis 的報告，機轉推測與 ACE2 受體媒介病毒進入肌肉細胞、誘發先天與後天免疫活化有關。病毒感染活化 MDA5-MAVS-IRF3/7 路徑，造成局部與全身**持續性 type I IFN 大量產生**，形成類似 interferonopathy 的狀態——這與 SLE 的「IFN signature」是同一類分子現象，只是誘發源與標的器官不同。
 
