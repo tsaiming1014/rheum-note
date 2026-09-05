@@ -83,11 +83,11 @@ MDA5（melanoma differentiation-associated protein 5，又稱 IFIH1）不是抗�
 
 腸病毒、流感等呼吸道/腸胃道病毒感染被認為是誘發因子；COVID-19 感染與（少數案例）疫苗接種後也有 anti-MDA5 myositis 的報告，機轉推測與 ACE2 受體媒介病毒進入肌肉細胞、誘發先天與後天免疫活化有關。病毒感染活化 MDA5-MAVS-IRF3/7 路徑，造成局部與全身**持續性 type I IFN 大量產生**，形成類似 interferonopathy 的狀態——這與 SLE 的「IFN signature」是同一類分子現象，只是誘發源與標的器官不同。
 
-### 2-2. 自體抗原暴露、打破耐受性
+### 3-2. 自體抗原暴露、打破耐受性
 
 病毒感染或組織損傷修復過程中，皮膚、肌肉、肺泡上皮細胞可能**過度表現 MDA5 蛋白**，提供大量自身抗原給免疫系統辨識，進而產生 anti-MDA5 自體抗體。這個「受損/再生組織過度表現目標抗原 → 打破耐受 → 產生特異性自體抗體」的模式，與 anti-Mi-2（UV 誘導再生肌肉表現）、anti-TIF1-γ（腫瘤/再生肌肉交叉反應）遵循類似的典範，是肌肉炎自體抗體致病機轉的共同主軸（見 [IIM_Myositis致病機轉完整解析.md](IIM_Myositis致病機轉完整解析.md) 第四節各 MSA 比較表）。
 
-### 2-3. 持續 type I IFN 驅動血管病變（而非典型肌肉發炎）
+### 3-3. 持續 type I IFN 驅動血管病變（而非典型肌肉發炎）
 
 與其他 myositis-specific antibody 不同，anti-MDA5 疾病的核心病理不是 T 細胞浸潤破壞肌纖維，而是**廣泛的血管內皮損傷（vasculopathy）**，這解釋了它獨特的臨床表現：
 
