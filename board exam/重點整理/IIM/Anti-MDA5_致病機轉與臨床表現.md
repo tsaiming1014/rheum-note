@@ -98,7 +98,7 @@ MDA5（melanoma differentiation-associated protein 5，又稱 IFIH1）不是抗�
 | **Rapidly progressive ILD (RP-ILD)** | 肺泡上皮/血管的 IFN 驅動損傷，病理常見 diffuse alveolar damage (DAD)；亞洲族群發生率與死亡率特別高，是 anti-MDA5 最致命的表現 |
 | **高 ferritin** | 反映巨噬細胞活化，是預後不良（尤其預測 RP-ILD）的重要指標 |
 
-## 3. 與 SLE type I IFN pathway 的對照
+## 4. 與 SLE type I IFN pathway 的對照
 
 | | SLE | Anti-MDA5 疾病 |
 |---|---|---|
@@ -107,7 +107,7 @@ MDA5（melanoma differentiation-associated protein 5，又稱 IFIH1）不是抗�
 | 標的器官 | 腎臟、皮膚、關節、血液系統 | 肺（RP-ILD）、皮膚（血管病變）、肌肉（常較輕微） |
 | 共同主軸 | 持續 type I IFN production → 全身/局部 IFN signature → 免疫放大迴路 | 同左，但收斂在血管內皮損傷而非免疫複合體腎炎 |
 
-## 4. 治療意義
+## 5. 治療意義
 
 正因機轉核心是 type I IFN 下游訊號放大，**JAK inhibitor（如 tofacitinib）**已被用於治療 anti-MDA5 associated RP-ILD，機轉是阻斷 IFNAR 下游 JAK-STAT 訊號傳遞——與 SLE 使用 anifrolumab（直接阻斷 IFNAR1）的邏輯是同一個「type I IFN 軸」的不同下游阻斷點。
 
