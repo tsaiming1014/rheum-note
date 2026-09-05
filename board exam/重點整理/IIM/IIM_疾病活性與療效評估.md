@@ -1,4 +1,4 @@
-# IIM 疾病活性與療效評估量表
+# IIM 疾病活性評估
 
 > IMACS core set、MMT-8、MDAAT，以及 2016 ACR/EULAR 療效標準（TIS）
 
