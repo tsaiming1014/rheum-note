@@ -210,6 +210,8 @@
 | | SAE | 典型皮疹、吞嚥困難 |
 | **ASS / anti-ARS** | Jo-1（最常見）、PL-7、PL-12、EJ、OJ（另 KS、Ha、Zo） | ILD（最常見）+ 肌炎 + 關節炎、mechanic's hands、Raynaud、發燒 |
 | **IMNM（2）** | SRP、HMGCR | 嚴重近端無力、CK 極高、壞死性切片 |
+| **IBM / 其他 MSA（2）** | cN1A | Inclusion body myositis（約 1/3 IBM 陽性） |
+| | FHL1 | Severe myopathy（可達 20% IIM 陽性，亦見於 SSc；無商業化檢測） |
 | **MAA 肌炎相關（3）** | Ku、PM-Scl、Ro-52 | Overlap（SSc/SLE）；Ro-52 與 ILD 及 ASS 強相關 |
 
 ---
