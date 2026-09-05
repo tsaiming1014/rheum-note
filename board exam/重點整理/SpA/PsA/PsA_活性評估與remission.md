@@ -1,4 +1,4 @@
-# PsA 活性評估與 Remission 定義（Kelly Ch78）
+# PsA 活性評估與 Remission 定義
 
 > 來源：Kelly's Textbook of Rheumatology Ch78 — Psoriatic Arthritis。
 > 性質：各 domain 評分、複合指標、治療目標（MDA/VLDA）、remission 現況。

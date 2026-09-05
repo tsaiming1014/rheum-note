@@ -1,4 +1,4 @@
-# PsA 分類標準與診斷（Kelly Ch78）
+# PsA 分類標準與診斷
 
 > 來源：Kelly's Textbook of Rheumatology Ch78 — Psoriatic Arthritis；CASPAR 表見 Ch75 Table 75.4。
 > 性質：分類標準、亞型分類、鑑別診斷重點。

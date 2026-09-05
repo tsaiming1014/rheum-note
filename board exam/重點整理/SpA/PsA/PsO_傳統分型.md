@@ -1,4 +1,4 @@
-# PsO — 乾癬皮膚病：傳統臨床分型
+# PsO分型
 
 > 來源：Kelly's Textbook of Rheumatology Ch78。
 > 性質：PsO（皮膚乾癬，非關節炎）依外觀/分布型態之傳統臨床分型。

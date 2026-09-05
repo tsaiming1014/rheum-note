@@ -1,4 +1,4 @@
-# 軸向 PsA（AxPsA）vs 軸向 SpA（AxSpA）鑑別
+# axPsA vs. axSpA
 
 > 來源：Kelly Ch78 Psoriatic Arthritis；Willesen ST, et al. *Different types of spinal new bone formation in axSpA, PsA, RA and healthy controls: a low-dose CT study.* **RMD Open 2026;12:e006416**。
 > 主題：兩者的概念爭議、臨床/遺傳/影像鑑別，特別是 syndesmophyte 型態。

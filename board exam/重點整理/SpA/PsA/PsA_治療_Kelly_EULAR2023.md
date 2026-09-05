@@ -1,4 +1,4 @@
-# PsA 治療總整理（Kelly base + 2023 EULAR）
+# PsA 治療
 
 > 基礎架構取自 Kelly（Ch78），凡 EULAR 2023 與 Kelly 不同、或額外強調之處，以 **(2023 EULAR)** 標示。
 
