@@ -1,4 +1,4 @@
-# IIM 分類標準完整整理
+# IIM 分類標準
 
 > 特發性發炎性肌病變（Idiopathic Inflammatory Myopathies, IIM）的分類標準演進與各次型診斷準則
 
