@@ -14,6 +14,8 @@
 
 ## 一、mRSS（modified Rodnan Skin Score）
 
+![mRSS](../images/mRSS.jpg)
+
 ### 評估方法
 
 - 醫師以**手指捏皮（pinch）**評估皮膚厚度。
