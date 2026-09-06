@@ -32,6 +32,13 @@ SSc 在風專口試中固定為一個獨立考站，常與 IIM 合併同站（�
    - 細胞質（interphase cell 和 metaphase cell 都有）呈現弱螢光染色，從核週區域向細胞膜延伸的細緻網絡（將血清稀釋至更高倍數，可以觀察到相對顯著的細胞質染色）。
    - Interphase cell 呈現多樣性的核仁染色型態，如點狀核仁型或核仁週邊型染色。核仁染色並不是這種型態普遍的特徵，不同廠牌試劑會呈現不同的核仁染色型態，如 Inova Diagnostic HEP-2 細胞核仁染色僅在核仁週邊，MBL 和 Euroimmun HEP-2 細胞核仁染色為細緻斑點型態。
 
+3. 肺功能 + DLCO 嚴重程度判讀
+
+   - **Restrictive pattern 判斷**：FEV1/FVC ratio 正常或上升（>70%，甚至可接近或超過 100%，因 FVC 下降比 FEV1 更多）——與 obstructive pattern（FEV1/FVC 下降）的主要鑑別點；FVC <80% predicted 先提示可能有 restriction，但**確診需 TLC（Total Lung Capacity）<80% predicted**（body plethysmography 或 DLCO 測試同時取得的 lung volume），單靠 spirometry 只能說「suggest restriction」
+   - **Restriction 嚴重度分級**（ATS/ERS 標準，依 FVC 或 TLC % predicted）：Mild 70–79%、Moderate 60–69%、Moderately severe 50–59%、Severe 35–49%、Very severe <35%
+   - **DLCO 嚴重度分級**：正常 ≥80%、Mild ↓ 60–79%、Moderate ↓ 40–59%、Severe ↓ <40%
+   - **判讀重點**：DLCO 需先校正 hemoglobin（貧血會使 DLCO 假性偏低）；若 **FVC%/DLCO% ratio > 1.6–1.8**（DLCO 下降幅度不成比例地大於 FVC）需提高警覺懷疑合併 **PAH**，而非單純 ILD 造成的限制性通氣障礙（此比值也是 DETECT algorithm 篩檢 PAH 的組成之一，見 [SSc_分類標準.md](SSc_分類標準.md) 「六、Initial Work-up」）
+
 4. HRCT 判讀（NSIP，為何不是 UIP）：
    - NSIP：ground glass opacity 為主，subpleural sparing，lower lobe predominance
    - UIP：honeycombing、traction bronchiectasis、lower lobe predominance、peripleural
