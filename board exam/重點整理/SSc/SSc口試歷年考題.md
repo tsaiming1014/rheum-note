@@ -127,7 +127,7 @@ SSc 在風專口試中固定為一個獨立考站，常與 IIM 合併同站（�
 
 ### 2024（第七站 Part 1：黃文男、陳宏安）
 
-情境帶入到 ANA 判讀（AC-29），對應到什麼抗體（Anti-Scl-70），可能的診斷（Systemic sclerosis），要安排什麼檢查（capillary microscope、肺功能、HRCT、heart sono），甲褶鏡/HRCT/肺功能檢查的判讀，該如何治療（尤其針對 ILD），anti-fibrotic agents 的使用時機跟健保條件。
+情境帶入到 ANA 判讀（AC-29），對應到什麼抗體（Anti-Scl-70），可能的診斷（Systemic sclerosis），要安排什麼檢查（capillary microscope、肺功能、HRCT、heart sono），甲褶鏡/HRCT/肺功能檢查的判讀，該如何治療（尤其針對 ILD），anti-fibrotic agents 的使用時機跟健保條件（完整條文與 SSc-ILD／PF-ILD 兩條給付路徑比較，見 [SSc_Nintedanib健保給付條件.md](SSc_Nintedanib健保給付條件.md)）。
 
 （Part 2 為同站 IIM 情境題，詳見 [IIM口試歷年考題.md](../IIM/IIM口試歷年考題.md)。）
 
