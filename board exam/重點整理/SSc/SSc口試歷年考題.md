@@ -33,10 +33,10 @@ SSc 在風專口試中固定為一個獨立考站，常與 IIM 合併同站（�
 
 **其他考站提及 SSc（非獨立考站，作為 DDx / 延伸提問出現）**
 
-- 口試 6（Hand & Feet，陳信華醫師）：**Prayer's test** 可評估的鑑別診斷？→ **SSc（硬皮症）** 造成 Stiff hand（皮膚硬化限制關節活動），對照 DM 造成的 Diabetic stiff hand syndrome
+- 口試 6（Hand & Feet，陳信華醫師）：**Prayer's test 陽性時的鑑別診斷有哪些？**→ **SSc（硬皮症）** 造成的 Stiff hand（皮膚硬化限制關節活動）、**DM** 造成的 Diabetic cheiroarthropathy（Diabetic stiff hand syndrome）
   - **操作方式**：請病人雙手掌心相對、手指伸直併攏，做出「祈禱」的合掌姿勢，手腕維持中立位，讓雙側手掌與手指掌面盡量完全貼合
-  - **判讀**：陽性（異常）= 兩手掌/手指掌面無法完全密合、中間留有縫隙（尤其 PIP、MCP 關節處），代表關節活動度受限或屈曲攣縮
-  - **鑑別**：SSc 常合併 Raynaud's、telangiectasia、calcinosis、甲摺鏡異常；Diabetic cheiroarthropathy（糖尿病手/limited joint mobility syndrome）則有長期血糖控制不良病史，關節通常不痛不腫，可合併其他微血管併發症（視網膜/腎病變）
+  - **判讀**：陽性（異常）= 兩手掌/手指掌面無法完全密合、中間留有縫隙（尤其 PIP、MCP 關節處），代表關節活動度受限或屈曲攣縮——**此徵象本身無鑑別力**，SSc 與糖尿病手皆可呈陽性，僅能作為「有無關節活動度受限」的篩檢，病因需靠測試以外的資訊判斷
+  - **鑑別要點**（測試以外）：SSc 常合併 Raynaud's phenomenon、telangiectasia、calcinosis、digital pitting scar，甲摺鏡有特徵性微血管異常（giant capillary、avascular area），可有 ANA/Scl-70/ACA 陽性；Diabetic cheiroarthropathy 則皮膚為瀰漫性蠟樣增厚（較侷限手背）、無 Raynaud's、甲摺鏡正常、有長期血糖控制不良病史，常合併其他微血管併發症（視網膜/腎病變）
 - 口試 14（Sonography, MRI, and CT，陳瑋昇醫師）：除了關節炎，哪些時候會考慮做超音波？（肌腱病變、乾燥症腮腺、**SSc 血管評估**）
 
 ---
