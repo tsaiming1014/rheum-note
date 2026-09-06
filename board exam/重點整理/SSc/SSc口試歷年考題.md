@@ -82,7 +82,7 @@ SSc 在風專口試中固定為一個獨立考站，常與 IIM 合併同站（�
 
 ### 2021（Systemic Sclerosis 站，緊接 Inflammatory Myositis）
 
-- Initial work-up（各種 internal organ involvement 評估）
+- **Initial work-up**（各種 internal organ involvement 評估）：詳見 [SSc_分類標準.md](SSc_分類標準.md) 「六、Initial Work-up」章節（皮膚/血管、肺 ILD+PAH、腎 SRC、腸胃、肌肉骨骼、抗體全套）
 - 各種抗體不同特色（見 2020、2022 抗體表格）
 - 如何治療
 
