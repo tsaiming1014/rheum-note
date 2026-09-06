@@ -15,10 +15,16 @@ SSc 在風專口試中固定為一個獨立考站，常與 IIM 合併同站（�
 **黃文男醫師**（情境：硬皮症 + 走路會喘）
 
 1. ANA 判讀（fine speckled + nucleolar）→ **Anti-Scl70（anti-topoisomerase I）**
+2. 甲摺鏡判讀（見 2020 口試第 9 站）
+3. 肺功能 + DLCO 嚴重程度判讀（restrictive + decreased DLCO）
+4. HRCT 判讀（**NSIP**，為何不是 UIP）
+5. 後續如何治療（MMF 首選、CYC、RTX）
+
+**解答**
+
+1. ANA 判讀 → **ICAP AC-29：第一型 DNA 拓樸異構酶樣（Topo I-like）**
 
    ![AC-29](../images/AC29.png)
-
-   **ICAP AC-29：第一型 DNA 拓樸異構酶樣（Topo I-like）**
 
    - Interphase cell 核有顯著的細緻斑點 AC-4 型染色。
    - Metaphase cell 濃縮染色質有較強的細緻斑點染色，也可能呈現均質染色。
@@ -26,12 +32,9 @@ SSc 在風專口試中固定為一個獨立考站，常與 IIM 合併同站（�
    - 細胞質（interphase cell 和 metaphase cell 都有）呈現弱螢光染色，從核週區域向細胞膜延伸的細緻網絡（將血清稀釋至更高倍數，可以觀察到相對顯著的細胞質染色）。
    - Interphase cell 呈現多樣性的核仁染色型態，如點狀核仁型或核仁週邊型染色。核仁染色並不是這種型態普遍的特徵，不同廠牌試劑會呈現不同的核仁染色型態，如 Inova Diagnostic HEP-2 細胞核仁染色僅在核仁週邊，MBL 和 Euroimmun HEP-2 細胞核仁染色為細緻斑點型態。
 
-2. 甲摺鏡判讀（見 2020 口試第 9 站）
-3. 肺功能 + DLCO 嚴重程度判讀（restrictive + decreased DLCO）
-4. HRCT 判讀（**NSIP**，為何不是 UIP）：
+4. HRCT 判讀（NSIP，為何不是 UIP）：
    - NSIP：ground glass opacity 為主，subpleural sparing，lower lobe predominance
    - UIP：honeycombing、traction bronchiectasis、lower lobe predominance、peripleural
-5. 後續如何治療（MMF 首選、CYC、RTX）
 
 **蔡醫師**
 
