@@ -91,8 +91,27 @@
 
 ---
 
-## 六、一句話總整理
+## 六、Initial Work-up（分類確立後的內臟器官受累評估）
+
+診斷/分類確立後，依器官系統安排 baseline 評估，作為後續監測活性與嚴重度的基準：
+
+| 系統 | 評估項目 |
+|------|----------|
+| **皮膚／血管** | **mRSS**（皮膚厚度分級）；**甲褶微血管鏡**（分期 early/active/late）；Raynaud 嚴重度、有無 digital ulcer／pitting scar／gangrene |
+| **肺（ILD）** | **PFT**（FVC、DLCO）；**HRCT** baseline（判斷 NSIP vs UIP、纖維化範圍）；6-minute walk test（追蹤用） |
+| **心臟／PAH** | **Echocardiogram**（estimated systolic PAP、右心大小功能）；**NT-proBNP**；**DLCO/FVC ratio**（不成比例下降需警覺 PAH）；上述組合為 **DETECT algorithm**，異常者轉介 **右心導管（RHC）** 確診；ECG；懷疑心肌炎可加 cardiac MRI |
+| **腎（SRC 警覺）** | **血壓**（居家自我監測，尤其 RNA pol III 陽性、dcSSc、早期病程為高風險群）；腎功能（Cr/eGFR）、urinalysis（蛋白尿/血尿） |
+| **腸胃道** | 症狀導向：吞嚥困難 → esophageal manometry／barium swallow（可見 wide-mouth diverticulum、pseudo-obstruction）；腹脹/腹瀉 → SIBO breath test；便秘/大便失禁 → anorectal manometry |
+| **肌肉骨骼** | 關節理學檢查、**tendon friction rubs**（提示 dcSSc、預後較差）；疑 overlap myositis → CK、EMG、肌肉切片 |
+| **自體抗體** | ANA、Anti-Scl-70、ACA、Anti-RNA pol III、Anti-U3-RNP、Anti-Th/To、Anti-PM/Scl（同時決定表現型與器官風險，見上表四）；**RNA pol III 陽性**需啟動癌症篩檢 |
+
+> 一句話：**皮膚（mRSS）＋血管（甲褶鏡、Raynaud/ulcer）＋肺（PFT+HRCT，PAH 用 echo+NT-proBNP+DETECT）＋腎（血壓+腎功能，SRC 警覺）＋腸胃（症狀導向 manometry）＋肌肉骨骼（friction rubs）＋抗體全套（決定表現型與監測頻率）**。
+
+---
+
+## 七、一句話總整理
 
 - **分類** → **2013 ACR/EULAR**：手指越 MCP 近端 = 9 分（單項達標）；否則加權 **總分 ≥9**（抗體最多 3、肺最多 2、同類取最高）。
 - **亞型** → **lcSSc（ACA、PAH）vs dcSSc（Scl-70→ILD、RNA pol III→腎危象/癌）**。
 - **早期** → **VEDOSS**：Raynaud + puffy + ANA → 查抗體 + 甲褶微血管鏡。
+- **Initial work-up** → 皮膚/血管、肺（ILD+PAH）、腎（SRC）、腸胃、肌肉骨骼、抗體全套逐一評估，作為後續活性追蹤基準。
