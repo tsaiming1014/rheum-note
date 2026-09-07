@@ -195,6 +195,20 @@
 - **B. EGPA 會有 PNS、Kidney，不太會有 Heart**（答案：EGPA 心臟受侵犯其實常見，約 15–25%）
 - C. MPA 會有 Kidney、lung ✓
 
+### 口試：AAV / Vasculitis
+
+**吳詹永嬌**
+
+1. 17 歲男性會喘、下肢出血點，肺部 X 光異常浸潤、住院後開始咳血，請問該排哪些檢查？可能診斷為何？
+2. 病人 peripheral eosinophilia、CT 疑似肺出血但 c-ANCA+，是 GPA 還是 EGPA？
+
+**林世昌**
+
+1. 門診病人下肢出血點，病理切片 leukocytoclastic vasculitis，可能診斷有哪些？需要積極處置嗎？
+2. 影響小血管的血管炎有哪些？（把 Chapel Hill 的表上 IC vasculitis 講出來）
+3. Hypocomplement vasculitis 可以驗哪些血？（C1q?）
+4. GCA/TAK 在**年齡分佈、種族分佈、影響血管、臨床表現及治療**上有何區分？
+
 ---
 
 ## 🔹 2024
