@@ -16,6 +16,10 @@ Mucocutaneous involvement 在 SLE 中非常常見（頻率 80–90%）。依 his
   - **CCLE**（Chronic cutaneous LE，DLE 為最常見亞型）
 - **Lupus-nonspecific lesions**：也可見於 SLE 以外疾病（如 vasculitis、livedo reticularis、Raynaud's、alopecia areata、urticaria、leg ulcers、lichen planus 等）。
 
+![CLE subtypes](../images/CLE%20subtype.png)
+
+*Figure 1. CLE subtypes (A) Localized DLE; (B) Generalized DLE; (C) ChLE; (D) LEP; (E) Annular SCLE; (F) Papulosquamous SCLE; (G) Localized ACLE; (H) LET; (I,L,M) Generalized ACLE. Abbreviation: ACLE: Acute Cutaneous Lupus Erythematosus; CLE: Cutaneous Lupus Erythematosus; ChLE: Chilblain Lupus Erythematosus; DLE: Discoid Lupus Erythematosus; LEP: Lupus Erythematosus Profundus; LET: Lupus Erythematosus Tumidus; SCLE: Subacute Cutaneous Lupus Erythematosus.*
+
 不同 cutaneous subset 進展為 SLE 的風險不同（161 位 lupus-specific lesion 病人研究）：
 
 - ACLE → 72% 符合 SLE classification criteria
