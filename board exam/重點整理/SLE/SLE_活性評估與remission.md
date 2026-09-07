@@ -129,6 +129,7 @@
 - **SRI-4（SLE Responder Index）**：SLEDAI 下降 ≥4 + BILAG 無新 A／最多 1 個新 B + PGA 未明顯惡化。
 - **BICLA**：以 **BILAG 改善**為核心（所有 A→B/C/D、B→C/D）+ SLEDAI/PGA 不惡化。
 - 兩者都**靠 BILAG 抓器官層級改善**——這是 BILAG 在試驗中不可取代之處。
+- 完整定義、對照與試驗案例見下方「六、Improvement／Response 判定：SRI 與 BICLA」。
 
 ---
 
