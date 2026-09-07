@@ -236,8 +236,96 @@ BILAG 以器官別 A–E 評分的**變化**（而非單一總分）來定義 fl
 
 ---
 
-## 六、一句話總整理
+## 六、Improvement／Response 判定：SRI 與 BICLA
+
+> 這兩個是臨床試驗最常用的**複合式療效指標（composite response index）**，用來判定病人治療後是否達到「有意義的改善」。與 LLDAS/DORIS（衡量**當下狀態**是否達標）不同，SRI/BICLA 衡量的是**相對於 baseline 的變化量**。
+
+### SRI-4（SLE Responder Index）
+
+**須同時符合以下三項，才判定為 responder：**
+
+| 條件 | 內容 |
+|---|---|
+| SLEDAI-2K | 較 baseline **下降 ≥4 分** |
+| BILAG | **無新增 A** 級器官評分，且**新增 B 級器官評分 ≤1 個** |
+| PGA | 較 baseline **未惡化**（上升幅度 <0.3 分，0–3 分制） |
+
+- 最初為 **belimumab BLISS-52/BLISS-76** trial 設計的 primary endpoint，是目前臨床試驗中最廣泛使用的複合反應指標。
+- 變體：**SRI-5、SRI-6**（SLEDAI 門檻改為下降 ≥5 或 ≥6 分），部分試驗作為 secondary endpoint 使用（如 obinutuzumab ALLEGORY 的 SRI-6，見 [SLE_Obinutuzumab_REGENCY_ALLEGORY.md](SLE_Obinutuzumab_REGENCY_ALLEGORY.md)）。
+- **已知限制**：SLEDAI-2K 為 unweighted 總分，可能出現「**此消彼長被互相抵消**」的情況——例如某器官活性改善（分數下降）同時另一器官新出現活性（分數上升），若淨變化仍達標，SRI 仍可能判定為「改善」，但臨床上病人其實是「換了一個器官在發作」而非真正好轉。
+
+### BICLA（BILAG-based Composite Lupus Assessment）
+
+**須同時符合以下條件：**
+
+| 條件 | 內容 |
+|---|---|
+| BILAG 改善 | Baseline 所有 **A 級器官**改善至 B/C/D；所有 **B 級器官**改善至 C/D |
+| BILAG 無惡化 | 無新增 A 級，新增 B 級 **≤1 個** |
+| SLEDAI-2K | 無惡化 |
+| PGA | 無明顯惡化 |
+| 治療 | 無需 **rescue therapy**（未使用計畫外的額外免疫抑制/類固醇升級） |
+
+- 為彌補 SRI 過度依賴總分、忽略器官層級變化的缺點而設計，**核心以 BILAG 器官別改善為準**，被認為更能反映「真正的臨床改善」而非分數上的淨相抵。
+- 最初為 **anifrolumab TULIP-2** trial 設計的 primary endpoint。
+- **知名案例**（見 [SLE_Obinutuzumab_REGENCY_ALLEGORY.md](SLE_Obinutuzumab_REGENCY_ALLEGORY.md)）：TULIP-1 以 SRI-4 為主要終點**未達顯著**，TULIP-2 改以 BICLA 為主要終點**成功**——同一藥物、相近族群，換一種療效評估工具就改變試驗結果，凸顯 outcome measure 選擇對試驗成敗的重大影響，是口試常見的延伸考點。
+
+### SRI vs BICLA 對照
+
+| | SRI-4 | BICLA |
+|---|---|---|
+| 核心工具 | SLEDAI-2K（總分） | BILAG（器官別 A–E） |
+| 改善判定邏輯 | 總分下降 ≥4 分即可 | 每個原本活動的器官都須個別改善 |
+| 敏感度/嚴謹度 | 較寬鬆，可能被單一器官快速改善「帶動」總分達標 | 較嚴謹，要求**逐器官**都不惡化才算數 |
+| 代表性試驗 | Belimumab（BLISS-52/76） | Anifrolumab（TULIP-2） |
+| 常見用途 | Primary/secondary endpoint | Primary/secondary endpoint，近年新藥試驗漸增（如 obinutuzumab ALLEGORY） |
+
+---
+
+## 七、SLE Damage Index（SDI, SLICC/ACR Damage Index）
+
+> 與 SLEDAI/BILAG（衡量**目前、可逆的疾病活性**）本質不同，SDI 衡量的是**不可逆的器官損傷（damage）**——不論成因是疾病本身、治療副作用（如類固醇造成的 AVN、白內障），甚至無法歸因的共病，**只要存在且持續 ≥6 個月即計分，不論病因**。
+
+### 核心特性
+
+- **不可逆**：損傷一旦發生並計分，**分數只會累加或持平，不會下降**（與 SLEDAI/BILAG 可隨疾病緩解而下降不同）。
+- **持續時間門檻**：須確認該損傷**持續至少 6 個月**才計分（用以區分「暫時性活動造成的功能異常」與「真正定型的不可逆損傷」）。
+- **不論病因**：SDI **完全不追究是疾病本身、藥物副作用、或其他共病造成**，只要符合定義即計分——這與 SLEDAI/BILAG 強調「須是狼瘡活動所致」的邏輯完全相反。
+- 通常於**病人 baseline 評估後、每年追蹤一次**。
+
+### 涵蓋 12 個器官系統
+
+| 系統 | 常見計分項目舉例 |
+|---|---|
+| **Ocular（眼）** | Cataract、retinal change |
+| **Neuropsychiatric（神經精神）** | Cognitive impairment、需治療的 seizure、CVA、cranial/peripheral neuropathy、transverse myelitis、psychosis |
+| **Renal（腎臟）** | eGFR<50%、proteinuria≥3.5g/24h、或 ESRD |
+| **Pulmonary（肺）** | Pulmonary hypertension、pulmonary fibrosis、shrinking lung、pleural fibrosis、pulmonary infarction |
+| **Cardiovascular（心臟）** | Angina/CABG、MI、cardiomyopathy、valvular disease、心包炎持續 6 個月或心包切除 |
+| **Peripheral vascular（周邊血管）** | Claudication、輕/重度組織缺損、靜脈栓塞 |
+| **Gastrointestinal（腸胃）** | 腸道梗塞/切除、mesenteric insufficiency、慢性腹膜炎、上消化道 stricture/手術、胰臟功能不全 |
+| **Musculoskeletal（肌肉骨骼）** | 肌肉萎縮/無力、deforming/erosive arthritis、骨鬆併骨折/脊椎塌陷、AVN、骨髓炎、肌腱斷裂 |
+| **Skin（皮膚）** | 慢性瘢痕性禿髮、廣泛瘢痕、皮膚潰瘍持續 >6 個月 |
+| **Premature gonadal failure（性腺）** | 早發性腺功能衰竭 |
+| **Diabetes（糖尿病）** | 不論病因（含 steroid-induced） |
+| **Malignancy（惡性腫瘤）** | 不含 dysplasia |
+
+- 各項目依嚴重度給予 **1–3 分權重**；部分項目若**再次發生**（如二次 MI）可**重複計分**；總分無上限，多數病人隨病程逐年累加。
+
+### 臨床意義
+
+- **SDI 是死亡率的獨立預測因子**：SDI 每增加 1 分，死亡風險顯著上升，是長期世代研究中最重要的預後指標之一。
+- 與活性指標（SLEDAI-2K/BILAG）**互補使用**：活性指標反映「現在發炎得多嚴重」，SDI 反映「這些年下來身體累積了多少不可逆的傷害」——兩者合併使用才能完整描繪病人的疾病負擔（disease burden）。
+- **治療意涵**：這也是為什麼 treat-to-target（達到 LLDAS/DORIS remission）被強調的原因——已有研究顯示**達標時間越長、越早達標，SDI 累積速度越慢**（呼應 Lupus Nephritis 筆記中「sustained remission ≥3年可預防腎功能惡化」的類似邏輯，詳見 [SLE_Lupus_Nephritis_治療.md](SLE_Lupus_Nephritis_治療.md)）。
+
+> 一句話記憶：**SLEDAI/BILAG 看「現在燒得多旺」（可逆、會降回去）；SDI 看「這場火燒掉了多少房子」（不可逆、只會累加，不管起火原因是本身漏電還是消防員救火時弄壞的）。**
+
+---
+
+## 八、一句話總整理
 
 - **活性**：**SLEDAI-2K**（global 加權分、含血清學）＋ **BILAG-2004**（器官別 A–E、看相對變化）。
 - **復發**：SFI 分 mild/moderate 與 severe（severe：重大器官、pred >0.5 mg/kg、SLEDAI 升 >12）。
 - **目標**：**LLDAS**（SLEDAI≤4、PGA≤1、pred≤7.5）→ **DORIS remission**（clinical SLEDAI 0、PGA<0.5、pred≤5）。
+- **改善判定**：**SRI-4**（總分下降導向）vs **BICLA**（器官層級改善導向），兩者評估邏輯不同、可能得出不同試驗結論。
+- **損傷**：**SDI**（不可逆、不論病因、持續≥6個月、只增不減），與活性指標互補，是長期死亡率的獨立預測因子。
