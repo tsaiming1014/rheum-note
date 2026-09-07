@@ -79,8 +79,6 @@
 - **合併Class V（非純V）效果最突出的族群之一**（25.5分）：但需注意REGENCY完全未收案**純**Class V，此處指的是III+V或IV+V混合型病人，**不能外推到純膜性LN**——純V證據仍以AURORA-1（voclosporin）較強，兩者適用的「Class V」病人並不相同。
 - **低補體（尤其C4<0.1 g/L）是全表效應量最大的subgroup（26.2分）**，大於高anti-dsDNA（18.3分）與高UPCR（17.8分），顯示血清學上補體消耗最嚴重、免疫複合物活性最高的病人，可能是obinutuzumab最佳候選族群之一。
 - **UPCR≥3與合併Class V的高蛋白尿族群，obinutuzumab方向與belimumab（BLISS-LN此族群療效較差）相反、與voclosporin（AURORA-1此族群亦有效）較一致**——三藥中obinutuzumab與voclosporin在「高蛋白尿」表現型上都優於belimumab，但voclosporin起效更快、有CNI腎毒性/高血壓疑慮；obinutuzumab起效較慢但不具腎毒性，可作為CNI相對禁忌（eGFR偏低、血壓難控、切片高chronicity）病人的替代選項。
-- **男性subgroup出現效果方向反轉**（−28.2分），但n僅21/21、CI幾乎涵蓋全範圍，屬**探索性分析的雜訊可能性高**，不宜解讀為「男性不適合用」，僅供未來更大樣本驗證的假說。
-- 上述皆為**探索性（非事前確認性）subgroup分析**，多數CI寬且部分跨零，僅能作為hypothesis-generating的臨床參考，不可視為正式治療選擇演算法。
 
 ## 解讀重點與限制
 
