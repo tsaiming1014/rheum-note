@@ -291,8 +291,10 @@
 | **EGPA 心臟侵犯 15–25%（最重要死因）** | 2021, 2022, 2023 |
 | EGPA → Mepolizumab（IL-5i） | 2019, 2020, 2021, 2022 |
 | Pauci-immune GN / 腎切片 IF | 2020, 2021 |
-| 治療 guideline（CYC/RTX 誘導、維持、PLEX、IVIG） | 2019, 2021, 2022, 2024 |
-| 2022 ACR/EULAR classification criteria | 2021, 2024 |
+| 治療 guideline（CYC/RTX 誘導、維持、PLEX、IVIG） | 2019, 2021, 2022, 2024, 2025 |
+| 2022 ACR/EULAR classification criteria | 2021, 2024, 2025 |
 | RTX 維持優於 AZA（MAINRITSAN） | 2024 |
+| 血管炎 case-based workup（咳血＋腎功能惡化＋下肢皮膚 lesion → 疑似 GPA/AAV） | 2019, 2020, 2023, 2025 |
+| Chapel Hill classification（2012）/ IC vasculitis 分類比較 | 2020, 2021, 2023, 2024 |
 
-**結論**：AAV 幾乎每年必考，筆試與口試皆有。核心高頻：三疾病比較表、ANCA 機轉、Avacopan、EGPA 心臟侵犯、治療 guideline。
+**結論**：AAV 幾乎每年必考，筆試與口試皆有（2019–2025）。核心高頻：三疾病比較表、ANCA 機轉、Avacopan、EGPA 心臟侵犯、治療 guideline、case-based workup（咳血＋腎衰竭＋皮膚 lesion）。
