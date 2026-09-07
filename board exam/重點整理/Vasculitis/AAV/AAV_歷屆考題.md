@@ -1,6 +1,6 @@
 # AAV 歷屆考題彙整（GPA / MPA / EGPA）
 
-> 整理自風專歷屆筆試＋口試（2019–2024），含 ANCA-associated vasculitis 全部相關題目原文。
+> 整理自風專歷屆筆試＋口試（2019–2025），含 ANCA-associated vasculitis 全部相關題目原文。
 > 相關筆記：[ANCA 致病機轉](AAV_ANCA致病機轉.md)、[三大疾病完整比較](AAV_三大疾病完整比較.md)、[治療](AAV_治療.md)、[分類診斷與 2022 標準](AAV_分類診斷的來龍去脈與2022標準.md)、[EGPA 機轉深探](AAV_EGPA機轉深探.md)、[ANCA 陰性的診斷](AAV_ANCA陰性的診斷.md)
 
 ---
