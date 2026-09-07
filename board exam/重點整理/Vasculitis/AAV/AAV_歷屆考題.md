@@ -251,10 +251,33 @@
 
 - **答案：1+4+6**
 
-### 口試第五站（蔡文展）
+### 口試第五站（蔡文展、吳詹永嬌）
+
+**蔡文展**
 
 - 2012 Chapel Hill Vasculitides
 - 2022 ACR/EULAR classification criteria for GPA/MPA/EGPA
+
+**吳詹永嬌**
+
+> 情境：35 歲女性，發燒，picture（temporal region 有 non-blanchable skin lesion）+ ear 有 chondritis
+
+- 請問怎麼 approach？可能診斷為何？（需鑑別 AAV vs relapsing polychondritis 等系統性血管炎合併軟骨炎的可能性）
+
+---
+
+## 🔹 2025
+
+### 第三關（吳詹永嬌、陳明翰主任 — 考 GPA 以及 Giant cell arteritis）
+
+**陳明翰主任**
+
+> 情境：病人有咳血、有腎功能惡化、下肢有 lesion
+
+- 你要排哪些檢查及為什麼（請把 classification criteria 的分數背出來，主任會追問「這樣可以診斷了嗎？你還想排哪些檢查？」，印象中有給看 ANCA 的染色）
+- RPGN 要洗 plasma exchange 嗎？咳血可以洗 plasma exchange 嗎？（請依最新 guideline 回答，診斷與治療都要答清楚）
+
+> 同站吳詹永嬌主任的題目是 Giant cell arteritis case（頭痛、視力模糊），屬於大血管炎而非 AAV，詳見 [GCA_TAK_口試比較.md](../Large%20vessel/GCA_TAK_口試比較.md)
 
 ---
 
