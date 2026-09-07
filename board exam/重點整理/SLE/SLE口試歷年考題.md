@@ -183,6 +183,20 @@ SLE 在風專口試中固定為一個獨立考站（「風專口試關卡」第�
   - **Rituximab（LUNAR trial，陰性）vs Obinutuzumab**：Obinutuzumab 為第二代 anti-CD20，**ADCC（antibody-dependent cell-mediated cytotoxicity）效果更強**，於 NOBILITY/REGENCY trial 對 LN 顯示療效（詳見 [SLE_Obinutuzumab_REGENCY_ALLEGORY.md](SLE_Obinutuzumab_REGENCY_ALLEGORY.md)）
   - SLE 併發 PAH 病人的 CXR 與 CT 判讀（central pulmonary artery dilatation）
 
+    ![PAH CXR](../images/PAH%20CXR.jpg)
+
+    ![PAH CT](../images/PAH%20CT.jpg)
+
+    **補充說明：PAH 的影像學徵象**
+
+    - **CXR**：兩側肺門部**肺動脈突出、增大**（prominent / large pulmonary artery），為右心導管檢查前最簡便的篩檢線索；長期 PAH 可合併右心室肥大（心影可能不成比例增大）、周邊肺野血管紋理反而變細（peripheral pruning）。
+    - **CT（胸部電腦斷層）判讀重點**：
+      - **肺動脈主幹擴張**：PA 直徑 ≥ 30 mm，或 **PA/主動脈（Ao）直徑比 > 1**
+      - **右心腔擴大**：RV/LV 直徑比 ≥ 1（右心室大於左心室，提示右心壓力負荷過重）
+      - **心室中隔異常凸向左心室（flattening/bowing）**：室間隔角度 ≥ 140°（因右心室壓力升高推擠中膈）
+      - **右心室壁肥厚**：RVOT（right ventricle outflow tract）壁厚度 ≥ 6 mm
+    - **臨床意義**：上述任一徵象出現皆提示需進一步安排 **心臟超音波**估算肺動脈收縮壓，必要時以**右心導管檢查**確診 PAH（mPAP > 20 mmHg）；SLE-PAH 好發於長期病程、合併 anti-U1RNP 或 Raynaud's phenomenon 的病人，需與 CTD-ILD 續發之 PH（Group 3）及慢性血栓栓塞性 PH（CTEPH, Group 4）鑑別。
+
 ---
 
 ### 2023（SLE / APS 合併站）
