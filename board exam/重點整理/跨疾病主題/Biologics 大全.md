@@ -119,6 +119,8 @@
 
 ## 6. B cell–targeted therapies
 
+![B cell marker expression across B cell development stages](../images/B%20cell%20marker.png)
+
 > **機轉**：CD20 表現於pre-B到memory B cell階段，但**不表現於stem cell、pro-B cell及plasmablast/plasma cell**，故anti-CD20藥物無法直接清除漿細胞（自體抗體仍可能持續產生一段時間）。**RTX vs OBI 機轉差異（重要考點）**：
 >
 > - **Rituximab（RTX）**：Chimeric mouse-human IgG1，屬 **Type I anti-CD20**。結合後會使CD20重新分布聚集到細胞膜lipid raft，主要透過**complement-dependent cytotoxicity（CDC）**清除B cell，另有ADCC及部分apoptosis參與。
