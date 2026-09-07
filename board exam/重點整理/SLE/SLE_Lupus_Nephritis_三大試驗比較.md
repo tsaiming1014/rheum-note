@@ -69,6 +69,41 @@
 - 但能**降低死亡或腎臟相關事件發生率**（18.9% vs 35.6%）
 - 次族群中效果更明顯者：**UPCR≥3**、**高基礎anti-dsDNA力價**、**合併Class V**、**新發病例（fresh case）**——與早期NOBILITY trial（rituximab）觀察一致
 
+**REGENCY CRR (Week 76) Subgroup Forest Plot：**
+
+![REGENCY obinutuzumab subgroup analysis](../images/Obinutuzumab%20LN%20subgroup.png)
+
+| Subgroup | n (Obi/Placebo) | CRR%（Obi vs Placebo） | Adjusted difference (95% CI) | CI是否跨零 |
+|---|---|---|---|---|
+| 全體 | 135/136 | 46 vs 33 | 13.4 (2.0–24.8) | 否 |
+| 女性 | 114/115 | 47 vs 27 | 20.6 (8.4–32.7) | 否 |
+| 男性 | 21/21 | 43 vs 67 | −28.2 (−53.3–2.3) | 幾乎跨零，方向反轉 |
+| UPCR<3 | 82/74 | 52 vs 46 | 7.8 (−7.7–23.3) | 是 |
+| **UPCR≥3** | 52/62 | 37 vs 18 | **17.8 (1.6–33.9)** | 否 |
+| Anti-dsDNA≤120 IU/ml | 78/75 | 42 vs 32 | 10.8 (−4.2–25.8) | 是 |
+| **Anti-dsDNA>120 IU/ml** | 57/61 | 52 vs 34 | **18.3 (1.0–35.7)** | 否 |
+| C3≥0.9 g/L | 58/60 | 38 vs 32 | 10.2 (−7.3–26.9) | 是 |
+| C3<0.9 g/L | 77/76 | 53 vs 34 | 16.4 (1.0–31.8) | 否 |
+| C4≥0.1 g/L | 103/93 | 41 vs 31 | 12.0 (−1.4–25.3) | 是（勉強） |
+| **C4<0.1 g/L** | 32/42 | 63 vs 36 | **26.2 (2.4–46.1)** | 否（**全表最大效應**） |
+| Class III | 56/51 | 41 vs 41 | 7.1 (−11.5–25.6) | 是 |
+| **Class IV** | 79/85 | 44 vs 28 | **15.2 (0.8–29.5)** | 否（勉強） |
+| 無合併Class V | 88/98 | 45 vs 37 | 8.8 (−5.2–22.8) | 是 |
+| **合併Class V** | 47/38 | 49 vs 24 | **25.5 (6.3–44.7)** | 否 |
+| 已知LN病史 | 81/76 | 43 vs 38 | 6.0 (−9.2–21.3) | 是 |
+| **新診斷LN** | 54/60 | 52 vs 27 | **23.8 (5.7–39.8)** | 否 |
+| eGFR≥90 | 96/96 | 49 vs 39 | 10.9 (−3.0–24.9) | 是 |
+| eGFR<90 | 39/40 | 41 vs 20 | 15.1 (−6.6–35.0) | 是 |
+
+**Subgroup分析對三藥定位的意義（與belimumab、voclosporin相比，obinutuzumab適合哪些LN病人）**
+
+- **新發病例效果遠大於已有LN病史者**（23.8 vs 6.0分，前者CI不跨零、後者跨零）：暗示obinutuzumab的角色未必是「belimumab/標準治療失敗後才升階的後線藥」，反而更支持**在最嚴重的新診斷病人身上及早使用**，這點與直覺的「留給refractory病人」定位不同，需要更新既往的階梯式治療思維。
+- **合併Class V（非純V）效果最突出的族群之一**（25.5分）：但需注意REGENCY完全未收案**純**Class V，此處指的是III+V或IV+V混合型病人，**不能外推到純膜性LN**——純V證據仍以AURORA-1（voclosporin）較強，兩者適用的「Class V」病人並不相同。
+- **低補體（尤其C4<0.1 g/L）是全表效應量最大的subgroup（26.2分）**，大於高anti-dsDNA（18.3分）與高UPCR（17.8分），顯示血清學上補體消耗最嚴重、免疫複合物活性最高的病人，可能是obinutuzumab最佳候選族群之一。
+- **UPCR≥3與合併Class V的高蛋白尿族群，obinutuzumab方向與belimumab（BLISS-LN此族群療效較差）相反、與voclosporin（AURORA-1此族群亦有效）較一致**——三藥中obinutuzumab與voclosporin在「高蛋白尿」表現型上都優於belimumab，但voclosporin起效更快、有CNI腎毒性/高血壓疑慮；obinutuzumab起效較慢但不具腎毒性，可作為CNI相對禁忌（eGFR偏低、血壓難控、切片高chronicity）病人的替代選項。
+- **男性subgroup出現效果方向反轉**（−28.2分），但n僅21/21、CI幾乎涵蓋全範圍，屬**探索性分析的雜訊可能性高**，不宜解讀為「男性不適合用」，僅供未來更大樣本驗證的假說。
+- 上述皆為**探索性（非事前確認性）subgroup分析**，多數CI寬且部分跨零，僅能作為hypothesis-generating的臨床參考，不可視為正式治療選擇演算法。
+
 ## 解讀重點與限制
 
 - 三試驗收案族群異質：UPCR門檻（1.0 vs 1.5 vs 1.0）、biopsy新鮮度（AURORA-1允許長達2年前的切片）、是否納入純Class V（僅BLISS-LN與AURORA-1有）皆不同，非head-to-head比較。
@@ -76,6 +111,7 @@
 - CRR定義三者略有差異（尤其eGFR標準與「無intercurrent event」的操作型定義不同），OR（BLISS-LN、AURORA-1）與adjusted difference（REGENCY）也是不同統計量，數字不可直接類比孰優孰劣。
 - Primary endpoint時間點不同（52wk / 76wk / 104wk），達成率會隨追蹤時間拉長而提高，也非公平比較基礎。
 - 三藥物現皆已納入LN初始合併治療的guideline選項之一（詳見 [SLE_Lupus_Nephritis_治療.md](SLE_Lupus_Nephritis_治療.md) 「初始合併治療方案」段落）。
+- **ACR guideline「eGFR≤45、血壓>165/105、切片高chronicity者優先選belimumab（優於CNI）」並非BLISS-LN試驗內部的療效subgroup發現**，而是**安全性排除邏輯**（CNI在這類病人有較高腎毒性/惡化高血壓風險，故以排除法選用不具此風險的belimumab），與前述「肺腎外表現優先選belimumab」同屬跨試驗/guideline外推而非BLISS-LN本身證實的效果。事實上BLISS-LN一篇post hoc subgroup analysis（腎功能受損族群）顯示，**基礎腎功能受損病人的eGFR恢復比例數字上placebo組反而優於belimumab組**（如10%恢復：placebo 85.2% vs belimumab 54.2%），提示belimumab在「腎功能已明顯受損」這個特定subgroup本身**未展現效果優勢**，該guideline建議的立論基礎是CNI的相對風險，而非belimumab在此族群的相對療效。
 
 ## 參考文獻
 
