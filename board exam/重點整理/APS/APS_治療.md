@@ -129,6 +129,10 @@
 - **難治（LDA + prophylactic heparin 下仍反覆）**：heparin 升至 **therapeutic dose**、加 **HCQ**、或第一孕期加 **low-dose prednisolone**；選擇病例可考慮 **IVIG**。
 - **產後**：續 heparin 6 週（thrombotic 病史者 8–12 週）防母體血栓，再 taper。
 
+> **「Thrombotic APS」的定義釐清**：此處指 2023 ACR/EULAR classification criteria **Domain 1（VTE）或 Domain 2（動脈血栓）**——即曾發生過**大血管**血栓、平常即需終身治療劑量 VKA 的病人；孕期改用 therapeutic heparin 的邏輯是**延續原本的抗凝強度**（VKA 換成等效劑量 heparin），並非懷孕才新開的處方。
+>
+> **Domain 3（微血管，如 livedoid vasculopathy、APS nephropathy/TMA、DAH）雖然在 classification 上也屬於「vascular/thrombotic」範疇（與 Domain 4 obstetric 機轉不同）**，但其**長期治療本身即無統一準則**（見上方「2. Microvascular APS」，多以 rituximab/belimumab/MMF 等免疫抑制為主，抗凝效益未明），故病人平常未必在使用治療劑量全身性抗凝。**若病人僅有 Domain 3 陽性、無大血管血栓病史、也無產科病史，孕期該用 prophylactic 或 therapeutic dose heparin，2019 EULAR 與 Kelly 皆未明確建議**，屬現有實證的灰色地帶，實務上多依微血管疾病嚴重度（如是否已有腎功能受損）個案化判斷，不宜直接套用「thrombotic APS → therapeutic heparin」的邏輯。
+
 ---
 
 ## 二、Warfarin 藥物交互作用（DDI）速記
