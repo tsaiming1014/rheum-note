@@ -25,7 +25,7 @@
 | | [SAPHO Syndrome](增生性骨病/SAPHO_Syndrome.md) | 無正式分類標準 | - | - | - |
 | **代謝性骨病** | [Osteoporosis — 骨質疏鬆症](Osteoporosis/Kelly_Ch4_骨生物學與骨重塑.md) | WHO T-score ≤ -2.5 / 脆弱性骨折 | [Bone turnover markers](Osteoporosis/Bone_Turnover_Markers.md)、FRAX、DXA | - | - |
 | **非發炎性疼痛** | [Fibromyalgia — 纖維肌痛症](Fibromyalgia/Fibromyalgia_致病機轉與治療.md) | [2016 ACR（修訂 2010/2011；WPI+SSS）](Fibromyalgia/Fibromyalgia_分類與診斷標準.md) | FIQR、WPI+SSS | - | [2016 EULAR](Fibromyalgia/Fibromyalgia_致病機轉與治療.md) |
-| **血管炎** | [AAV（GPA / MPA / EGPA）](Vasculitis/AAV/AAV_三大疾病完整比較.md) | [2022 ACR/EULAR](Vasculitis/AAV/AAV_分類診斷的來龍去脈與2022標準.md) | [BVAS、VDI](Vasculitis/AAV/AAV_BVAS活性評估.md) | BVAS = 0（區分 on/off therapy） | [2021 ACR / 2022 EULAR](Vasculitis/AAV/AAV_治療.md) / 2025 BSR |
+| **血管炎** | [AAV（GPA / MPA / EGPA）](Vasculitis/AAV/AAV_三大疾病完整比較.md) | [2022 ACR/EULAR](Vasculitis/AAV/AAV_分類診斷的來龍去脈與2022標準.md) | [BVAS、VDI](Vasculitis/AAV/AAV_BVAS活性評估.md) | BVAS = 0（區分 on/off therapy） | [2021 ACR / 2022 EULAR](Vasculitis/AAV/AAV_治療.md) / 2025 BSR / [Avacopan爭議與撤稿2026](Vasculitis/AAV/AAV_Avacopan_ADVOCATE爭議與撤稿_2026.md) |
 | | [大血管炎（GCA / PMR / Takayasu）](Vasculitis/Large%20vessel/LVV_分類標準與臨床特徵.md) | [2022 ACR/EULAR](Vasculitis/Large%20vessel/LVV_分類標準與臨床特徵.md) | ITAS2010、臨床+CRP | - | [2021 ACR/VF](Vasculitis/Large%20vessel/LVV_GCA_TAK_治療.md) |
 | | [Behçet 病](Vasculitis/Behcet/Behcet_致病機轉.md) | ISG 1990、ICBD 2014 | BDCAF | - | [2025 EULAR](Vasculitis/Behcet/Behcet_治療總整理_2025.md) |
 | | 其他血管炎（PAN、[IgA vasculitis](Vasculitis/其他血管炎/IgA_Vasculitis.md)、[Cryoglobulinemia / IgG4-RD vasculitis / UV / EED / RV 等 IC-mediated vasculitis](Vasculitis/其他血管炎/IC-mediated_小血管炎_總整理.md)） | 2022 ACR/EULAR (PAN)、EULAR/PRINTO/PRES (IgAV) | 臨床、BVAS | - | [Kelly Ch92 治療總表](Vasculitis/其他血管炎/IC-mediated_小血管炎_總整理.md) |
