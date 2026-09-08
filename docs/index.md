@@ -131,6 +131,7 @@
 | RA | [口試歷年考題（2019–2025）](RA/RA口試歷年考題.md) |
 | PsA | [口試歷年考題（2019–2025）](SpA/PsA/PsA口試歷年考題.md) |
 | SSc | [口試歷年考題（2019–2025）](SSc/SSc口試歷年考題.md) |
+| LVV（GCA/TAK/PMR） | [口試歷年考題（2019–2025）](Vasculitis/Large%20vessel/GCA_TAK_口試歷年考題.md) |
 
 #### Rheumatologic Emergency — 依器官系統分類
 
