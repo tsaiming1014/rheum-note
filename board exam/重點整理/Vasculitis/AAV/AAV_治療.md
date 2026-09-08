@@ -110,11 +110,18 @@ For patients on CYC, consider:
 
 ### 4. Plasma exchange（PLEX，Rec 7）— 角色下修
 
+**PEXIVAS 試驗設計**
+
+2×2 factorial design，704 位新診斷或復發之 severe GPA/MPA（定義：eGFR <50 mL/min 及/或 lung hemorrhage/DAH），同時測試 (1) PLEX vs. no-PLEX、(2) reduced-dose vs. standard-dose glucocorticoid；背景免疫抑制劑為 CYC 或 rituximab（兩者皆可）。PLEX 組：7 次 exchange／14 天內完成。
+
 **證據**
 
 - **MEPEX**（Cr >500 µmol/L）：7 次 PLEX vs. IV MP；**12 個月 ESRD 風險↓24%**，存活無差異。
-- **PEXIVAS**（最大型，eGFR<50 或 DAH，704 人）：**主要終點（死亡/ESKD）無差異**（28% vs. 31%）。
-- meta（9 RCT）：12 個月 ESKD 風險↓（RR 0.62），但**3 年後效益消失**、增加嚴重感染（高風險組 NNT 防一例 ESKD ≈6.25；每 14 人多一例嚴重感染）。
+- **PEXIVAS**（最大型，eGFR<50 或 DAH，704 人）：
+  - Primary composite outcome（death from any cause or ESRD）：PLEX 組 28.4% vs. No-PLEX 組 31.0%，**HR 0.86（95% CI 0.65–1.13, p = 0.27）→ 無顯著差異**。
+  - 針對各 subgroup（含 renal 嚴重度、有無 DAH）分析，**未能找到特定表現型能從 PLEX 獲益**。
+  - Kelly 引用之 meta-analysis（7 RCT）仍指向 PLEX 可降低 ESKD 風險，但因 PEXIVAS 為目前最大型單一試驗且未達此 outcome，**PLEX 使用趨勢下降**，僅保留給 ESKD 風險最高族群考慮。
+- 另一 meta（9 RCT，EULAR 引用）：12 個月 ESKD 風險↓（RR 0.62），但**3 年後效益消失**、增加嚴重感染（高風險組 NNT 防一例 ESKD ≈6.25；每 14 人多一例嚴重感染）。
 
 **EULAR 建議**
 
