@@ -44,8 +44,12 @@ For patients on CYC, consider:
 
 **證據**
 
-- **RAVE**（197 人）：RTX vs. 口服 CYC，6 個月誘導**非劣**；**復發型可能優於 CYC**；18 個月仍非劣。
-- **RITUXVAS**（44 人）：RTX＋2 劑 CYC vs. IV CYC；12 個月緩解、GFR、嚴重不良反應、死亡相當。
+- **RAVE**（197 人，double-blind noninferiority）：兩組先給 glucocorticoid，再隨機分配口服 CYC 2 mg/kg/day（緩解後改 azathioprine 2 mg/kg/day）vs. IV rituximab 375 mg/m²×4 劑（週打一次，完成後改口服 placebo）。
+  - Primary endpoint（6 個月）：RTX **非劣**於 CYC；**復發型病人可能 superior**。
+  - Subgroup 分析（renal involvement 類型、有無 DAH、ANCA specificity/disease type、治療中是否 ANCA 轉陰）**皆無差異**。
+  - 18 個月追蹤：單一 course RTX 仍非劣於 CYC→azathioprine；complete remission 持續時間、relapse 嚴重度、AE rate 皆無顯著差異。
+- **RITUXVAS**（44 人，新診斷 AAV，3:1 隨機）：RTX＋2 劑 IV CYC vs. IV CYC（3–6 個月）→ azathioprine；12 個月 sustained remission、median GFR 增加量、嚴重不良反應與死亡皆相當。
+- Kelly 小結：RAVE + RITUXVAS 顯示 **RTX 與 CYC 誘導療效相當**；但「RTX＋CYC 併用」（RITUXVAS 做法）**從未與 RTX 單用直接比較過**——雖有 uncontrolled study 顯示併用組能更快減 GC，但仍需 controlled trial 證實。
 
 **CYC（對照基準）劑量**
 
