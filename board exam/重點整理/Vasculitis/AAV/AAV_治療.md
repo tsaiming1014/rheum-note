@@ -129,6 +129,26 @@ For patients on CYC, consider:
 - **不建議**常規用於**單純肺泡出血（DAH）**。
 - 合併 **anti-GBM 抗體陽性** → 建議用 PLEX。
 
+**補充：ANCA／anti-GBM 雙陽性病人如何判斷主導機轉**
+
+Kelly 指出，10–50% 的 anti-GBM disease 病人同時 ANCA 陽性（多為 MPO-ANCA），且 ANCA 可能在 anti-GBM disease 發病前多年就已存在，支持兩者致病機轉有交互作用（anti-GBM 引起的組織破壞可能暴露新的抗原表位，誘發 ANCA 產生；反之 ANCA 造成的血管內皮/GBM 損傷也可能誘發 anti-GBM 抗體）。雙陽性病人常常兩個抗體同時都在參與致病，臨床上很難說「只有一個」在作用，但仍有幾個層面可幫助判斷「目前這次 RPGN/DAH 主要是哪個機轉主導」：
+
+1. **腎臟切片（最關鍵）— Immunofluorescence Pattern**：所有 crescentic GN 光學顯微鏡下長得都很像（Kelly Fig. 90.6），須靠 IF 區分 pauci-immune、immune complex、anti-GBM 三種機轉。
+   - **Linear IgG along GBM**（+/- C3）→ anti-GBM-driven。
+   - **Pauci-immune**（幾乎無 Ig/complement 沉積，crescent 為主）→ ANCA-mediated。
+   - 雙陽性病人切片常兩者並存；若某次以 linear IgG 為主、幾乎無 pauci-immune crescent，傾向該次以 anti-GBM 為主。
+   - Crescent「年齡」：anti-GBM 為單一同步急性事件（monophasic）→ crescent 新舊一致；ANCA vasculitis 為 relapsing/waxing-waning 病程 → 新舊 crescent 並存（cellular + fibrous 混合）。
+
+2. **病程型態（Monophasic vs Relapsing）**：Anti-GBM disease 本質上單相性，抗體清除後（PLEX + immunosuppression）極少復發；ANCA vasculitis 本質上會復發（見 RAVE/MAINRITSAN）。**臨床意義**：緩解後再次出現 RPGN/DAH，此時 anti-GBM titer 通常已轉陰，復發幾乎都是 **ANCA-driven**，而非 anti-GBM 復發——這是雙陽性病人長期追蹤最實用的鑑別依據。
+
+3. **抗體 titer 追蹤**：Anti-GBM titer 與急性腎損傷嚴重度相關性較高，治療後會持續下降至測不到；ANCA titer 與疾病活性相關性較不一致（RAVE：remission 與 ANCA 轉陰無顯著相關），但可能長期維持陽性、上升時可能預警復發（非絕對）。若惡化時 anti-GBM 已測不到、僅 ANCA 陽性/上升，該次發作應以 ANCA 為主。
+
+4. **器官分布模式**：Anti-GBM disease 典型只侵犯腎＋肺（pulmonary-renal syndrome）；若合併皮膚 vasculitis、鼻竇/上呼吸道破壞性病灶、周邊神經病變、關節炎、鞏膜炎等不典型表現，代表有明確 systemic AAV（GPA/MPA）成分在活動。
+
+5. **治療意義**：急性期通常兩者都需覆蓋——PLEX（移除 circulating anti-GBM 抗體）＋ CYC/RTX ＋ GC（覆蓋 ANCA-mediated 部分）；**長期 maintenance 的必要性主要由 ANCA 成分決定**（anti-GBM 若已轉陰，maintenance 邏輯與單純 AAV 相同，是為防 ANCA-driven relapse）。Kelly 引用 **McAdoo et al.（*Kidney Int* 2017）**：雙陽性病人復發模式較接近 ANCA vasculitis（會復發），但急性腎損傷嚴重度/透析比例較接近 anti-GBM disease（腎功能恢復潛力較差）。
+
+> **總結**：急性期靠**腎切片 IF pattern**（linear vs pauci-immune）判斷當下主導機轉；長期追蹤/復發靠**病程型態**（anti-GBM 不復發、ANCA 會復發）與 **anti-GBM titer 是否轉陰**判斷。雙陽性病人臨床上多半兩者都需治療覆蓋，鑑別的價值主要在於**判斷復發風險與 maintenance 必要性**，而非決定急性期是否用 PLEX（只要 anti-GBM 陽性就該做 PLEX）。
+
 ### 5. 維持緩解（Rec 9, 10）
 
 **RTX 維持機轉/劑量**
