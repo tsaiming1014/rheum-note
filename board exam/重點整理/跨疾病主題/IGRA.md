@@ -47,4 +47,8 @@ IGRA 是偵測宿主 T 細胞對 *M. tuberculosis* 特異抗原（ESAT-6、CFP-1
 | ≤ 8.0 IU/mL | < 0.35 IU/mL 或（≥ 0.35 IU/mL 且 < 25% of Nil） | < 0.35 IU/mL 或（≥ 0.35 IU/mL 且 < 25% of Nil） | < 0.5 IU/mL | **Indeterminate** | 無法判定是否感染 *M. tuberculosis* |
 | > 8.0 IU/mL | Any | Any | Any | **Indeterminate** | 無法判定是否感染 *M. tuberculosis* |
 
-> Nil：陰性對照管（未加抗原）之背景 IFN-γ 值；TB1／TB2：分別加入不同抗原組合（詳見下方說明）之刺激管扣除 Nil 後的反應值；Mitogen：陽性對照管（用來確認 T 細胞本身有能力反應）扣除 Nil 後的反應值。
+## 名詞說明
+
+- **TB1 / TB2**：Gold Plus 版新增設計，將抗原管拆為兩管。TB1 為短胜肽，主要刺激 CD4+ T 細胞；TB2 額外含刺激 CD8+ T 細胞的序列，對免疫功能較弱族群（如免疫低下、老年）更敏感。判讀採 OR 邏輯：TB1、TB2 任一達陽性閾值即報 Positive。
+- **Nil（陰性對照）**：未加任何刺激物，測血液本底 IFN-γ 值；TB1、TB2、Mitogen 皆需扣除 Nil 值後才判讀，用以校正非特異性雜訊（避免假陽性）。
+- **Mitogen（陽性對照）**：加入 PHA 等非特異性活化劑，不分抗原專一性刺激所有 T 細胞，用來確認受檢者 T 細胞本身有無能力產生 IFN-γ 反應。若 TB1、TB2 皆陰性、但 Mitogen−Nil 也偏低，代表淋巴球反應能力不足（如嚴重免疫抑制、淋巴球低下），此時應判為 Indeterminate 而非 Negative，以避免假陰性誤判。

@@ -75,6 +75,7 @@
 | 過敏原免疫治療（AIT） | [SCIT / SLIT / OIT 完整比較](Allergy/過敏原免疫治療_AIT比較.md) |
 | CTD-ILD | [CTD-ILD 治療實證整理（EULAR 2025 ILD session）](跨疾病主題/CTD-ILD_治療實證整理_EULAR2025.md) |
 | Pregnancy in rheumatic disease | 風濕病與妊娠（2022 BSR Part 1 & 2） |
+| IGRA | [IGRA（QuantiFERON vs T-SPOT）](跨疾病主題/IGRA.md) |
 
 ---
 
