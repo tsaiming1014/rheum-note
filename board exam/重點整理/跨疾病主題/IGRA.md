@@ -62,3 +62,21 @@ IGRA 是偵測宿主 T 細胞對 *M. tuberculosis* 特異抗原（ESAT-6、CFP-1
 - 風濕科意義：生物製劑（尤其 anti-TNF）治療前常規篩檢 IGRA，陽性且排除 active TB 後歸類為 LTBI，需先給予／併用預防性抗結核藥物（如 INH）再開始生物製劑，以降低治療後 latent TB 活化風險。
 - **Nil（陰性對照）**：未加任何刺激物，測血液本底 IFN-γ 值；TB1、TB2、Mitogen 皆需扣除 Nil 值後才判讀，用以校正非特異性雜訊（避免假陽性）。
 - **Mitogen（陽性對照）**：加入 PHA 等非特異性活化劑，不分抗原專一性刺激所有 T 細胞，用來確認受檢者 T 細胞本身有無能力產生 IFN-γ 反應。若 TB1、TB2 皆陰性、但 Mitogen−Nil 也偏低，代表淋巴球反應能力不足（如嚴重免疫抑制、淋巴球低下），此時應判為 Indeterminate 而非 Negative，以避免假陰性誤判。
+
+## Latent TB 的治療
+
+CDC / NTCA 建議：優先使用**短療程、rifamycin-based** 的 LTBI 治療處方，取代傳統 6–9 個月 isoniazid 單方治療（6H/9H）。短療程處方（3HP、4R、3HR）療效相當、安全性佳、**完治率較高**、**肝毒性風險較低**。
+
+常用藥物：
+
+- Isoniazid（INH）
+- Rifapentine（RPT）
+- Rifampin（RIF）
+
+建議處方（依優先順序）：
+
+1. **3HP**：Isoniazid + Rifapentine，每週一次，共 3 個月
+2. **4R**：Rifampin，每日一次，共 4 個月
+3. **3HR**：Isoniazid + Rifampin，每日一次，共 3 個月
+
+![Latent TB treatment regimen](../images/Latent%20TB%20treatment%20regimen.png)
