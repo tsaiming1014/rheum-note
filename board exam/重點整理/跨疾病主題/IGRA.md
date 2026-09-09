@@ -53,5 +53,12 @@ IGRA 是偵測宿主 T 細胞對 *M. tuberculosis* 特異抗原（ESAT-6、CFP-1
 
 - **TB1 / TB2**：Gold Plus 版新增設計，將抗原管拆為兩管。TB1 為短胜肽，主要刺激 CD4+ T 細胞；TB2 額外含刺激 CD8+ T 細胞的序列，對免疫功能較弱族群（如免疫低下、老年）更敏感。判讀採 OR 邏輯：TB1、TB2 任一達陽性閾值即報 Positive。
 - **T-SPOT 的 Panel A / Panel B**：T-SPOT 沒有 TB1/TB2 命名，而是把 ESAT-6（Panel A）與 CFP-10（Panel B）分開單獨測試，判讀同樣採 OR 邏輯。與 QuantiFERON 的分法邏輯不同：QuantiFERON 是「同抗原組合、拆細胞亞群（CD4 vs CD4+CD8）」，T-SPOT 則是「拆抗原種類、不特別分細胞亞群」。
+
+## IGRA 陽性與 LTBI 的關聯
+
+- IGRA 陽性代表曾感染 *M. tuberculosis*（免疫記憶存在），**但無法區分 active TB 或 latent TB（LTBI）**。LTBI 診斷 = IGRA（或 TST）陽性 **+** 排除 active TB（無症狀、影像正常、工作檢查陰性）。
+- 優於 TST 之處：ESAT-6、CFP-10 為 *M. tuberculosis complex* 特有抗原，BCG 疫苗株與多數 NTM 皆無此抗原，故不受卡介苗接種史干擾，特異性較高。
+- **IGRA 陰性不能排除 active TB**：其對 active TB 的敏感度並非 100%（文獻約 80–90%，隨檢驗版本與族群而異），嚴重免疫低下（如 HIV/CD4 極低、高劑量免疫抑制劑）、miliary TB、部分肺外結核、極端年齡族群易出現假陰性；懷疑 active TB 時仍須仰賴痰塗片／培養、NAAT、影像學診斷，不可單憑 IGRA 陰性排除。
+- 風濕科意義：生物製劑（尤其 anti-TNF）治療前常規篩檢 IGRA，陽性且排除 active TB 後歸類為 LTBI，需先給予／併用預防性抗結核藥物（如 INH）再開始生物製劑，以降低治療後 latent TB 活化風險。
 - **Nil（陰性對照）**：未加任何刺激物，測血液本底 IFN-γ 值；TB1、TB2、Mitogen 皆需扣除 Nil 值後才判讀，用以校正非特異性雜訊（避免假陽性）。
 - **Mitogen（陽性對照）**：加入 PHA 等非特異性活化劑，不分抗原專一性刺激所有 T 細胞，用來確認受檢者 T 細胞本身有無能力產生 IFN-γ 反應。若 TB1、TB2 皆陰性、但 Mitogen−Nil 也偏低，代表淋巴球反應能力不足（如嚴重免疫抑制、淋巴球低下），此時應判為 Indeterminate 而非 Negative，以避免假陰性誤判。
