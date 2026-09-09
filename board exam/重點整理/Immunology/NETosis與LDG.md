@@ -12,7 +12,24 @@
 
 ---
 
-## 二、NETosis 的兩種類型
+## 二、什麼會刺激 NETosis 形成？（誘發因子）
+
+| 類別 | 代表分子/情境 | 備註 |
+|---|---|---|
+| 病原體 / PAMPs | 細菌（尤其 gram-negative，經 TLR4 辨識 LPS）、真菌（Candida）、病毒 | 大型病原體無法被吞噬時，NET 作為替代清除機制 |
+| 免疫複合體 / 自體抗體 | Anti-dsDNA、anti-RNP、anti-ribosomal P；**ANCA (anti-MPO/anti-PR3)**；antiphospholipid antibodies (aPL) | ANCA 活化 primed neutrophil 是 AAV 核心機轉；aPL 促進 NETosis，與 APS 血栓相關 |
+| 補體活化 | **C5a**（經 C5aR） | AAV 中 prime neutrophil，使其對 ANCA 更敏感 |
+| 細胞激素 | IL-8、TNF-α、GM-CSF、**Type I IFN (IFN-α)** | 與 NETosis 在 SLE 中形成正回饋循環（見第八節惡性循環圖） |
+| 活化血小板 | 經 P-selectin、TLR4 與 neutrophil 交互作用 | 常見於血栓／血管炎情境 |
+| 結晶 | MSU crystals（痛風）、cholesterol crystals | 放大痛風性關節炎 |
+| 體外實驗刺激物 | **PMA (phorbol myristate acetate)** | 誘發 NOX-dependent suicidal NETosis 的經典試劑 |
+| 代謝／其他 | Hyperglycemia、hypoxia、oxidative stress、smoking/nicotine | |
+
+> 誘發因子最終走向 suicidal 或 vital NETosis 兩條路徑，詳見下節分類。
+
+---
+
+## 三、NETosis 的兩種類型
 
 | 類型 | 機制 | 速度 | 細胞命運 |
 |------|------|------|----------|
@@ -23,7 +40,7 @@
 
 ---
 
-## 三、NET 的成分
+## 四、NET 的成分
 
 NET 不是單純的「DNA 網子」，而是多種成分打包噴出，各自在不同疾病中扮演不同角色。
 
@@ -72,7 +89,7 @@ NET 不是單純的「DNA 網子」，而是多種成分打包噴出，各自在
 
 ---
 
-## 四、NETosis 在各疾病的角色
+## 五、NETosis 在各疾病的角色
 
 | 疾病 | NETosis 的角色 |
 |------|---------------|
@@ -84,7 +101,7 @@ NET 不是單純的「DNA 網子」，而是多種成分打包噴出，各自在
 
 ---
 
-## 五、LDG（Low Density Granulocytes）
+## 六、LDG（Low Density Granulocytes）
 
 ### 定義
 
@@ -107,7 +124,7 @@ IFN-α 作用於骨髓 → 促進不成熟嗜中性球提早釋放入血 → 這
 
 ---
 
-## 六、LDG 的三大病理作用
+## 七、LDG 的三大病理作用
 
 ### 1. 自發性 NETosis → DAMP 工廠
 
@@ -128,7 +145,7 @@ IFN-α 作用於骨髓 → 促進不成熟嗜中性球提早釋放入血 → 這
 
 ---
 
-## 七、SLE 的 LDG / NETosis 惡性循環（核心）
+## 八、SLE 的 LDG / NETosis 惡性循環（核心）
 
 ```
 遺傳易感性 + 環境觸發（感染/UV）
@@ -156,7 +173,7 @@ IFN-α 作用於骨髓
 
 ---
 
-## 八、NETosis 的檢測方法
+## 九、NETosis 的檢測方法
 
 ### 口試速記表
 
@@ -201,7 +218,7 @@ IFN-α 作用於骨髓
 
 ---
 
-## 九、考試常見考點整理
+## 十、考試常見考點整理
 
 | 考點 | 答案 |
 |------|------|
@@ -218,7 +235,7 @@ IFN-α 作用於骨髓
 
 ---
 
-## 十、一句話總結
+## 十一、一句話總結
 
 > **NETosis 是嗜中性球的「自爆式武器」；LDG 是 IFN-α 製造出來的「缺陷嗜中性球」，天生就容易自發 NETosis，又反過來產生更多 IFN-α，是 SLE 自體免疫惡性循環的核心驅動者。**
 
