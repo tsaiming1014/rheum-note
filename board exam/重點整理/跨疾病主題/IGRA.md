@@ -90,3 +90,27 @@ CDC / NTCA 建議：優先使用**短療程、rifamycin-based** 的 LTBI 治療�
 即 **LTBI 治療滿 4 週（1 個月）即符合申請生物製劑資格**，不需等整個 LTBI 療程（3HP 3 個月／4R 4 個月／3HR 3 個月）全部完成。滿 4 週後，生物製劑與剩餘 LTBI 療程**可併行使用**，不必先後分開進行，此原則也與國際（CDC/ATS）常見做法一致。
 
 實務流程（如 RA 疾病活動度高、IGRA 陽性）：立即啟動 LTBI 治療 → 等待期間以現有 csDMARD 盡量控制病情 → 滿 4 週後檢附 IGRA 篩檢紀錄及治療紀錄申請生物製劑 → 核准後生物製劑與剩餘 LTBI 療程並行至療程結束。
+
+## 3HP／4R／3HR 與風濕科用藥常見交互作用（DDI）
+
+**Rifampin／Rifapentine（4R、3HP 皆含）— 強效 CYP3A4／P-gp 誘導劑**，會加速受質藥物代謝、使血中濃度大幅下降：
+
+- **Glucocorticoids**（prednisolone 等）：代謝加速、療效下降，併用期間必要時需提高類固醇劑量。
+- **JAK 抑制劑**（tofacitinib、upadacitinib）：屬 CYP3A4 受質，exposure 顯著下降，原廠仿單建議避免併用強效 CYP3A4 誘導劑；baricitinib 主要經腎臟排除、CYP3A4 依賴性較低，交互作用相對較小。
+- **Calcineurin inhibitor**（cyclosporine、tacrolimus）：血中濃度大幅下降，若必須併用需大幅調高劑量並密切監測藥物濃度。
+- **生物製劑**（anti-TNF、IL-6/17/23 inhibitors、abatacept、rituximab 等）：為蛋白質類藥物，經 catabolism 而非肝臟 CYP 代謝，**理論上與 rifamycin 類無顯著藥物動力學交互作用**，這也是滿 4 週後兩者可併行使用的重要原因之一。
+
+**Isoniazid（3HP、3HR 皆含）— 主要風險為肝毒性疊加，非酵素誘導**：
+
+- 與 **Methotrexate、Leflunomide** 併用：兩者皆有肝毒性，屬**加成性肝毒性風險**，需密切監測 LFT，必要時調整劑量或監測頻率。
+- 周邊神經病變風險：建議併用 **Vitamin B6（pyridoxine）**預防。
+
+**整理**
+
+| 處方 | 主要機轉 | 高風險併用藥物 | 處理原則 |
+|---|---|---|---|
+| 4R | Rifampin：CYP3A4/P-gp 誘導 | 類固醇、JAK 抑制劑（tofa/upa）、cyclosporine/tacrolimus | 避免併用或調高劑量、密切監測 |
+| 3HP | Rifapentine：CYP3A4/P-gp 誘導 ＋ Isoniazid：肝毒性 | 同上 ＋ MTX/Leflunomide（肝毒性疊加） | 同上 ＋ 監測 LFT、補充 B6 |
+| 3HR | Rifampin：CYP3A4/P-gp 誘導 ＋ Isoniazid：肝毒性 | 同上 | 同上 |
+
+NSAIDs、hydroxychloroquine、sulfasalazine 與上述三種處方**無顯著交互作用**，可正常併用。
