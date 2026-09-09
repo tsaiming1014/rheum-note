@@ -1,4 +1,4 @@
-# IGRA (Interferon-Gamma Release Assay)
+# IGRA 與 Latent TB 治療
 
 ![IGRA](../images/IGRA.png)
 
