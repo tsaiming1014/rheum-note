@@ -96,6 +96,45 @@ VEXAS（Vacuoles, E1 enzyme, X-linked, Autoinflammatory, Somatic）syndrome 是�
   - **MDS 病人應常規篩檢 UBA1**：包括男性、無法分類型或 MDS/MPN overlap 型 MDS、單純帶有 DNMT3A/TET2/ASXL1 突變者，或合併發炎性臨床表現者
 - **正式指引現況**：2025 年 8 月，**International VEXAS Working Group Expert Panel** 首次發表正式的國際共識指引（**ACR Guidance Statement**，Mekinian et al., *Arthritis Rheumatol* 2025），同時涵蓋診斷與臨床處置。
 
+## 鑑別診斷（Differential Diagnosis）
+
+VEXAS 因症狀波動、多系統侵犯，臨床上常被誤診為以下疾病，最終仍需以 UBA1 基因檢測區分：
+
+### 血管炎類（最常被誤診的方向）
+
+- **ANCA-associated vasculitis（GPA、MPA、EGPA）**：影像／切片像血管炎但 ANCA 陰性、對標準治療反應差時應懷疑 VEXAS
+- **切片陰性的 GCA（biopsy-negative GCA）**：VEXAS 曾有顳動脈局部嗜中性球浸潤的病例報告，模擬 GCA
+- **Polyarteritis nodosa（PAN）**：皮膚中型血管侵犯型的 VEXAS 可模擬
+- **Behçet's disease**：口腔／生殖器潰瘍、葡萄膜炎、血管侵犯重疊時需鑑別
+
+### 軟骨炎類
+
+- **Relapsing polychondritis（RPC）**：最重要的鑑別診斷，尤其 **p.Met41Thr** 變異型的 VEXAS 臨床表現幾乎與典型 RPC 一模一樣。鑑別點：VEXAS 軟骨炎通常**不造成永久性軟骨破壞**，且合併巨球性貧血／血球低下、UBA1 突變陽性
+
+### 自體發炎／週期性發燒類
+
+- **Adult-onset Still's disease（AOSD）**：高燒、皮疹、關節炎、高 ferritin，年輕成人較常見，但仍需與 VEXAS 鑑別
+- **Schnitzler syndrome**：蕁麻疹樣皮疹＋單株丙種球蛋白病＋反覆發燒，與 VEXAS 的蕁麻疹樣病灶＋MGUS（約 20%）高度重疊，是特別容易混淆的一個
+- **Sweet's syndrome（原發性嗜中性球性皮膚病）**：VEXAS 皮膚病理本身就常呈現 Sweet's-like 表現，**p.Met41Leu** 變異型尤其如此
+
+### 血液腫瘤類
+
+- **原發性 MDS**（不合併 UBA1 突變）：VEXAS 相關 MDS 是獨立疾病實體，需靠 UBA1 基因檢測區分
+- **多發性骨髓瘤／MGUS**（原發性，非 VEXAS 相關）
+- **Castleman disease**（尤其 multicentric）：VEXAS 淋巴結變化曾被誤判為此病
+- **再生不良性貧血（aplastic anemia）**：血球低下＋骨髓增生度過高需鑑別
+
+### 感染／類感染表現
+
+- **反覆發作、「培養陰性」的蜂窩性組織炎或肺炎**：其實常是 VEXAS 的發作（flare），而非真正感染，是臨床上最容易延誤診斷的陷阱
+- **非典型分枝桿菌感染（NTM）**：VEXAS 病人本身對 NTM 易感染，兩者可能並存，需仔細鑑別
+
+### 其他系統性疾病
+
+- **SLE**：VEXAS 常見非特異性自體抗體陽性（造成診斷延遲）、假陽性 lupus anticoagulant，需與真正的 SLE／APS 鑑別
+- **IgG4-related disease**：眼眶周圍病灶、多器官纖維發炎表現可能重疊
+- **Sarcoidosis**：多系統肉芽腫性發炎，肺部浸潤、多器官侵犯型態可能相似
+
 ---
 
 資料來源：Groarke EM, Turturice B, Patel BA, Quinn KA, Fike A, Grayson PC. VEXAS syndrome: a comprehensive review of pathogenesis, clinical spectrum, and therapeutic strategies. *Lancet* 2026; 407: 637–48.
