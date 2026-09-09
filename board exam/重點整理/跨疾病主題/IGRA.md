@@ -1,5 +1,7 @@
 # IGRA (Interferon-Gamma Release Assay)
 
+![IGRA](../images/IGRA.png)
+
 ## 原理概論
 
 IGRA 是偵測宿主 T 細胞對 *M. tuberculosis* 特異抗原（ESAT-6、CFP-10，QuantiFERON 另加 TB7.7）反應的檢驗，曾感染或潛伏結核的個體，T 細胞會被這些抗原刺激而分泌 IFN-γ。目前臨床常用兩種平台，偵測方式不同但抗原基礎相同：
