@@ -134,6 +134,9 @@ For patients on CYC, consider:
 Kelly 指出，10–50% 的 anti-GBM disease 病人同時 ANCA 陽性（多為 MPO-ANCA），且 ANCA 可能在 anti-GBM disease 發病前多年就已存在，支持兩者致病機轉有交互作用（anti-GBM 引起的組織破壞可能暴露新的抗原表位，誘發 ANCA 產生；反之 ANCA 造成的血管內皮/GBM 損傷也可能誘發 anti-GBM 抗體）。雙陽性病人常常兩個抗體同時都在參與致病，臨床上很難說「只有一個」在作用，但仍有幾個層面可幫助判斷「目前這次 RPGN/DAH 主要是哪個機轉主導」：
 
 1. **腎臟切片（最關鍵）— Immunofluorescence Pattern**：所有 crescentic GN 光學顯微鏡下長得都很像（Kelly Fig. 90.6），須靠 IF 區分 pauci-immune、immune complex、anti-GBM 三種機轉。
+
+   ![anti-GBM pathology](../../images/anti-GBM%20pathology.png)
+
    - **Linear IgG along GBM**（+/- C3）→ anti-GBM-driven。
    - **Pauci-immune**（幾乎無 Ig/complement 沉積，crescent 為主）→ ANCA-mediated。
    - 雙陽性病人切片常兩者並存；若某次以 linear IgG 為主、幾乎無 pauci-immune crescent，傾向該次以 anti-GBM 為主。
