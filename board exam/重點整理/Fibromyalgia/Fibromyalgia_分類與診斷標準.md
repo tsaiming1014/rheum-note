@@ -114,7 +114,87 @@ FM 屬 **慢性原發性疼痛（chronic primary pain）** 下的 **慢性廣泛
 
 ---
 
-## 五、重點提醒（考試常考）
+## 五、鑑別診斷（Differential Diagnosis, Kelly Table 52.4）
+
+FM 屬**排除性診斷**，需先排除下列會造成 diffuse myalgias 的疾病。依據 Kelly Table 52.4，分五大類：
+
+**Inflammatory（發炎性）**
+
+| Diagnosis | Findings |
+|---|---|
+| Polymyalgia rheumatica | ESR 和/或 CRP 上升 |
+| Seronegative spondyloarthropathies | 影像異常 |
+| Connective tissue diseases | 血清學陽性 |
+| Systemic vasculitis | 全身性發炎、end organ damage |
+
+**Infectious（感染性）**
+
+| Diagnosis | Findings |
+|---|---|
+| Hepatitis C | 抗體陽性 |
+| HIV | 抗體陽性 |
+| Lyme disease | 抗體陽性 |
+| Parvovirus B19 | 抗體陽性 |
+| Epstein-Barr virus | 抗體陽性 |
+
+**Non-inflammatory（非發炎性）**
+
+| Diagnosis | Findings |
+|---|---|
+| Degenerative joint/spine disease | 影像異常 |
+| **Fibromyalgia** | **Widespread** allodynia/hyperalgesia |
+| Myofascial pain | **Localized** allodynia/hyperalgesia |
+| Joint hypermobility | 關節過動 |
+| Metabolic myopathies | 肌肉切片異常 |
+
+**Endocrine（內分泌）**
+
+| Diagnosis | Findings |
+|---|---|
+| Hypo- 或 hyperthyroidism | 甲狀腺功能異常 |
+| Hyperparathyroidism | 血鈣上升 |
+| Addison's disease | 血中 cortisol 異常 |
+| Vitamin D deficiency | 血中 Vitamin D 過低 |
+
+**Neurologic（神經性）**
+
+| Diagnosis | Findings |
+|---|---|
+| Multiple sclerosis | 神經學檢查及影像異常 |
+| Neuropathic pain | 有明確病因或影像異常 |
+
+**Psychiatric（精神性）**
+
+| Diagnosis | Findings |
+|---|---|
+| Major depressive disorder | 憂鬱篩檢陽性 |
+
+**Drugs（藥物誘發）**
+
+| Diagnosis | Findings |
+|---|---|
+| Statins | 有暴露病史 |
+| Aromatase inhibitors | 有暴露病史 |
+
+> ⚠️ **FM vs Myofascial pain 關鍵區別**：FM 是**廣泛性（widespread）** allodynia/hyperalgesia，Myofascial pain 是**局部性（localized）** allodynia/hyperalgesia，且後者有明確 trigger points。（此為 2025 風專筆試第 62 題考點）
+
+**評估策略（Kelly Fig. 52.1）**
+
+初步評估分三步：
+
+1. **病史**：個人/家族疼痛病史、疼痛性質與分布、伴隨症狀（fatigue、unrefreshing sleep、dyscognition、depression/anxiety）、藥物史
+2. **理學檢查**：關節炎/退化性變化/軟組織病灶（bursitis、tendonitis）、關節過動、CTD 特徵（rash、Raynaud's）、神經學檢查
+3. **實驗室檢查**：CBC、metabolic panel、ESR/CRP、TSH、Vitamin D，其餘依病史/理學發現而定
+
+依結果分三類：
+
+- **FM**：符合 ACR criteria，理學檢查除 widespread allodynia 外正常，實驗室正常，無可疑藥物
+- **Comorbid FM**：合併其他疾病造成部分症狀，但仍符合 ACR criteria → 同時治療原發疾病與 FM（衛教、運動、依主要症狀給藥）
+- **Not FM**：有其他疾病可解釋整體臨床表現，不符合 ACR criteria → 治療該疾病，若廣泛疼痛持續不緩解則重新評估 FM
+
+---
+
+## 六、重點提醒（考試常考）
 
 - 切點：`WPI≥7 + SSS≥5` **或** `WPI 4–6 + SSS≥9`。
 - 廣泛性疼痛＝**5 區中 ≥4 區**，**下顎/胸/腹不算**。
