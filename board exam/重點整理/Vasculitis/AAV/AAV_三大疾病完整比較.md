@@ -69,6 +69,44 @@ ANCA 的靶抗原（MPO/PR3）平常藏在中性球顆粒裡，不是遊離在�
 
 ### GPA 的特殊機轉：PR3 + T cell 軸 → 肉芽腫
 
+#### Granuloma 形成的一般機轉（背景知識）
+
+![Granuloma formation](../../images/Granuloma%20formation.png)
+
+Granuloma 是巨噬細胞為了圍堵無法清除的抗原（感染原、免疫複合體、外來物質）所形成的組織學結構，形成過程：
+
+```
+Macrophage 呈現抗原 → 活化 CD4+ Th1 cells
+        ↓
+Th1 cells 分泌 IFN-γ → 進一步活化 macrophage
+        ↓
+Macrophage 轉變為 epithelioid cells + Langhans giant cells
+        ↓
+外圍被 lymphocytes + fibroblasts 包圍形成一道牆
+```
+
+**組織學重點**：
+
+- Epithelioid histiocytes：活化的巨噬細胞，粉紅色細胞質
+- Langhans giant cells：多核巨細胞，細胞核排列在周邊呈馬蹄形
+- Caseating（乾酪樣壞死，中心 necrosis）：見於 TB、fungal infection
+- Non-caseating（無壞死，實心）：見於 sarcoidosis、Crohn's disease、GPA、beryllium exposure 等
+
+**會形成 granuloma 的疾病（跨科系整理）**：
+
+| 分類 | 疾病 |
+|--|--|
+| Granulomatous vasculitis | **GPA**（PR3 軸，見下）、**EGPA**（嗜酸球性肉芽腫）、**GCA**、**Takayasu arteritis** |
+| 非血管炎的 systemic granulomatous disease | **Sarcoidosis**（non-caseating 的原型） |
+| 消化道相關 | **Crohn's disease**（IBD-associated arthritis 的原發疾病） |
+| Autoinflammatory | **Blau syndrome / EOS**（NOD2 突變） |
+| 結締組織病的局部變形 | **RA rheumatoid nodule**（palisading granuloma） |
+| 職業／環境暴露 | Berylliosis、Silicosis |
+
+> ⚠️ **易混淆點**：IgG4-RD 的病理特徵是 dense lymphoplasmacytic infiltrate + storiform fibrosis + obliterative phlebitis，**通常沒有 granuloma**。切片若看到 granuloma，反而要重新考慮 sarcoidosis 或 GPA，這是鑑別診斷的重要 pearl。
+
+---
+
 #### PR3 的獨特性質
 
 | 性質 | PR3 | MPO |
