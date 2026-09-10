@@ -78,6 +78,28 @@ LM正常，看不到mesangial hypercellularity。但IF/EM可見mesangial immune 
 | Hyaline thrombi | 微血管/小動脈管腔內（免疫複合體堆積，呈玻璃樣） | Class III/IV 活動性指標 |
 | Tubuloreticular inclusions | 內皮細胞「胞漿內」（非免疫複合體本身） | 提示 IFN signature，非特異性但支持狼瘡診斷；需排除 HBV/HCV/HIV 等慢性病毒感染 |
 
+**IF Pattern 比較（與 anti-GBM、pauci-immune 鑑別）**
+
+Lupus nephritis 屬於 immune complex-mediated GN，IF 呈現 **granular**（顆粒狀）沉積，可與其他兩種 crescentic GN 機轉的 IF pattern 做鑑別（詳見 [AAV_治療.md](../Vasculitis/AAV/AAV_治療.md)）：
+
+| 機轉 | IF pattern |
+|---|---|
+| **Anti-GBM disease** | **Linear** IgG（+/- C3）沿 GBM，平滑連續 |
+| **Pauci-immune**（ANCA-associated） | 幾乎無 Ig/complement 沉積（染色陰性或極微量），故稱 "pauci"-immune |
+| **Immune complex GN**（如 **lupus nephritis**、IgA vasculitis） | **Granular**（顆粒狀）IgG/IgA/C3 沉積 |
+
+![LN pathology IF granular](../images/LN%20pathology%20IF%20grannular.png)
+
+> Lupus nephritis 的 granular IF 沉積，對比 anti-GBM 的 linear pattern。
+
+**Full house pattern（狼瘡腎炎特異性表現）**
+
+Lupus nephritis 除了 granular pattern 外，另一項具高度特異性的 IF 特徵是 **"full house" pattern**：**IgG、IgA、IgM、C3、C1q 五項同時陽性**。其他 immune complex GN（如 IgA nephropathy、membranous nephropathy）通常只有 1–2 項免疫球蛋白/補體為主要陽性，五項同時強陽性高度提示 lupus nephritis。
+
+![LN pathology IF full house](../images/LN%20pathology%20IF%20fullhouse.jpg)
+
+> Full house pattern：IgG/IgA/IgM/C3/C1q 同時陽性，為 lupus nephritis 特異性 IF 表現。
+
 ## 四、Activity Index vs Chronicity Index（病理預後因子）
 
 Lupus nephritis（尤其 Class III/IV 增生性腎炎）的病理報告會分別評估 **activity index（活動性指數，可逆）**與 **chronicity index（慢性化指數，不可逆）**，兩者病理意義與治療意涵相反：
