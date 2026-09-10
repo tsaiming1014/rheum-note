@@ -45,7 +45,7 @@
 - 明顯 neutrophilic inflammation
 - Necrotizing vasculitis
 - 明顯壞死
-- 以肉芽腫性發炎（granulomatous inflammation）為主
+- 以[肉芽腫性發炎（granulomatous inflammation）](../跨疾病主題/Granuloma_跨疾病比較.md)為主
 - 符合 macrophage/histiocytic disorder 的病理特徵
 
 **已知診斷者直接排除**
