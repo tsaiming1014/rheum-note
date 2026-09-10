@@ -8,6 +8,8 @@
 
 > **機轉**：TNF 經 TNF-RI（CD120a）/TNF-RII（CD120b）誘發 IL-1、IL-6、GM-CSF 等下游發炎介質，是 RA、PsA、AxSpA 的關鍵致病細胞激素。TNFi 中和 soluble/membrane TNF，部分藥物並可誘導活化巨噬細胞/淋巴球凋亡（是否誘導凋亡，決定該藥對 IBD/uveitis 是否有效，詳見下方補充）。
 
+> **誘導凋亡機轉 1——Reverse signaling（outside-to-in signaling）**：tmTNF（transmembrane TNF）本身除了是 ligand，也可以扮演「receptor」的角色。當 anti-TNF 藥物（尤其是 full-length IgG1 抗體，如 infliximab、adalimumab）與細胞表面的 tmTNF 結合並使其 crosslink 後，會透過 tmTNF 的胞內尾端反向傳遞訊號進入表現 tmTNF 的細胞內（如活化的 monocyte、macrophage、T cell），進而啟動細胞凋亡路徑。這與傳統「TNF → TNFR」的順向訊號方向相反，故稱 reverse signaling。
+
 | Group | 學名 | 中文名 | 商品名 | 藥商 | 用量 | 途徑 | 副作用 | 特色 | 藥價(售價) | Indication |
 |---|---|---|---|---|---|---|---|---|---|---|
 | Chimeric mAb against TNF（~70%人源化IgG1κ） | Infliximab | 類克　凍晶注射劑　100毫克 | Remicade powder for infu. 100 mg | Janssen (楊森) JJ子公司 | <details><summary>用量</summary>Induction: 3 mg/kg IV at 0, 2, 6 wk<br>Maintain: 3 mg/kg IV Q8W</details> | IV | Infusion reaction、免疫原性高 | 首個anti-TNF mAb；誘導凋亡→IBD有效 | 8919.9 | RA、AS、PsA、PsO、Crohn's、UC（含小兒） |
