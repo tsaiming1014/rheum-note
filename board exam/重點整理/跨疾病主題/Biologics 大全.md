@@ -65,7 +65,7 @@
 - **Secukinumab**：candidiasis含食道念珠菌，多輕微；使IBD惡化或誘發新發IBD（有IBD病史者避免使用）。Refractory uveitis小型試驗中5例全數於治療中發作，機轉推測與單抑IL-17A後IL-17F代償上升有關；反覆/嚴重uveitis病史者宜改用單株anti-TNF。劑量依適應症不同（PsA 150mg vs PsO 300mg）。
 - **Ixekizumab**：與secukinumab類似之IBD/candidiasis風險；PK特點——大腿注射生體可用率高於腹部/上臂；PsO誘導期劑量較密集（Q2W至12週後才延長為Q4W）。
 - **Brodalumab**：美國仿單黑框警語為自殺意念/行為（因果關係未證實，美國上市需透過REMS計畫管控），用藥前應評估精神科病史。機轉上因IL-17A/F、C、E(IL-25)之受體複合體皆需IL-17RA才能傳訊，鎖住RA即連帶阻斷這些ligand，範圍比anti-IL-17A單株抗體更廣。
-- **Bimekizumab**：PsO療效在head-to-head試驗中優於單標靶IL-17A藥物，代價是念珠菌感染率較高。Uveitis保護效果見於BE MOBILE pooled分析（EAIR 1.2/100 PYs，顯著低於placebo），與同時封鎖IL-17A+F、堵住IL-17F代償escape的機轉一致。
+- **[Bimekizumab](../Immunology/PsA_IL17A_F機轉差異.md)**：PsO療效在head-to-head試驗中優於單標靶IL-17A藥物，代價是念珠菌感染率較高。Uveitis保護效果見於BE MOBILE pooled分析（EAIR 1.2/100 PYs，顯著低於placebo），與同時封鎖IL-17A+F、堵住IL-17F代償escape的機轉一致。
 
 ---
 
