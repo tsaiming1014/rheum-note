@@ -105,6 +105,7 @@
 | JAK 1 selective | Abrocitinib | 喜繽果 膜衣錠 200毫克 | **Cibinqo FC tab 200 mg** | Pfizer | <details><summary>用量</summary>AD: 100mg QD 或 200mg QD</details> | PO | Class-wide黑框警語 | 適應症為AD，非風濕病用藥 | 878.9 | AD |
 | **TYK2 inhibitor（allosteric）** | Deucravacitinib | | **Sotyktu 6mg tab** | Bristol Myers Squibb | <details><summary>用量</summary>PsO/PsA: 6mg QD</details> | PO | 鼻咽炎、cold sore（HSV）、輕度LFT上升；**未納入黑框警語** | 首個TYK2 inhibitor；核准PsO+PsA；SLE phase II正向 | | PsO、PsA |
 | **JAK1/TYK2 dual（allosteric TYK2 + ATP-competitive JAK1）** | Brepocitinib | | **Lisraya tab 30 mg** | Priovant Therapeutics | <details><summary>用量</summary>Dermatomyositis: 30mg QD</details> | PO | Class-wide黑框警語 | 2026 NEJM VALOR 第一個DM口服藥物 | | DM |
+| JAK3/TEC family inhibitor | Ritlecitinib | | **Litfulo cap 50 mg** | Pfizer | <details><summary>用量</summary>50mg QD</details> | PO | Class-wide黑框警語 | 首個核准治療AA之JAK inhibitor | | AA（重度圓禿） |
 
 **藥物補充說明**：
 
