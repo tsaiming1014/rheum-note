@@ -134,7 +134,35 @@ Classification criteria（2016 ACR/EULAR）聚焦於腺體，而 disease activit
 
 ---
 
-## 六、口試核心三角
+## 六、補充機轉：ILC2 與 Tfh/Tph pathway
+
+（近年新興研究方向，2022 口試加分題來源；與前述「上皮細胞是致病核心」框架相通——多了 innate（ILC2）與 adaptive（Tfh/Tph）兩條分支路徑，而這兩條路徑其實都被同一個上皮細胞驅動）
+
+### （一）ILC2 pathway：IL-25 → Th2-skewed inflammation
+
+- **上游觸發**：唾液腺導管（striated duct）內的 tuft cells（位於淋巴球浸潤灶旁）分泌 **IL-25**
+- IL-25 活化 **ILC2** 與 **Th2 cells** → 分泌 IL-4、IL-13 → 驅動 Th2-skewed 局部發炎
+- 與**anti-SSA 自體抗體濃度上升**、SS-related lymphoma 相關
+- **Type I IFN 調控 ILC2 存活**：pDC 分泌的 Type I IFN 上調 ILC2/ILC3 表面 **Fas** 表現；病人 Type I IFN signature 強度與周邊血 ILC2 頻率相關（呼應本文二-(二) Type I IFN 為最上游開關的概念）
+- **IL-7/IL-7R axis** 被認為參與唾液腺內 ectopic lymphoid structure（GC-like structure）的形成，暗示 ILC2 不只是分泌 cytokine 的旁觀者，也參與 GC 建構
+
+### （二）Tfh/Tph pathway：IL-21 → B cell 失控
+
+- **上游觸發**：SGEC 分泌 **IL-6**，同時表現 **ICOSL**（ICOS 的配體）→ 兩者協同促使浸潤的 CD4+ T cells 分化為 **Tfh cells**（ICOS-dependent）
+- Tfh（及 **Tph, T peripheral helper cells**）大量分泌 **IL-21** → 驅動 germinal center 內 B cell clonal selection 與 affinity maturation
+- **IL-21⁺ Tfh/Tph 族群的擴增（受 ICOS 調控）可標記出哪些病人有 ectopic germinal center，並預測 MALT lymphoma 風險**（呼應本文四-(四) Ectopic GC 為 MALT lymphoma 發源地的概念）
+
+### （三）兩條路徑的交會點：上皮細胞仍是共同上游
+
+SGEC 在被 **IL-17 + IL-18** 協同刺激時會分泌 IL-6，而這個 IL-6 **同時支持 ILC2 擴增和 Tfh 分化**。
+
+ILC2（innate）與 Tfh（adaptive）表面上是兩條不同的免疫路徑，實則都被「autoimmune epithelitis」核心概念統合：上皮細胞同時驅動 innate 與 adaptive 兩翼免疫反應，最終匯流到 ectopic germinal center 的形成與自體抗體/淋巴瘤風險。
+
+> 出處：Frontiers in Immunology 2024（SGEC cytokines in SS immunopathology）；PMC13535946（Tuft cells 在 SS 致病機轉中的角色）；Rheumatology (Oxford) 2019, doi:10.1093/rheumatology/kez116（ILC2/3 Fas expression 與 IFN signature）；PMC7677495（IL-21+ Tfh/Tph、ICOS、ectopic GC、MALT lymphoma）。
+
+---
+
+## 七、口試核心三角
 
 ```
 Type I IFN（最上游的開關）
