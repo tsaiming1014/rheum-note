@@ -76,6 +76,7 @@
 | CTD-ILD | [CTD-ILD 治療實證整理（EULAR 2025 ILD session）](跨疾病主題/CTD-ILD_治療實證整理_EULAR2025.md) |
 | Pregnancy in rheumatic disease | 風濕病與妊娠（2022 BSR Part 1 & 2） |
 | IGRA | [IGRA 與 Latent TB 治療](跨疾病主題/IGRA.md) |
+| Granuloma | [Granuloma 形成機轉與跨疾病比較](跨疾病主題/Granuloma_跨疾病比較.md) |
 
 ---
 

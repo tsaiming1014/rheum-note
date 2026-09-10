@@ -87,6 +87,28 @@
 
 **Immunostaining 加權表**：以 IgG4+ plasma cells/hpf（0–9、10–50、≥50）交叉 IgG4:IgG ratio（indeterminate、0–40%、41–70%、≥70%）計分，範圍 0–16分，最高分為 IgG4+ ≥50/hpf 且 ratio ≥70%。
 
+## 病理組織學特徵圖解
+
+![IgG4-RD pathology](../images/IgG4RD%20pathology.png)
+
+上圖對應到 Weighted Inclusion Criteria 中 **Histopathology domain** 的三個組成：
+
+| 圖 | 病灶 | 病理特徵 | 對應 Domain 計分 |
+|---|---|---|---|
+| (a) | IgG4-related sialadenitis | 唾液腺廣泛被 lymphocytes + plasma cells 浸潤 | Dense lymphoplasmacytic infiltrate（4分） |
+| (b) | IgG4-related sialadenitis | 可合併中等量 eosinophils 浸潤（H&E, 400×） | 屬於 dense lymphoplasmacytic infiltrate 的常見伴隨表現，非獨立加分項 |
+| (c) | IgG4-related orbital disease | 不規則漩渦狀纖維化（storiform fibrosis） | + storiform fibrosis（13分，權重最高的組織學特徵） |
+| (d) | Type 1 autoimmune pancreatitis（IgG4-related pancreatitis） | 靜脈（\*）被聚集的發炎細胞完全阻塞（obliterative phlebitis），鄰近動脈仍通暢 | + obliterative phlebitis（6分） |
+| (e) | 同上病灶（elastin stain, 100×） | 阻塞的靜脈在 H&E 常不易辨認，需靠 **elastin stain** 才能明確判讀 obliterative phlebitis | — |
+| (f) | Type 1 autoimmune pancreatitis | 靜脈壁全層（transmural）被發炎細胞浸潤，但管腔**未**阻塞 | ⚠️ **不算 obliterative phlebitis**（缺乏管腔阻塞，只有 transmural infiltration） |
+
+### 重點整理
+
+- **Storiform fibrosis** 在三個組織學特徵中權重最高（13分），也是 IgG4-RD 最具特異性的病理表現。
+- **Obliterative phlebitis** 的判定需要管腔完全阻塞；若只是靜脈壁被浸潤但管腔仍通暢（如圖 f），不能算作 obliterative phlebitis——這是分類標準刻意排除的偽陽性陷阱。
+- 因為 obliterative phlebitis 在 H&E 常常難以辨識（阻塞的靜脈易被誤判為單純纖維化組織），**建議常規加做 elastin stain** 才能可靠診斷。
+- Eosinophil 浸潤在 IgG4-RD 並不少見，但不是加權項目；若 eosinophil 為主要浸潤細胞群，需留意 exclusion criteria 中 peripheral eosinophilia 等鑑別（如 EGPA）。
+
 ## 判定標準
 
 **符合 entry criteria** + **無任一 exclusion criteria** + **inclusion criteria 總分 ≥20分** → 可分類為 IgG4-RD。
