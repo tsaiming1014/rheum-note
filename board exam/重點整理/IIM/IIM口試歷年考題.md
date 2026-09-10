@@ -147,6 +147,81 @@ IIM 在風專口試中固定為一個獨立考站（常與 SSc 合併同站，�
 - 同學提到 statin-induced myopathy，和 IIM 如何區別？
 - IIM 還有哪些 muscle 的 involvement（oropharynx）
 
+**詳解整理**
+
+1. **如何區別真的是 IIM（而非 fatigue、單純 muscle wasting）**
+
+   - 病程時序：IIM（尤其 DM/PM）典型為**亞急性**（數週至數月漸進惡化）；急性（數天內）要想 GBS、電解質異常、periodic paralysis；慢性經年不變則較像 muscular dystrophy、disuse、老化性 sarcopenia
+   - 需區分病人説的「沒力」是真正 weakness（特定動作做不到），還是 general fatigue（做得到但易累，可能是貧血、憂鬱、malignancy 的全身性表現），或單純 muscle wasting/廢用（肌力相對保留）
+   - 問診用「具體做不到什麼動作」比「有沒有沒力」更有鑑別力：蹲下站不起來、爬樓梯要扶扶手、梳頭/曬衣服舉不起手，才是 proximal weakness 的功能性表現
+   - 伴隨症狀：皮膚（heliotrope rash、Gottron's papules/sign、shawl sign、V-sign、mechanic's hands）、全身症狀（發燒、體重減輕）、呼吸道（乾咳/喘，提示 ILD，尤其 anti-synthetase syndrome、anti-MDA5）、吞嚥困難、藥物史（statin 等）、malignancy risk factors（年齡、抽菸）
+
+2. **Proximal muscle involvement**
+
+   - 典型分布：肩帶肌（deltoid）、hip girdle（iliopsoas、gluteus）、neck flexors，且為**對稱性**
+   - 功能評估：Gower's sign、蹲下站立測試、手臂外展抗重力維持測試、MRC grading（0–5）
+
+3. **如何從病史、PE 區分肌肉 vs 神經病變**
+
+   | | Myopathy | Neuropathy |
+   |---|---|---|
+   | 分布 | Proximal > distal，對稱 | 常 distal > posterior（length-dependent），可能不對稱 |
+   | 感覺症狀 | 無 | 常有麻、刺痛、感覺異常 |
+   | 自主神經症狀 | 無 | 可能有（姿勢性低血壓、腸胃症狀） |
+   | 肌肉痛 | IIM 通常輕微或無 | 神經性疼痛性質不同（burning、shooting） |
+   | 肌肉萎縮/fasciculation | 較晚出現、對稱、少 fasciculation | 較早出現明顯萎縮與 fasciculation |
+
+4. **PE 鑑別重點：DTR，以及 IIM 不同病程 DTR 的變化**
+
+   - 原理：DTR reflex arc = afferent nerve → spinal cord → efferent nerve → muscle（effector）。Neuropathy 是 reflex arc 本身（傳入/傳出神經）受損，故**早期即 DTR 減弱或消失**，且減弱程度常「超過」肌力減退程度；Myopathy 是單純 effector（肌肉）出問題，neural pathway 完整
+   - **IIM 早期/中度**：DTR 通常**正常或僅輕微減弱**，且減弱程度不成比例地輕於肌力喪失——「肌力明顯下降但 DTR 還在」是支持 myopathy 而非 neuropathy 的重要線索
+   - **IIM 晚期/嚴重 muscle wasting**：當肌肉萎縮嚴重、effector 量不足時，DTR 才會跟著減弱甚至消失，且與肌肉萎縮程度平行，而非早期獨立現象
+   - 一句話：**Neuropathy 是 DTR 早期消失且常與 weakness 不成比例；Myopathy 是 DTR 保留到後期，隨肌肉量流失才跟著減弱。**
+
+5. **如何與 Myasthenia Gravis (MG) 區分**
+
+   | | IIM | MG |
+   |---|---|---|
+   | Weakness 型態 | Fixed，持續性，不隨活動變化 | **Fatigability**：活動後惡化、休息後改善；diurnal variation（傍晚較差） |
+   | 眼外肌 | **幾乎不侵犯**（重要鑑別點） | 常見早期表現：ptosis、diplopia |
+   | Bulbar 症狀 | 若有則持續性 | 常呈波動性 |
+   | CK | 常升高 | 正常 |
+   | 特異抗體 | MSA/MAA（anti-Jo-1、anti-Mi-2 等） | AChR-Ab、MuSK-Ab |
+   | 電生理 | EMG 呈 myopathic pattern，可有自發性 fibrillation/positive sharp waves | Repetitive nerve stimulation 呈 decremental response；single-fiber EMG jitter 增加 |
+   | 床邊測試 | 不適用 | Ice pack test 可改善 ptosis |
+
+   眼外肌是否受侵犯是床邊快速鑑別重點——IIM 幾乎不會有 ptosis/diplopia，若病人有明顯眼球運動障礙，優先想 MG。
+
+6. **可以做什麼檢查**
+
+   - 肌肉酵素：CK、aldolase、AST/ALT/LDH（注意 AST/ALT 升高可能來自肌肉而非肝臟，易誤判）
+   - 發炎指標：ESR/CRP（IIM 常不會很高，不能用來排除診斷）
+   - MSA：anti-Jo-1（及其他 anti-synthetase：PL-7、PL-12、EJ、OJ、KS）、anti-Mi-2、anti-TIF1-γ、anti-NXP2、anti-SAE、anti-MDA5、anti-SRP、anti-HMGCR
+   - MAA：anti-Ro/SSA、anti-U1RNP、anti-PM-Scl、anti-Ku（提示 overlap syndrome）
+   - EMG/NCS：確認 myopathic pattern，排除 neuropathy
+   - Muscle MRI（STIR/T2 fat-suppressed）：肌肉水腫分布，可引導 biopsy 部位
+   - Muscle biopsy：gold standard；DM 為 perifascicular atrophy + 補體/微血管病變；PM/IBM 為 CD8+ T cell 侵入 non-necrotic fiber 的 endomysial inflammation；IMNM 為 necrotizing myopathy，發炎細胞浸潤稀少
+   - ILD 篩檢：HRCT chest、PFT + DLCO（尤其 anti-synthetase syndrome、anti-MDA5）
+   - Malignancy screening（尤其 DM，特別是 anti-TIF1-γ 陽性者）
+   - Nailfold capillaroscopy
+
+7. **Statin-induced myopathy 與 IIM 如何區別**
+
+   Statin-induced myopathy 需分兩種完全不同機制：
+
+   - **單純 statin toxic myopathy**（非自體免疫）：myalgia 較 weakness 明顯，CK 輕到中度升高，**停藥後數週內症狀改善、CK 下降**——這是關鍵鑑別點，不需免疫抑制治療
+   - **Anti-HMGCR IMNM（本身即為 IIM 一亞型）**：statin 誘發真正自體免疫反應，anti-HMGCR 抗體陽性；**停藥後不會改善、持續惡化**（與單純毒性肌病相反）；CK 明顯升高（常 >10,000）；muscle biopsy 呈 necrotizing myopathy，淋巴球浸潤稀少；需類固醇、IVIG 或其他免疫抑制劑治療
+   - 臨床鑑別：停藥後追蹤 CK 與肌力，若持續惡化或數週後未改善，需檢驗 anti-HMGCR 抗體並考慮 biopsy，不可單純歸因藥物毒性
+
+8. **IIM 其他 muscle involvement（oropharynx 等）**
+
+   - Oropharyngeal muscle / 上段食道（近端 1/3 橫紋肌部分）：造成 dysphagia、dysphonia，常代表病情較嚴重或治療反應不佳，有吸入性肺炎風險
+   - 頸部屈肌：典型表現，嚴重時可見「head drop」
+   - 呼吸肌（橫膈）：嚴重時可致呼吸衰竭，尤其 anti-MDA5 相關快速進展 ILD 合併肌無力時要注意
+   - 心肌：myocarditis，為重要併發症
+   - 眼外肌：如前所述，IIM 幾乎不侵犯，可與 MG 鑑別
+   - **IBM (inclusion body myositis)**：除近端外也侵犯**遠端肌肉**（尤其手指屈肌、股四頭肌），常呈不對稱分布；中老年男性、緩慢進展、對免疫抑制反應差時要想到 IBM
+
 ---
 
 ## 考試速記重點（跨年度重複考點）
