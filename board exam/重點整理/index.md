@@ -134,6 +134,7 @@
 | SSc | [口試歷年考題（2019–2025）](SSc/SSc口試歷年考題.md) |
 | SjD | [口試歷年考題（2019–2025）](SjD/SjD口試歷年考題.md) |
 | LVV（GCA/TAK/PMR） | [口試歷年考題（2019–2025）](Vasculitis/Large%20vessel/GCA_TAK_口試歷年考題.md) |
+| Image（影像判讀，第八關） | [圖片判讀彙整（2019–2025）](考試準備/風專歷屆考題/風專口試_圖片判讀彙整_2019-2025.md) |
 
 #### Rheumatologic Emergency — 依器官系統分類
 
