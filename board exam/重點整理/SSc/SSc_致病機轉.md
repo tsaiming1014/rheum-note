@@ -251,6 +251,16 @@ EC 損傷
 
 ### 消化道（GI）——幾乎所有患者皆有
 
+**依節段總覽：**
+
+| 部位 | 常見表現 |
+|---|---|
+| 食道 | Dysphagia、GERD（最常見，~90%） |
+| 胃 | Delayed gastric emptying（gastroparesis）、GAVE（watermelon stomach，造成 occult GI bleeding/anemia，對 SSc 有一定特異性） |
+| 小腸 | Bacterial overgrowth（SIBO）、malabsorption、嚴重時 chronic intestinal pseudo-obstruction (CIPO) |
+| 大腸 | Constipation ↔ diarrhea 交替、wide-mouth diverticula（pathognomonic imaging finding） |
+| 直腸肛門 | Fecal incontinence（internal anal sphincter fibrosis） |
+
 #### 食道（最常見，90% 患者）
 
 **機轉：特別之處——主要不是纖維化造成！**
