@@ -177,18 +177,18 @@
 
 #### 計分（≥ 5 分符合）
 
-| 項目 | 分數 | 定義 |
-|------|------|------|
-| 女性 | +1 | — |
-| 心絞痛 | +2 | — |
-| 肢體跛行（上/下肢） | +2 | — |
-| 動脈雜音 | +2 | — |
-| 上肢脈搏減弱或消失 | +2 | — |
-| 頸動脈脈搏減弱或壓痛 | +2 | — |
-| 兩臂收縮壓差 ≥ 20 mmHg | +1 | 設此閾值以優化對其他 LVV 的特異性 |
-| **受影響動脈領域數**（9條中） | +1 至 +3 | 9 條：胸主動脈、腹主動脈、左/右頸動脈、左/右鎖骨下動脈、腸繫膜動脈、左/右腎動脈；1條=+1，2條=+2，≥3條=+3 |
-| **對稱性分支動脈侵犯** | +1 | 左右對稱性分支動脈侵犯（頸/鎖骨下/腎動脈中任一對）|
-| **腹主動脈 + 腎動脈或腸繫膜動脈侵犯** | +3 | TAK 的特異性影像模式 |
+| Item | Points | Definition |
+|------|--------|------------|
+| Female sex | +1 | — |
+| Angina | +2 | — |
+| Limb claudication | +2 | Upper or lower extremity |
+| Arterial bruit | +2 | — |
+| Reduced upper extremity pulse(s) | +2 | — |
+| Carotid artery pain or tenderness (carotidynia) | +2 | — |
+| Blood pressure difference between arms ≥ 20 mmHg | +1 | 設此閾值以優化對其他 LVV 的特異性 |
+| **Number of affected arterial territories** (out of 9) | +1 to +3 | 9 territories: thoracic aorta, abdominal aorta, left/right carotid, left/right subclavian, mesenteric, left/right renal artery；1 territory=+1，2 territories=+2，≥3 territories=+3 |
+| **Symmetric involvement of paired arteries** | +1 | 左右對稱性分支動脈侵犯（頸/鎖骨下/腎動脈中任一對）|
+| **Abdominal aorta plus renal or mesenteric artery involvement** | +3 | TAK 的特異性影像模式 |
 
 > **「動脈損傷」定義**：狹窄、阻塞、或動脈瘤，由影像學確認。
 > 「受影響動脈領域數」、「對稱性分支動脈侵犯」、「腹主動脈＋腎/腸繫膜侵犯」三項**可同時計分、互不排斥**。
