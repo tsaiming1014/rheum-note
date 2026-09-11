@@ -50,7 +50,7 @@
 
 > ASAS = Assessment of SpondyloArthritis international Society。2009 年發表 axSpA、2011 年發表 pSpA 兩套標準，依**主要症狀是中軸還是周邊**決定套用哪一套。
 
-![ASAS axSpA 分類標準](../../images/ASAS%20criteria%20for%20axial%20SpA.png)
+![ASAS axSpA 分類標準](../../images/SpA%20criteria.jpg)
 
 ### 進入條件（Entry criteria，兩條都要）
 
