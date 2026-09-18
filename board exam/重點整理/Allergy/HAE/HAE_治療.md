@@ -7,6 +7,8 @@
 
 > 致病機轉、分類、臨床特徵與診斷請見：[HAE_致病機轉診斷治療.md](HAE_致病機轉診斷治療.md)
 
+![2021 WAO/EAACI 與 2026 International/Canadian HAE guideline 治療架構：on-demand（症狀緩解）／short-term prophylaxis（降低發作風險）／long-term prophylaxis（達到疾病完全控制），並列出各類別對應藥物](../../images/HAE%20005.jpg)
+
 **核心原則**：mast cell-mediated angioedema 的標準治療（epinephrine、corticosteroid、antihistamine）對 bradykinin-mediated angioedema **均無效**；epinephrine 或有短暫效果但無法改變整體病程。
 
 ## HAE（C1INH 缺乏型）治療架構（Figure 36.7）
