@@ -41,6 +41,8 @@
 
 ![Bradykinin 生成與作用機轉（complement/contact/coagulation/fibrinolytic pathway 及藥物作用位點）](../../images/HAE%20mechanism.png)
 
+![簡化機轉示意圖：C1INH 缺乏／功能異常 → Factor XII 及 kallikrein 活化不受抑制 → bradykinin 過量產生 → B2 receptor 活化 → 血管通透性增加 → angioedema](../../images/HAE%20003.jpg)
+
 ### C1INH 的生理角色
 
 - C1INH 是 serpin（serine protease inhibitor）家族成員，與 α1-antitrypsin 同源，以「分子捕鼠夾」（molecular mousetrap）機制運作——與目標蛋白酶形成 1:1 stoichiometric complex 後一併被清除（suicide inhibitor）。
