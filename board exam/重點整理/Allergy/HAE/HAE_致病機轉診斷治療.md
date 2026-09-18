@@ -173,6 +173,8 @@
 | **HAEGARDA**（皮下 C1INH，**NEJM 補充：亦核准用於 ≥12 歲之預防性給藥**） | 同上 | SC，60U/kg，每 3–4 天一次 | ≥12 歲 | 常見輕度注射部位反應 |
 | **Lanadelumab (Takhzyro)** | 單株抗體，**抑制 plasma kallikrein** | SC，300mg 每 2 週；穩定（無發作）≥6 個月後可考慮延長至每 4 週 | ≥12 歲 | 常見輕度注射部位反應 |
 
+![Icatibant 作用機轉：HAE 發作時 bradykinin 持續與 B2 receptor 結合，經第二訊息傳遞使 cadherin 崩解、血管通透性增加、產生 edema；Icatibant（Firazyr）作為 B2 receptor 拮抗劑，阻斷 bradykinin 結合，cadherin 得以維持完整、血管屏障穩定](../../images/HAE%20006.jpg)
+
 - 建議所有病人接受居家自我注射訓練，任何部位發作都應積極治療以降低致病率死亡率。
 - 血漿（plasma）含 C1INH，也可用於緩解發作，但因含未裂解的 HMWK，偶爾反而誘發急性惡化，須謹慎使用；建議使用 solvent-detergent-treated plasma（病毒安全性較佳）。
 - **17α-alkylated androgens 與 antifibrinolytics 對急性發作治療無效**（僅適用於預防）。
