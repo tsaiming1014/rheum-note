@@ -1,10 +1,14 @@
 # Asthma 藥物治療整理（Pharmacotherapy of Asthma）
 
-> 資料來源：GINA 2026 Strategy Report（[Ch03_Principles_of_Management.md](../../../../Non-autopush/GINA/chapters_md/Ch03_Principles_of_Management.md)、[Ch04_Medications_and_Treatment.md](../../../../Non-autopush/GINA/chapters_md/Ch04_Medications_and_Treatment.md)、[Ch08_Difficult_to_treat_Severe_Asthma.md](../../../../Non-autopush/GINA/chapters_md/Ch08_Difficult_to_treat_Severe_Asthma.md)、[AppendixB_Medication_Classes.md](../../../../Non-autopush/GINA/chapters_md/AppendixB_Medication_Classes.md)）+ 一般藥理學機轉整理。
+> 資料來源：GINA 2026 Strategy Report（[Ch03_Principles_of_Management.md](../../../../Non-autopush/GINA/chapters_md/Ch03_Principles_of_Management.md)、[Ch04_Medications_and_Treatment.md](../../../../Non-autopush/GINA/chapters_md/Ch04_Medications_and_Treatment.md)、[Ch08_Difficult_to_treat_Severe_Asthma.md](../../../../Non-autopush/GINA/chapters_md/Ch08_Difficult_to_treat_Severe_Asthma.md)、[Ch11_Assessment_Management_Children5andYounger.md](../../../../Non-autopush/GINA/chapters_md/Ch11_Assessment_Management_Children5andYounger.md)、[AppendixB_Medication_Classes.md](../../../../Non-autopush/GINA/chapters_md/AppendixB_Medication_Classes.md)）+ 一般藥理學機轉整理。
 
 ---
 
 ## 一、治療階梯總覽（Track 1 vs Track 2, Step 1–5）
+
+### （一）成人／青少年（≥12歲）
+
+![GINA 2026 成人/青少年治療階梯](../../images/GINA%20adult.png)
 
 成人／青少年氣喘治療分兩條 **Track**，差別在 reliever（緩解藥）選擇：
 
@@ -19,6 +23,56 @@
 | **3** | 低劑量 ICS-formoterol **MART**（maintenance 1吸BID + as-needed） | 每日低劑量 ICS-LABA + as-needed ICS-SABA/SABA |
 | **4** | 中劑量 ICS-formoterol MART（maintenance 2吸BID） | 中劑量 ICS-LABA + as-needed ICS-SABA/SABA |
 | **5** | 轉介專科，考慮 add-on：高劑量ICS-LABA試用、LAMA、**生物製劑**（見第四節） | 同左 |
+
+### （二）兒童（6–11歲）
+
+![GINA 2026 兒童6-11歲治療階梯](../../images/GINA%206%20to%2011%20y.png)
+
+兒童 6–11 歲**不像成人分成互斥的 Track 1/2**，Step 1–2 的 preferred controller 是「以 ICS-formoterol 為主」與「ICS+SABA」兩個**並列選項**（依吸入器可近性、家長／病童偏好選擇），而非兩條分開的治療路徑：
+
+| Step | Preferred controller | 其他選項 |
+|---|---|---|
+| **1** | AIR-only：as-needed 低劑量 ICS-formoterol **或** as-needed 低劑量 ICS+SABA（合併或分開吸入器） | — |
+| **2** | 每日低劑量 ICS | as-needed低劑量ICS-formoterol／ICS-SABA（合併或分開）、或**每日LTRA**（療效較弱） |
+| **3** | 中劑量ICS **或** 低劑量ICS-LABA **或** 低劑量ICS-formoterol MART | 低劑量ICS + LTRA |
+| **4** | 中劑量ICS-LABA **或** 低劑量ICS-formoterol MART | Step3 preferred controller加 **tiotropium（LAMA）** 或 LTRA |
+| **5** | 轉介專科做表型評估；考慮較高劑量ICS-LABA，或 add-on：**LAMA、anti-IgE、anti-IL4Rα、anti-IL5** | 轉介專家建議 |
+
+**與成人流程的差異重點**：
+
+- Step1–2 為「ICS-formoterol」與「ICS+SABA」兩個**並列的preferred controller選項**，不是像成人一樣的Track1/2互斥路徑。
+- **LTRA** 在兒童流程中被明列為Step2–4的替代／add-on選項（效果較弱、優先度低於ICS-based方案），成人流程圖未特別標出LTRA。
+- **LAMA（tiotropium）**在兒童可作為Step3 preferred controller的add-on即進入Step4選項，比成人（Step5才考慮LAMA）更早出現。
+- Step5 生物製劑選項為 **anti-IgE、anti-IL4Rα（dupilumab）、anti-IL5**，圖中未列anti-TSLP（tezepelumab在6–11歲的適應症尚不如成人明確）。
+- ICS劑量須採用**兒童（6–11歲）劑量分級表**（見第二節 Box 4-2），與成人劑量表不同。
+- 轉介專科時機另有兒童專屬項目（見第八節）：早產兒診斷存疑、medium-dose ICS仍未控制、疑似生長遲滯等治療副作用。
+
+### （三）兒童（≤5歲，學齡前）
+
+![GINA 2026 兒童5歲以下治療階梯](../../images/GINA%205.png)
+
+≤5歲此年齡層證據非常有限，**Step1沒有preferred的每日controller選項**（"insufficient evidence for daily controller"），且**沒有ICS-formoterol/AIR-only reliever的概念**（因研究不足）；全程reliever皆為 **as-needed SABA**：
+
+| Step | Preferred controller | 其他選項 | 適用族群（"consider this step for children with"） |
+|---|---|---|---|
+| **1** | 無（證據不足以支持每日controller） | 病毒感染初期可考慮短程intermittent高劑量ICS | 不常發作的（如病毒誘發）喘鳴，interval症狀無或極輕微 |
+| **2** | 每日低劑量ICS（見Box 11-3劑量表） | 每日LTRA，或病毒感染初期短程intermittent ICS | 氣喘症狀未控制（Box 11-1），或過去一年≥1次嚴重惡化 |
+| **3** | 低劑量ICS**劑量加倍**（medium dose，非查等效劑量表，而是把Step2劑量乘以2） | 轉介專科評估 | 低劑量ICS治療下仍未控制 |
+| **4** | 持續controller治療並轉介專科評估 | — | Step3 ICS治療下仍未控制 |
+| Reliever | As-needed SABA（pMDI + spacer，依年齡選面罩/咬嘴，見下方裝置表） | — | — |
+
+**升階前必查**（各Step共通）：排除其他診斷、確認吸入技巧與遵從性、詢問過敏原/菸害暴露。
+
+**與6–11歲／成人流程的差異重點**：
+
+- **Step1無daily controller選項**：≤5歲僅建議 as-needed SABA reliever，不像6–11歲/成人有as-needed ICS-formoterol（AIR）作為Step1治療。
+- **Step3是「劑量加倍」而非換藥物**：直接將Step2低劑量ICS劑量乘以2（"double the low dose"），不像6–11歲/成人是換成ICS-LABA或MART。
+- **Step4沒有生物製劑或LAMA的官方preferred選項**，僅「持續controller並轉介專科」；專科可考慮的其他選項（證據皆有限）：add-on tiotropium（LAMA，僅小型12週試驗、1–5歲）、加LTRA、ICS-LABA（<4歲證據不足）、ICS-formoterol MART（尚無5歲以下研究）。
+- **完全沒有LABA/MART/生物製劑的preferred地位**，此點與6–11歲（Step3–4可用ICS-LABA/MART）、成人（Track1 formoterol-based）明顯不同。
+- ICS劑量須用**≤5歲專屬低劑量表**（Box 11-3，見第二節），且多數藥物僅核准至4或5歲以上，非等效劑量對照表。
+- **吸入裝置一律為pMDI + spacer**：0–3歲用面罩（face mask），4–5歲盡快轉為咬嘴（mouthpiece）；未達技巧前才用面罩，nebulizer僅保留給無法學會spacer技巧的少數兒童。
+- Montelukast（LTRA）使用前須告知家長**neuropsychiatric不良反應風險**（睡眠、行為問題）。
+- 治療反應應於**2–3個月**評估，若有效需**定期（每3–6個月）重新評估是否可降階/停藥**，因學齡前喘鳴/氣喘症狀有相當比例會自行緩解（remission），但仍可能於未來復發。
 
 ---
 
@@ -66,7 +120,20 @@
 | Fluticasone propionate（DPI/pMDI） | 50–100 | >100–200 | >200 |
 | Mometasone furoate（pMDI） | 100 | — | 200 |
 
-> ⚠️ 此表非等效劑量對照表；同級劑量換藥仍可能有 potency 落差，換藥後須觀察病人穩定度。實際劑量選擇需依當地藥品仿單與健保給付條件為準。
+**兒童 ≤5歲（Box 11-3，僅「低劑量」，無medium/high分級——Step3改以「劑量加倍」處理）**
+
+| ICS | Low dose（mcg，metered dose） | 已充分研究之核准年齡 |
+|---|---|---|
+| BDP（pMDI，standard particle，HFA） | 100 | ≥5歲 |
+| BDP（pMDI，extrafine particle，HFA） | 50 | ≥5歲 |
+| Budesonide nebulized | 500 | ≥1歲 |
+| Budesonide（pMDI/DPI） | 尚待系統性回顧資料 | — |
+| Fluticasone propionate（pMDI，standard particle，HFA） | 50 | ≥4歲 |
+| Fluticasone furoate（DPI） | 5歲以下研究不足 | — |
+| Mometasone furoate（pMDI，standard particle，HFA） | 100 | ≥5歲 |
+| Ciclesonide（pMDI，extrafine particle，HFA） | 5歲以下研究不足 | — |
+
+> ⚠️ 此表非等效劑量對照表；同級劑量換藥仍可能有 potency 落差，換藥後須觀察病人穩定度。實際劑量選擇需依當地藥品仿單與健保給付條件為準。≤5歲使用pMDI時一律須搭配spacer。
 
 ### 副作用
 
