@@ -56,6 +56,7 @@
 | [Urticaria — 蕁麻疹](Allergy/Urticaria/Urticaria_致病機轉與治療.md) | 急/慢性（CSU、CIndU） | UAS7、UCT、AAS | - | [2026 EAACI/GA²LEN/EuroGuiDerm/APAAACI](Allergy/Urticaria/Urticaria_2026國際指引_定義分類診斷治療.md) |
 | [異位性皮膚炎](Allergy/AD/AD_致病機轉.md) / 接觸性皮膚炎 | Hanifin & Rajka（AD）、貼膚試驗（ACD） | SCORAD、EASI、POEM | - | 2023 AAD / 2022 AAAAI |
 | [Food Allergy — 食物過敏（分子過敏學）](Allergy/FoodAllergy/分子過敏學_食物過敏原成分.md) | - | - | - | - |
+| [HAE — 遺傳性血管性水腫（Bradykinin-mediated angioedema）](Allergy/HAE/HAE_致病機轉診斷治療.md) | 臨床病史 + C4/C1INH 抗原與功能/C1q | 發作頻率、AECT | - | - |
 
 ---
 
