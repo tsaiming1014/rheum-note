@@ -47,7 +47,7 @@
 | | 過敏性鼻炎 / 結膜炎 | ARIA 分類（間歇/持續、輕/中重度） | TNSS、VAS、RQLQ | - | ARIA 2019/2020 |
 | | Drug Allergy — 藥物過敏 | Gell & Coombs I–IV 型 | - | - | 2022 AAAAI / EAACI |
 | | Urticaria — 蕁麻疹 | 急/慢性（CSU、CIndU） | UAS7、UCT、AAS | - | 2021 EAACI/GA²LEN/EDF/WAO |
-| | 異位性皮膚炎 / 接觸性皮膚炎 | Hanifin & Rajka（AD）、貼膚試驗（ACD） | SCORAD、EASI、POEM | - | 2023 AAD / 2022 AAAAI |
+| | [異位性皮膚炎](Allergy/AD/AD_致病機轉.md) / 接觸性皮膚炎 | Hanifin & Rajka（AD）、貼膚試驗（ACD） | SCORAD、EASI、POEM | - | 2023 AAD / 2022 AAAAI |
 | | [Food Allergy — 食物過敏（分子過敏學）](Allergy/FoodAllergy/分子過敏學_食物過敏原成分.md) | - | - | - | - |
 
 ---
