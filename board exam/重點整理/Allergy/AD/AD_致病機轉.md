@@ -103,10 +103,6 @@ Atopic dermatitis (AD) 是慢性復發性發炎性皮膚病，好發於嬰幼兒
 
 ## 八、整體機轉總結
 
-![Skin barrier and immunologic abnormalities in atopic dermatitis](../../images/AD%20mechanism.png)
-
-> Fig. 33.5 Skin barrier and immunologic abnormalities in atopic dermatitis. (Reproduced from Leung DY, Guttman-Yassky E. Deciphering the complexities of atopic dermatitis: shifting paradigms in treatment approaches. J Allergy Clin Immunol 2014;134:769-79.)
-
 ```
 皮膚屏障缺陷（FLG↓／loricrin↓／involucrin↓／lipid↓）
         ↓ 過敏原、微生物穿透
