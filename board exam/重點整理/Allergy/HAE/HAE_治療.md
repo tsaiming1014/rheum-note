@@ -96,8 +96,6 @@
 
 ## 2025–2026 年新核准／新興藥物（會議簡報補充，Maurer M et al. Allergy 2022；Allergy Asthma Clin Immunol 2026）
 
-![2021 WAO/EAACI 與 2026 International/Canadian HAE guideline 治療架構：on-demand（症狀緩解）／short-term prophylaxis（降低發作風險）／long-term prophylaxis（達到疾病完全控制），並列出各類別對應藥物](../../images/HAE%20005.jpg)
-
 延續前述核准藥物，近年新增以下口服或新機轉藥物，使治療選擇更多元、部分病人可脫離注射劑型：
 
 | 藥物 | 類別/機轉 | 給藥途徑 | 適應症定位 | 重點 |
