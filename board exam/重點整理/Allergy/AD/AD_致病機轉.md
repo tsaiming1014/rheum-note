@@ -1,5 +1,9 @@
 # Atopic Dermatitis (AD)：致病機轉完整解析
 
+![Skin barrier and immunologic abnormalities in atopic dermatitis](../../images/AD%20mechanism.png)
+
+> Fig. 33.5 Skin barrier and immunologic abnormalities in atopic dermatitis. (Reproduced from Leung DY, Guttman-Yassky E. Deciphering the complexities of atopic dermatitis: shifting paradigms in treatment approaches. J Allergy Clin Immunol 2014;134:769-79.)
+
 ## 一、核心概念
 
 Atopic dermatitis (AD) 是慢性復發性發炎性皮膚病，好發於嬰幼兒但可發生於任何年齡，與 food allergy、asthma、allergic rhinitis 有密切的家族／個人史關聯（atopic march 的皮膚端起點）。其致病機轉可歸納為一個核心邏輯：**皮膚屏障缺陷是啟動點，上皮細胞驅動的免疫失調是核心引擎，微生物與搔抓則是放大並延續慢性發炎的兩股力量。**
