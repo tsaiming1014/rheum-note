@@ -128,6 +128,8 @@
 
 **核心原則**：所有反覆發作、無典型 wheal 的 angioedema 病人都應評估 bradykinin-mediated angioedema 之可能性；與 mast cell-mediated angioedema 相比，其**發作演變較慢、持續時間較長、不合併 urticaria、對抗組織胺/類固醇無反應**。
 
+![HAE 診斷流程圖：懷疑 HAE → C4/C1INH 抗原/功能檢測 → 分型（Type I / Type II / HAE-nl-C1INH，需家族史或已知致病基因突變）→ 排除 acquired C1INH deficiency（無家族史且 30 歲後發病）；並建議對所有 HAE 病人之家族成員進行篩檢](../../images/HAE%20004.jpg)
+
 ### 診斷流程重點
 
 1. **正在使用 ACE-I？** → 先假設為 ACE-I 相關 angioedema，**無論已服用多久皆應停藥**；停藥後不再復發即可確診。
