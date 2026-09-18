@@ -43,12 +43,19 @@
 | | [IgG4-Related Disease](IgG4/IgG4-RD_致病機轉與流行病學.md) | [2019 ACR/EULAR](IgG4/IgG4-RD_分類標準.md) | - | - | [2025 FDA (inebilizumab)](IgG4/IgG4-RD_治療.md) |
 | **irAE**（Immune Checkpoint Inhibitor 相關） | [irAE — 致病機轉與臨床表現](irAE/irAE_致病機轉與臨床表現.md) | - | - | - | [Kelly Ch130](irAE/irAE_致病機轉與臨床表現.md#治療) |
 | **兒童風濕病** | [JIA — 幼年型特發性關節炎](JIA/JIA_致病機轉.md) | [ILAR (1995)、2019 PRINTO](JIA/JIA_分類標準_ILAR.md) | JADAS-27/71、cJADAS | Wallace criteria（clinical inactive / remission on/off med） | [2019/2021 ACR](JIA/JIA_治療總整理.md) |
-| **過敏相關疾病** | Asthma — 氣喘 | [2026 GINA 診斷準則](Allergy/Asthma/Asthma_診斷.md) | ACT、ACQ、FeNO、肺功能 | - | [2026 GINA](Allergy/Asthma/Asthma_藥物治療整理.md) |
-| | 過敏性鼻炎 / 結膜炎 | ARIA 分類（間歇/持續、輕/中重度） | TNSS、VAS、RQLQ | - | ARIA 2019/2020 |
-| | Drug Allergy — 藥物過敏 | Gell & Coombs I–IV 型 | - | - | 2022 AAAAI / EAACI |
-| | [Urticaria — 蕁麻疹](Allergy/Urticaria/Urticaria_致病機轉與治療.md) | 急/慢性（CSU、CIndU） | UAS7、UCT、AAS | - | [2021 EAACI/GA²LEN/EDF/WAO](Allergy/Urticaria/Urticaria_致病機轉與治療.md) |
-| | [異位性皮膚炎](Allergy/AD/AD_致病機轉.md) / 接觸性皮膚炎 | Hanifin & Rajka（AD）、貼膚試驗（ACD） | SCORAD、EASI、POEM | - | 2023 AAD / 2022 AAAAI |
-| | [Food Allergy — 食物過敏（分子過敏學）](Allergy/FoodAllergy/分子過敏學_食物過敏原成分.md) | - | - | - | - |
+
+---
+
+## 過敏疾病
+
+| 疾病 | 分類標準 | 活性評估 | Remission 定義 | Guideline |
+|------|----------|----------|----------------|-----------|
+| Asthma — 氣喘 | [2026 GINA 診斷準則](Allergy/Asthma/Asthma_診斷.md) | ACT、ACQ、FeNO、肺功能 | - | [2026 GINA](Allergy/Asthma/Asthma_藥物治療整理.md) |
+| 過敏性鼻炎 / 結膜炎 | ARIA 分類（間歇/持續、輕/中重度） | TNSS、VAS、RQLQ | - | ARIA 2019/2020 |
+| Drug Allergy — 藥物過敏 | Gell & Coombs I–IV 型 | - | - | 2022 AAAAI / EAACI |
+| [Urticaria — 蕁麻疹](Allergy/Urticaria/Urticaria_致病機轉與治療.md) | 急/慢性（CSU、CIndU） | UAS7、UCT、AAS | - | [2021 EAACI/GA²LEN/EDF/WAO](Allergy/Urticaria/Urticaria_致病機轉與治療.md) |
+| [異位性皮膚炎](Allergy/AD/AD_致病機轉.md) / 接觸性皮膚炎 | Hanifin & Rajka（AD）、貼膚試驗（ACD） | SCORAD、EASI、POEM | - | 2023 AAD / 2022 AAAAI |
+| [Food Allergy — 食物過敏（分子過敏學）](Allergy/FoodAllergy/分子過敏學_食物過敏原成分.md) | - | - | - | - |
 
 ---
 
