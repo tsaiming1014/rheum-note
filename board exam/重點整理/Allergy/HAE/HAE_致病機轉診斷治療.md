@@ -237,6 +237,25 @@
 - 治療目標已不只是減少發作頻率與嚴重度，更著重於開發**給藥方便、副作用少**的療法。
 - 已有多項針對 HAE 的**基因層面新興治療**（genetic modification therapy）進入研發階段（如 siRNA、gene therapy 等新機轉藥物），顯示治療典範持續朝向更精準的分子標靶發展。
 
+### 2025–2026 年新核准／新興藥物（會議簡報補充，Maurer M et al. Allergy 2022；Allergy Asthma Clin Immunol 2026）
+
+![2021 WAO/EAACI 與 2026 International/Canadian HAE guideline 治療架構：on-demand（症狀緩解）／short-term prophylaxis（降低發作風險）／long-term prophylaxis（達到疾病完全控制），並列出各類別對應藥物](../../images/HAE%20005.jpg)
+
+延續 Table 3 的核准藥物，近年新增以下口服或新機轉藥物，使治療選擇更多元、部分病人可脫離注射劑型：
+
+| 藥物 | 類別/機轉 | 給藥途徑 | 適應症定位 | 重點 |
+|---|---|---|---|---|
+| **Sebetralstat**（2025 核准） | 口服 plasma kallikrein inhibitor | PO | On-demand（急性發作） | 是目前**唯一的口服** on-demand 藥物，免除注射，為急性發作治療的重大進展 |
+| **Berotralstat** | 口服 plasma kallikrein inhibitor | PO，每日一次 | Long-term prophylaxis | 是目前**唯一的口服**長期預防藥物，優點為給藥方便，免除定期注射 |
+| **Garadacimab** | 單株抗體，**抑制 Factor XIIa**（更上游阻斷 contact system 活化） | SC | Long-term prophylaxis | 作用位點在 bradykinin 生成路徑最上游（FXIIa），與 lanadelumab（抑制 kallikrein）機轉互補 |
+| **Donidalorsen** | Antisense oligonucleotide，**降解 prekallikrein mRNA**，從轉錄層面減少 kallikrein 蛋白生成 | SC | Long-term prophylaxis | 屬於**基因表現層面**的新興治療策略，與傳統蛋白質/受體標靶藥物機轉不同 |
+
+- 治療目標分層更加明確化（依 2026 International/Canadian HAE guideline）：
+  - **On-demand** → 目標為 **symptom relief**（症狀緩解）
+  - **Short-term prophylaxis** → 目標為 **reduce risk/times of attacks**（降低可預期誘發情境下的發作風險）
+  - **Long-term prophylaxis** → 目標為 **achieve total control of disease**（達到疾病完全控制），與前述 NEJM「使病人生活正常化」的治療典範轉移一致
+- 舊有藥物定位也隨新版指引更新：**Ecallantide** 現多歸類為次選（灰階字標示，因需皮下注射且核准年齡限制）；**Danazol** 於 on-demand 與短期預防已**不建議使用**（not suggested），長期預防中仍列為選項但劑量調整為 200mg tid；**Tranexamic acid** 於 on-demand 治療中亦不建議使用。
+
 ## 七、與 Ch.35（Urticaria/Mast cell-mediated Angioedema）鑑別要點總結
 
 | 特徵 | Mast cell-mediated (Ch.35) | Bradykinin-mediated (Ch.36) |
