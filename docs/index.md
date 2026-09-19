@@ -57,6 +57,7 @@
 | [異位性皮膚炎](Allergy/AD/AD_致病機轉.md) / 接觸性皮膚炎 | Hanifin & Rajka（AD）、貼膚試驗（ACD） | SCORAD、EASI、POEM | - | 2023 AAD / 2022 AAAAI |
 | [Food Allergy — 食物過敏（分子過敏學）](Allergy/FoodAllergy/分子過敏學_食物過敏原成分.md) | - | - | - | - |
 | [HAE — 遺傳性血管性水腫（Bradykinin-mediated angioedema）](Allergy/HAE/HAE_致病機轉診斷治療.md) | 臨床病史 + C4/C1INH 抗原與功能/C1q | 發作頻率、AECT | - | [2026 International/Canadian HAE guideline](Allergy/HAE/HAE_治療.md) |
+| [Anaphylaxis — 全身性過敏反應](Allergy/Anaphylaxis_Middleton_Ch75.md) | Simons et al. 診斷標準（Box 75.1） | - | - | [Middleton's Allergy 9E Ch75](Allergy/Anaphylaxis_Middleton_Ch75.md) |
 
 ---
 
