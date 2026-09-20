@@ -72,6 +72,14 @@ Triad：慢性 rhinosinusitis 併 nasal polyp、中重度 asthma、對 aspirin �
 
 **1. Cyclooxygenase hypothesis（急性反應機轉）**
 
+**背景：NSAID 原始的抗發炎/止痛/退燒設計機轉**
+
+細胞膜磷脂經 phospholipase A2（PLA2）釋放 arachidonic acid（AA）後，會走兩條主要代謝路徑並互相競爭同一受質：COX pathway（COX-1、COX-2）生成 prostaglandins（PGE2、PGI2 等）與 thromboxane（TXA2）；5-LOX pathway 生成 leukotrienes（LTB4、cysteinyl leukotrienes）。Prostaglandins（尤其 PGE2、PGI2）會造成血管擴張與通透性增加（紅、腫）、使周邊 nociceptor 對致痛物質更敏感（痛覺敏化）、作用於下視丘造成發燒。**NSAID（含 aspirin）正是設計來抑制 COX-1/COX-2、減少這些 prostaglandin 生成，藉此同時達到消炎、止痛、退燒的效果**——這是 NSAID 這類藥物鎖定的藥理標的。
+
+**為什麼會衍生出 hypersensitivity？**
+
+因為 COX pathway 與 5-LOX pathway 共用同一個上游受質（arachidonic acid），兩者是競爭關係：NSAID 抑制 COX-1（藥物設計本來要做的事）→ PGE2 生成大幅下降 → AA 受質未被 COX 路徑消耗，被分流（shunt）到 5-LOX pathway → cysteinyl leukotrienes 大量增加。正常人這個分流效應會被緩衝，不致引發症狀；但在本身呼吸道/皮膚已有慢性 eosinophilic inflammation、mast cell 活性偏高、PGE2 生成能力本就偏低的病人（AERD、NECD/NIUA 的 baseline 體質），NSAID 抑制 COX-1 等於拿掉他們僅剩的 PGE2 煞車，5-LOX 失去約束、受質又被分流過去，cysteinyl leukotriene 因而爆量釋放，誘發呼吸道或皮膚症狀。**換言之，Cyclooxygenase hypothesis 本質上是 NSAID 設計時鎖定的 on-target 藥理效應（COX-1 inhibition），在有特殊 baseline 發炎體質的病人身上被放大成病理反應，而非典型抗原專一性過敏反應**——這也說明了為何此類反應是 non-IgE-mediated、為何會 cross-react 到化學結構完全不同的 NSAID（只要是強效 COX-1 抑制劑即可誘發，與分子結構無關），以及為何弱 COX-1 抑制劑或 selective COX-2 inhibitor 大多可耐受（PGE2 未被明顯拉低，AA 分流效應不顯著）。
+
 Aspirin/NSAID 抑制 COX-1 → PGE2 生成減少 → 失去對 mast cell、eosinophil 及 5-LOX 的抑制/穩定作用 → cysteinyl leukotrienes（LTC4、LTD4、LTE4）大量釋放 → 誘發 bronchoconstriction、rhinorrhea、congestion、urticaria、angioedema。
 
 ![Fig 78.1 Cyclooxygenase hypothesis pathway](../images/Fig%2078.1.png)
