@@ -175,16 +175,19 @@
 - **飲食日記**：前瞻性記錄，但易讓病人過度聚焦於食物
 - **Elimination diet（排除飲食）**：診斷慢性疾病（如AD、氣喘）時單獨使用價值有限
 - **Skin-prick test (SPT)**：
-  - Wheal直徑比negative control大 ≥3mm視為陽性
-  - Mean wheal diameter >8mm 對牛奶/蛋/花生過敏預測力 >95%
-  - 陰性預測力 >95%（用品質好的試劑）；但水果/蔬菜類商業試劑常偽陰性（過敏原不穩定），需用新鮮食物做 prick-to-prick
+
+    - Wheal直徑比negative control大 ≥3mm視為陽性
+    - Mean wheal diameter >8mm 對牛奶/蛋/花生過敏預測力 >95%
+    - 陰性預測力 >95%（用品質好的試劑）；但水果/蔬菜類商業試劑常偽陰性（過敏原不穩定），需用新鮮食物做 prick-to-prick
+
 - **Intradermal skin test**：更敏感但特異性差且風險高，**不建議**用於食物過敏診斷
 - **Atopy patch test**：標準化不足，臨床助益有限（已漸少用）
 - **血清 sIgE（ImmunoCAP/CAP-FEIA）**：有食物特異性 95% PPV 診斷切點值（如 egg white、casein for baked milk等，Table 79.11）；若花生 sIgE降至<2 kUA/L可考慮重新評估OFC
 - **CRD（Component-resolved diagnosis）**：純化/重組單一過敏原成分，比粗萃取物更具特異性
-  - 花生：**Ara h 2** 是診斷花生過敏最佳指標（14.4 kUA/L時90%機率OFC陽性）；對Ara h 8/Bet v 1反應者多為交叉反應而非真過敏
-  - 榛果：**Cor a 14** 47.8 kUA/L時90%機率OFC陽性
-  - 蛋：egg white sIgE >7 kUA/L預測生蛋過敏；ovomucoid sIgE >11 kUA/L預測熟蛋過敏
+
+    - 花生：**Ara h 2** 是診斷花生過敏最佳指標（14.4 kUA/L時90%機率OFC陽性）；對Ara h 8/Bet v 1反應者多為交叉反應而非真過敏
+    - 榛果：**Cor a 14** 47.8 kUA/L時90%機率OFC陽性
+    - 蛋：egg white sIgE >7 kUA/L預測生蛋過敏；ovomucoid sIgE >11 kUA/L預測熟蛋過敏
 - **BAT（Basophil activation test）**：測CD63表現，與sIgE/臨床反應性相關性佳，可用於sIgE與臨床判斷不一致時輔助決策
 - **IPEC（Intragastric provocation under endoscopic control）**：敏感度優於SPT/sIgE但少用，仍有全身反應風險
 - **OFC（Oral Food Challenge）**：**DBPCFC 為診斷金標準**；臨床實務上常用open或single-blind challenge；詳見 Chapter 81
