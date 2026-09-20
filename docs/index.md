@@ -66,7 +66,7 @@
 | 主題 | 連結 |
 |------|------|
 | CV Risk | [CV risk](跨疾病主題/CV risk.md) |
-| NSAIDs | [NSAIDs 口試完整答案](跨疾病主題/謝松洲_NSAIDs口試完整答案.md) |
+| NSAIDs | [NSAIDs 口試完整答案](跨疾病主題/謝松洲_NSAIDs口試完整答案.md)、[NSAID/Aspirin Hypersensitivity（Middleton Ch78）](跨疾病主題/NSAID_Aspirin_Hypersensitivity.md) |
 | Migratory Oral Ulcer | [反覆/游走性口腔潰瘍鑑別診斷](跨疾病主題/Migratory_oral_ulcer_鑑別診斷.md) |
 | Paradoxical Psoriasis | [矛盾性乾癬反應（含矛盾性濕疹）](跨疾病主題/Paradoxical_Psoriasis.md) |
 | Vaccination | [風濕病人疫苗接種建議](跨疾病主題/2022_ACR_疫苗接種指引_台灣對照版.md) |
