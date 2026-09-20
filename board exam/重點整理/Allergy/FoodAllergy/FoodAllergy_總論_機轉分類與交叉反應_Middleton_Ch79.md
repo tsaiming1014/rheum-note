@@ -65,9 +65,10 @@
 > 詳細各過敏原成分與臨床意義，見 [分子過敏學：食物過敏原成分與臨床意義](分子過敏學_食物過敏原成分.md)
 
 - 約 65% 植物性食物過敏原屬於三大蛋白超家族：
-  - **Prolamin superfamily**（seed-storage proteins、LTP、α-amylase/protease inhibitors、2S albumins）
-  - **Cupin superfamily**（7S vicilins、11S globulins）
-  - **PR-10 family**（Bet v 1 同源蛋白）
+
+    - **Prolamin superfamily**（seed-storage proteins、LTP、α-amylase/protease inhibitors、2S albumins）
+    - **Cupin superfamily**（7S vicilins、11S globulins）
+    - **PR-10 family**（Bet v 1 同源蛋白）
 - 動物性食物過敏原三大家族：**tropomyosin、EF-hand proteins（parvalbumin）、casein**
 - 蛋白質與人類同源蛋白序列一致性 >63% 者，極少具致敏性
 - **Carbohydrate allergens（CCD, cross-reactive carbohydrate determinants）**：醣類結構高度同源、易交叉反應，但約15–30%患者有 antiglycan IgE，僅少數真正有臨床過敏
@@ -125,10 +126,11 @@
 
 - **Acute GI hypersensitivity**：進食後數分鐘到2小時內噁心、腹痛、嘔吐、腹瀉，常合併皮膚/呼吸道症狀
 - **Pollen-food allergy syndrome（Oral Allergy Syndrome, OAS）**：
-  - 花粉致敏為原發事件，食入交叉反應植物性食物後**僅局限於口咽部**症狀（唇舌顎癢、刺痛、血管性水腫），少數才有全身反應
-  - 好發於樺樹/艾草/豚草花粉過敏者，症狀多由**生食**引起，煮熟後過敏原被破壞而不致敏
-  - 診斷靠 **prick-to-prick test**（用新鮮水果，商業試劑常因過敏原不穩定而偽陰性）
-  - 佔花粉過敏成人的 50–70%
+
+    - 花粉致敏為原發事件，食入交叉反應植物性食物後**僅局限於口咽部**症狀（唇舌顎癢、刺痛、血管性水腫），少數才有全身反應
+    - 好發於樺樹/艾草/豚草花粉過敏者，症狀多由**生食**引起，煮熟後過敏原被破壞而不致敏
+    - 診斷靠 **prick-to-prick test**（用新鮮水果，商業試劑常因過敏原不穩定而偽陰性）
+    - 佔花粉過敏成人的 50–70%
 
 ![Pollen-Food allergy syndrome](../../images/Pollen-Food%20allergy%20syndrome.png)
 
