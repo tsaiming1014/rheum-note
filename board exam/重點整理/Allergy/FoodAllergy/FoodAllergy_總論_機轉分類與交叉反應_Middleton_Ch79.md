@@ -188,6 +188,11 @@
 - **Intradermal skin test**：更敏感但特異性差且風險高，**不建議**用於食物過敏診斷
 - **Atopy patch test**：標準化不足，臨床助益有限（已漸少用）
 - **血清 sIgE（ImmunoCAP/CAP-FEIA）**：有食物特異性 95% PPV 診斷切點值（如 egg white、casein for baked milk等，Table 79.11）；若花生 sIgE降至<2 kUA/L可考慮重新評估OFC
+
+    - **Total IgE 正常不能排除單一食物 sIgE 很高**：Total IgE 只是「所有」IgE（背景非特異性IgE + 各種過敏原特異性IgE）的加總，atopic 與 non-atopic 族群的 total IgE 分布重疊度極大，故臨床上很少單獨用 total IgE 診斷過敏（NIAID guideline 明訂 total IgE 為不建議檢測，見下方）
+    - **IgE specific activity（sIgE／total IgE 比值）**：單一致敏（monosensitized，如只對花生過敏、無其他異位性疾病）病人的 total IgE 可能落在正常範圍，但其中絕大部分都是該食物的 sIgE，換算絕對值仍可以非常高；此比值比單看 total IgE 更能反映暴露後誘發臨床反應的風險
+    - 反之，total IgE 很高（如 AD、寄生蟲感染、Hyper-IgE syndrome造成的 polyclonal IgE上升）也不代表對特定食物一定有致敏，sIgE 可以完全是 0
+
 - **CRD（Component-resolved diagnosis）**：純化/重組單一過敏原成分，比粗萃取物更具特異性
 
     - 花生：**Ara h 2** 是診斷花生過敏最佳指標（14.4 kUA/L時90%機率OFC陽性）；對Ara h 8/Bet v 1反應者多為交叉反應而非真過敏
