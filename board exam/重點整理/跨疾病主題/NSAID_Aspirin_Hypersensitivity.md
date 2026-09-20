@@ -2,6 +2,25 @@
 
 來源：Middleton's Allergy 9th ed., Chapter 78 — Hypersensitivity to Aspirin and Other Nonsteroidal Antiinflammatory Drugs
 
+## 快速複習
+
+**病史詢問三大方向**：
+
+- Onset：Acute 或 Delayed？
+- 反應對象：對「單一 NSAID／單一 class」過敏，還是對「多種不同 class 的 NSAID」都過敏？
+- 過去病史：是否有 atopy（asthma、rhinosinusitis、chronic urticaria）？
+
+**Multiple NSAID Hypersensitivity**（對多種不同 class 的 NSAID 都過敏）：
+
+- 並非 IgE-mediated hypersensitivity！！
+- 機轉：Cyclooxygenase hypothesis（COX-1 inhibition）
+
+**Management of Multiple NSAID Hypersensitivity**：
+
+- 建議使用 acetaminophen 或 COX-2 inhibitors 作為止痛、退燒、抗發炎用藥。
+
+---
+
 ## 一、分類架構（EAACI/GA2LEN 修訂分類）
 
 NSAID hypersensitivity 依「急性 vs. 延遲性」、「cross-reactive（非過敏機轉）vs. single drug-induced（IgE-mediated）」區分：
@@ -227,6 +246,8 @@ Aspirin/NSAID 抑制 COX-1 → PGE2 生成減少 → 失去對 mast cell、eosin
 - **不建議 aspirin desensitization**（與此類反應/anaphylaxis 無關的處置方式）。
 
 ### Cross-reactor 處置流程（Fig. 78.3 演算法）
+
+![Fig 78.3 Algorithm for management of NSAID-induced urticaria, angioedema, and anaphylaxis](../images/Fig%2078.3.png)
 
 1. 病史為多重 NSAID 反應 → confirmatory oral challenge with COX-1 inhibitor：
    - 陽性 → 視為 multiple NSAID reactor → 避開所有 NSAID
