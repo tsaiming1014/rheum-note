@@ -53,6 +53,7 @@
 | Asthma — 氣喘 | [2026 GINA 診斷準則](Allergy/Asthma/Asthma_診斷.md) | ACT、ACQ、FeNO、肺功能 | - | [2026 GINA](Allergy/Asthma/Asthma_藥物治療整理.md) |
 | 過敏性鼻炎 / 結膜炎 | ARIA 分類（間歇/持續、輕/中重度） | TNSS、VAS、RQLQ | - | ARIA 2019/2020 |
 | Drug Allergy — 藥物過敏 | Gell & Coombs I–IV 型 | - | - | 2022 AAAAI / EAACI |
+| [NSAID Hypersensitivity — NSAID/Aspirin 過敏](跨疾病主題/NSAID_Aspirin_Hypersensitivity.md) | EAACI/GA2LEN 分類（cross-reactive：AERD/NECD/NIUA vs. single-drug：SNIUAA vs. 延遲型：SNIDR） | - | - | [Middleton's Allergy 9E Ch78](跨疾病主題/NSAID_Aspirin_Hypersensitivity.md) |
 | [Urticaria — 蕁麻疹](Allergy/Urticaria/Urticaria_致病機轉與治療.md) | 急/慢性（CSU、CIndU） | UAS7、UCT、AAS | - | [2026 EAACI/GA²LEN/EuroGuiDerm/APAAACI](Allergy/Urticaria/Urticaria_2026國際指引_定義分類診斷治療.md) |
 | [異位性皮膚炎](Allergy/AD/AD_致病機轉.md) / 接觸性皮膚炎 | Hanifin & Rajka（AD）、貼膚試驗（ACD） | SCORAD、EASI、POEM | - | 2023 AAD / 2022 AAAAI |
 | [Food Allergy — 食物過敏（分子過敏學）](Allergy/FoodAllergy/分子過敏學_食物過敏原成分.md) | - | - | - | - |
