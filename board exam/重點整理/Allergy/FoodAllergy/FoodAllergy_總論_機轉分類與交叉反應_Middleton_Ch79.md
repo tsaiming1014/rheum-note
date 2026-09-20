@@ -6,10 +6,12 @@
 
 - **Food allergy** 定義：因特定免疫反應而在暴露特定食物時「可重複發生」的不良健康反應
 - **Food intolerance**：非免疫機轉，佔多數食物不良反應，例如：
-  - 酵素缺乏：lactase deficiency、fructose malabsorption（GLUT5缺乏）、ALDH多形性（酒精代謝，亞洲人常見）
-  - 食物中毒素/藥理性成分：scombroid syndrome（組織胺）、tyramine（偏頭痛）、caffeine、MSG（Chinese restaurant syndrome，但雙盲試驗僅130人中2人有客觀反應）
-  - 解剖/腸胃疾病：GERD、消化性潰瘍、Hirschsprung disease等
-  - 神經反射：Auriculotemporal syndrome（Frey）、gustatory rhinitis
+
+    - 酵素缺乏：lactase deficiency、fructose malabsorption（GLUT5缺乏）、ALDH多形性（酒精代謝，亞洲人常見）
+    - 食物中毒素/藥理性成分：scombroid syndrome（組織胺）、tyramine（偏頭痛）、caffeine、MSG（Chinese restaurant syndrome，但雙盲試驗僅130人中2人有客觀反應）
+    - 解剖/腸胃疾病：GERD、消化性潰瘍、Hirschsprung disease等
+    - 神經反射：Auriculotemporal syndrome（Frey）、gustatory rhinitis
+
 - **Food aversion**：心理性，盲測時無法重現症狀
 - 需與 food allergy 鑑別：panic disorder（恐慌症）常被誤認為食物過敏
 
