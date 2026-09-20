@@ -18,6 +18,14 @@ NSAID hypersensitivity 依「急性 vs. 延遲性」、「cross-reactive（非�
 
 整體盛行率：一般族群約 1-2%；歐洲 15 國調查（65,000 人）NSAID-induced dyspnea 平均盛行率 1.9%（0.9-4.8%）。
 
+### 背景知識：NSAID 化學結構分類
+
+判斷「多種 NSAID 是否化學結構真的不同」是病史詢問與 cross-reactivity 判讀的基礎，傳統 NSAID 依化學結構可分為 carboxylic acids（salicylic acids、acetic acids、propionic acids、fenamic acids）、enolic acids（pyrazolones、oxicams）、nonacidic compounds，以及另立一類的 COX-2-selective inhibitors。
+
+![Fig 59.2 Classification and representative structures of NSAIDs](../images/Fig59.2.png)
+
+（來源：Kelley's Textbook of Rheumatology 12E, Ch.59 — Therapeutic Targeting of Prostanoids）
+
 ---
 
 ## 二、AERD（Aspirin-Exacerbated Respiratory Disease）
