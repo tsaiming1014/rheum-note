@@ -90,30 +90,6 @@ Aspirin/NSAID 抑制 COX-1 → PGE2 生成減少 → 失去對 mast cell、eosin
 - Nasal polyp epithelial cells、bronchial fibroblasts 中 PGE2 生成顯著下降。
 - 吸入 PGE2 可預防 aspirin 誘發的 cysteinyl leukotriene 釋放及支氣管收縮（保護角色）。
 
-**2. Leukotriene overproduction**
-
-- AERD 病人基礎尿中 leukotriene metabolites 即高於 ASA-tolerant asthmatics（未激發狀態下已升高）。
-- Bronchi 中表現 LTC4 synthase（LTC4S）的細胞數（尤其 eosinophils）增加。
-- Nasal polyp 中 CysLTR1（type 1 cysteinyl leukotriene receptor）表現上升，代表局部對 leukotriene 反應性增加。
-
-**3. 15-lipoxygenase pathway**
-
-- Lipoxin A4（LXA4，抗發炎代謝物）在 AERD 病人周邊血白血球及 nasal polyp 中生成減少，15-LOX 表現上升——角色尚不明確，可能是 proinflammatory 或 modulatory。
-
-**4. 慢性發炎機轉（與 NSAID 暴露無關）**
-
-- Airway disease 通常先於 aspirin hypersensitivity 出現；即使完全避開 NSAID，慢性發炎仍不會改善——顯示慢性發炎為 aspirin hypersensitivity 的必要條件，而非結果。
-- Tissue eosinophilia、mast cell infiltration 為上下呼吸道黏膜共同特徵；IL-5、GM-CSF、RANTES、eotaxins 上調，促進 eosinophil 存活。
-- Aspirin 誘發反應時，eosinophils 與 ILC2s（group 2 innate lymphoid cells）於鼻黏膜急性增加。
-- Platelet-leukocyte aggregates 增加，透過 transcellular conversion 促進全身性 leukotriene 生成。
-- 環境誘因假說：rhinovirus（AERD 病人支氣管上皮 100% 可測得 rhinovirus mRNA，ASA-tolerant asthma 僅 73%）；Staphylococcal enterotoxin 特異性 IgE 可能參與慢性 eosinophilic inflammation 之維持。
-
-**5. 基因機轉**
-
-- HLA-DPB1*0301：波蘭及韓國族群中 AERD 之強遺傳標記，帶此 allele 者 FEV1 較低、鼻息肉盛行率高。
-- HLA-DRB1*1302-DQB1*0609-DPB1*0201 haplotype：韓國族群 aspirin-induced urticaria 之標記。
-- 其他候選基因：LTC4S、CYSLTR1、CYSLTR2、CRTH2、CCR3、MS4A2R（FcεR1β）、ACE、IL4 等 SNP，多與 leukotriene 生成、eosinophil/mast cell activation 相關（詳見原文 Table 78.2）。
-
 ### 臨床特徵
 
 - 中重度 asthma + 慢性 rhinosinusitis + 反覆 nasal polyp。
