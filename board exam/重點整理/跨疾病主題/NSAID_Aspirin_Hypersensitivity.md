@@ -13,7 +13,7 @@
 **Multiple NSAID Hypersensitivity**（對多種不同 class 的 NSAID 都過敏）：
 
 - 並非 IgE-mediated hypersensitivity！！
-- 機轉：Cyclooxygenase hypothesis（COX-1 inhibition）
+- 機轉：Cyclooxygenase hypothesis（COX-1 inhibition → PGE2 減少 → AA 分流至 5-LOX → cysteinyl leukotrienes 爆量，為 NSAID 抗發炎藥理效應在易感體質上被放大，非 IgE 過敏）
 
 **Management of Multiple NSAID Hypersensitivity**：
 
