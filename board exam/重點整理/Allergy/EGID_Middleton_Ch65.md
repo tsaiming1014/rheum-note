@@ -244,8 +244,6 @@
 3. EGID 機轉介於 IgE 與 Th2 之間，**IgE 導向治療（omalizumab）無效**；anti-IL-5（mepolizumab/reslizumab）僅部分療效；anti-IL-13/IL-4Rα 為前景藥物
 4. 六種食物排除飲食誘發原排序：牛奶 > 小麥 > 蛋 > 大豆 > 花生/堅果 > 魚/貝類
 5. EoE 男性為主（70%）、高遺傳性（同卵雙胞胎 concordance 58%）但環境因子占致病成因 85%
-6. 關鍵基因：**CAPN14**（2p23）、**TSLP**（5q22）、**CCL26/eotaxin-3**（單一基因預測力達 89%）
-7. EoE 相關遺傳症候群：Loeys-Dietz、Marfan、Ehlers-Danlos（TGF-β 路徑）、Netherton（SPINK5）、STAT3 deficiency（AD hyper-IgE）、DSG1 deficiency（SAM syndrome）
-8. HES 診斷需周邊血 eosinophil ≥1500/mm³（2 次、間隔≥1個月）+ 排除已知病因 + end-organ 侵犯；EGID 病人若符合此周邊血條件，歸類為 overlap/organ-restricted eosinophilia HES 亞型（但通常不會有心臟/CNS 侵犯這類典型 HES 高風險併發症）
-9. 免疫抑制治療前**務必排除 Strongyloides**（可致命性播散）
-10. Eosinophilic gastritis 的周邊血 eosinophilia **較常見**（多數病人會有），與 EoE 相反
+6. HES 診斷需周邊血 eosinophil ≥1500/mm³（2 次、間隔≥1個月）+ 排除已知病因 + end-organ 侵犯；EGID 病人若符合此周邊血條件，歸類為 overlap/organ-restricted eosinophilia HES 亞型（但通常不會有心臟/CNS 侵犯這類典型 HES 高風險併發症）
+7. 免疫抑制治療前**務必排除 Strongyloides**（可致命性播散）
+8. Eosinophilic gastritis 的周邊血 eosinophilia **較常見**（多數病人會有），與 EoE 相反
