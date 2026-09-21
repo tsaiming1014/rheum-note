@@ -124,4 +124,34 @@ Type 1–3 為 antibody-dependent（但仍需 T helper cell 參與），Type 4 �
 
 ---
 
-**出處**：Middleton's Allergy: Principles and Practice, 9th ed., Chapter 77 (Drug Allergy, Solensky & Phillips)。
+## 八、Biologics／單株抗體輸注反應：Cytokine Release Reaction vs 真過敏（補充）
+
+> 本段為依 cytokine release syndrome 機轉之補充整理，非逐字引用原文；原文僅簡略提及「Large molecular drugs such as biologic cytokines and antibodies are similarly associated with infusion reactions related to release of cytokines, protein infusion reactions, and secondary toxicities」，並舉 cetuximab（alpha-gal）為真過敏例子，未點名討論 rituximab。
+
+生物製劑（單株抗體）的輸注反應是臨床常見但機轉常被混淆的一類 ADR，需與古典 hapten-IgE 型 drug allergy 區分：
+
+### （一）Cytokine Release Reaction (CRS)——多數輸注反應的真正機轉
+
+- 機轉：抗體結合 target cell 表面抗原後，經 **complement-mediated cytolysis／ADCC** 大量殺死 target cell，釋出 TNF-α、IL-6、IFN-γ 等細胞激素，造成發燒、寒顫、肌肉痠痛、低血壓，甚至支氣管痙攣。
+- 代表藥物：**Rituximab**（anti-CD20，殺死 B cell）為典型例子；反應嚴重度與 target cell 負荷量相關。
+- 特點：**第一劑最嚴重**，隨著 target cell 被清除，後續輸注反應通常減輕；減慢輸注速率＋前驅用藥（acetaminophen、antihistamine、類固醇）可有效預防／減緩。
+- **非 IgE、非 hapten 機轉**，不屬於古典 Gell-Coombs I–IV 分類，概念上與本篇「六、Nonallergic drug reaction」段落所述之 taxane（Cremophor-EL/polysorbate 80 經 complement 活化）infusion reaction 性質接近。
+
+### （二）真正 immunologic drug allergy（少數情況）
+
+| | Type I（IgE-mediated） | Type III（immune complex） |
+|---|---|---|
+| 好發時機 | 通常需先前致敏，**多次輸注後**較常見（非首劑） | 重複暴露後 |
+| 機轉 | Drug-specific IgE → mast cell/basophil degranulation | Chimeric 抗體（人–鼠嵌合，如 rituximab）免疫原性較高，產生 anti-drug antibody（HACA）形成免疫複合體 |
+| 臨床表現 | Urticaria、angioedema、支氣管痙攣、低血壓；**通常不伴隨發燒/寒顫** | Serum sickness-like reaction（發燒、關節痛、皮疹） |
+
+### （三）臨床鑑別重點
+
+- 發生時機：首劑 vs 多次輸注後
+- 是否伴隨發燒寒顫（CRS 傾向）vs 純過敏症狀無發燒（IgE 傾向）
+- 症狀嚴重度隨劑量次數**遞減**（CRS）或**遞增**（致敏後的真過敏）
+- 若懷疑真過敏且無替代藥物，可採用 **desensitization protocol**（緩慢劑量遞增）；原文提及此法對生物製劑之免疫性與非免疫性輸注反應皆有成功案例報告。
+
+---
+
+**出處**：Middleton's Allergy: Principles and Practice, 9th ed., Chapter 77 (Drug Allergy, Solensky & Phillips)；第八段 CRS 機轉為補充整理，非章節原文逐字內容。
