@@ -67,28 +67,6 @@
 - Systemic（傳統過敏性鼻炎，約占鼻炎病例 50%）
 - Local（local allergic rhinitis / entopy）
 
-### ARIA 嚴重度分類（Fig 40.1）—— 考試最常考的分類架構
-
-過敏性鼻炎的傳統分類（seasonal/perennial）在臨床上常有大量病人不符合典型季節性表現，因此發展出 **ARIA（Allergic Rhinitis and its Impact on Asthma）** 分類系統，改以**頻率（duration）**與**嚴重度（severity）**兩個各自獨立的軸線來分類，兩軸須分開判斷、不可互相取代：
-
-**頻率軸（判斷「間歇性」或「持續性」）**
-
-| 分類 | 定義 |
-|---|---|
-| Intermittent（間歇性） | 症狀 **<4 天/週**，**或** 病程 **<4 週**（兩項條件符合其一即成立） |
-| Persistent（持續性） | 症狀 **≥4 天/週**，**且** 病程 **≥4 週**（兩項條件須同時符合） |
-
-**嚴重度軸（判斷「輕度」或「中重度」）**
-
-| 分類 | 定義 |
-|---|---|
-| Mild（輕度） | 以下四項**全部**符合：睡眠正常；日常活動、運動、休閒不受影響；上學/上班表現正常；無惱人（troublesome）症狀 |
-| Moderate/Severe（中重度） | 以下四項**任一項**符合即成立：睡眠異常；日常活動/運動/休閒受影響；上學/上班表現異常；有惱人症狀 |
-
-**⚠️ 常見考試陷阱**：頻率軸與嚴重度軸是**兩條互相獨立的判斷線**，必須分開評估、再組合成最終分類（例如 mild intermittent、moderate-severe persistent 等）。最容易出錯的地方是「病程拖很久＝持續性」的直覺誤解——判斷「間歇性 vs 持續性」時，**只要症狀頻率 <4 天/週，即使病程已連續好幾週（如 6 週），依定義仍屬間歇性**，因為頻率與病程兩條件是「符合其一即可」（OR），不是「兩者都要達標」；只有頻率與病程都達到門檻（≥4 天/週 **且** ≥4 週）才會被歸類為持續性。
-
-同樣地，判斷「輕度 vs 中重度」也不能只看症狀本身聽起來嚴不嚴重，而要看是否**實際造成睡眠、日常活動、上學上班表現、或主觀困擾（troublesome）**四項中任何一項受影響。
-
 **Work-Related**（依致病物質分三類，Table 40.1）
 
 - Irritant-induced：非典型過敏原之小分子物質（VOC、粉塵），暴露停止症狀常可緩解
@@ -137,7 +115,7 @@
 
 ### 症狀機轉
 
-![Fig 40.2 Pathogenesis of allergic rhinitis](../images/Fig%2040.2.png)
+![Fig 40.2 Pathogenesis of allergic rhinitis](../../images/Fig%2040.2.png)
 
 - **Sneezing / Pruritus**：由感覺神經（trigeminal 分支之 nociceptor C-fibers、Aδ-fibers）活化引發，屬中樞反射；H1 受體、TRPV1（高滲透壓、低 pH 活化）、TRPA1（CO2、冷、多種氣味物質活化）皆表現於鼻感覺神經末梢
 - **Rhinorrhea**：鼻腺體（黏液、漿液、杯狀細胞）過度分泌 + 血漿滲出（fenestrated capillaries）；副交感（facial → vidian nerve → sphenopalatine ganglion，M3 受體介導）為主要調控；histamine、bradykinin 誘發血漿滲漏；Substance P 經 antidromic reflex 亦參與
@@ -165,6 +143,40 @@
 - **Hyperresponsiveness / 功能異常（idiopathic rhinitis 為主，占非過敏性鼻炎 ≥50%）**：對 cold, dry air 反應最一致（活化 nociceptor，TRPV1 表現增加；capsaicin 治療可去功能化 nociceptor 並改善症狀）；對 histamine 證據不一致；對 capsaicin、bradykinin 無明顯 hyperresponsiveness；部分病人呈現副交感優勢的自主神經失衡
 
 ## Treatment
+
+### ARIA 嚴重度分類與分階段治療（Fig 40.1、Fig 40.3）—— 考試最常考的分類架構
+
+過敏性鼻炎的傳統分類（seasonal/perennial）在臨床上常有大量病人不符合典型季節性表現，因此發展出 **ARIA（Allergic Rhinitis and its Impact on Asthma）** 分類系統，改以**頻率（duration）**與**嚴重度（severity）**兩個各自獨立的軸線來分類，兩軸須分開判斷、不可互相取代：
+
+![Fig 40.1 ARIA study guideline for classification of allergic rhinitis](../../images/Fig%2040.1.png)
+
+**頻率軸（判斷「間歇性」或「持續性」）**
+
+| 分類 | 定義 |
+|---|---|
+| Intermittent（間歇性） | 症狀 **<4 天/週**，**或** 病程 **<4 週**（兩項條件符合其一即成立） |
+| Persistent（持續性） | 症狀 **≥4 天/週**，**且** 病程 **≥4 週**（兩項條件須同時符合） |
+
+**嚴重度軸（判斷「輕度」或「中重度」）**
+
+| 分類 | 定義 |
+|---|---|
+| Mild（輕度） | 以下四項**全部**符合：睡眠正常；日常活動、運動、休閒不受影響；上學/上班表現正常；無惱人（troublesome）症狀 |
+| Moderate/Severe（中重度） | 以下四項**任一項**符合即成立：睡眠異常；日常活動/運動/休閒受影響；上學/上班表現異常；有惱人症狀 |
+
+**⚠️ 常見考試陷阱**：頻率軸與嚴重度軸是**兩條互相獨立的判斷線**，必須分開評估、再組合成最終分類（例如 mild intermittent、moderate-severe persistent 等）。最容易出錯的地方是「病程拖很久＝持續性」的直覺誤解——判斷「間歇性 vs 持續性」時，**只要症狀頻率 <4 天/週，即使病程已連續好幾週（如 6 週），依定義仍屬間歇性**，因為頻率與病程兩條件是「符合其一即可」（OR），不是「兩者都要達標」；只有頻率與病程都達到門檻（≥4 天/週 **且** ≥4 週）才會被歸類為持續性。
+
+同樣地，判斷「輕度 vs 中重度」也不能只看症狀本身聽起來嚴不嚴重，而要看是否**實際造成睡眠、日常活動、上學上班表現、或主觀困擾（troublesome）**四項中任何一項受影響。
+
+**分階段治療（Stepped Therapy, Fig 40.3）**：依上述 ARIA 分類結果決定治療強度
+
+![Fig 40.3 Stepped therapy for allergic rhinitis](../../images/Fig%2040.3.png)
+
+- **Mild intermittent**：過敏原避免 ± 口服/鼻用抗組織胺（需要時使用）
+- **鼻塞明顯者**：INS、抗組織胺-減充血劑複方，或鼻用抗組織胺
+- **Moderate/severe persistent**：規則使用 INS，2 週後評估；反應良好 → 依預期暴露調整；反應部分 → 針對殘餘症狀加藥（眼症狀加眼用抗組織胺；鼻塞加鼻用抗組織胺；鼻漏加 ipratropium）
+- 藥物治療無效 → 重新評估診斷（CT、鼻內視鏡）
+- 頑固性過敏性鼻炎（排除其他複雜因素後）→ 考慮免疫治療
 
 ### Allergen Avoidance
 
@@ -248,16 +260,6 @@
 - 僅適用於明確解剖異常（如中膈彎曲）且影響生活品質者
 - 無結構異常時手術極少適應
 - Turbinate reduction：僅於藥物/免疫治療皆失敗的頑固性黏膜水腫時考慮
-
-### 分階段治療（Stepped Therapy, Fig 40.3；依 ARIA 分類）
-
-![Fig 40.3 Stepped therapy for allergic rhinitis](../images/Fig%2040.3.png)
-
-- **Mild intermittent**：過敏原避免 ± 口服/鼻用抗組織胺（需要時使用）
-- **鼻塞明顯者**：INS、抗組織胺-減充血劑複方，或鼻用抗組織胺
-- **Moderate/severe persistent**：規則使用 INS，2 週後評估；反應良好 → 依預期暴露調整；反應部分 → 針對殘餘症狀加藥（眼症狀加眼用抗組織胺；鼻塞加鼻用抗組織胺；鼻漏加 ipratropium）
-- 藥物治療無效 → 重新評估診斷（CT、鼻內視鏡）
-- 頑固性過敏性鼻炎（排除其他複雜因素後）→ 考慮免疫治療
 
 ### Nonallergic Rhinitis 治療取向
 
