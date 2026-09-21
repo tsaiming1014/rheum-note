@@ -97,6 +97,11 @@
 
 依序隨年齡增長出現：feeding disorder → vomiting → abdominal pain → dysphagia → food impaction
 
+| 族群 | 主要表現 |
+|---|---|
+| 兒童（尤其嬰幼兒） | Feeding disorder（餵食困難）、vomiting、abdominal pain；年齡越小越以此類非特異性症狀為主 |
+| 成人 | **Dysphagia（吞嚥困難）**、**food impaction（食物梗塞）**為主要表現 |
+
 - 成人 EoE 主要表現為 **dysphagia 和食物梗塞（food impaction）**
 - 常合併慢性逆流症狀（heartburn、regurgitation）
 - 較少見：failure to thrive、malnutrition、poor growth、食道蠕動異常
