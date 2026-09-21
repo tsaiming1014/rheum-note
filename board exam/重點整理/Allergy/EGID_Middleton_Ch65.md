@@ -92,19 +92,6 @@
 - 雙胞胎研究：同卵雙胞胎 concordance **58%**，異卵 **36%** → 高度遺傳性
 - 手足風險比約 **50 倍**於一般人口；但僅約 7% 病人有陽性家族史
 - **環境因子約佔疾病成因的 85%**（雙胞胎/環境研究）
-- 早期生命危險因子：母親發燒、早產、剖腹產、嬰兒期使用抗生素/制酸劑 → 可能改變免疫刺激、產生表觀遺傳訊號
-- 分子診斷：EoE diagnostic panel（EDP，96 基因表現譜）可用單一切片診斷 EoE，敏感度/特異度媲美組織學
-- **CCL26（eotaxin-3）**是 EoE 食道組織中表現量最高的基因，單獨即有 89% 診斷預測值
-- GWAS 主要 loci：**5q22**（TSLP 基因）、**2p23**（CAPN14 基因）
-
-### 相關遺傳症候群
-
-- **結締組織疾病**（TGF-β 訊號路徑增強）：Loeys-Dietz syndrome、Marfan syndrome → 結締組織疾病病人 EoE 風險增加 **8 倍**；Ehlers-Danlos syndrome（hypermobility 型）與 EoE 高度共病
-- **ERBIN deficiency**（TGF-β 負調控子缺失）
-- **Netherton syndrome**（SPINK5 突變）
-- **PTEN hamartoma tumor syndrome**
-- **STAT3 deficiency**（autosomal dominant hyper-IgE syndrome）
-- **DSG1 deficiency**（SAM syndrome：severe dermatitis, multiple Allergies, Metabolic wasting）
 
 ### 臨床表現（依年齡呈現不同症狀，Fig 65.2）
 
