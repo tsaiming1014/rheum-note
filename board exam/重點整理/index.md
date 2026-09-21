@@ -48,19 +48,19 @@
 
 ## 過敏疾病
 
-| 疾病 | 分類標準 | 活性評估 | Remission 定義 | Guideline |
-|------|----------|----------|----------------|-----------|
-| Asthma — 氣喘 | [2026 GINA 診斷準則](Allergy/Asthma/Asthma_診斷.md) | ACT、ACQ、FeNO、肺功能 | - | [2026 GINA](Allergy/Asthma/Asthma_藥物治療整理.md) |
-| 過敏性鼻炎 / 結膜炎 | ARIA 分類（間歇/持續、輕/中重度） | TNSS、VAS、RQLQ | - | ARIA 2019/2020 |
-| [Drug Allergy — 藥物過敏](Allergy/DrugAllergy/DrugAllergy_致病機轉.md) | Gell & Coombs I–IV 型 | - | - | [Middleton's Allergy 9E Ch77](Allergy/DrugAllergy/DrugAllergy_診斷與治療.md) |
-| [NSAID Hypersensitivity — NSAID/Aspirin 過敏](跨疾病主題/NSAID_Aspirin_Hypersensitivity.md) | EAACI/GA2LEN 分類（cross-reactive：AERD/NECD/NIUA vs. single-drug：SNIUAA vs. 延遲型：SNIDR） | - | - | [Middleton's Allergy 9E Ch78](跨疾病主題/NSAID_Aspirin_Hypersensitivity.md) |
-| [Urticaria — 蕁麻疹](Allergy/Urticaria/Urticaria_致病機轉與治療.md) | 急/慢性（CSU、CIndU） | UAS7、UCT、AAS | - | [2026 EAACI/GA²LEN/EuroGuiDerm/APAAACI](Allergy/Urticaria/Urticaria_2026國際指引_定義分類診斷治療.md) |
-| [異位性皮膚炎](Allergy/AD/AD_致病機轉.md) / 接觸性皮膚炎 | Hanifin & Rajka（AD）、貼膚試驗（ACD） | SCORAD、EASI、POEM | - | 2023 AAD / 2022 AAAAI |
-| [Food Allergy — 食物過敏（分子過敏學）](Allergy/FoodAllergy/分子過敏學_食物過敏原成分.md) | - | - | - | - |
-| [HAE — 遺傳性血管性水腫（Bradykinin-mediated angioedema）](Allergy/HAE/HAE_致病機轉診斷治療.md) | 臨床病史 + C4/C1INH 抗原與功能/C1q | 發作頻率、AECT | - | [2026 International/Canadian HAE guideline](Allergy/HAE/HAE_治療.md) |
-| [Anaphylaxis — 全身性過敏反應](Allergy/Anaphylaxis_Middleton_Ch75.md) | Simons et al. 診斷標準（Box 75.1） | - | - | [Middleton's Allergy 9E Ch75](Allergy/Anaphylaxis_Middleton_Ch75.md) |
-| [EGID — 嗜酸性球腸胃道疾病（EoE/eosinophilic gastritis/gastroenteritis/colitis）](Allergy/EGID_Middleton_Ch65.md) | EoE：症狀+peak≥15 eos/HPF等5項準則 | - | - | [Middleton's Allergy 9E Ch65](Allergy/EGID_Middleton_Ch65.md) |
-| [Eosinophilia / HES — 嗜酸性球增多症與 Hypereosinophilic Syndrome](Allergy/Eosinophilia_Middleton_Ch73.md) | HES：AEC≥1500/µL（≥2次）+終器官表現；6亞型（myeloid/lymphoid/familial/overlap/idiopathic/HEUS） | - | - | [Middleton's Allergy 9E Ch73](Allergy/Eosinophilia_Middleton_Ch73.md) |
+| 疾病 | 診斷 | 治療 |
+|------|------|------|
+| Asthma — 氣喘 | [2026 GINA 診斷準則](Allergy/Asthma/Asthma_診斷.md) | [2026 GINA](Allergy/Asthma/Asthma_藥物治療整理.md) |
+| 過敏性鼻炎 / 結膜炎 | ARIA 分類（間歇/持續、輕/中重度） | ARIA 2019/2020 |
+| [Drug Allergy — 藥物過敏](Allergy/DrugAllergy/DrugAllergy_致病機轉.md) | Gell & Coombs I–IV 型 | [Middleton's Allergy 9E Ch77](Allergy/DrugAllergy/DrugAllergy_診斷與治療.md) |
+| [NSAID Hypersensitivity — NSAID/Aspirin 過敏](跨疾病主題/NSAID_Aspirin_Hypersensitivity.md) | EAACI/GA2LEN 分類（cross-reactive：AERD/NECD/NIUA vs. single-drug：SNIUAA vs. 延遲型：SNIDR） | [Middleton's Allergy 9E Ch78](跨疾病主題/NSAID_Aspirin_Hypersensitivity.md) |
+| [Urticaria — 蕁麻疹](Allergy/Urticaria/Urticaria_致病機轉與治療.md) | 急/慢性（CSU、CIndU） | [2026 EAACI/GA²LEN/EuroGuiDerm/APAAACI](Allergy/Urticaria/Urticaria_2026國際指引_定義分類診斷治療.md) |
+| [異位性皮膚炎](Allergy/AD/AD_致病機轉.md) / 接觸性皮膚炎 | Hanifin & Rajka（AD）、貼膚試驗（ACD） | 2023 AAD / 2022 AAAAI |
+| [Food Allergy — 食物過敏（分子過敏學）](Allergy/FoodAllergy/分子過敏學_食物過敏原成分.md) | - | - |
+| [HAE — 遺傳性血管性水腫（Bradykinin-mediated angioedema）](Allergy/HAE/HAE_致病機轉診斷治療.md) | 臨床病史 + C4/C1INH 抗原與功能/C1q | [2026 International/Canadian HAE guideline](Allergy/HAE/HAE_治療.md) |
+| [Anaphylaxis — 全身性過敏反應](Allergy/Anaphylaxis_Middleton_Ch75.md) | Simons et al. 診斷標準（Box 75.1） | [Middleton's Allergy 9E Ch75](Allergy/Anaphylaxis_Middleton_Ch75.md) |
+| [EGID — 嗜酸性球腸胃道疾病（EoE/eosinophilic gastritis/gastroenteritis/colitis）](Allergy/EGID_Middleton_Ch65.md) | EoE：症狀+peak≥15 eos/HPF等5項準則 | [Middleton's Allergy 9E Ch65](Allergy/EGID_Middleton_Ch65.md) |
+| [Eosinophilia / HES — 嗜酸性球增多症與 Hypereosinophilic Syndrome](Allergy/Eosinophilia_Middleton_Ch73.md) | HES：AEC≥1500/µL（≥2次）+終器官表現；6亞型（myeloid/lymphoid/familial/overlap/idiopathic/HEUS） | [Middleton's Allergy 9E Ch73](Allergy/Eosinophilia_Middleton_Ch73.md) |
 
 ---
 
