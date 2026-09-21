@@ -51,7 +51,7 @@
 | 疾病 | 診斷 | 治療 |
 |------|------|------|
 | Asthma — 氣喘 | [2026 GINA 診斷準則](Allergy/Asthma/Asthma_診斷.md) | [2026 GINA](Allergy/Asthma/Asthma_藥物治療整理.md) |
-| 過敏性鼻炎 / 結膜炎 | ARIA 分類（間歇/持續、輕/中重度） | ARIA 2019/2020 |
+| [過敏性鼻炎 / 結膜炎](Allergy/Allergic%20Rhinitis/AllergicRhinitis_Middleton_Ch40.md) | ARIA 分類（間歇/持續、輕/中重度） | [Middleton's Allergy 9E Ch40](Allergy/Allergic%20Rhinitis/AllergicRhinitis_Middleton_Ch40.md) |
 | [Drug Allergy — 藥物過敏](Allergy/DrugAllergy/DrugAllergy_致病機轉.md) | Gell & Coombs I–IV 型 | [Middleton's Allergy 9E Ch77](Allergy/DrugAllergy/DrugAllergy_診斷與治療.md) |
 | [NSAID Hypersensitivity — NSAID/Aspirin 過敏](跨疾病主題/NSAID_Aspirin_Hypersensitivity.md) | EAACI/GA2LEN 分類（cross-reactive：AERD/NECD/NIUA vs. single-drug：SNIUAA vs. 延遲型：SNIDR） | [Middleton's Allergy 9E Ch78](跨疾病主題/NSAID_Aspirin_Hypersensitivity.md) |
 | [Urticaria — 蕁麻疹](Allergy/Urticaria/Urticaria_致病機轉與治療.md) | 急/慢性（CSU、CIndU） | [2026 EAACI/GA²LEN/EuroGuiDerm/APAAACI](Allergy/Urticaria/Urticaria_2026國際指引_定義分類診斷治療.md) |
@@ -149,6 +149,7 @@
 | SjD | [口試歷年考題（2019–2025）](SjD/SjD口試歷年考題.md) |
 | LVV（GCA/TAK/PMR） | [口試歷年考題（2019–2025）](Vasculitis/Large%20vessel/GCA_TAK_口試歷年考題.md) |
 | Image（影像判讀，第八關） | [圖片判讀彙整（2019–2025）](考試準備/風專歷屆考題/風專口試_圖片判讀彙整_2019-2025.md) |
+| Allergic Rhinitis | [免專歷屆考題整理（2019–2025）](Allergy/Allergic%20Rhinitis/AllergicRhinitis_考古題整理.md) |
 
 #### Rheumatologic Emergency — 依器官系統分類
 
