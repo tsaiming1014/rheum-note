@@ -60,6 +60,7 @@
 | [HAE — 遺傳性血管性水腫（Bradykinin-mediated angioedema）](Allergy/HAE/HAE_致病機轉診斷治療.md) | 臨床病史 + C4/C1INH 抗原與功能/C1q | 發作頻率、AECT | - | [2026 International/Canadian HAE guideline](Allergy/HAE/HAE_治療.md) |
 | [Anaphylaxis — 全身性過敏反應](Allergy/Anaphylaxis_Middleton_Ch75.md) | Simons et al. 診斷標準（Box 75.1） | - | - | [Middleton's Allergy 9E Ch75](Allergy/Anaphylaxis_Middleton_Ch75.md) |
 | [EGID — 嗜酸性球腸胃道疾病（EoE/eosinophilic gastritis/gastroenteritis/colitis）](Allergy/EGID_Middleton_Ch65.md) | EoE：症狀+peak≥15 eos/HPF等5項準則 | - | - | [Middleton's Allergy 9E Ch65](Allergy/EGID_Middleton_Ch65.md) |
+| [Eosinophilia / HES — 嗜酸性球增多症與 Hypereosinophilic Syndrome](Allergy/Eosinophilia_Middleton_Ch73.md) | HES：AEC≥1500/µL（≥2次）+終器官表現；6亞型（myeloid/lymphoid/familial/overlap/idiopathic/HEUS） | - | - | [Middleton's Allergy 9E Ch73](Allergy/Eosinophilia_Middleton_Ch73.md) |
 
 ---
 
