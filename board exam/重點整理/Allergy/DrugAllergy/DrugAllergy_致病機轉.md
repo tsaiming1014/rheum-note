@@ -40,25 +40,42 @@ WHO 定義 ADR：治療劑量下發生的非預期、非所欲之藥物反應。
 
 ![Revised Gell and Coombs classification of drug reactions](../../images/Fig%2077.3.png)
 
-> Fig. 77.3 Revised classification of drug hypersensitivity reactions. Type 1–3 為 antibody-dependent 反應（仍需 T helper cell 參與），Type 4a–4d 為純 T 細胞依賴反應，依主要效應細胞、發炎部位與細胞激素分泌模式區分。(Adapted from Pichler WJ. Delayed drug hypersensitivity reactions. Ann Intern Med 2003;139(8):683-693.)
+> Fig. 77.3 Revised Gell and Coombs classification of drug reactions. All reactions are subject to regulation by T cells. Gell-Coombs types 1 to 3 reactions rely on antibody-mediated effector functions, and Gell-Coombs types 4a to 4d are the pure T cell–dependent reactions. (Adapted from Pichler WJ. Delayed drug hypersensitivity reactions. Ann Intern Med 2003;139(8):683-693.)
 
-補充重點（圖中未特別強調處）：
+Type 1–3 為 antibody-dependent（但仍需 T helper cell 參與），Type 4 為純 T 細胞媒介，近年再依主要效應細胞、發炎部位與細胞激素分泌模式細分為 4a–4d：
 
-- **Type 4b**（Th2／IL-4, IL-5, IL-13）與 **Type 4c**（cytotoxic T cell／granulysin, perforin, granzyme B）常同時存在——**DRESS 目前認為是 4b+4c 混合反應**，CD4+ 與 CD8+ T cell 皆參與並產生 IFN-γ、TNF-α。
-- **Type 4c** 主導 **SJS/TEN**。
-- **Type 4d**（T cell 分泌 CXCL8、GM-CSF 招募嗜中性球）主導 **AGEP**。
+| Type | 免疫機轉 | 效應細胞/介質 | 典型臨床表現 |
+|---|---|---|---|
+| **1** | IgE-mediated，暴露後 1 小時內發生 | Mast cell/basophil degranulation（histamine, leukotriene） | 全身性 anaphylaxis、urticaria |
+| **2** | Non-IgE antibody-mediated，藥物快速 haptenate host protein | FcR+ phagocyte、NK cell、complement | 溶血性貧血（penicillin、quinidine、α-methyldopa）、thrombocytopenia（vancomycin、sulfa）、granulocytopenia |
+| **3** | Immune complex（IgG/IgM + soluble antigen），常見於高劑量長療程 | Complement | Serum sickness（發燒、腎炎、關節痛、血管炎樣皮疹） |
+| **4a** | Th1（IFN-γ）活化巨噬細胞 | Macrophage | Tuberculin reaction、contact dermatitis |
+| **4b** | Th2（IL-4/IL-13/IL-5） | Eosinophil | **DRESS**、伴嗜酸性球增多之 maculopapular exanthema（DRESS 現認為是 4b+4c 混合，CD4/CD8 皆參與，產生 IFN-γ/TNF-α） |
+| **4c** | Cytotoxic T cell（granulysin、perforin、granzyme B） | CTL | **SJS/TEN**、bullous exanthema、fixed drug eruption、藥物性肝炎 |
+| **4d** | T cell 分泌 CXCL8、GM-CSF，招募嗜中性球 | Neutrophil | AGEP（acute generalized exanthematous pustulosis） |
 
 ---
 
-## 四、HLA 與嚴重藥物過敏
+## 四、HLA 與嚴重藥物過敏（重點速記表）
 
 ![HLA associations with serious drug allergy syndromes and implications for translation](../../images/Table%2077.2.png)
 
 > Table 77.2 Human Leukocyte Antigen Associations with Serious Drug Allergy Syndromes and Implications for Translation.
 
-重點記憶（藥物–allele 配對）：**Abacavir–B\*57:01**、**Allopurinol–B\*58:01**（SJS/TEN、DRESS/DIHS）、**Carbamazepine–B\*15:02**（SJS/TEN，東南亞）／**A\*31:01**（DRESS，歐洲）、**Dapsone–B\*13:01**（DRESS）、**Flucloxacillin–B\*57:01**（藥物性肝損傷）、**Nevirapine–C\*04:01**（DRESS）、**Methimazole/carbimazole–B\*38:02**。
+四位數高解析度 HLA typing 與多種 T 細胞媒介型嚴重藥物過敏強烈相關，是 pre-prescription screening 的實證基礎：
 
-**NNT（篩檢一位需篩測人數以預防一例）取決於**：該地區 HLA risk allele 盛行率 × 藥物毒性盛行率 × HLA allele 之 PPV——同一藥物在不同族群篩檢效益可以天差地遠，例如 carbamazepine-B\*15:02 在東南亞篩檢效益高（NNT 小），在歐洲效益極低（NNT >1000）；flucloxacillin-B\*57:01 因肝損傷本身盛行率極低，NNT 高達 13,819，篩檢效益差。
+| 藥物 | 表現型 | HLA allele | 重點數字 |
+|---|---|---|---|
+| **Abacavir** | Hypersensitivity syndrome | **B\*57:01** | Caucasian 帶因率 5–8%；已列入用藥前常規篩檢（2008 年起標準治療）|
+| **Allopurinol** | SJS/TEN、DRESS/DIHS | **B\*58:01** | 東南亞帶因率 9–11%，PPV 東南亞人幾近 100% |
+| **Carbamazepine** | SJS/TEN | **B\*15:02** | 東南亞帶因率 10–15%，PPV 幾近 100%（東南亞）；NNT 差異極大（東南亞篩檢效益高，NNT 小；歐洲效益低，NNT >1000）|
+| **Carbamazepine** | DRESS | A\*31:01 | 歐洲人相關 |
+| **Dapsone** | DRESS | B\*13:01 | 東南亞/巴布亞紐幾內亞高帶因率 |
+| **Flucloxacillin** | 藥物性肝損傷 | B\*57:01 | NNT 高達 13,819（篩檢效益差，NNT 越大代表越不划算）|
+| **Nevirapine** | DRESS | C\*04:01 | |
+| **Methimazole/carbimazole** | 抗甲狀腺藥反應 | B\*38:02 | |
+
+**NNT（篩檢一位需篩測人數以預防一例）取決於**：該地區 HLA risk allele 盛行率 × 藥物毒性盛行率 × HLA allele 的 PPV——同一藥物在不同族群篩檢效益可以天差地遠（如 carbamazepine-B\*15:02 在東南亞 vs 歐洲）。
 
 ---
 
@@ -66,15 +83,17 @@ WHO 定義 ADR：治療劑量下發生的非預期、非所欲之藥物反應。
 
 ![SJS/TEN and DRESS pathogenesis](../../images/Fig%2077.4.png)
 
-> Fig. 77.4 (A) SJS/TEN pathogenesis：病灶發生於**表皮**，keratinocyte 作為抗原呈現細胞活化 CD8+ T cell，經 granulysin/perforin/granzyme B 造成 keratinocyte 壞死與表皮剝離。(B) DRESS pathogenesis：病灶發生於**真皮**，CD4+/CD8+ T cell 分泌 TNF-α/IFN-γ，常合併病毒再活化。(Adapted from Peter JG, Lehloenya R, Dlamini S, et al. J Allergy Clin Immunol Pract 2017;5(3):547-563.)
+> Fig. 77.4 (A) Stevens-Johnson syndrome/toxic epidermal necrolysis (SJS/TEN) pathogenesis. (B) Drug reaction with eosinophilia and systemic symptoms (DRESS) pathogenesis. (Adapted from Peter JG, Lehloenya R, Dlamini S, et al. J Allergy Clin Immunol Pract 2017;5(3):547-563.)
 
 | | SJS/TEN | DRESS |
 |---|---|---|
 | 發病時間 | 用藥後 4–28 天 | 用藥後 2–8 週 |
-| 定義 | 依表皮剝離體表面積：SJS <10%、overlap 10–30%、**TEN >30%** | 發燒＋無標靶樣廣泛皮疹＋顏面水腫＋淋巴結腫大＋嗜酸性球增多／異型淋巴球＋內臟侵犯（肝炎最常見，亦可腎炎、肺炎、腦炎、心肌炎） |
+| 病灶位置 | **表皮**（keratinocyte 作為抗原呈現細胞，直接活化 CD8+ T cell） | **真皮**（CD4+ 與 CD8+ T cell 皆參與） |
+| 關鍵細胞毒性分子 | **Granulysin**（主要）、perforin/granzyme B；NK、NKT 細胞亦參與並產生 granulysin | TNF-α/IFN-γ producing CD4+/CD8+ T cell |
+| 定義 | 依表皮剝離體表面積：SJS <10%、overlap 10–30%、**TEN >30%** | 發燒＋無標靶樣廣泛皮疹＋顏面水腫＋淋巴結腫大＋嗜酸性球增多／異型淋巴球＋內臟侵犯（肝炎最常見，亦可腎炎、肺炎、腦炎、心肌炎）|
 | 死亡率 | TEN 一年死亡率約 **30%** | 約 **10%** |
 | 常見致病藥物 | 芳香族抗癲癇藥、allopurinol、sulfa 類抗生素 | 與 SJS/TEN 相似（芳香族抗癲癇藥、allopurinol、sulfa、beta-lactam、nevirapine） |
-| 特殊追蹤 | — | 恢復後 2 週以上常見復發（常與類固醇減量、HHV-6/7、CMV、EBV 病毒再活化並存）；建議恢復後**每年追蹤 4 年**（長期併發症包含甲狀腺炎、SLE、Type 1 DM 等自體免疫病） |
+| 特殊追蹤 | — | 恢復後 2 週以上常見復發（常與類固醇減量、HHV-6/7、CMV、EBV 病毒再活化並存）；建議恢復後**每年追蹤 4 年**（長期併發症包含甲狀腺炎、SLE、Type 1 DM 等自體免疫病）|
 
 鑑別診斷：SJS/TEN 需與 erythema multiforme major 區分（後者常與 HSV、Mycoplasma 感染相關，病灶為典型/不典型 target lesion、分布較局限、預後佳、常復發）。
 
