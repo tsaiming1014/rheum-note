@@ -61,6 +61,7 @@
 | [Anaphylaxis — 全身性過敏反應](Allergy/Anaphylaxis_Middleton_Ch75.md) | Simons et al. 診斷標準（Box 75.1） | [Middleton's Allergy 9E Ch75](Allergy/Anaphylaxis_Middleton_Ch75.md) |
 | [EGID — 嗜酸性球腸胃道疾病（EoE/eosinophilic gastritis/gastroenteritis/colitis）](Allergy/EGID_Middleton_Ch65.md) | EoE：症狀+peak≥15 eos/HPF等5項準則 | [Middleton's Allergy 9E Ch65](Allergy/EGID_Middleton_Ch65.md) |
 | [Eosinophilia / HES — 嗜酸性球增多症與 Hypereosinophilic Syndrome](Allergy/Eosinophilia_Middleton_Ch73.md) | HES：AEC≥1500/µL（≥2次）+終器官表現；6亞型（myeloid/lymphoid/familial/overlap/idiopathic/HEUS） | [Middleton's Allergy 9E Ch73](Allergy/Eosinophilia_Middleton_Ch73.md) |
+| [過敏原免疫治療（AIT）— SCIT / SLIT / OIT 完整比較](Allergy/過敏原免疫治療_AIT比較.md) | - | [SCIT / SLIT / OIT 適應症、療程與安全性比較](Allergy/過敏原免疫治療_AIT比較.md) |
 
 ---
 
@@ -84,7 +85,6 @@
 | 關節液分析 | [關節液外觀與鑑別診斷（CVC）](Crystal/關節液外觀與鑑別診斷.md) |
 | 老鼠動物模型 | [風濕免疫疾病老鼠動物模型整理](跨疾病主題/風濕免疫疾病_老鼠動物模型整理.md) |
 | 內分泌代謝疾病相關關節炎 | [內分泌代謝疾病相關關節炎（Kelly Ch127）](跨疾病主題/內分泌代謝疾病相關關節炎_Kelly127.md) |
-| 過敏原免疫治療（AIT） | [SCIT / SLIT / OIT 完整比較](Allergy/過敏原免疫治療_AIT比較.md) |
 | CTD-ILD | [CTD-ILD 治療實證整理（EULAR 2025 ILD session）](跨疾病主題/CTD-ILD_治療實證整理_EULAR2025.md) |
 | Pregnancy in rheumatic disease | 風濕病與妊娠（2022 BSR Part 1 & 2） |
 | IGRA | [IGRA 與 Latent TB 治療](跨疾病主題/IGRA.md) |
