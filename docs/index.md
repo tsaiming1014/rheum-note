@@ -55,12 +55,13 @@
 | [Drug Allergy — 藥物過敏](Allergy/DrugAllergy/DrugAllergy_致病機轉.md) | Gell & Coombs I–IV 型 | [Middleton's Allergy 9E Ch77](Allergy/DrugAllergy/DrugAllergy_診斷與治療.md) |
 | [NSAID Hypersensitivity — NSAID/Aspirin 過敏](跨疾病主題/NSAID_Aspirin_Hypersensitivity.md) | EAACI/GA2LEN 分類（cross-reactive：AERD/NECD/NIUA vs. single-drug：SNIUAA vs. 延遲型：SNIDR） | [Middleton's Allergy 9E Ch78](跨疾病主題/NSAID_Aspirin_Hypersensitivity.md) |
 | [Urticaria — 蕁麻疹](Allergy/Urticaria/Urticaria_致病機轉與治療.md) | 急/慢性（CSU、CIndU） | [2026 EAACI/GA²LEN/EuroGuiDerm/APAAACI](Allergy/Urticaria/Urticaria_2026國際指引_定義分類診斷治療.md) |
-| [異位性皮膚炎](Allergy/AD/AD_致病機轉.md) / 接觸性皮膚炎 | Hanifin & Rajka（AD）、貼膚試驗（ACD） | 2023 AAD / 2022 AAAAI |
+| [異位性皮膚炎](Allergy/AD/AD_致病機轉.md) / 接觸性皮膚炎 | Hanifin & Rajka（AD）、貼膚試驗（ACD）；活性評估：[SCORAD vs EASI](Allergy/AD/AD_SCORAD_EASI比較.md) | [Middleton's Allergy 9E Ch33](Allergy/AD/AD_臨床與治療.md) |
 | [Food Allergy — 食物過敏（分子過敏學）](Allergy/FoodAllergy/分子過敏學_食物過敏原成分.md) | - | - |
 | [HAE — 遺傳性血管性水腫（Bradykinin-mediated angioedema）](Allergy/HAE/HAE_致病機轉診斷治療.md) | 臨床病史 + C4/C1INH 抗原與功能/C1q | [2026 International/Canadian HAE guideline](Allergy/HAE/HAE_治療.md) |
 | [Anaphylaxis — 全身性過敏反應](Allergy/Anaphylaxis_Middleton_Ch75.md) | Simons et al. 診斷標準（Box 75.1） | [Middleton's Allergy 9E Ch75](Allergy/Anaphylaxis_Middleton_Ch75.md) |
 | [EGID — 嗜酸性球腸胃道疾病（EoE/eosinophilic gastritis/gastroenteritis/colitis）](Allergy/EGID_Middleton_Ch65.md) | EoE：症狀+peak≥15 eos/HPF等5項準則 | [Middleton's Allergy 9E Ch65](Allergy/EGID_Middleton_Ch65.md) |
 | [Eosinophilia / HES — 嗜酸性球增多症與 Hypereosinophilic Syndrome](Allergy/Eosinophilia_Middleton_Ch73.md) | HES：AEC≥1500/µL（≥2次）+終器官表現；6亞型（myeloid/lymphoid/familial/overlap/idiopathic/HEUS） | [Middleton's Allergy 9E Ch73](Allergy/Eosinophilia_Middleton_Ch73.md) |
+| [過敏原免疫治療（AIT）— SCIT / SLIT / OIT 完整比較](Allergy/過敏原免疫治療_AIT比較.md) | - | [SCIT / SLIT / OIT 適應症、療程與安全性比較](Allergy/過敏原免疫治療_AIT比較.md) |
 
 ---
 
@@ -84,7 +85,6 @@
 | 關節液分析 | [關節液外觀與鑑別診斷（CVC）](Crystal/關節液外觀與鑑別診斷.md) |
 | 老鼠動物模型 | [風濕免疫疾病老鼠動物模型整理](跨疾病主題/風濕免疫疾病_老鼠動物模型整理.md) |
 | 內分泌代謝疾病相關關節炎 | [內分泌代謝疾病相關關節炎（Kelly Ch127）](跨疾病主題/內分泌代謝疾病相關關節炎_Kelly127.md) |
-| 過敏原免疫治療（AIT） | [SCIT / SLIT / OIT 完整比較](Allergy/過敏原免疫治療_AIT比較.md) |
 | CTD-ILD | [CTD-ILD 治療實證整理（EULAR 2025 ILD session）](跨疾病主題/CTD-ILD_治療實證整理_EULAR2025.md) |
 | Pregnancy in rheumatic disease | 風濕病與妊娠（2022 BSR Part 1 & 2） |
 | IGRA | [IGRA 與 Latent TB 治療](跨疾病主題/IGRA.md) |
