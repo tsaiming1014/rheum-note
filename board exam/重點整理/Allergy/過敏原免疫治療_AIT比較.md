@@ -37,9 +37,56 @@
 - **SLIT**：安全性相對最佳，多數副作用為**局部口腔搔癢、輕微腫脹**，全身性嚴重反應罕見，因此可**在家自行給藥**，不需每次回診。
 - **OIT**：因直接讓病人攝入原本會過敏的食物，**全身性副作用（含過敏性休克）風險相對三者中最高**，尤其在劑量調升期，因此起始與調升階段通常需在醫療院所進行，是三種AIT中安全性風險最需要密切監測的一種。
 
-## 5. 速記
+## 5. 代表藥物：Acarizax（HDM SLIT tablet）的 indication
+
+> 對應題庫：2024免專口試 Immunotherapy 關「Acarizax 的 indication 是什麼？」
+
+### 藥物基本資料
+
+- Acarizax 是 **house dust mite（HDM）SLIT tablet**，劑量 **12 SQ-HDM**，含 *D. pteronyssinus* 和 *D. farinae* 兩種塵蟎萃取物（ALK 公司）。美國同成分產品叫 Odactra。
+- 台灣最主要的過敏原正是這兩種塵蟎。這個藥在台灣已核准上市，目前**自費，健保不給付**。
+
+### 適應症（EU SmPC）
+
+前提是臨床病史符合，而且 **HDM SPT 陽性和/或 HDM sIgE 陽性**。
+
+| 適應症 | 年齡 | 條件 |
+|---|---|---|
+| HDM allergic rhinitis | 成人（18–65 歲），已擴展到 **12–17 歲** | **Persistent moderate-to-severe** AR，使用症狀緩解藥物後仍控制不佳 |
+| HDM allergic asthma | 成人（18–65 歲） | **ICS 控制不佳**，且合併 HDM AR；開始前要先評估氣喘狀態 |
+
+> 5–11 歲兒童的 AR 適應症有 pediatric 試驗（MT-12）支持，部分國家已經或正在擴充。各國核准年齡不同，口試時可以說「依各國仿單，台灣以 TFDA 核准範圍為準」。
+
+### 關鍵試驗
+
+- **MT-04**（Virchow, JAMA 2016）：HDM allergic asthma 成人在逐步減 ICS 時，moderate/severe exacerbation 風險下降，HR 約 0.69。
+- **MT-06**（Demoly, JACI 2016）：成人 HDM AR 的 rhinitis score 顯著改善。
+- **GINA 建議**：HDM 過敏、合併 AR、用 ICS 仍有 exacerbation、FEV1 >70% predicted 的成人，可以 add-on HDM SLIT（step 3–4）。
+
+### 禁忌症
+
+- 經適當治療後 FEV1 仍 **<70% predicted**，或氣喘控制不佳
+- **3 個月內有 severe asthma exacerbation**
+- Active 或控制不佳的 systemic autoimmune disease、active malignancy、免疫缺陷
+- 口腔有急性發炎或傷口時要先暫停
+- 曾有 **EoE**
+
+### 用法
+
+- 每天舌下含 1 錠，約 1 分鐘內不要吞，之後 5 分鐘內不要吃東西或喝水。
+- **第一劑要在醫師監督下服用，並觀察 30 分鐘**，之後可以在家自己用。
+- 約 8–14 週開始見效。
+- 建議連續使用 **3 年**，停藥後療效才會持續。
+
+### 副作用
+
+- 常見：口腔搔癢、喉嚨刺激、耳朵癢、口唇水腫，多半輕微，集中在前幾週。
+- 少見但重要：嚴重口咽水腫、systemic reaction、EoE。出現吞嚥困難或胸口痛時要停藥評估。
+
+## 6. 速記
 
 - **SCIT** = 診所注射、需up-dosing、全身性副作用中等
 - **SLIT** = **可在家每日自行給藥**、副作用最輕微、療程約3年
 - **OIT** = 口服、需up-dosing、**全身性副作用風險相對最高**
 - 三者共同機轉：誘導Treg／IL-10／IgG4 blocking antibody，抑制Th2/IgE路徑
+- **Acarizax** = 12 SQ-HDM 每日 1 錠、第一劑院內觀察 30 分鐘、FEV1 <70% 或 3 個月內嚴重發作不可開始、療程 3 年
