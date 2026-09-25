@@ -18,14 +18,16 @@
 
 AD **沒有病理特異性皮疹或實驗室標記**，診斷純靠臨床（Box 33.1）。
 
-**Major features（需符合）**
+![Hanifin and Rajka criteria：major 與 minor criteria](../../images/AD%20criteria.png)
+
+**Major features（需符合 ≥3 項）**
 
 - Pruritus
 - 嬰幼兒：臉部與四肢伸側侵犯；較大兒童/成人：屈側 lichenification
 - 慢性或反覆發作病程
 - 個人或家族過敏病史
 
-**Minor features**
+**Minor features（需符合 ≥3 項，完整 23 項見上圖）**
 
 - Xerosis、皮膚感染
 - 手足非特異性皮膚炎
