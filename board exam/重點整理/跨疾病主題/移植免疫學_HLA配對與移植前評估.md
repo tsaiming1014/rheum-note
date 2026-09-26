@@ -228,6 +228,40 @@
 - **Mixed lymphocyte reaction（MLR）**：用來偵測 alloreactive T cell，但無法精準定量。
 - **Treg** 可以延緩或預防 GVHD（low-dose IL-2 擴增 Treg）。
 
+### Haploidentical HSCT 與 PTCy
+
+**Haplo 的本質：** 捐者和受者共享一條遺傳自同一祖先的 haplotype（identical by descent）。
+
+- **共享的那一條**：來自同一條染色體，**每個 Field 都完全相同**，不需要另外配對。
+- **另一條**：完全不配，約 **4–5/10 mismatch**。
+- 所以 haplo 不是「放寬 Field 2 的配對標準」，而是**直接接受半邊 mismatch，再用 PTCy 處理後果**。
+- Field 2（allele-level）配對真正的難題在**非親屬捐者**：兩人都是 A\*02，可能一個是 A\*02:01、一個是 A\*02:06，所以骨髓資料庫需要 high-resolution 分型。
+
+**PTCy（post-transplant cyclophosphamide）的機轉：**
+
+- 移植後第 3、4 天給高劑量 cyclophosphamide。
+- **被受者 HLA 活化、正在快速增殖的 alloreactive T cell** 被選擇性殺死。
+- **Treg 相對被保留**；**造血幹細胞表現高量 ALDH**（aldehyde dehydrogenase），可代謝 cyclophosphamide 而存活。
+- 結果：HLA mismatch 造成的 GVHD 風險被大幅抵銷。PTCy 目前也延伸用於 matched／mismatched unrelated donor（例如 BMT CTN 1703、ACCESS trial），HSCT 對「完美配對」的依賴已明顯下降。
+
+**Haplo 仍然要驗 anti-HLA antibody：**
+
+- 受者若有針對捐者 mismatch haplotype 的 **DSA → graft failure 風險明顯上升** → 改選其他親屬，或先做 desensitization。
+- DSA 最常見於**經產婦**（懷孕致敏）。
+- 其他 haplo 捐者選擇因素：捐者年輕、男性優先、CMV serostatus。
+
+### Solid organ 與 HSCT 的配對需求比較
+
+| | 腎移植 | HSCT |
+|---|---|---|
+| 配對層次 | 傳統以 **antigen level**（約等於 Field 1／血清學）計算 A-B-DR mismatch | 非親屬捐者需 **allele level（Field 2）**，8/8 或 10/10 |
+| 可以完全不配嗎？ | 可以：**夫妻、無血緣活體捐贈**成績很好，6/6 mismatch 也常移植 | 以前不行；**現在 haplo ＋ PTCy 可接受半配** |
+| 補償 mismatch 的方法 | 長期免疫抑制劑 | PTCy 等 GVHD 預防策略 |
+| 真正不能妥協的門檻 | **ABO、DSA、crossmatch** | **DSA**（graft failure） |
+| HLA 配對的角色 | 加分（DR 最重要），非必要條件 | 越配越好，但已非絕對必要 |
+
+**重點：** Field 2 是「蛋白質是否相同」的定義層次，這點不變；但臨床上不一定要追求 Field 2 完全配對。**真正不能妥協的是預先存在的 anti-HLA antibody（DSA）**，這也是移植前評估「最重要的是 anti-HLA antibody」而不是「HLA 完全配對」的原因。
+
 ## 十、胎兒：天然的 Allograft
 
 胎兒帶有父方 HLA，卻不會被排斥，機轉包括：
@@ -260,3 +294,6 @@
 | LN 在移植腎復發率 | 約 10% |
 | 是否需要配 Rh | 不需要（solid organ） |
 | 角膜移植 | 無血管，通常不需要免疫抑制 |
+| Haplo HSCT 為何可行 | **PTCy**：殺死增殖中的 alloreactive T cell，保留 Treg 與 HSC（高 ALDH） |
+| Haplo 選捐者最重要的免疫學因素 | 受者有無針對捐者的 **DSA**（graft failure） |
+| HLA 配對要看到哪一個 Field | Field 2 定義蛋白質；非親屬 HSCT 需 allele level，腎移植多用 antigen level |
