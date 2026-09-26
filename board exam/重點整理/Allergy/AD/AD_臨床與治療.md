@@ -156,6 +156,19 @@ Copenhagen Prospective Study：3 歲時對 AD 預測力最高的臨床表現是�
 - FDA **boxed warning**（長期安全性資料不足，非確立因果關係）：建議作為**第二線、間歇性**治療，**不建議用於 <2 歲**。大型病例對照研究（n=293,253）**未發現**淋巴瘤風險增加。
 - Tacrolimus proactive therapy 於歐洲核准可用至 12 個月（≥2 歲）。
 
+**機轉：Tacrolimus vs Pimecrolimus**
+
+共通機轉：進入細胞後與 **FKBP12（macrophilin-12）** 結合 → 複合物抑制 **calcineurin** → NFAT 無法去磷酸化、無法入核 → 抑制 IL-2、IL-4、IL-5、TNF-α、IFN-γ 等 cytokine 轉錄；兩者皆可抑制 mast cell mediator 釋放，且**不影響 fibroblast／collagen → 不致皮膚萎縮**。
+
+| | Tacrolimus | Pimecrolimus |
+|---|---|---|
+| 來源 | Macrolide lactone（*Streptomyces tsukubaensis*） | Ascomycin macrolactam 衍生物 |
+| 脂溶性／皮膚穿透 | 穿透性較高，全身吸收較多 | **脂溶性更高、皮膚親和性高**，穿透皮膚少，全身吸收極低 |
+| FKBP12 親和力／免疫抑制強度 | 較強 | 較弱，全身免疫抑制作用小 |
+| 對 Langerhans cell／DC | 會影響 LC 數量與功能 | 影響很小，作用較選擇性集中於 T cell 與 mast cell |
+| 效價 | 0.1% 約相當 mid-potency TCS | 約相當 low-potency TCS |
+| 劑型／適應症 | Ointment 0.03%（≥2 歲）、0.1%（成人），中重度 | Cream 1%（≥2 歲），輕中度 |
+
 ### (四) 外用 PDE4 inhibitor
 
 - **Crisaborole**：抑制 PDE4 減少發炎細胞激素釋放，已核准用於 **≥2 歲**輕中度 AD。

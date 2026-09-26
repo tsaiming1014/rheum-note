@@ -209,6 +209,55 @@ Allergic rhinitis acute vs. chronic pathogenesis 相關題目（原文僅收錄�
 
 參考重點：Mometasone furoate、fluticasone propionate 全身性 bioavailability 極低（分別約 0.1%、<2%），因高脂溶性不易吸收入全身循環；其餘吸入型類固醇口服 bioavailability 約 20–50%（triamcinolone acetonide、beclomethasone 未於仿單標示）。
 
+#### 1. INCS 噴藥技巧
+
+1. 先擤鼻涕；鼻塞嚴重時可先用 saline 或短期 decongestant 讓鼻腔通暢，藥才噴得進去。
+2. 搖勻，第一次用或久未使用要先試噴（prime）。
+3. **頭微微往前低**（看腳尖），**不要仰頭**，仰頭會讓藥流到咽喉被吞下，局部效果變差。
+4. **交叉手**：右手噴左鼻、左手噴右鼻。
+5. **噴嘴朝外側壁，約對準同側眼睛外眼角**（inferior／middle turbinate 所在處）；**避開鼻中隔**，可減少 epistaxis 與罕見的 septal perforation。
+6. 噴的時候輕輕吸，不要用力猛吸（會直接進喉嚨），之後用嘴巴吐氣。
+7. **每天規律使用**，不要有症狀才噴；起效約 7–8 小時（部分報告 2 小時內），最大療效需數天至 1–2 週；季節性過敏建議季節開始前 1 週使用。
+
+#### 2. 劑量與 bioavailability
+
+| 藥物 | 每噴 | 成人每天劑量 | 全身性 bioavailability |
+|---|---|---|---|
+| Mometasone furoate | 50 µg | 每側 2 噴 QD，共 200 µg | 約 0.1% |
+| Fluticasone propionate | 50 µg | 每側 2 噴 QD，共 200 µg | <2% |
+| Fluticasone furoate | 27.5 µg | 每側 2 噴 QD，共 110 µg | 約 0.5% |
+| Budesonide | 32–64 µg | 每天 256 µg（上限） | 約 30% |
+| Beclomethasone／Triamcinolone | — | — | 約 40% |
+
+- 噴出去的藥大部分隨纖毛清除被吞下，因此系統暴露量主要取決於口服 bioavailability（肝臟 first-pass 代謝程度）。
+- Ciclesonide 全身性 bioavailability 亦 <0.1%。
+
+#### 3. 副作用
+
+- 局部：刺激感約 10%；鼻出血（2 週 4–8%，用越久比例越高）；罕見中膈穿孔、念珠菌感染；連續 1 年 FP／MF 使用之黏膜切片未見萎縮。
+- 眼壓／白內障：系統性回顧未發現臨床顯著影響。
+- 兒童生長：knemometry（短期）可能抑制，stadiometry（長期）結果不一致 → 兒童每 6 個月量身高追蹤。
+
+#### 4. 如何說服病人使用
+
+- Mometasone 200 µg／天 × 0.1% ≈ **實際進入血液僅約 0.2 µg／天**。
+- 對照 prednisolone 5 mg（= 5,000 µg，口服 bioavailability 約 80% 以上）→ 相差約 **2 萬倍**。
+- 說法：「一天噴的總量本身就只有口服類固醇的幾十分之一，真正吸收進身體的更只有千分之一，跟吃類固醇完全不同；而且它是過敏性鼻炎**效果最強的藥**，優於口服抗組織胺與 LTRA，還能順便改善眼睛過敏症狀。」
+
+#### 5. Tacrolimus vs Pimecrolimus 機轉差異
+
+詳見 [AD 臨床與治療 — 外用 Calcineurin Inhibitors](../AD/AD_臨床與治療.md)。
+
+- 共通：與 **FKBP12（macrophilin-12）** 結合 → 抑制 **calcineurin** → NFAT 無法去磷酸化入核 → 抑制 IL-2、IL-4、IL-5、TNF-α、IFN-γ 等 cytokine 轉錄；不影響 fibroblast／collagen，不致皮膚萎縮。
+- 差異：pimecrolimus（ascomycin macrolactam 衍生物）脂溶性更高、皮膚穿透與全身吸收更少、免疫抑制較弱、對 Langerhans cell／DC 影響小；tacrolimus（macrolide lactone）效價較強（0.1% 約 mid-potency TCS），pimecrolimus 約 low-potency TCS。
+
+#### 6. 二代抗組織胺與「三代」
+
+- **第二代**：loratadine、desloratadine、cetirizine、levocetirizine、fexofenadine、bilastine、rupatadine、ebastine；鼻噴劑 azelastine、olopatadine。
+- Terfenadine、astemizole 因 QT 延長／torsades 已下市；cetirizine／levocetirizine 仍被 FDA 標示為 sedating（較第一代輕）。
+- **有沒有三代？官方分類上沒有。** 藥廠把 desloratadine、levocetirizine、fexofenadine（第二代藥物的活性代謝物或鏡像異構物）宣傳為「第三代」，但 2003 年 **CONGA**（Consensus Group on New-Generation Antihistamines）認為沒有藥物在療效或安全性上有足以另立一代的突破，ARIA 也只分第一代與第二代。
+- 口試回答：「市面上有人稱 third generation，但目前學術共識認為並沒有真正的第三代，它們仍屬第二代。」
+
 ## Allergen Immunotherapy（SCIT / SLIT）
 
 ### 2022 Q82
