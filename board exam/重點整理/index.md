@@ -4,6 +4,12 @@
 
 ---
 
+## 臨床工具
+
+- [RA 手部超音波報告產生器](tools/RA_US_report.html) — 點選 EULAR-OMERACT GS/PD 評分，自動產生超音波報告（hand / wrist / tendon / PsA nail）
+
+---
+
 ## 疾病分類索引
 
 | 分類 | 疾病 | 分類標準 | 活性評估 | Remission 定義 | Guideline |
