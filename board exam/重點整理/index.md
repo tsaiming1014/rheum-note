@@ -91,6 +91,7 @@
 | Granuloma | [Granuloma 形成機轉與跨疾病比較](跨疾病主題/Granuloma_跨疾病比較.md) |
 | Neutrophilic Dermatosis | [Neutrophilic Dermatosis 總整理](跨疾病主題/Neutrophilic_Dermatosis_總整理.md) |
 | 移植免疫學 | [HLA 命名、Mismatch 計算與移植前評估](跨疾病主題/移植免疫學_HLA配對與移植前評估.md) |
+| IEI / PID | [先天性免疫缺陷（Inborn Errors of Immunity）總整理](跨疾病主題/IEI_先天性免疫缺陷總整理.md) |
 
 ---
 
