@@ -90,6 +90,7 @@
 | IGRA | [IGRA 與 Latent TB 治療](跨疾病主題/IGRA.md) |
 | Granuloma | [Granuloma 形成機轉與跨疾病比較](跨疾病主題/Granuloma_跨疾病比較.md) |
 | Neutrophilic Dermatosis | [Neutrophilic Dermatosis 總整理](跨疾病主題/Neutrophilic_Dermatosis_總整理.md) |
+| 移植免疫學 | [HLA 命名、Mismatch 計算與移植前評估](跨疾病主題/移植免疫學_HLA配對與移植前評估.md) |
 
 ---
 
