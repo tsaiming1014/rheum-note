@@ -263,6 +263,47 @@
 - 需要免疫抑制或調節治療，但會增加感染風險 → 多專科合作。
 - 依致病機轉選擇治療：例如 **IPEX**（Treg 功能受損）→ **rapamycin（mTOR inhibitor）** 可改善 Treg 功能與 autoimmunity，讓病人穩定到可以做 HSCT。
 
+### 5. 個別疾病治療重點（補充，Middleton Ch70）
+
+**Complete DiGeorge syndrome：胸腺移植**
+
+- 胸腺組織取自**非 HLA 相容**、非 DiGeorge 的嬰兒（多為心臟手術切下的胸腺），培養後**植入病童股四頭肌**。
+- 約 **6–12 個月**後出現 naïve T cell 與 Treg；T cell 數量通常無法回到正常，但對 PHA、tetanus 增生反應正常，**可停用 IgRT**。
+- 雖然 HLA 不相容，**移植後不會發生 GVHD**（受者 T cell 對移植胸腺產生耐受）。
+- 整體存活率約 **75%**；**移植前已有 CMV 感染**會影響胸腺生成，預後極差。
+- 約 **30%** 發生 autoimmune thyroid disease，也可能出現自體免疫性血球低下。
+- 替代方案：HLA 相容 HSCT 或成熟 T cell 輸注（取得較容易），但**無法產生新的 naïve T cell** → 容易感染捐贈者沒接觸過的病原體（如 EBV）。
+- ⚠️ 考點：**胸腺移植不需 HLA/MHC 相容**，這點與 HSCT 不同。
+
+**Selective IgA deficiency**
+
+- 單純 IgA deficiency **通常不需要特別治療**。
+- 重點是**衛教血品暴露風險**：可能有 anti-IgA 抗體，輸注血品時可能引發過敏反應。
+- 反覆鼻竇炎或呼吸道感染 → **預防性抗生素**。
+- **IVIG 不是常規治療**。
+
+**Wiskott-Aldrich syndrome（WAS）**
+
+- 出血時輸血小板；免疫性血小板低下需要免疫抑制治療。
+- **Splenectomy 只在嚴重、難治的血小板低下時才考慮**，因 sepsis 風險，**不建議常規施行**。
+- 其他處置：治療濕疹、預防 **PJP 與 herpesvirus** 感染、注意 vasculitis 與 nephropathy。
+- 根治性治療：**HSCT 或 gene therapy**。
+
+**ALPS**
+
+- **一般應避免 splenectomy**（sepsis 風險高）。
+- 淋巴瘤風險高，需規律監測。
+
+**切脾速記**
+
+| 疾病 | 切脾建議 |
+|---|---|
+| WAS | 僅限嚴重、難治的血小板低下，不常規施行 |
+| ALPS | 一般應避免 |
+| 任何切過脾的 IEI 病人 | 終身預防莢膜菌感染（疫苗與抗生素） |
+
+> 考題連結：2025 免專筆試第 45 題（SCID、IgA deficiency、DiGeorge、WAS 的治療）。
+
 ---
 
 ## 六、預後
@@ -297,3 +338,49 @@
 | **CTLA4 haploinsufficiency** | 可用 **abatacept**（CTLA4-Ig）targeted therapy，是基因診斷指引治療的範例 |
 | **APECED（AIRE）** | 因果方向：AIRE 缺陷 → central tolerance 失敗 → anti-IL-17A/F、anti-IL-22 autoantibody → chronic mucocutaneous candidiasis（CMC 本質上是 autoimmunity）；anti-type I IFN（IFN-ω/α）幾乎全部陽性（診斷標記）；thymoma 缺乏 AIRE 表現，也可出現相同抗體與 CMC |
 | **Secondary hypogammaglobulinemia** | 用過 rituximab 後出現低 IgG，需與 CVID 鑑別（追溯用藥前 Ig 濃度與疫苗反應） |
+
+---
+
+## 九、補充：各系統缺損的易感病原體（非原文內容）
+
+### 1. 依免疫系統分類
+
+| 缺損系統 | 代表疾病 | 典型病原體 | 招牌考點 |
+|---|---|---|---|
+| **Antibody（B cell）** | XLA（BTK）、CVID、IgA deficiency、hyper-IgM | **有莢膜細菌**：S. pneumoniae、H. influenzae；S. aureus | **Enterovirus**（echovirus 慢性 meningoencephalitis，XLA）、口服小兒麻痺疫苗 → VAPP；**Giardia**、Campylobacter（腸胃道）；**Mycoplasma/Ureaplasma**（關節炎） |
+| **T cell / Combined（CID）** | SCID、complete DiGeorge、CD40L deficiency、WAS | **病毒**：CMV、EBV、VZV、HSV、adenovirus、RSV；**PJP**；**黏膜皮膚 Candida**；胞內菌（mycobacteria、Listeria、Salmonella） | **活性疫苗**（BCG、rotavirus、varicella、MMR）→ 播散性感染；CD40L deficiency → **Cryptosporidium**（sclerosing cholangitis）、PJP |
+| **Phagocyte：數量**（neutropenia） | Severe congenital neutropenia（ELANE）、cyclic neutropenia | S. aureus、G(-) 桿菌（Pseudomonas）、黴菌 | Cyclic neutropenia 約 21 天一循環、口腔潰瘍 |
+| **Phagocyte：功能**（CGD） | CGD（NADPH oxidase，多為 CYBB，X-linked） | **Catalase(+) 菌**：**S. aureus、Burkholderia cepacia、Serratia marcescens、Nocardia**；**Aspergillus**（最常見死因）；BCG | 肉芽腫（腸道、泌尿道）；診斷用 **DHR flow cytometry**（取代 NBT） |
+| **Phagocyte：移動**（LAD） | LAD-I（CD18/ITGB2） | S. aureus、G(-) 菌 | **臍帶延遲脫落**、**無膿**感染、白血球極高、牙周病 |
+| **Complement：早期**（C1q/C1r/C1s、C2、C4） | — | 有莢膜細菌 | **SLE-like** 自體免疫最明顯（C1q 最強） |
+| **Complement：C3** | C3、factor H/I deficiency | **嚴重反覆化膿性有莢膜菌** | 可合併 MPGN、aHUS |
+| **Complement：終端**（C5–C9，MAC）、properdin | — | **Neisseria**（meningitidis、gonorrhoeae） | 反覆 meningococcal 感染 → 驗 CH50/AH50；使用 eculizumab 者同理需打疫苗 |
+| **NK cell** | GATA2、MCM4、FCGR3A | **Herpesvirus 家族**（VZV、HSV、CMV、EBV）、**HPV** | 嚴重或播散性 VZV/HSV |
+| **Asplenia** | 先天無脾、脾切除、sickle cell | S. pneumoniae、H. influenzae、N. meningitidis；**Capnocytophaga**（狗咬）、Babesia、malaria | 猛爆性敗血症（OPSI）、Howell-Jolly body |
+
+### 2. 特定路徑缺損（單一病原體易感性）
+
+| 缺損路徑 | 基因 / 疾病 | 易感病原體 |
+|---|---|---|
+| **IL-12/IFN-γ axis**（MSMD） | IL12RB1、IFNGR1/2、STAT1 LOF、IL12B | **弱毒性 mycobacteria（NTM、BCG）**、**Salmonella**；IL-12Rβ1 缺損另有 Candida |
+| **IL-17 axis**（CMC） | **STAT1 GOF**（最常見）、**AIRE**（APECED，anti-IL-17/22 autoantibody）、IL17RA/IL17F、ACT1 | **慢性黏膜皮膚 Candida** |
+| **STAT3 LOF**（AD-HIES，Job syndrome） | STAT3（Th17 缺損） | **S. aureus**（cold abscess，皮膚與肺）、Candida；pneumatocele 繼發 **Aspergillus** |
+| **DOCK8**（AR-HIES） | DOCK8 | **皮膚病毒**：HPV、HSV、molluscum、VZV；合併嚴重食物過敏 |
+| **CARD9** | CARD9 | **侵襲性黴菌**：**CNS candidiasis**、深部皮癬菌感染 |
+| **TLR/IL-1R 下游** | MyD88、IRAK4 | **化膿性細菌**（S. pneumoniae、S. aureus、Pseudomonas），**發燒與 CRP 反應不明顯**，隨年齡改善 |
+| **TLR3 pathway** | TLR3、UNC93B1、TRIF、TRAF3 | **HSV encephalitis** |
+| **Type I IFN** | IFNAR1/2、TLR7（X-linked）、IRF7；或 anti-IFN autoantibody | **重症 COVID-19**、流感、黃熱病疫苗株 |
+| **EBV 特異** | **XLP-1（SH2D1A/SAP）**、XLP-2（XIAP） | **猛爆性 EBV → HLH**、淋巴瘤 |
+| **HPV 特異** | **WHIM（CXCR4 GOF）**、EVER1/2（epidermodysplasia verruciformis）、GATA2 | 廣泛性疣；GATA2（MonoMAC）另有 NTM |
+| **NEMO（IKBKG）** | X-linked，合併 ectodermal dysplasia | 化膿性細菌 + mycobacteria + 病毒 |
+
+### 3. 速記口訣
+
+- **B cell 缺** → 有莢膜菌、Giardia、enterovirus
+- **T cell 缺** → 病毒、黴菌（PJP、Candida）、胞內菌、活性疫苗
+- **吞噬細胞缺** → S. aureus、Aspergillus、catalase(+) 菌（CGD：Burkholderia、Serratia、Nocardia）
+- **補體早期缺** → SLE-like；**C3 缺** → 化膿菌；**終端缺** → Neisseria
+- **NK cell 缺** → Herpesvirus、HPV
+- **IFN-γ 路徑缺** → Mycobacteria、Salmonella；**IL-17 路徑缺** → Candida
+
+> 考題連結：2025 免專筆試第 46 題（免疫缺失與病原體配對）——A、B、C 皆正確配對，D（Phagocyte：CMV、PJP）錯誤，CMV/PJP 屬 T cell 缺損。
