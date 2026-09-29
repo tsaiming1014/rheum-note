@@ -186,6 +186,20 @@ Copenhagen Prospective Study：3 歲時對 AD 預測力最高的臨床表現是�
 | 效價 | 0.1% 約相當 mid-potency TCS | 約相當 low-potency TCS |
 | 劑型／適應症 | Ointment 0.03%（≥2 歲）、0.1%（成人），中重度 | Cream 1%（≥2 歲），輕中度 |
 
+**TCS vs TCI 比較**
+
+| | TCS | TCI |
+|---|---|---|
+| 機轉 | Glucocorticoid receptor → 抑制 NF-κB、AP-1，**非選擇性**，連 fibroblast、keratinocyte 都受影響 | FKBP12 → 抑制 calcineurin/NFAT，**較選擇性**，以 T cell、mast cell 為主，不影響 fibroblast 與 collagen |
+| 效價與起效 | 範圍廣（class 1–7），起效快 | 效價較低（tacrolimus 0.1% 約等於中效 TCS），起效較慢 |
+| 皮膚副作用 | **萎縮**、telangiectasia、striae、perioral dermatitis、steroid withdrawal；長期使用會讓 barrier 變差 | **不會萎縮**、不破壞 barrier；初期**燒灼感**（TRPV1 活化，數天內消退） |
+| 眼周與全身性 | 眼周長期使用有 glaucoma、cataract 風險；大面積使用可能 **HPA axis suppression** | 可安全用在眼瞼；全身吸收極少 |
+| Boxed warning | 無 | 有（惡性腫瘤，未證實因果關係） |
+| Occlusion / wet wrap | 可以 | 不建議 |
+| 適用情境 | 急性惡化、身體與四肢、lichenified 厚病灶 | **臉、眼瞼、間擦部位**、長期 steroid-sparing 維持、steroid-insensitive 患者 |
+
+**臨床搭配**：急性期先用 TCS 壓下發炎；控制後，臉部與間擦部位改用 TCI 維持，搭配每週 2 次 proactive 使用，減少長期 TCS 用量。
+
 ### (四) 外用 PDE4 inhibitor、外用 JAK inhibitor，與外用非類固醇藥物比較
 
 **1. Crisaborole 2% ointment（外用 PDE4 inhibitor）**
