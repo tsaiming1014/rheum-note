@@ -221,6 +221,53 @@ Copenhagen Prospective Study：3 歲時對 AD 預測力最高的臨床表現是�
 - 副作用：注射部位反應、**結膜炎**較常見（多為自限性）。
 - 核准劑量：600mg 負荷劑量 SC，之後 300mg SC 每 2 週一次（成人 ≥18 歲，中重度，外用治療不足或不適用者）；**青少年**依體重給藥（<60kg：400mg 負荷 + 200mg q2w；≥60kg：成人劑量）。
 
+**Dupilumab 口試延伸：起效時間、無效族群、副作用病灶**
+
+**① 大概多久會有效**
+
+| 指標 | 時間 |
+|---|---|
+| **搔癢（pruritus NRS）** | 最快，**1–2 週**內即有改善 |
+| **皮疹（EASI）** | **2–4 週**開始明顯下降 |
+| **主要療效評估點** | **Week 16**（SOLO 1/2 primary endpoint） |
+| **判定無效** | 約 **16 週**仍無反應 → 考慮停藥或換藥；部分反應者持續用到 52 週可再進步 |
+
+- 第 16 週 EASI-75 約 44–51%，也就是**約一半病人沒有達到 EASI-75**，所以接著會被問「誰會沒效」。
+
+**② 哪些病人可能沒效**：核心是 AD 的 endotype 不只有 Th2
+
+| 族群 | 原因 |
+|---|---|
+| **亞洲人 AD** | 除了 Th2，**Th17/Th22** 也明顯活化，臨床和組織較像 psoriasis（epidermal hyperplasia、parakeratosis） |
+| **Intrinsic AD**（IgE 正常） | Th2 較弱，Th17/Th22 較強 |
+| **兒童早發型 AD** | Th2 合併 Th17/Th22 活化 |
+| **老年人 AD** | Th2/Th1 較弱，Th17/Th22 相對顯著 |
+| **Head & neck 為主** | 常合併 **Malassezia** 致敏或過度生長 |
+| **診斷錯誤** | **CTCL / mycosis fungoides**、ACD、scabies、psoriasis；**MF 誤當 AD 治療時，dupilumab 可能使其惡化或加速進展** |
+| **Anti-drug antibody** | 少見（ADA 約 5–6%，neutralizing <2%），不是主因 |
+
+- 用藥無效或病灶型態改變時，要**重新切片**排除 CTCL 和 psoriasis。
+
+**③ 沒效或副作用時出現的病灶**
+
+- **Psoriasiform dermatitis / paradoxical psoriasis**
+  - 外觀：界線清楚、有鱗屑的紅斑塊。
+  - 部位：頭皮、臉、軀幹、四肢伸側。
+  - 組織：psoriasiform hyperplasia、parakeratosis。
+  - 機轉：阻斷 IL-4/IL-13 → 失去對 Th17 的抑制 → **IL-23/IL-17/IL-22 上升**。
+  - 詳見 [Paradoxical Psoriasis／矛盾性乾癬反應（含相關矛盾性濕疹）](../../跨疾病主題/Paradoxical_Psoriasis.md)
+- **Conjunctivitis / blepharitis**：最常見。IL-13 是 conjunctival goblet cell 分泌 mucin 所必需，擋掉後 goblet cell 減少。
+- **Dupilumab facial redness**（head & neck erythema）：可能和 Malassezia、Demodex/rosacea-like 反應、ACD 有關。
+- **Transient eosinophilia**
+- **Arthralgia / enthesitis / 血清陰性 oligoarthritis**：臨床類似 SpA/PsA，機轉同樣認為是 Th17/IL-23 shift。這點風濕科要注意。
+
+**處置原則**：
+
+- **輕微 psoriasiform 病灶**：topical steroid + vitamin D analogue，可繼續用 dupilumab。
+- **明顯 paradoxical psoriasis 或 AD 控制不佳**：
+  - 換成 **JAK inhibitor**（upadacitinib、abrocitinib），可同時涵蓋 Th2 與 Th17/Th22。
+  - 或改用、併用 IL-23 或 IL-17 inhibitor（off-label，以個案報告為主）。
+
 **光照治療**
 
 - Narrowband UVB 最常用，其次 broadband UVB、UVA1；短期副作用：紅斑、疼痛、癢、色素沉著；長期：皮膚老化、皮膚癌風險。
