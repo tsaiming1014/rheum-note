@@ -37,51 +37,104 @@
 - **SLIT**：安全性相對最佳，多數副作用為**局部口腔搔癢、輕微腫脹**，全身性嚴重反應罕見，因此可**在家自行給藥**，不需每次回診。
 - **OIT**：因直接讓病人攝入原本會過敏的食物，**全身性副作用（含過敏性休克）風險相對三者中最高**，尤其在劑量調升期，因此起始與調升階段通常需在醫療院所進行，是三種AIT中安全性風險最需要密切監測的一種。
 
-## 5. 代表藥物：Acarizax（HDM SLIT tablet）的 indication
+## 5. 代表藥物：Acarizax（HDM SLIT tablet）
 
 > 對應題庫：2024免專口試 Immunotherapy 關「Acarizax 的 indication 是什麼？」
 
 ### 藥物基本資料
 
-- Acarizax 是 **house dust mite（HDM）SLIT tablet**，劑量 **12 SQ-HDM**，含 *D. pteronyssinus* 和 *D. farinae* 兩種塵蟎萃取物（ALK 公司）。美國同成分產品叫 Odactra。
+- Acarizax 是 **house dust mite（HDM）SLIT tablet**，由 ALK 公司生產。
+- 劑量是 **12 SQ-HDM**，含 *D. pteronyssinus* 和 *D. farinae* 兩種塵蟎萃取物。
+- 美國的同成分產品叫 **Odactra**。
 - 台灣最主要的過敏原正是這兩種塵蟎。這個藥在台灣已核准上市，目前**自費，健保不給付**。
 
-### 適應症（EU SmPC）
+### 適應症與核准年齡
 
 前提是臨床病史符合，而且 **HDM SPT 陽性和/或 HDM sIgE 陽性**。
 
-| 適應症 | 年齡 | 條件 |
+| 地區 | HDM allergic rhinitis | HDM allergic asthma |
 |---|---|---|
-| HDM allergic rhinitis | 成人（18–65 歲），已擴展到 **12–17 歲** | **Persistent moderate-to-severe** AR，使用症狀緩解藥物後仍控制不佳 |
-| HDM allergic asthma | 成人（18–65 歲） | **ICS 控制不佳**，且合併 HDM AR；開始前要先評估氣喘狀態 |
+| EU（Acarizax） | 最早核准成人 18–65 歲，後來擴大到 **12–17 歲**（2020），近年再擴大到 **5–11 歲**。條件是 **persistent moderate-to-severe** AR，用了症狀緩解藥物仍控制不佳 | 成人 **18–65 歲**，**ICS 控制不佳**且合併 HDM AR；開始前要先評估氣喘狀態 |
+| US（Odactra） | 最早 18–65 歲（2017），後來擴大到 **12–65 歲** | 沒有 asthma 適應症 |
+| 台灣 | 以 TFDA 仿單為準 | 以 TFDA 仿單為準 |
 
-> 5–11 歲兒童的 AR 適應症有 pediatric 試驗（MT-12）支持，部分國家已經或正在擴充。各國核准年齡不同，口試時可以說「依各國仿單，台灣以 TFDA 核准範圍為準」。
+- **5–11 歲**的 AR 適應症有 pediatric 試驗（MT-12）支持。各國核准的年齡不同，口試時可以說「依各國仿單，台灣以 TFDA 核准範圍為準」。
+- **上限 65 歲**是因為臨床試驗沒有收 65 歲以上的人，並不是因為已知有危害。
 
 ### 關鍵試驗
 
-- **MT-04**（Virchow, JAMA 2016）：HDM allergic asthma 成人在逐步減 ICS 時，moderate/severe exacerbation 風險下降，HR 約 0.69。
+- **MT-04**（Virchow, JAMA 2016）：HDM allergic asthma 成人在逐步減少 ICS 時，moderate/severe exacerbation 風險下降，HR 約 0.69。
 - **MT-06**（Demoly, JACI 2016）：成人 HDM AR 的 rhinitis score 顯著改善。
-- **GINA 建議**：HDM 過敏、合併 AR、用 ICS 仍有 exacerbation、FEV1 >70% predicted 的成人，可以 add-on HDM SLIT（step 3–4）。
+- **GINA 建議**：符合以下全部條件的成人，可以 add-on HDM SLIT（step 3–4）：
+
+  - 對 HDM 過敏，而且合併 AR
+  - 用 ICS 仍有 exacerbation
+  - FEV1 >70% predicted
 
 ### 禁忌症
 
-- 經適當治療後 FEV1 仍 **<70% predicted**，或氣喘控制不佳
+- 經過適當治療後，FEV1 仍然 **<70% predicted**，或氣喘控制不佳
 - **3 個月內有 severe asthma exacerbation**
+- **Asthma 急性發作期間不可以開始用**
 - Active 或控制不佳的 systemic autoimmune disease、active malignancy、免疫缺陷
-- 口腔有急性發炎或傷口時要先暫停
-- 曾有 **EoE**
+- 口腔有急性且嚴重的發炎或傷口
+- 曾有 **EoE**（Odactra 仿單列為 contraindication）
+- 以前對 SLIT 有 severe systemic reaction
+- 相對禁忌：正在使用 **β-blocker**，因為萬一發生 anaphylaxis，epinephrine 的效果會變差
+- **懷孕中不要開始用**
 
 ### 用法
 
-- 每天舌下含 1 錠，約 1 分鐘內不要吞，之後 5 分鐘內不要吃東西或喝水。
-- **第一劑要在醫師監督下服用，並觀察 30 分鐘**，之後可以在家自己用。
-- 約 8–14 週開始見效。
-- 建議連續使用 **3 年**，停藥後療效才會持續。
+1. **每天 1 錠，全年持續使用**。塵蟎是 perennial allergen，不像花粉有季節性，所以一年中任何時間都可以開始。
+2. **手指要保持乾燥**。從鋁箔取出後馬上放到舌下讓它溶解，**約 1 分鐘內不要吞**，之後 **5 分鐘內不要吃東西或喝水**。
+3. **第一劑要在醫師監督下服用，並觀察 30 分鐘**，之後可以在家自己用。美國 Odactra 另外有 boxed warning，要求開立 **epinephrine auto-injector** 讓病人隨身攜帶。
+4. **需要暫停的情況**：
+
+   - 拔牙、口腔手術、口腔潰瘍或傷口：停到傷口癒合，大約 7 天
+   - Asthma 急性惡化期間
+
+5. **中斷超過 7 天**：恢復用藥前要先聯絡醫師，多數建議回診，在監測下重新開始。
+
+### 劑量：固定劑量，沒有 up-dosing
+
+- **從第一天到療程結束都是 12 SQ-HDM**，沒有 build-up phase。
+- 這是跟 SCIT 最大的差別。SCIT 需要先逐步調升劑量，才能進入 maintenance。
+- SLIT 可以直接從足量開始，原因是口腔黏膜的 **tolerogenic dendritic cells 多、mast cells 少**，所以安全性較好。
+
+### 療效出現時間與療程
+
+| 項目 | 內容 |
+|---|---|
+| AR 起效時間 | 開始治療後 **8–14 週** |
+| Asthma 療效 | 主要表現在減少 ICS 時 exacerbation 風險下降（MT-04），約用藥 **6–12 個月**後評估 |
+| 建議總療程 | **3 年**，停藥後療效才會持續（disease-modifying、sustained effect）。Grass SLIT-tablet 治療 3 年後，停藥 2 年療效仍在（Durham 2012） |
+| 無效就停的評估點 | **用滿第一年**。仿單明確寫第一年都沒有改善，就沒有繼續的理由 |
+| 評估指標 | 症狀分數、rescue medication 用量、ICS 劑量、exacerbation 次數 |
+
+- 要先跟病人說清楚：**前幾週沒有感覺是正常的**，不要自己停藥。
+- 治療期間可以照常使用 INCS 等藥物控制症狀。**INCS 或 rescue medication 用量下降**，本身也是評估 SLIT 療效的指標。
+
+### 何時要提早停藥
+
+| 狀況 | 處置 |
+|---|---|
+| Systemic allergic reaction 或 anaphylaxis | 停藥，重新評估是否還適合 AIT |
+| 持續或惡化的吞嚥困難、胸口痛、胃食道症狀（懷疑 **EoE**） | 停藥，轉 GI 做內視鏡 |
+| 嚴重或持續的局部反應（喉嚨腫、嚴重口腔水腫） | 停藥評估 |
+| Asthma 惡化或控制不好（FEV1 下降、急性發作） | 先暫停，穩定後再評估 |
+| 新出現 contraindication（malignancy、active autoimmune disease、需要用 β-blocker） | 停藥 |
+| 用滿一年都無效 | 停藥 |
+| 遵從性差 | 停藥，因為療效不可靠 |
+| 治療中懷孕 | 仿單沒有強制停藥。原本耐受良好的話，評估全身狀況後可以繼續；但**不要在懷孕中開始** |
 
 ### 副作用
 
-- 常見：口腔搔癢、喉嚨刺激、耳朵癢、口唇水腫，多半輕微，集中在前幾週。
-- 少見但重要：嚴重口咽水腫、systemic reaction、EoE。出現吞嚥困難或胸口痛時要停藥評估。
+- **常見**：口腔搔癢、喉嚨刺激、耳朵癢、口唇或舌頭輕度水腫。
+
+  - 多半輕微，集中在前幾天到幾週，**多數會在 1–3 個月內自然消退**。
+  - 通常不需要停藥，可以預先服用 antihistamine 減輕症狀。
+
+- **少見但重要**：嚴重口咽水腫、systemic reaction、EoE。出現吞嚥困難或胸口痛時要停藥評估。
 
 ## 6. 速記
 
@@ -90,3 +143,4 @@
 - **OIT** = 口服、需up-dosing、**全身性副作用風險相對最高**
 - 三者共同機轉：誘導Treg／IL-10／IgG4 blocking antibody，抑制Th2/IgE路徑
 - **Acarizax** = 12 SQ-HDM 每日 1 錠、第一劑院內觀察 30 分鐘、FEV1 <70% 或 3 個月內嚴重發作不可開始、療程 3 年
+- **Acarizax 療程節點** = **固定劑量不 up-dose**，**8–14 週**起效，**第 1 年**無效就停，總共 **3 年**；中斷超過 7 天要回診再開始
