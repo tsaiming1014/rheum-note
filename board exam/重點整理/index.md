@@ -96,7 +96,6 @@
 | IGRA | [IGRA 與 Latent TB 治療](跨疾病主題/IGRA.md) |
 | Granuloma | [Granuloma 形成機轉與跨疾病比較](跨疾病主題/Granuloma_跨疾病比較.md) |
 | Neutrophilic Dermatosis | [Neutrophilic Dermatosis 總整理](跨疾病主題/Neutrophilic_Dermatosis_總整理.md) |
-| 移植免疫學 | [HLA 命名、Mismatch 計算與移植前評估](跨疾病主題/移植免疫學_HLA配對與移植前評估.md) |
 | IEI / PID | [先天性免疫缺陷（Inborn Errors of Immunity）總整理](跨疾病主題/IEI_先天性免疫缺陷總整理.md) |
 
 ---
@@ -124,6 +123,7 @@
 
 | 主題 | 連結 |
 |------|------|
+| HLA 配對 / 移植前評估 / Rejection | [HLA 命名、Mismatch 計算與移植前評估](Transplant/移植免疫學_HLA配對與移植前評估.md) |
 | Maternal–fetal tolerance | [母體為何不排斥胎兒 — 母胎免疫耐受機轉](Transplant/Maternal-fetal_tolerance_母胎免疫耐受.md) |
 | GVHD | [GVHD 危險因子 — SOT / 輸血（TA-GVHD）/ HSCT](Transplant/GVHD_危險因子_SOT_輸血_HSCT.md) |
 
