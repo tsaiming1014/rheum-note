@@ -186,9 +186,71 @@ Copenhagen Prospective Study：3 歲時對 AD 預測力最高的臨床表現是�
 | 效價 | 0.1% 約相當 mid-potency TCS | 約相當 low-potency TCS |
 | 劑型／適應症 | Ointment 0.03%（≥2 歲）、0.1%（成人），中重度 | Cream 1%（≥2 歲），輕中度 |
 
-### (四) 外用 PDE4 inhibitor
+### (四) 外用 PDE4 inhibitor、外用 JAK inhibitor，與外用非類固醇藥物比較
 
-- **Crisaborole**：抑制 PDE4 減少發炎細胞激素釋放，已核准用於 **≥2 歲**輕中度 AD。
+**1. Crisaborole 2% ointment（外用 PDE4 inhibitor）**
+
+- 機轉：PDE4 會分解 cAMP，是 AD 發炎細胞激素生成的關鍵調控者。AD 患者周邊發炎細胞的 PDE4 活性上升；抑制 PDE4 後 cAMP 升高，促發炎細胞激素的釋放隨之減少。
+- 適應症：輕中度 AD。Middleton 寫 ≥2 歲，FDA 於 2020 年擴大到 ≥3 個月。
+- 效價較弱，屬於外用抗發炎藥中效果較低的一群。
+- 常見副作用：塗藥部位疼痛（燒灼、刺痛），約 4%。
+
+**2. Ruxolitinib 1.5% cream（外用 JAK inhibitor）**
+
+- 機轉：抑制 JAK1/JAK2，一次阻斷多條 cytokine 訊號（IL-4、IL-13、IL-31、TSLP、IFN-γ…）。
+- 直接的神經止癢作用：感覺神經本身帶有 IL-4Rα 和 IL-31RA，這些訊號要經 **JAK1** 傳遞（Oetjen et al., Cell 2017）。JAKi 能直接切斷「cytokine → 神經」的癢訊號。
+- TRuE-AD1/2：第 8 週 itch NRS 改善 ≥4 分的比例約 50%，vehicle 約 15%。**第一次塗藥後約 12 小時**，癢就比 vehicle 明顯減輕。
+- 適應症：輕中度 AD、≥12 歲；後來延伸到兒童，確切年齡下限以最新仿單為準。
+- 使用限制：每次塗抹 **≤20% BSA**、**每週 ≤60 g**，只能短期、非連續使用。
+- **FDA boxed warning**：沿用口服 JAKi 的 class warning（嚴重感染、MACE、血栓、惡性腫瘤、死亡）。大面積使用時會有全身吸收，曾有 thrombocytopenia 等報告。
+- 塗藥部位刺激很少，burning 不到 1%。
+
+**3. 止癢與 steroid-sparing 比較：外用 JAKi vs TCI vs 外用 PDE4i（考試熱點）**
+
+| | 外用 JAKi（ruxolitinib 1.5%） | TCI（tacrolimus、pimecrolimus） | 外用 PDE4i（crisaborole 2%） |
+|---|---|---|---|
+| 抗發炎標的 | JAK1/JAK2，多條 cytokine 訊號 | Calcineurin → NFAT，T cell cytokine 轉錄 | PDE4 → cAMP 上升 |
+| 直接神經止癢 | **有**：阻斷神經上 IL-4Rα、IL-31RA → JAK1 訊號 | **有**：活化 TRPV1 → 釋放 substance P、CGRP → 神經去敏感化 | 沒有明確直接作用，止癢屬間接效果 |
+| 止癢起效時間 | **最快，約 12 小時** | 約 2–3 天（pimecrolimus 約 48 小時內） | 約 1 週 |
+| 塗藥部位刺激 | 很少（<1%） | **常見**，燒灼感或癢可達 30–50%，數天內消退 | 約 4% 塗藥部位疼痛 |
+| 整體療效 | 高 | Tacrolimus 0.1% 約等於中效 TCS；pimecrolimus 較弱 | 較弱 |
+| 長期減少 TCS 用量的證據 | 延伸試驗到 52 週，需要時塗抹可維持控制，但**沒有**「減少 TCS 用量」的直接證據 | **最多**，多個長期試驗證實 pimecrolimus 可減少 TCS 用量（Middleton） | 有 48 週安全性資料，維持治療證據有限 |
+| Proactive 維持（每週 2 次） | 尚未確立 | **有 RCT 支持**；tacrolimus proactive 治療在歐洲核准可用到 12 個月 | 有 maintenance 試驗（每日一次可延長未發作時間），細節待核對 |
+| 取代 TCS 用在臉、眼周、間擦部位 | 可以，但受 BSA、用量限制與 boxed warning 影響，不適合長期連續使用 | **首選**，不會造成皮膚萎縮 | 可以，適合幼兒與敏感部位的輕症，但效力弱 |
+| 長期使用的限制 | **Boxed warning**（JAKi class warning）、全身吸收、限短期且非連續 | 初期燒灼感；**boxed warning**（惡性腫瘤，流行病學研究未證實因果關係） | 無 boxed warning；主要問題是效力不足，常壓不住中度病灶 |
+
+**止癢強弱排序**：外用 JAKi ＞ TCI（tacrolimus 0.1% ＞ pimecrolimus）＞ 外用 PDE4i
+
+**Steroid-sparing 證據排序**：TCI ＞ 外用 JAKi ≈ 外用 PDE4i
+
+- 網絡統合分析（Chu DK et al., JACI 2024，外用 AD 治療 NMA）：ruxolitinib 1.5% 與 tacrolimus 0.1% 在 eczema 嚴重度與 itch 的改善上排在前段，和 potent TCS 並列；crisaborole、pimecrolimus 屬於效果較低的一群。
+- **限制**：目前沒有 head-to-head RCT，上面的排序來自各藥對 vehicle 的樞紐試驗加上 NMA 的間接比較。
+
+**4. 抗發炎強度（相當於 TCS 效價）**
+
+| 藥物 | 大約相當的 TCS 效價 | 主要證據 |
+|---|---|---|
+| **Ruxolitinib 1.5% cream** | 中效 TCS，可能略強 | TRuE-AD1/2 第 8 週 IGA success 約 51–54%，vehicle 約 8–15%。Phase 2 中，第 4 週的 EASI 改善在數值上略優於 triamcinolone 0.1% cream（中效）；這是次要比較，數字待核對原文 |
+| **Tacrolimus 0.1% ointment** | 約等於中效 TCS | Head-to-head 研究中，效果與 hydrocortisone butyrate 0.1% 相當，也優於 pimecrolimus 1% |
+| Tacrolimus 0.03% | 低到中效之間 | |
+| **Pimecrolimus 1% cream** | 低效 TCS | 效果不如 betamethasone valerate 0.1% |
+| **Crisaborole 2% ointment** | 約低效，甚至更弱 | AD-301/302 的 ISGA success 約 31–33%，vehicle 約 18–25%，差距只有約 7–13%；沒有和 TCS 直接比較的試驗 |
+
+**抗發炎強度排序**：Ruxolitinib 1.5% ≈ tacrolimus 0.1% ＞ pimecrolimus ≈ crisaborole
+
+**考試陷阱**
+
+- 題目只問「PDE4i vs TCI 哪個較能改善癢」，選 **TCI**。
+- 選項裡有外用 JAKi 時，止癢最快、最強的是 **ruxolitinib cream**。
+- 「TCI 使用初期最常見副作用」是**燒灼感（burning sensation）**。它來自 TRPV1 活化，而這也正是 TCI 後來能止癢的機轉。
+
+**臨床選擇**
+
+- 以癢為主、需要快速緩解：外用 JAKi。
+- 急性期想用非類固醇藥物把病灶壓下來：ruxolitinib 1.5% 或 tacrolimus 0.1%，效果接近中效 TCS。
+- 長期取代類固醇、做 proactive 維持，尤其是臉部、眼周、間擦部位：**TCI（tacrolimus）**，證據與長期安全資料都最完整。
+- Crisaborole：適合輕症、幼兒，或無法耐受 TCI 燒灼感的敏感部位。
+- 大面積病灶：外用 JAKi 受 BSA 與用量限制，應改用光照治療或全身性治療（dupilumab、口服 JAKi 等）。
 
 ### (五) 焦油製劑、Wet Wrap Therapy
 
@@ -208,7 +270,7 @@ Copenhagen Prospective Study：3 歲時對 AD 預測力最高的臨床表現是�
 - Doxepin（TCA，兼具 H1/H2 拮抗）睡前 10–50mg 可用於頑固夜間搔癢。
 - 第二代抗組織胺對 AD 本身癢感**證據不支持**，但對合併蕁麻疹/過敏誘因者可能有幫助；**外用抗組織胺/局部麻醉藥應避免**（致敏風險）。
 - 頑固合併疼痛者可考慮 gabapentin（off-label）。
-- Nemolizumab（anti-IL-31RA）第二期試驗顯示止癢效果；**dupilumab** 亦顯著減少搔癢；JAK inhibitor 對頑固慢性搔癢有效。
+- Nemolizumab（anti-IL-31RA）第二期試驗顯示止癢效果；**dupilumab** 亦顯著減少搔癢；JAK inhibitor 對頑固慢性搔癢有效（外用 JAKi 止癢比較見 (四)）。
 
 ### (八) 難治型 AD 的進階治療
 
