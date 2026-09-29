@@ -268,6 +268,44 @@ Copenhagen Prospective Study：3 歲時對 AD 預測力最高的臨床表現是�
   - 換成 **JAK inhibitor**（upadacitinib、abrocitinib），可同時涵蓋 Th2 與 Th17/Th22。
   - 或改用、併用 IL-23 或 IL-17 inhibitor（off-label，以個案報告為主）。
 
+**Lebrikizumab（anti-IL-13）：停藥後療效較能維持**
+
+**機轉特色**
+
+- Humanized IgG4 monoclonal antibody，**只阻斷 IL-13**，不影響 IL-4。
+- 它結合在 IL-13 的特定 epitope 上，**阻止 IL-13Rα1/IL-4Rα heterodimer 形成**，讓 IL-13 無法傳遞訊號。
+- 同時**不妨礙 IL-13 結合 decoy receptor IL-13Rα2**，所以 IL-13 仍然可以被內化、清除。
+- 對 IL-13 的親和力很高、解離很慢（slow off-rate），**半衰期約 24 天**。
+
+**療效數據**
+
+- **ADvocate 1/2（induction）**：第 16 週 EASI-75 約 52–59%，安慰劑約 16–18%。
+- **Maintenance（第 16 週有反應者重新隨機分組到第 52 週）**：維持 EASI-75 的比例大約如下（數字依印象引用，待核對原文）。
+
+| 組別 | 第 52 週維持 EASI-75 |
+|---|---|
+| Lebrikizumab q4w | 約 80% |
+| Lebrikizumab q2w | 約 78% |
+| **停藥（placebo withdrawal）** | **約 65%，仍維持得相當好** |
+
+- **仿單用法**：第 16 週達標後，可從 q2w **延長為 q4w** 維持。
+
+**對照 dupilumab 的停藥試驗（SOLO-CONTINUE）**
+
+- 第 16 週有反應者改用 placebo 後，到第 36 週只有**約 30%** 還維持 EASI-75。
+- 繼續打 dupilumab 的組別約 70% 維持。
+- 也就是說，dupilumab 停藥後療效流失得比 lebrikizumab 明顯。
+
+**可能的解釋**
+
+- 半衰期長，加上和 IL-13 結合後解離很慢，藥效在停藥後仍會延續一段時間。
+- IL-13 是 AD **皮膚局部**最主要的 Th2 cytokine（皮膚中濃度高於 IL-4）。持續壓制 IL-13 後，屏障修復、微生物菌相和發炎迴路可能「重設」，讓部分病人得到較持久的緩解。這個觀點目前仍屬假說，不能直接說成 disease modification。
+- Tralokinumab（anti-IL-13）也有類似特性：ECZTRA 試驗中，反應者同樣可以把注射間隔延長為 q4w。
+
+**口試一句話**
+
+> Lebrikizumab 專一阻斷 IL-13 與 IL-4Rα 的結合、半衰期長，第 16 週有反應者可改 q4w 維持。停藥試驗中約 2/3 病人到一年仍維持 EASI-75，dupilumab 停藥後則約只剩 1/3。
+
 **光照治療**
 
 - Narrowband UVB 最常用，其次 broadband UVB、UVA1；短期副作用：紅斑、疼痛、癢、色素沉著；長期：皮膚老化、皮膚癌風險。
