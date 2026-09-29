@@ -257,12 +257,40 @@ Copenhagen Prospective Study：3 歲時對 AD 預測力最高的臨床表現是�
 - Tar：抗發炎效果不如類固醇，可用於合併治療減少強效類固醇需求；頭皮可用 tar shampoo；急性發炎期避免使用（會刺激）。
 - **Wet wrap therapy**：濕敷+外用類固醇可增加穿透、降低搔抓創傷、促進屏障修復；適合急性惡化或頑固病灶短期使用，過度使用可能造成浸潤/毛囊炎；**TCI 不可用於 occlusive dressing 下**。
 
-### (六) 感染控制（Antiinfective Therapy）
+### (六) 感染控制（Antiinfective Therapy）與 S. aureus colonization
 
-- 續發性 S. aureus 感染：口服半合成 penicillin 或第一/二代 cephalosporin 7–10 天（紅黴素抗藥性常見，較不建議 macrolide）；停藥後常快速再度移生，**不建議長期預防性抗生素**（易致 MRSA）。
-- 局部：Mupirocin 外用 3 次/天 × 7–10 天；鼻腔 mupirocin 2 次/天 × 5 天可減少鼻腔帶菌。
-- **Eczema herpeticum**（disseminated）：需**全身性 acyclovir**；反覆發作可用預防性口服 acyclovir。
-- Dermatophyte/Malassezia：外用（少數口服）抗黴菌藥物。
+**1. 單純 colonization 不用抗生素**
+
+- AD 病灶上的 S. aureus colonization 非常普遍，大多數病人都有，**單純帶菌不等於感染**。
+- Cochrane review（George SM et al., 2019）：對沒有臨床感染的 eczema 使用抗生素或抗菌治療，**無法改善嚴重度**。
+- 抗生素停藥後很快會再度 recolonization；長期使用會篩選出 **mupirocin、fusidic acid 抗藥性**與 **MRSA**，因此**不建議長期或預防性使用抗生素**（Middleton）。
+
+**2. 出現臨床感染才用抗生素**
+
+| 情境 | 表現 | 處置 |
+|---|---|---|
+| **局部感染** | 蜜黃色痂皮（honey-colored crust）、膿疱、滲液、病灶突然惡化或疼痛 | 外用 **mupirocin** 每天 3 次 × 7–10 天 |
+| **廣泛感染** | 大範圍 impetiginized lesion，或合併發燒、cellulitis | 口服 semisynthetic penicillin 或第一、二代 cephalosporin × 7–10 天；erythromycin 抗藥性常見，不建議用 macrolide；MRSA 依培養結果選藥 |
+| **反覆感染、確定帶菌** | 一再發生 S. aureus 感染 | **Decolonization**：鼻腔 mupirocin 每天 2 次 × 5 天可減少鼻腔帶菌，再加上稀釋漂白水浴或 chlorhexidine 清洗；必要時家人一起處理 |
+| **Eczema herpeticum** | 群聚的 punched-out erosion | 不是細菌感染，要用**全身性 acyclovir**；反覆發作可用預防性口服 acyclovir |
+| **Dermatophyte / Malassezia** | 頭頸部分布的 AD、表淺黴菌感染誘發的惡化 | 外用抗黴菌藥，少數需要口服 |
+
+**3. 改善 S. aureus colonization 的方法**
+
+核心觀念：**AD 的 colonization 是 barrier 與免疫異常造成的結果**。把發炎和 barrier 顧好，colonization 就會下降，不需要一直用抗菌藥殺菌。
+
+| 方法 | 機轉或證據 |
+|---|---|
+| **控制發炎：TCS、TCI** | Th2 cytokine（IL-4、IL-13）會抑制 keratinocyte 製造 antimicrobial peptide（hBD-2、hBD-3、LL-37），也會降低 filaggrin、loricrin 等 barrier 蛋白。發炎控制後，skin barrier 和 AMP 恢復，S. aureus 就減少。Middleton 也提到 TCS 本身就能降低 S. aureus colonization |
+| **Dupilumab** | 阻斷 IL-4/IL-13 後，S. aureus 的量很快下降、微生物多樣性增加，機轉和上面一樣 |
+| **保濕、barrier 修復** | **Petrolatum** 可上調 AMP 與 barrier 分化基因表現，並增加角質層厚度（Middleton） |
+| **含 antimicrobial peptide 的外用產品** | 直接補充 AD 皮膚缺乏的 AMP；研究中的例子有 omiganan（合成 cathelicidin 類似物）。市售的屬於含 AMP 成分的保養或醫療級產品，證據多來自小型研究 |
+| **稀釋漂白水浴**（約 0.005% sodium hypochlorite，每週 2 次） | Huang et al.（Pediatrics 2009）：有感染徵象的兒童，漂白水浴加鼻腔 mupirocin 可降低嚴重度。但統合分析顯示**不優於單純清水浴**，效果可能來自抗發炎而非殺菌；較適合需要反覆使用抗生素的病人 |
+| **Antiseptic 清洗**（chlorhexidine 等） | 用於反覆感染的 decolonization；對單純 colonization 的療效證據有限 |
+
+**口試一句話**
+
+> 單純 S. aureus colonization 不用抗生素，出現臨床感染才用：局部用 mupirocin，廣泛用口服 cephalosporin，反覆感染才做 decolonization。要降低 colonization，重點是用 TCS、TCI 或 dupilumab 控制 Th2 發炎，讓 AMP 與 skin barrier 恢復，再配合保濕；漂白水浴和含 AMP 的外用產品屬於輔助。
 
 ### (七) 止癢（Antipruritic）
 
