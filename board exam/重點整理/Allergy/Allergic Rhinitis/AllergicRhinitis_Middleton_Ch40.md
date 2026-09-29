@@ -213,6 +213,54 @@
 - 眼壓/白內障：系統性回顧未發現臨床顯著影響
 - **對非過敏性鼻炎也有效**（fluticasone propionate、fluticasone furoate 已獲 FDA 核准用於此適應症），但 weather/temperature-sensitive vasomotor rhinitis 對 fluticasone furoate 反應不佳，顯示非過敏性鼻炎亞型反應不一
 
+**INS 補充：正確噴法**（很多副作用是噴錯造成的）
+
+1. 先擤鼻涕清掉分泌物。鼻塞嚴重時，可以先用生理食鹽水沖洗。
+2. 搖一搖瓶子。第一次使用或很久沒用時，先對空氣噴幾下（prime）。
+3. **頭微微往前低**，看腳尖。不要仰頭，仰頭藥會流進喉嚨。
+4. **用對側手**：右手噴左鼻孔，左手噴右鼻孔。
+5. **噴嘴朝向同側眼角或耳朵方向（lateral wall），避開鼻中膈（septum）**。這是預防 epistaxis 和 septal perforation 的關鍵。
+6. 噴的時候**輕輕吸氣就好，不要用力猛吸**。猛吸會讓藥直接進入咽喉，然後被吞下去。
+7. 噴完不要馬上擤鼻涕。
+
+- **規則每天使用，效果比需要時才用（PRN）好**。最大療效要規則使用數天到 2 週才會達到。
+
+**INS 補充：全身吸收（systemic bioavailability）**
+
+噴進鼻腔的藥大部分會被吞下，之後經過肝臟 first-pass metabolism。所以進入全身的量，取決於藥物本身被 first-pass 代謝的程度。
+
+| 藥物 | 全身生體可用率（約略值） | 最低核准年齡（一般仿單） |
+|---|---|---|
+| Mometasone furoate | **< 0.1%** | ≥ 2–3 歲 |
+| Fluticasone furoate | 約 0.5% | ≥ 2 歲 |
+| Fluticasone propionate | < 1–2% | ≥ 4 歲 |
+| Ciclesonide（prodrug） | < 1% | ≥ 6 歲 |
+| Budesonide | 約 30%+ | ≥ 6 歲 |
+| Triamcinolone acetonide | 約 40%+ | ≥ 2 歲 |
+| Beclomethasone dipropionate | 約 40%+ | ≥ 6 歲 |
+
+- **兒童或需要長期使用的人，優先選第二代藥物**：mometasone、fluticasone furoate/propionate、ciclesonide。
+
+**INS 補充：全身安全性**
+
+- **HPA axis suppression**：第二代 INS 在建議劑量下沒有臨床意義。但如果**同時使用 ICS、topical steroid 等多種類固醇來源**，要注意累積劑量。
+- **兒童生長速度（各藥比較）**：
+
+| 藥物 | 一年期研究結果 |
+|---|---|
+| Beclomethasone | 生長速度每年減少約 **0.9 cm** |
+| Fluticasone furoate | 輕微影響，每年約 0.27 cm |
+| Mometasone、fluticasone propionate、budesonide | 沒有明顯影響 |
+
+- 兒童要用最低有效劑量，並定期追蹤身高（同上文，每 6 個月用 stadiometer 量一次）。
+- **重要 drug interaction**：**強效 CYP3A4 inhibitor**（ritonavir、cobicistat、itraconazole 等）和 **fluticasone** 或 budesonide 併用，已有 **iatrogenic Cushing syndrome 與 adrenal insufficiency** 的報告。HIV 病人要特別注意，可以改用 beclomethasone，或換用其他藥物。
+- **可以長期安全使用**。這點跟局部 decongestant（oxymetazoline）完全不同，後者用超過 5 天就會造成 rhinitis medicamentosa。
+
+**INS 補充：複方鼻噴劑**
+
+- INS 單用效果不夠時，加上 intranasal antihistamine 的複方：**azelastine/fluticasone（MP-AzeFlu）**、**olopatadine/mometasone（GSP301）**。
+- 複方的效果比單方好，起效也比較快。
+
 **Systemic corticosteroids**
 
 - 適應症有限，僅用於初期即嚴重鼻塞之各型鼻炎（含過敏性、NARES、rhinitis medicamentosa）
@@ -241,7 +289,7 @@
 
 **藥物合併使用**
 
-- Azelastine + fluticasone（鼻噴劑）併用 > 單用任一者（優於安慰劑及單方）
+- Azelastine + fluticasone（鼻噴劑）併用 > 單用任一者（優於安慰劑及單方）；olopatadine + mometasone 複方同理
 - INS + 口服抗組織胺：多數研究未顯示優於單用 INS；**若 INS 效果不完全，應加用鼻用抗組織胺而非口服抗組織胺**
 - 短期（3–4 天）局部減充血劑 + INS 可用於初始治療嚴重鼻塞，之後停用減充血劑、續用 INS
 
