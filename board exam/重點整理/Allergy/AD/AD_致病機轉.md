@@ -98,6 +98,8 @@ Atopic dermatitis (AD) 是慢性復發性發炎性皮膚病，好發於嬰幼兒
 - **TSLP** 可直接作用於感覺神經誘發癢感。
 - 近期研究：**Th2 cytokine（IL-4/IL-13）可透過神經元 IL-4Rα 與 JAK1 訊號直接活化感覺神經**，是慢性癢的重要路徑——也是 dupilumab、JAK inhibitor 止癢機轉的理論基礎。
 - 搔抓本身刺激 keratinocyte 釋放 IL-1、TNF-α，誘導 adhesion molecule（E-selectin 等）表現，吸引更多發炎細胞進入皮膚，形成正回饋循環，並進一步破壞屏障。
+- **Substance P（neuropeptide）**：由 TRPV1+ peptidergic C fiber 釋放（搔抓、NGF 促進）；經 **NK1R** 作用於神經與 keratinocyte，並經 **MRGPRX2** 直接活化皮膚型 mast cell（MC_TC）脫顆粒（IgE-independent），釋出的 tryptase 再活化 PAR2，形成「神經 → mast cell → 神經」正回饋；同時造成 neurogenic inflammation（血管擴張、通透性增加、內皮 adhesion molecule 表現）。
+- **臨床**：AD 的癢以 non-histaminergic 為主（抗組織胺效果有限）；NK1R antagonist（aprepitant、tradipitant、serlopitant）在 AD 的療效不如 anti-IL-31／anti-IL-4Rα／JAK inhibitor → SP 屬「放大器」而非主驅動。
 
 ---
 
