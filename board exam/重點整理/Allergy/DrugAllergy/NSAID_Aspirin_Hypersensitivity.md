@@ -41,7 +41,7 @@ NSAID hypersensitivity 依「急性 vs. 延遲性」、「cross-reactive（非�
 
 判斷「多種 NSAID 是否化學結構真的不同」是病史詢問與 cross-reactivity 判讀的基礎，傳統 NSAID 依化學結構可分為 carboxylic acids（salicylic acids、acetic acids、propionic acids、fenamic acids）、enolic acids（pyrazolones、oxicams）、nonacidic compounds，以及另立一類的 COX-2-selective inhibitors。
 
-![Fig 59.2 Classification and representative structures of NSAIDs](../images/Fig59.2.png)
+![Fig 59.2 Classification and representative structures of NSAIDs](../../images/Fig59.2.png)
 
 （來源：Kelley's Textbook of Rheumatology 12E, Ch.59 — Therapeutic Targeting of Prostanoids）
 
@@ -82,7 +82,7 @@ Triad：慢性 rhinosinusitis 併 nasal polyp、中重度 asthma、對 aspirin �
 
 Aspirin/NSAID 抑制 COX-1 → PGE2 生成減少 → 失去對 mast cell、eosinophil 及 5-LOX 的抑制/穩定作用 → cysteinyl leukotrienes（LTC4、LTD4、LTE4）大量釋放 → 誘發 bronchoconstriction、rhinorrhea、congestion、urticaria、angioedema。
 
-![Fig 78.1 Cyclooxygenase hypothesis pathway](../images/Fig%2078.1.png)
+![Fig 78.1 Cyclooxygenase hypothesis pathway](../../images/Fig%2078.1.png)
 
 重要佐證：
 
@@ -156,7 +156,7 @@ Aspirin/NSAID 抑制 COX-1 → PGE2 生成減少 → 失去對 mast cell、eosin
 
 **1. 避免與替代藥物選擇**
 
-![Box 78.1 NSAID Tolerance in Cross-Reactive Aspirin Hypersensitivity](../images/BOX%2078.1.png)
+![Box 78.1 NSAID Tolerance in Cross-Reactive Aspirin Hypersensitivity](../../images/BOX%2078.1.png)
 
 | 分組 | 內容 |
 |---|---|
@@ -231,7 +231,7 @@ Aspirin/NSAID 抑制 COX-1 → PGE2 生成減少 → 失去對 mast cell、eosin
 
 ### Cross-reactor 處置流程（Fig. 78.3 演算法）
 
-![Fig 78.3 Algorithm for management of NSAID-induced urticaria, angioedema, and anaphylaxis](../images/Fig%2078.3.png)
+![Fig 78.3 Algorithm for management of NSAID-induced urticaria, angioedema, and anaphylaxis](../../images/Fig%2078.3.png)
 
 1. 病史為多重 NSAID 反應 → confirmatory oral challenge with COX-1 inhibitor：
    - 陽性 → 視為 multiple NSAID reactor → 避開所有 NSAID
