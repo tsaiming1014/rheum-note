@@ -158,6 +158,8 @@ Copenhagen Prospective Study：3 歲時對 AD 預測力最高的臨床表現是�
 | 4–5（中效） | Triamcinolone acetonide 0.1%、Fluocinolone acetonide 0.025%、Betamethasone valerate 0.1% |
 | 6–7（弱效） | Desonide、Alclometasone dipropionate、Hydrocortisone 1–2.5% |
 
+> 📎 台灣常見 8 款單方藥膏（戴摩膚、可立舒、妥膚淨、貝他每松、皚膚美得、安膚樂、臨得隆-V、吉舒）強度對照、劑型與 FTU，詳見：[外用類固醇強度分級與台灣常見藥膏](外用類固醇_強度分級與台灣常見藥膏.md)
+
 - 原則：先用**能控制病灶的最低效價**藥物；顏面／間擦部位僅用低效價。
 - **Fingertip unit (FTU)**：食指掌側末節長度的藥膏量。1 FTU 可覆蓋手掌/鼠蹊，2 FTU 臉/腳，3 FTU 手臂，6 FTU 腿，14 FTU 軀幹——成人全身約需 30g。
 - 兒童年齡限制範例：fluticasone 0.05% cream ≥3 個月、fluticasone lotion ≥12 個月、mometasone ≥2 歲。
