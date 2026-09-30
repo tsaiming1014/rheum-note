@@ -125,4 +125,4 @@ Keratinocyte 釋放 alarmin：TSLP（主動分泌）／IL-33（壞死被動釋�
 
 ---
 
-**出處**：Middleton's Allergy: Principles and Practice, 9th ed., Chapter 33 (Atopic Dermatitis, Boguniewicz & Leung)；Janeway's Immunobiology, 10th ed., Ch03（§3-15 ILC2 cytokine table）、Ch11（§11-13 noncognate cytokine activation、IL-33 與 inflammasome 之 counter-regulation）、Ch12（§12-6 ILC2 in barrier tissue）、Ch14（§14-1、§14-2 TSLP/IL-33/IL-25 於過敏致敏機轉）、Appendix III（IL-33/NF-HEV 命名與來源細胞）。
+**出處**：Middleton's Allergy: Principles and Practice, 9th ed., Chapter 33 (Atopic Dermatitis, Boguniewicz & Leung)、Ch32（neuropeptide 與皮膚免疫）、Ch14（Table 14.2 mast cell heterogeneity）；Janeway's Immunobiology, 10th ed., Ch03（§3-15 ILC2 cytokine table）、Ch11（§11-13 noncognate cytokine activation、IL-33 與 inflammasome 之 counter-regulation）、Ch12（§12-6 ILC2 in barrier tissue）、Ch14（§14-1、§14-2 TSLP/IL-33/IL-25 於過敏致敏機轉）、Appendix III（IL-33/NF-HEV 命名與來源細胞）。

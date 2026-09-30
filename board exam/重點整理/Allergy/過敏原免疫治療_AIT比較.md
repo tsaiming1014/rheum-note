@@ -16,7 +16,7 @@
 | 給藥地點 | **診所**（需醫護監測） | **可每日自行在家給藥** | 每日在家自行口服 |
 | Up-dosing（劑量調升）階段 | **需要**，通常數週至數月 | 通常不需（起始劑量固定，SLIT tablet多為固定劑量） | **需要**，劑量緩慢遞增，過程需醫療監測 |
 | 維持期給藥頻率 | 每4-8週一次 | 每日 | 每日 |
-| 主要適應症 | 吸入性過敏原（塵蟎、花粉、黴菌、動物皮屑）、蜂毒 | 塵蟎、牧草/樹木花粉相關過敏性鼻炎/氣喘 | 食物過敏（花生等） |
+| 主要適應症 | 吸入性過敏原（塵蟎、花粉、黴菌、動物皮屑）引起的 **allergic rhinitis / rhinoconjunctivitis**、**allergic asthma**（須穩定控制、FEV1 >70% predicted）；**hymenoptera venom allergy**（絕對適應症）；AD 傳統上不算適應症，HDM 致敏的中重度 AD 部分病人可考慮 | **Allergic rhinitis / rhinoconjunctivitis**（塵蟎、牧草/樹木花粉、ragweed）、**HDM allergic asthma**（Acarizax：ICS 控制不佳且合併 AR、FEV1 >70% predicted） | 食物過敏（花生等） |
 | 已核准代表產品 | 多種吸入性過敏原萃取物 | 塵蟎SLIT tablet、牧草花粉SLIT tablet | **Palforzia**（花生OIT，FDA核准） |
 | 建議療程長度 | 3-5年 | **約3年** | 需持續治療以維持耐受性 |
 | 全身性副作用（systemic AE） | 中等，注射後30分鐘內需觀察 | **低**（局部口腔搔癢/腫脹較常見） | **相對較高**（腸胃道症狀、全身性反應風險較高） |
