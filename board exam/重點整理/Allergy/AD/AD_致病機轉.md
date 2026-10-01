@@ -10,14 +10,44 @@ Atopic dermatitis (AD) 是慢性復發性發炎性皮膚病，好發於嬰幼兒
 
 ---
 
-## 二、皮膚屏障缺陷（Epidermal Barrier Abnormalities）——致病起點
+## 二、皮膚屏障缺陷——以 Filaggrin 為核心
 
-- **FLG（filaggrin）基因 loss-of-function mutation**：目前最重要的 predisposing factor。Homozygous／compound heterozygous 患者早發、重症、持續不退；heterozygous 患者病程較慢但仍會影響病程。FLG mutation 患者發展成 asthma、food/inhalant allergy 的風險明顯上升。
-- **CLDN1（claudin-1）減少**：tight junction 缺損，影響 paracellular pathway 的選擇性通透性，是有別於 stratum corneum 屏障的「第二層屏障缺陷」。
-- **Loricrin、involucrin 表現下降**：見於 AD 病灶皮膚與看似正常的 uninvolved skin。
-- **SPINK5 基因**（其產物 LEKTI-1 抑制 stratum corneum tryptic/chymotryptic enzyme）：protease／antiprotease 失衡，加速屏障破壞並促進 S. aureus colonization。
-- 大部分病人**沒有** FLG mutation，而是 **Th2 cytokines（IL-4, IL-13）下調 FLG 表現**——代表即使基因正常，發炎本身也會反過來破壞屏障，形成惡性循環。
-- 結果：transepidermal water loss（TEWL）增加，過敏原、抗原、化學物質更容易穿透皮膚，啟動下游免疫反應。
+### （一）Filaggrin 的正常生理功能
+
+Filaggrin 的全名是 **fil**ament **agg**regating p**rotein**，在 stratum granulosum 先以前驅物 profilaggrin 的形式存在 keratohyalin granule 中。角質細胞往上分化時，profilaggrin 被切成 filaggrin monomer，之後依序發揮三個作用：
+
+1. **結構：把 keratin 綁成束**
+   Filaggrin 會讓 keratin filament 聚集，使角質細胞塌陷成扁平的 corneocyte，再和 loricrin、involucrin 一起形成 cornified envelope。這就是「磚牆結構」裡的磚塊。
+2. **保濕：分解成 NMF**
+   Filaggrin 到了上層 stratum corneum 會被分解成 natural moisturizing factor（NMF），主要是游離胺基酸、urocanic acid（UCA）、pyrrolidone carboxylic acid（PCA），用來把水分留在角質層。
+3. **維持弱酸性 pH（acid mantle）**
+   UCA、PCA 讓角質層保持弱酸性，帶來兩個好處：
+
+   - 抑制 serine protease（kallikrein, KLK）的活性，保護 corneodesmosome 不被分解
+   - 讓 ceramide 合成酵素正常運作，維持細胞間脂質層，也就是「磚牆」裡的水泥
+
+### （二）AD 時 filaggrin 出了什麼問題
+
+**Filaggrin 減少有兩個來源：**
+
+- **先天：FLG loss-of-function mutation**
+  這是目前已知最強的 AD 遺傳危險因子。帶 mutation 的病人發病較早、病情較重、較不容易緩解，之後發生 asthma 和 food allergy 的風險也比較高。
+- **後天：發炎反過來抑制 filaggrin**
+  大部分 AD 病人沒有 FLG mutation。Th2 cytokine（IL-4、IL-13）和 IL-22 會抑制 filaggrin 表現，搔抓也會直接破壞表皮。
+
+**Filaggrin 不足之後的連鎖反應：**
+
+| 失去的功能 | 結果 |
+|---|---|
+| NMF 減少 | 角質層脫水 → TEWL 增加，皮膚乾燥 |
+| pH 上升 | KLK 活化 → corneodesmosome 被分解，屏障鬆散；KLK 也會活化 PAR2，讓 keratinocyte 釋放 TSLP，同時引起癢 |
+| Ceramide 合成減少 | 細胞間脂質層缺損 |
+| 酸性環境消失 | S. aureus 更容易附著、繁殖 |
+
+**最後致病：**
+屏障破損 → 過敏原與微生物穿透表皮 → keratinocyte 釋放 alarmin（TSLP、IL-33、IL-25）→ 經皮致敏（epicutaneous sensitization），走向 Th2 反應 → IL-4/IL-13 進一步抑制 filaggrin。
+
+這樣就形成「**屏障缺陷 ⇄ Th2 發炎**」的惡性循環。經皮致敏也是 atopic march（之後發生 food allergy、asthma）的起點。
 
 ---
 
