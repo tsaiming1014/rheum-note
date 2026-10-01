@@ -57,6 +57,7 @@
 | 疾病 | 診斷 | 治療 |
 |------|------|------|
 | [Asthma — 氣喘](Allergy/Asthma/Asthma_致病機轉.md) | [2026 GINA 診斷準則](Allergy/Asthma/Asthma_診斷.md)；控制評估：[GINA Box 2-2 / ACT / ACQ](Allergy/Asthma/Asthma_控制評估.md) | [2026 GINA](Allergy/Asthma/Asthma_藥物治療整理.md) |
+| [Type 2 inflammation — AD／AR／Asthma 共同機轉](Allergy/Type2_inflammation_共同機轉與比較.md) | 跨疾病比較：alarmin → ILC2／Th2 → IL-4／5／13 | 生物製劑成敗比較（dupilumab、anti-IL-5、anti-IL-13、tezepelumab） |
 | [過敏性鼻炎 / 結膜炎](Allergy/Allergic%20Rhinitis/AllergicRhinitis_Middleton_Ch40.md) | ARIA 分類（間歇/持續、輕/中重度） | [Middleton's Allergy 9E Ch40](Allergy/Allergic%20Rhinitis/AllergicRhinitis_Middleton_Ch40.md) |
 | [Drug Allergy — 藥物過敏](Allergy/DrugAllergy/DrugAllergy_致病機轉.md) | Gell & Coombs I–IV 型 | [Middleton's Allergy 9E Ch77](Allergy/DrugAllergy/DrugAllergy_診斷與治療.md) |
 | [NSAID Hypersensitivity — NSAID/Aspirin 過敏](Allergy/DrugAllergy/NSAID_Aspirin_Hypersensitivity.md) | EAACI/GA2LEN 分類（cross-reactive：AERD/NECD/NIUA vs. single-drug：SNIUAA vs. 延遲型：SNIDR） | [Middleton's Allergy 9E Ch78](Allergy/DrugAllergy/NSAID_Aspirin_Hypersensitivity.md) |

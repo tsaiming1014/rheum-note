@@ -188,10 +188,10 @@ Step 4治療（≥high-dose ICS-LABA）後仍未控制，且確認為 **allergic
 
 | 類別 | 藥物 | 機轉 | 劑量 | Response predictors | 其他適應症 | 試用期 |
 |---|---|---|---|---|---|---|
-| **Anti-IgE** | Omalizumab | 結合游離IgE Fc端，阻止與FcεR1結合，下調受體表現 | SC Q2–4W依體重/IgE | 兒童期發病、allergen-driven病史；基礎IgE不能預測反應 | CRSwNP、CSU、食物過敏 | ≥4個月 |
-| **Anti-IL5/5Rα** | Mepolizumab、Depemokimab（中和IL-5）；Benralizumab（結合IL-5Rα，ADCC清除eosinophil） | 阻斷IL-5存活訊號 vs 直接清除eosinophil | Mepo 100mg SC Q4W；Benra 30mg Q4W×3後Q8W | 高eosinophil（強）、過去一年惡化次數多（強）、鼻息肉、baseline OCS | Mepo: EGPA/HES/CRSwNP；Benra: EGPA | ≥4個月 |
-| **Anti-IL4Rα** | Dupilumab | 結合IL-4Rα，同時阻斷IL-4與IL-13訊號 | 200–300mg SC Q2W | 高eosinophil、高FeNO（皆強） | AD、CSU、CRSwNP、eos-COPD | ≥4個月 |
-| **Anti-TSLP** | Tezepelumab | 結合TSLP，作用在Th2/ILC2活化之前 | 210mg SC Q4W | 高eos/FeNO（強，但biomarker低者仍可能有效）、鼻息肉 | CRSwNP | ≥4個月 |
+| **Anti-IgE** | Omalizumab | 結合游離IgE Fc端，阻止與FcεR1結合，下調受體表現 | SC Q2–4W依體重/IgE | 兒童期發病、allergen-driven病史；**FeNO ≥20 ppb、eos ≥260/μL**（EXTRA；GINA列為較佳反應predictor）；基礎IgE不能預測反應 | CRSwNP、CSU、食物過敏 | ≥4個月 |
+| **Anti-IL5/5Rα** | Mepolizumab、Depemokimab（中和IL-5）；Benralizumab（結合IL-5Rα，ADCC清除eosinophil） | 阻斷IL-5存活訊號 vs 直接清除eosinophil | Mepo 100mg SC Q4W；Benra 30mg Q4W×3後Q8W | 高eosinophil（強）、過去一年惡化次數多（強）、鼻息肉、baseline OCS；**FeNO無法預測療效**，治療後FeNO幾乎不降（DREAM，未阻斷IL-13路徑） | Mepo: EGPA/HES/CRSwNP；Benra: EGPA | ≥4個月 |
+| **Anti-IL4Rα** | Dupilumab | 結合IL-4Rα，同時阻斷IL-4與IL-13訊號 | 200–300mg SC Q2W | 高eosinophil、高FeNO（皆強）；**FeNO ≥25 ppb為獨立predictor，≥50 ppb效果最大**（QUEST）；治療後FeNO迅速下降 | AD、CSU、CRSwNP、eos-COPD | ≥4個月 |
+| **Anti-TSLP** | Tezepelumab | 結合TSLP，作用在Th2/ILC2活化之前 | 210mg SC Q4W | 高eos/FeNO（強，但biomarker低者仍可能有效）、鼻息肉；**FeNO越高效果越好**（NAVIGATOR），治療後FeNO下降 | CRSwNP | ≥4個月 |
 
 **選藥考量**：payer eligibility、Type 2共病（AD/鼻息肉可一藥兩用）、allergen病史、上表predictors、藥價/頻率/途徑、病人偏好。
 

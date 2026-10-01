@@ -224,3 +224,7 @@ U-BIOPRED 和 SARP 的 cluster 分析，可以把病人分成 4–6 種臨床亞
 ## 一句話總結
 
 易感體質（上皮屏障缺陷 + 免疫成熟延遲）的人，在生命早期遇到病毒和過敏原。受損的上皮釋放 alarmins（TSLP/IL-33/IL-25），啟動 DC–Th2/ILC2 軸，產生 IgE、mast cell、eosinophil 主導的發炎。上皮持續處於「chronic wound」狀態，透過 EMTU 驅動 remodeling，最後形成 BHR 和氣流阻塞。不同 endotype 由不同路徑主導，這也決定了生物製劑要怎麼選。
+
+---
+
+延伸閱讀：[Type 2 inflammation 共同機轉與比較（AD、AR、Asthma）](../Type2_inflammation_共同機轉與比較.md)
