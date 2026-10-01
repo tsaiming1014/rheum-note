@@ -246,7 +246,7 @@ Allergic rhinitis acute vs. chronic pathogenesis 相關題目（原文僅收錄�
 
 #### 5. Tacrolimus vs Pimecrolimus 機轉差異
 
-詳見 [AD 臨床與治療 — 外用 Calcineurin Inhibitors](../AD/AD_臨床與治療.md)。
+詳見 [AD 治療 — 外用 Calcineurin Inhibitors](../AD/AD_治療.md)。
 
 - 共通：與 **FKBP12（macrophilin-12）** 結合 → 抑制 **calcineurin** → NFAT 無法去磷酸化入核 → 抑制 IL-2、IL-4、IL-5、TNF-α、IFN-γ 等 cytokine 轉錄；不影響 fibroblast／collagen，不致皮膚萎縮。
 - 差異：pimecrolimus（ascomycin macrolactam 衍生物）脂溶性更高、皮膚穿透與全身吸收更少、免疫抑制較弱、對 Langerhans cell／DC 影響小；tacrolimus（macrolide lactone）效價較強（0.1% 約 mid-potency TCS），pimecrolimus 約 low-potency TCS。
