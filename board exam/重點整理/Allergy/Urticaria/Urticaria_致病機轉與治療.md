@@ -19,6 +19,8 @@ CU 依有無明確誘發因子再分兩大類：
   - 其中 30–40% 血清學上有自體免疫證據，稱為 **chronic autoimmune urticaria (CAU)**，但其診斷標準仍未明確界定；其餘 60–70% 歸類為 CSU。
   - 本章中「spontaneous」與「idiopathic」為同義詞交替使用。
 
+![Urticaria 依病程、頻率與病因分類（Adapted from Zuberbier T, et al.）](../../images/Urticaria%20ddx.png)
+
 ## 二、流行病學
 
 - CU 盛行率約 1%（美國及各國相近）。
