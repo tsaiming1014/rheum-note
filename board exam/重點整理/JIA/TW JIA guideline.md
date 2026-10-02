@@ -62,7 +62,7 @@
 
 **Table 4 台灣各 subtype 臨床與檢驗特徵**
 
-![台灣 JIA 各 subtype 臨床與檢驗特徵](../images/TW%20JIA%20table%204.png)
+![台灣 JIA 各 subtype 臨床與檢驗特徵](../images/TW%20JAI%20table%204.png)
 
 | Subtype | 關節外表現 | 檢驗 |
 |---|---|---|
