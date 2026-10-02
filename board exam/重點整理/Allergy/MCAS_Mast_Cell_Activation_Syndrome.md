@@ -175,9 +175,100 @@
   - 會有 flushing、pruritus、dysautonomia、functional GI 症狀、慢性疼痛、joint hypermobility
   - HαT 本身不等於 MCAS，但會增加嚴重 anaphylaxis 的風險【補充】
 
+## 十、臨床鑑別：病人有「皮膚＋GI」症狀時
+
+> 先釐清觀念：**anaphylaxis 跟 mast cell activation 不是兩個要互相鑑別的診斷**。Anaphylaxis 是 mast cell activation 最嚴重的表現形式。
+>
+> 真正要回答的是兩個問題：①這次發作**是不是 mast cell mediator 造成的**？②如果是，它是**單次、有明確誘因的 anaphylaxis**，還是**反覆發作的 MCAS**（甚至背後有克隆性疾病）？
+
+### 1. 皮膚＋GI 本身就可能已經算 anaphylaxis
+
+Middleton Box 75.1（Simons 標準）的 **criterion 2**：接觸可能的過敏原或誘因後，數分鐘到數小時內出現以下 **≥2 項**，就高度可能是 anaphylaxis：
+
+- A. 皮膚或黏膜（全身性 urticaria、癢、flushing、唇舌腫）
+- B. 呼吸道
+- C. 血壓下降
+- **D. 持續性 GI 症狀（腹部絞痛、嘔吐）**
+
+所以**「有誘因＋皮膚＋持續 GI 症狀」就符合 anaphylaxis**，不一定要有呼吸或血壓的問題。同樣的組合放在 MCAS，就是符合「≥2 個器官系統」。
+
+### 2. 第一步：病史，症狀「像不像」mast cell
+
+| | **支持 mast cell mediator** | **不支持，要想其他診斷** |
+|---|---|---|
+| 皮膚 | **癢**、**膨疹**（單一病灶 <24 小時消退）、紅色 flushing、**angioedema 合併 urticaria** | **不癢**；**只有 angioedema、沒有 urticaria**；臉色**蒼白、冒冷汗**；非癢性環狀紅斑（erythema marginatum） |
+| GI | 腹部**絞痛**、嘔吐、腹瀉 | 每天持續的慢性腹瀉，跟皮膚症狀無關 |
+| 時間關係 | 皮膚和 GI **在同一次發作中、數分鐘到 2 小時內一起出現** | 皮膚和 GI 各自出現、不同步 |
+| 病程 | 數小時內緩解，最多一天；發作間期完全正常 | 慢性持續 |
+| 治療反應 | 對 antihistamine 或 epinephrine 有反應 | 打 epinephrine、吃 antihistamine 都沒效 |
+
+### 3. 第二步：排除會造成「皮膚＋GI」的其他疾病
+
+| 疾病 | 線索 | 怎麼確認 |
+|---|---|---|
+| **Scombroid 中毒** | 吃魚後發作，**同桌的人也有症狀**；是外源性 histamine，不是 mast cell 釋放 | **Tryptase 正常**；看食物史 |
+| **HAE／ACEi angioedema** | 腹痛發作＋angioedema，**沒有 urticaria、不癢**；可能有 erythema marginatum；**antihistamine 和 epinephrine 無效** | C4、C1-INH 量與功能；用藥史 |
+| **Carcinoid syndrome** | Flushing＋水瀉＋wheezing；**沒有膨疹、不太癢**；可能有右心瓣膜病變 | 24 小時尿 **5-HIAA** |
+| **VIPoma** | 大量水瀉、低血鉀、flushing | 血漿 VIP |
+| **Medullary thyroid carcinoma** | Flushing＋腹瀉，頸部腫塊 | Calcitonin |
+| **Pheochromocytoma** | **蒼白多於潮紅**、高血壓、心悸、頭痛、冒汗 | 血漿或尿液 metanephrines |
+| **CSU 合併 IBS** | 兩種病**各自存在**，蕁麻疹和腹瀉不同步 | 病史；症狀不同時出現 |
+| **病毒性腸胃炎合併病毒疹或 urticaria** | 有發燒、接觸史，單次發作 | 病程自限 |
+| Panic attack | 潮紅、心悸、腹部不適，但沒有膨疹或 angioedema | 排除診斷 |
+
+**容易漏掉、但確實是 mast cell 造成的誘因**：
+
+- **Alpha-gal**：吃紅肉（哺乳類）後 **4–12 小時**才發作，皮膚＋GI 很明顯（Middleton Ch75）。因為間隔很長，病人通常聯想不到食物，常被誤認為 idiopathic，要驗 alpha-gal specific IgE。【補充】
+- **FDEIA（food-dependent exercise-induced anaphylaxis）**：吃完食物後 4 小時內運動才發作。
+- **NSAIDs、酒精**：會讓原本吃了不會發作的過敏食物誘發反應。
+
+### 4. 第三步：客觀證據（最關鍵）
+
+**(1) Serum tryptase**
+
+- 發作後 **1–4 小時**內抽血，症狀緩解 ≥24 小時後補抽 baseline。
+- 套用 **20% + 2 公式**：發作時 > 1.2 × baseline + 2 ng/mL。【補充，Valent 共識】
+
+**⚠️ 這正是「皮膚＋GI」最容易遇到的陷阱**（Middleton Ch75）：
+
+- **食物引起的 anaphylaxis，tryptase 很少上升**；蜂螫引起的反而常上升。
+- 急診研究中，plasma histamine 上升的有 42/97，tryptase 上升的只有 20/97。Histamine 跟臨床表現的相關性比 tryptase 好。
+- Tryptase 上升跟**低血壓或嚴重度**比較相關【補充】。只有皮膚＋GI、沒有低血壓的發作，tryptase 正常很常見。
+
+👉 所以 **tryptase 正常不能排除 mast cell activation**。
+
+**(2) 尿液 mediator，用來補 tryptase 的不足**
+
+- 在發作期間或發作後收集尿液，驗 **N-methylhistamine**、**11β-PGF2α**（PGD2 代謝物）、**LTE4**。【補充】
+- Middleton 有引用病例報告（Lieberman 2013）：病人反覆 anaphylaxis，tryptase 都正常，但**尿液 PGD2 代謝物上升**。
+- Plasma histamine 在發作後 5–10 分鐘達高峰，30 分鐘內就回落（Middleton Ch75），臨床上通常來不及抽。
+
+**(3) 依線索做排除檢查**
+
+5-HIAA、metanephrines、C4／C1-INH、calcitonin、VIP。
+
+### 5. 第四步：治療反應
+
+- 用 H1 ± H2 blocker 做治療試驗，看發作有沒有減少或減輕。
+- **HAE（bradykinin 介導）對 antihistamine 和 epinephrine 都沒有反應**，這一點可以有效區分兩者。
+
+### 6. 第五步：確認是 mast cell 之後，再分類
+
+| 情境 | 診斷方向 | 下一步 |
+|---|---|---|
+| **單次發作，有明確誘因**（某種食物、藥物、蜂螫） | **Anaphylaxis**（屬於 secondary mast cell activation） | Skin test／specific IgE、避開過敏原、給 epinephrine |
+| **反覆發作，有可辨識的誘因** | Secondary MCAS（例如 alpha-gal、FDEIA、物理性 urticaria） | 找出誘因並避開，或做 AIT |
+| **反覆發作，找不到誘因** | Idiopathic anaphylaxis／idiopathic MCAS | **評估克隆性**：baseline tryptase、REMA score、周邊血 KIT D816V，必要時做骨髓 |
+| 有 MPCM、baseline tryptase >20、骨鬆、肝脾腫大，或蜂螫後以低血壓為主、沒有皮膚症狀 | **Primary（clonal）**：MMAS 或 mastocytosis | 轉介血液科，見 [Mastocytosis](Mastocytosis_Middleton_Ch74.md) |
+
+### 7. 一句話總結
+
+> 皮膚＋GI 的病人，先用**病史**判斷像不像 mast cell：會癢、有膨疹、症狀同步出現、對 antihistamine 有效。再用**發作時與基礎值比較的 tryptase，加上尿液 mediator** 取得客觀證據。**Tryptase 正常不能排除，尤其是食物誘發、沒有低血壓的發作。**要記得排除 HAE、scombroid、carcinoid 這三個最常見的模仿者。確定是 mast cell 之後，**單次有誘因 → anaphylaxis；反覆、找不到誘因 → MCAS，並評估克隆性**。
+
 ## 參考資料
 
 1. Middleton's Allergy 9E，Ch74（Mastocytosis）、Ch75（Anaphylaxis）、Ch76（Insect Allergy）
 2. Valent P, et al. Definitions, criteria and global classification of mast cell disorders with special reference to mast cell activation syndromes: a consensus proposal. Int Arch Allergy Immunol 2012;157:215–25.
 3. Valent P, et al. Proposed diagnostic algorithm for patients with suspected mast cell activation syndrome. J Allergy Clin Immunol Pract 2019;7:1125–33.
 4. Weiler CR, et al. AAAAI Mast Cell Disorders Committee Work Group Report: Mast cell activation syndrome (MCAS) diagnosis and management. J Allergy Clin Immunol 2019;144:883–96.
+5. Lieberman P. Repeated episodes of anaphylaxis with normal serum tryptase but elevated levels of urinary prostaglandin D2. J Allergy Clin Immunol Pract 2013;1:539–40.（Middleton Ch75 ref 35）

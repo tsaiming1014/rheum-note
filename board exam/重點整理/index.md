@@ -69,6 +69,7 @@
 | [EGID — 嗜酸性球腸胃道疾病（EoE/eosinophilic gastritis/gastroenteritis/colitis）](Allergy/EGID_Middleton_Ch65.md) | EoE：症狀+peak≥15 eos/HPF等5項準則 | [Middleton's Allergy 9E Ch65](Allergy/EGID_Middleton_Ch65.md) |
 | [Eosinophilia / HES — 嗜酸性球增多症與 Hypereosinophilic Syndrome](Allergy/Eosinophilia_Middleton_Ch73.md) | HES：AEC≥1500/µL（≥2次）+終器官表現；6亞型（myeloid/lymphoid/familial/overlap/idiopathic/HEUS） | [Middleton's Allergy 9E Ch73](Allergy/Eosinophilia_Middleton_Ch73.md) |
 | [Mastocytosis](Allergy/Mastocytosis_Middleton_Ch74.md) | WHO 2017：1 major + 1 minor 或 ≥3 minor；B/C findings 分型 | [Middleton's Allergy 9E Ch74](Allergy/Mastocytosis_Middleton_Ch74.md) |
+| [MCAS — Mast Cell Activation Syndrome](Allergy/MCAS_Mast_Cell_Activation_Syndrome.md) | 三要件：發作性 ≥2 器官系統＋tryptase 上升（>1.2×baseline+2）＋抗 mediator 治療有效；Primary／Secondary／Idiopathic | [Valent 共識 / AAAAI 2019 階梯治療](Allergy/MCAS_Mast_Cell_Activation_Syndrome.md) |
 | [過敏原免疫治療（AIT）— SCIT / SLIT / OIT 完整比較](Allergy/過敏原免疫治療_AIT比較.md) | - | [SCIT / SLIT / OIT 適應症、療程與安全性比較](Allergy/過敏原免疫治療_AIT比較.md) |
 
 ---
