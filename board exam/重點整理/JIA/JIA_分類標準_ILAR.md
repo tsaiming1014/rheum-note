@@ -10,7 +10,39 @@ ILAR（International League of Associations for Rheumatology）於 1995 年訂�
 6. 接骨點炎相關型 (Enthesitis-related arthritis, ERA)
 7. 未分類型 (Undifferentiated arthritis)
 
-> 註：ILAR 分類標準各分型皆有共通的「排除條件」（以羅馬數字 I–V 標示於原文表格中，本次來源段落未附上 I–V 各自的具體定義內容），建議之後補上原文對照，避免憑空杜撰。
+---
+
+## 排除條件 (Exclusions) 與名詞定義
+
+**排除條件 I–V**（各分型表格中的「排除條件」欄引用以下代號）
+
+| 代號 | 排除條件 |
+|---|---|
+| I | 病童或一等親屬中有罹患乾癬 (psoriasis) |
+| II | 患有關節炎合併 HLA-B27 陽性的男性，發病時超過 6 歲 |
+| III | 病童或一等親屬中患有僵直性脊椎炎、接骨點炎相關型關節炎 (ERA)、薦髂關節炎合併發炎性腸道疾病 (IBD)、Reiter 症候群或急性前葡萄膜炎 (acute anterior uveitis) |
+| IV | 病患 IgM RF 陽性至少兩次，間隔至少三個月 |
+| V | 患有全身型關節炎 (systemic JIA) |
+
+**各分型排除條件速記**
+
+| 分型 | 排除條件 | 記憶重點 |
+|---|---|---|
+| 全身型 | I, II, III, IV | 不排除 V（自己就是全身型） |
+| 少關節型 | I, II, III, IV, V | 全部排除 |
+| 多關節型 RF(−) | I, II, III, IV, V | 全部排除 |
+| 多關節型 RF(+) | I, II, III, V | 不排除 IV（RF+ 本身就是納入條件） |
+| 乾癬型 | II, III, IV, V | 不排除 I（乾癬家族史本身就是納入條件） |
+| ERA | I, IV, V | 不排除 II、III（B27+ 男性 >6 歲、SpA 家族史本身就是納入條件） |
+
+規律：**各分型都不排除「定義自己的那一條」**。I＝乾癬相關 → 乾癬型不排除；II、III＝SpA 相關 → ERA 不排除；IV＝RF → RF(+) 多關節型不排除；V＝全身型 → 全身型不排除。
+
+**名詞定義**
+
+- **Quotidian fever（全身型）**：每日一次高燒達 39°C，且會退回正常體溫
+- **漿膜炎 (serositis)（全身型）**：心包膜炎、肋膜炎或腹膜炎，或合併以上狀況
+- **接骨點炎 (enthesitis)（ERA）**：肌腱 (tendon)、韌帶 (ligament)、關節囊 (joint capsule) 或筋膜 (fascia) 附著於骨頭處的壓痛
+- **發炎性腰薦部疼痛 (inflammatory lumbosacral pain)（ERA）**：腰薦部在休息時疼痛且有晨僵，活動後會改善
 
 ---
 
@@ -18,7 +50,7 @@ ILAR（International League of Associations for Rheumatology）於 1995 年訂�
 
 | 項目 | 內容 |
 |---|---|
-| 納入條件 | 任何關節發炎，且至少 2 星期內有反覆發燒（至少連續 3 天），並伴有 ≥1 項其他表徵：(1) 短暫 (evanescent) 皮疹 (2) 全身淋巴結腫大 (3) 肝或脾腫大 (4) 漿膜炎 (serositis) |
+| 納入條件 | 任何關節發炎，且發燒至少 2 星期，其中至少連續 3 天為每日高燒 (quotidian fever)，並伴有 ≥1 項其他表徵：(1) 短暫 (evanescent) 皮疹 (2) 全身淋巴結腫大 (3) 肝或脾腫大 (4) 漿膜炎 (serositis) |
 | 受犯關節 | 任何關節，常見多關節，包括膝、手腕、腳踝、手指、頸、髖關節 |
 | 排除條件 | I, II, III, IV |
 | 實驗室檢查 | ANA 大多陰性、RF 陰性、WBC／platelet／ESR／CRP／ferritin 上升 |
@@ -165,4 +197,4 @@ ILAR（International League of Associations for Rheumatology）於 1995 年訂�
 
 ---
 
-*資料來源：2024 JIA 臨床診療指引（台灣兒童過敏氣喘免疫及風濕病醫學會）；Kelly's Textbook of Rheumatology, Ch.109 Clinical Features and Treatment of Juvenile Idiopathic Arthritis。*
+*資料來源：2024 JIA 臨床診療指引（台灣兒童過敏氣喘免疫及風濕病醫學會）；健保 JIA 分類表註解（排除條件 I–V 與名詞定義）；Kelly's Textbook of Rheumatology, Ch.109 Clinical Features and Treatment of Juvenile Idiopathic Arthritis。*
