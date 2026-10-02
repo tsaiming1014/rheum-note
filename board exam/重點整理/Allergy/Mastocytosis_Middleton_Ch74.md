@@ -3,6 +3,8 @@
 *Middleton's Allergy 9th ed., Chapter 74（Dean D. Metcalfe）*
 
 > 本質上是**血液腫瘤**（WHO 分類為 myeloid neoplasm），但病人常以 anaphylaxis、flushing 等 mediator 症狀先到過敏免疫科就診。
+>
+> 相關筆記：[MCAS（Mast Cell Activation Syndrome）](MCAS_Mast_Cell_Activation_Syndrome.md)、[Anaphylaxis](Anaphylaxis_Middleton_Ch75.md)
 
 ## 一、定義與分類（WHO 2017）
 
@@ -190,33 +192,20 @@ Histamine 受體：
 
 ## 八、MMAS 與 MCAS
 
+> 完整內容（多系統定義、20% + 2 公式、診斷流程、階梯治療）見獨立筆記：[MCAS（Mast Cell Activation Syndrome）](MCAS_Mast_Cell_Activation_Syndrome.md)
+
 **MMAS（monoclonal mast cell activation syndrome）**
 
 - 有 mast cell activation 的症狀，但**沒有皮膚表現**
 - 有 KIT D816V 及/或 CD25⁺ mast cell，但**還不符合 SM 標準**
 - 常見於 **idiopathic anaphylaxis** 和 **Hymenoptera anaphylaxis** 的病人，tryptase 多 <20 ng/mL
-- 也有人改稱 monoclonal mast cells of uncertain significance，因為可能是會進展成 SM 的早期 clone
-- 處置：照 anaphylaxis 的方式治療；**每年追蹤**理學檢查（看器官腫大、淋巴結）、tryptase、CBC with differential
+- 每年追蹤理學檢查、tryptase、CBC with differential
 
-**MCAS（mast cell activation syndrome）診斷，三項都要符合**
+**MCAS 重點速記**
 
-1. 發作性症狀，侵犯**多個器官系統**，符合 mast cell activation 表現
-2. **對抗 mediator 藥物有反應**
-3. 發作時有效的 mast cell mediator（例如 tryptase）**高於基礎值**
-
-**MCAS 分類**
-
-| 類型 | 定義 |
-|---|---|
-| **Primary** | 合併 MMAS 或 mastocytosis（克隆性） |
-| **Secondary** | IgE 過敏、藥物、物理刺激、其他發炎或腫瘤疾病引起 |
-| **Idiopathic** | 找不到原因 |
-
-**不符合 MCAS 嚴格標準的病人**
-
-- 常見主訴：疲倦、對環境／食物／藥物「不耐」、記憶力差、憂鬱等
-- 目前**沒有證據**支持這些症狀是異常 mast cell 造成的
-- 要考慮 **hereditary α-tryptasemia**（TPSAB1 copy number 增加）：會有 flushing、pruritus、dysautonomia、functional GI 症狀、慢性疼痛、**joint hypermobility**
+- 診斷三要件：發作性、同時 ≥2 個器官系統的症狀＋發作時 mediator 高於基礎值＋抗 mediator 藥物有效
+- 分類：**Primary**（合併 mastocytosis 或 MMAS）／**Secondary**（IgE 過敏、藥物、物理刺激等）／**Idiopathic**
+- 沒有客觀證據的慢性非特異症狀不應診斷 MCAS；baseline tryptase 偏高時要考慮 **hereditary α-tryptasemia**
 
 ## 九、治療
 
