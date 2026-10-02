@@ -39,6 +39,8 @@
 
 ## 三、致病機轉
 
+> 延伸閱讀：[Contact system 生理作用與 ACEi／ARB 對 Bradykinin 的影響](HAE_Contact_system與ACEi_ARB.md)
+
 ![Bradykinin 生成與作用機轉（complement/contact/coagulation/fibrinolytic pathway 及藥物作用位點）](../../images/HAE%20mechanism.png)
 
 ![簡化機轉示意圖：C1INH 缺乏／功能異常 → Factor XII 及 kallikrein 活化不受抑制 → bradykinin 過量產生 → B2 receptor 活化 → 血管通透性增加 → angioedema](../../images/HAE%20003.jpg)
