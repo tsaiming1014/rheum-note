@@ -64,17 +64,6 @@
 
 ![台灣 JIA 各 subtype 臨床與檢驗特徵](../images/TW%20JAI%20table%204.png)
 
-| Subtype | 關節外表現 | 檢驗 |
-|---|---|---|
-| Systemic | 發燒 100%、關節炎 89.3%、evanescent rash 67.9%、淋巴結腫大 46.4%、肝脾腫大 21.4%、serositis 7.1%、uveitis 3.6% | ANA(+) 7.1–27%、RF(+) 0–8%；WBC↑、PLT↑、ESR↑、CRP↑、ferritin↑ 71.4%、LDH↑ 90.9%、ALT↑ 33.3%；骨髓 hemophagocytosis 11.5% |
-| Oligo persistent | Uveitis 9.4% | ANA(+) 46.9% |
-| Oligo extended | Uveitis 7.7% | ANA(+) 15.4% |
-| Poly RF(−) | Chronic uveitis 10%、生長遲緩 | ANA(+) 34.8% |
-| Poly RF(+) | Rheumatoid nodule 10% | ANA(+) 77.8% |
-| Psoriatic | 乾癬、dactylitis、nail pitting、onycholysis | **ANA(+) 66.7%** |
-| ERA | Enthesitis、**acute uveitis 9.6–10%**、IBD；家族史 11% | **HLA-B27(+) 82.2–97%**、ANA(+) 27.4% |
-| Undifferentiated | — | ANA(+) 20% |
-
 ## 五、治療
 
 ### 5.1 總原則
