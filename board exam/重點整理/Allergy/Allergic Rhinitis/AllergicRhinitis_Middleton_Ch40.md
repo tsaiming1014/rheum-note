@@ -2,6 +2,20 @@
 
 作者：Jonathan Corren, Fuad M. Baroody, Alkis Togias
 
+## 口試速答：AR 的定義
+
+**核心一句（先講這句）：**
+
+AR 是吸入性過敏原引起、**IgE-mediated** 的鼻黏膜發炎，臨床表現為 **nasal congestion、rhinorrhea、sneezing、itching** 其中一項以上，而且症狀與過敏原暴露相關。
+
+這句是 ARIA 的經典定義：鼻黏膜在接觸過敏原後發生 IgE-mediated inflammation，引起有症狀的鼻部疾病。
+
+**如果考官示意你繼續，補三點（約 30 秒）：**
+
+1. **診斷**：臨床上靠典型症狀加上暴露史就可以推定診斷。要確診需證實和症狀相符的 **specific IgE**，可用 **SPT 或 serum sIgE**；兩者都陰性時，用 **nasal allergen challenge** 找 **local AR**。
+2. **重點**：**sensitization ≠ AR**，sIgE 陽性必須跟臨床症狀對得上才算。
+3. **分類**：依 **ARIA** 分成 **intermittent / persistent** 和 **mild / moderate-severe**。
+
 ## Epidemiology
 
 - ISAAC 研究（近 60 國、6–7 歲與 13–14 歲學童）：Phase 1 盛行率中位數 6.9%（6–7 歲）／13.6%（13–14 歲）；Phase 3 追蹤顯示盛行率上升，且多數中心呈增加趨勢，好發於西化、生活水準較高的國家
