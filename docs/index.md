@@ -94,6 +94,7 @@
 | 關節液分析 | [關節液外觀與鑑別診斷（CVC）](Crystal/關節液外觀與鑑別診斷.md) |
 | 老鼠動物模型 | [風濕免疫疾病老鼠動物模型整理](跨疾病主題/風濕免疫疾病_老鼠動物模型整理.md) |
 | 內分泌代謝疾病相關關節炎 | [內分泌代謝疾病相關關節炎（Kelly Ch127）](跨疾病主題/內分泌代謝疾病相關關節炎_Kelly127.md) |
+| Amyloidosis | [Amyloidosis 類澱粉沉積症（Kelly Ch121，附 2026 風專考題）](跨疾病主題/Amyloidosis_Kelly121.md) |
 | CTD-ILD | [CTD-ILD 治療實證整理（EULAR 2025 ILD session）](跨疾病主題/CTD-ILD_治療實證整理_EULAR2025.md) |
 | Pregnancy in rheumatic disease | 風濕病與妊娠（2022 BSR Part 1 & 2） |
 | IGRA | [IGRA 與 Latent TB 治療](跨疾病主題/IGRA.md) |
@@ -127,6 +128,7 @@
 | 主題 | 連結 |
 |------|------|
 | HLA 配對 / 移植前評估 / Rejection | [HLA 命名、Mismatch 計算與移植前評估](Transplant/移植免疫學_HLA配對與移植前評估.md) |
+| 腎移植前評估（案例故事） | [林小姐的換腎之路 — 腎移植前評估故事版](Transplant/腎移植前評估_故事版.md) |
 | Maternal–fetal tolerance | [母體為何不排斥胎兒 — 母胎免疫耐受機轉](Transplant/Maternal-fetal_tolerance_母胎免疫耐受.md) |
 | GVHD | [GVHD 危險因子 — SOT / 輸血（TA-GVHD）/ HSCT](Transplant/GVHD_危險因子_SOT_輸血_HSCT.md) |
 
